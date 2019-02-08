@@ -1,0 +1,38 @@
+[
+  {
+    "budget": 100,
+    "cost": 10000000,
+    "required_inputs": [
+      {
+        "resource": "COMPUTER",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_HI",
+        "max": 3
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 33
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 7
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.5
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 5
+      }
+    ],
+    "id": "moab.computing",
+    "type": "INDUSTRY"
+  }
+]

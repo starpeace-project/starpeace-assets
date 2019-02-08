@@ -1,0 +1,66 @@
+[
+  {
+    "budget": 300,
+    "cost": 10080000,
+    "required_inputs": [
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 27
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 0.5
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "FRESH_FOOD",
+        "max": 45
+      },
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 21
+      }
+    ],
+    "id": "mko.farm",
+    "type": "INDUSTRY"
+  },
+  {
+    "budget": 100,
+    "cost": 2400000,
+    "required_inputs": [
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 15
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 0.2
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "FRESH_FOOD",
+        "max": 15
+      },
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 7
+      }
+    ],
+    "id": "mko.farm.small",
+    "type": "INDUSTRY"
+  }
+]

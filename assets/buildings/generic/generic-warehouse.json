@@ -15,31 +15,7 @@
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
-    "required_inventions": [],
-    "warehouse": {
-      "cost": 1000000,
-      "required_inputs": [
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 10
-        }
-      ],
-      "optional_inputs": [],
-      "storage": [
-        {
-          "resource": "CHEMICAL",
-          "max": 100000
-        },
-        {
-          "resource": "CRUDE_OIL",
-          "max": 100000
-        },
-        {
-          "resource": "GASOLINE",
-          "max": 100000
-        }
-      ]
-    }
+    "required_inventions": []
   },
   {
     "id": "generic.warehouse.cold",
@@ -57,31 +33,7 @@
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
-    "required_inventions": [],
-    "warehouse": {
-      "cost": 10000000,
-      "required_inputs": [
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 10
-        }
-      ],
-      "optional_inputs": [],
-      "storage": [
-        {
-          "resource": "FRESH_FOOD",
-          "max": 1000000
-        },
-        {
-          "resource": "PROCESSED_FOOD",
-          "max": 250000
-        },
-        {
-          "resource": "LIQUOR",
-          "max": 250000
-        }
-      ]
-    }
+    "required_inventions": []
   },
   {
     "id": "generic.warehouse.cold.super",
@@ -99,31 +51,7 @@
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
-    "required_inventions": [],
-    "warehouse": {
-      "cost": 100000000,
-      "required_inputs": [
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 12
-        }
-      ],
-      "optional_inputs": [],
-      "storage": [
-        {
-          "resource": "FRESH_FOOD",
-          "max": 20000000
-        },
-        {
-          "resource": "PROCESSED_FOOD",
-          "max": 2500000
-        },
-        {
-          "resource": "LIQUOR",
-          "max": 2500000
-        }
-      ]
-    }
+    "required_inventions": []
   },
   {
     "id": "generic.warehouse.export",
@@ -141,18 +69,7 @@
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
-    "required_inventions": [],
-    "warehouse": {
-      "cost": 10000000,
-      "required_inputs": [
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 10
-        }
-      ],
-      "optional_inputs": [],
-      "storage": []
-    }
+    "required_inventions": []
   },
   {
     "id": "generic.warehouse.fabric",
@@ -170,39 +87,7 @@
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
-    "required_inventions": [],
-    "warehouse": {
-      "cost": 100000000,
-      "required_inputs": [
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 12
-        }
-      ],
-      "optional_inputs": [],
-      "storage": [
-        {
-          "resource": "ORGANIC_MATERIAL",
-          "max": 20000000
-        },
-        {
-          "resource": "FABRIC",
-          "max": 250000
-        },
-        {
-          "resource": "CLOTHES",
-          "max": 100000
-        },
-        {
-          "resource": "PAPER",
-          "max": 250000
-        },
-        {
-          "resource": "PRINTED_MATERIAL",
-          "max": 250000
-        }
-      ]
-    }
+    "required_inventions": []
   },
   {
     "id": "generic.warehouse.import",
@@ -220,18 +105,7 @@
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
-    "required_inventions": [],
-    "warehouse": {
-      "cost": 10000000,
-      "required_inputs": [
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 10
-        }
-      ],
-      "optional_inputs": [],
-      "storage": []
-    }
+    "required_inventions": []
   },
   {
     "id": "generic.warehouse.ore",
@@ -249,35 +123,7 @@
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
-    "required_inventions": [],
-    "warehouse": {
-      "cost": 20000000,
-      "required_inputs": [
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 12
-        }
-      ],
-      "optional_inputs": [],
-      "storage": [
-        {
-          "resource": "ORE",
-          "max": 200000
-        },
-        {
-          "resource": "METAL",
-          "max": 50000
-        },
-        {
-          "resource": "CONSTRUCTION",
-          "max": 500000
-        },
-        {
-          "resource": "TIMBER",
-          "max": 500000
-        }
-      ]
-    }
+    "required_inventions": []
   },
   {
     "id": "generic.warehouse.univeral",
@@ -295,82 +141,6 @@
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
-    "required_inventions": [],
-    "warehouse": {
-      "cost": 20000000,
-      "required_inputs": [
-        {
-          "resource": "WORK_FORCE_MID",
-          "max": 1
-        },
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 80
-        }
-      ],
-      "optional_inputs": [],
-      "storage": [
-        {
-          "resource": "ORGANIC_MATERIAL",
-          "max": 10000
-        },
-        {
-          "resource": "FABRIC",
-          "max": 10000
-        },
-        {
-          "resource": "CLOTHES",
-          "max": 10000
-        },
-        {
-          "resource": "ELECTRONIC_COMPONENT",
-          "max": 10000
-        },
-        {
-          "resource": "APPLIANCE",
-          "max": 10000
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 10000
-        },
-        {
-          "resource": "METAL",
-          "max": 25000
-        },
-        {
-          "resource": "AUTOMOBILE",
-          "max": 160
-        },
-        {
-          "resource": "TOY",
-          "max": 10000
-        },
-        {
-          "resource": "PHARMACEUTICAL",
-          "max": 10000
-        },
-        {
-          "resource": "PLASTIC",
-          "max": 20000
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 1000
-        },
-        {
-          "resource": "FURNITURE",
-          "max": 15000
-        },
-        {
-          "resource": "BOOK",
-          "max": 10000
-        },
-        {
-          "resource": "COMPACT_DISC",
-          "max": 10000
-        }
-      ]
-    }
+    "required_inventions": []
   }
 ]

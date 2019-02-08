@@ -1,0 +1,82 @@
+[
+  {
+    "budget": 100,
+    "cost": 25200000,
+    "required_inputs": [
+      {
+        "resource": "FRESH_FOOD",
+        "max": 79
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 20
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 70
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.4
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.4
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "PROCESSED_FOOD",
+        "max": 80
+      }
+    ],
+    "id": "pgi.food.proc",
+    "type": "INDUSTRY"
+  },
+  {
+    "budget": 30,
+    "cost": 9000000,
+    "required_inputs": [
+      {
+        "resource": "FRESH_FOOD",
+        "max": 40
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 10
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 50
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.2
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.2
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "PROCESSED_FOOD",
+        "max": 40
+      }
+    ],
+    "id": "pgi.food.proc.small",
+    "type": "INDUSTRY"
+  }
+]

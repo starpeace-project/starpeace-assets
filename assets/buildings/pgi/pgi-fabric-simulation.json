@@ -1,0 +1,86 @@
+[
+  {
+    "budget": 100,
+    "cost": 16800000,
+    "required_inputs": [
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 30
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 10
+      },
+      {
+        "resource": "WORK_FORCE_HI",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 6
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 113
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.4
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.2
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "FABRIC",
+        "max": 120.599998474121
+      }
+    ],
+    "id": "pgi.textile.industry",
+    "type": "INDUSTRY"
+  },
+  {
+    "budget": 24,
+    "cost": 6000000,
+    "required_inputs": [
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 15
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 5
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 4
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 80
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.2
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "FABRIC",
+        "max": 60
+      }
+    ],
+    "id": "pgi.textile.industry.small",
+    "type": "INDUSTRY"
+  }
+]

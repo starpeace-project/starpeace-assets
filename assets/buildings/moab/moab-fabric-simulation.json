@@ -1,0 +1,46 @@
+[
+  {
+    "budget": 500,
+    "cost": 10000000,
+    "required_inputs": [
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 100
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 20
+      },
+      {
+        "resource": "WORK_FORCE_HI",
+        "max": 3
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 33
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 133
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.6
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.3
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "FABRIC",
+        "max": 300
+      }
+    ],
+    "id": "moab.textile.industry",
+    "type": "INDUSTRY"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "budget": 0,
+    "cost": 35000000,
+    "required_inputs": [
+      {
+        "resource": "PLASTIC",
+        "max": 10
+      },
+      {
+        "resource": "PRINTED_MATERIAL",
+        "max": 10
+      },
+      {
+        "resource": "WORK_FORCE_HI",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 6
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 100
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 10
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 10
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "COMPACT_DISC",
+        "max": 100
+      }
+    ],
+    "id": "mko.cd.industry",
+    "type": "INDUSTRY"
+  }
+]

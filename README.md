@@ -22,4 +22,4 @@ Please [join Discord chatroom](https://discord.gg/TF9Bmsj) and [read the develop
 
 ## License
 
-All content of starpeace-assets is commercially licensed and all unauthorized or unapproved use is not permitted. Please contact info@starpeace.io for licensing information.
+All content of starpeace-assets is commercially licensed; any unauthorized and/or unapproved use is not permitted. Please contact info@starpeace.io for licensing information.

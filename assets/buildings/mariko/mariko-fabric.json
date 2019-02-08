@@ -17,45 +17,7 @@
     "industry_type": "FABRIC",
     "required_inventions": [
       "LSTextile"
-    ],
-    "industry": {
-      "budget": 200,
-      "cost": 15120000,
-      "required_inputs": [
-        {
-          "resource": "ORGANIC_MATERIAL",
-          "max": 27
-        },
-        {
-          "resource": "CHEMICAL",
-          "max": 9
-        },
-        {
-          "resource": "WORK_FORCE_MID",
-          "max": 5
-        },
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 107
-        }
-      ],
-      "optional_inputs": [
-        {
-          "resource": "COMPUTER_SERVICES",
-          "max": 0.4
-        },
-        {
-          "resource": "LEGAL_SERVICES",
-          "max": 0.2
-        }
-      ],
-      "outputs": [
-        {
-          "resource": "FABRIC",
-          "max": 110
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mko.textile.industry.small",
@@ -76,44 +38,6 @@
     "industry_type": "FABRIC",
     "required_inventions": [
       "TextileLic"
-    ],
-    "industry": {
-      "budget": 100,
-      "cost": 3600000,
-      "required_inputs": [
-        {
-          "resource": "ORGANIC_MATERIAL",
-          "max": 9
-        },
-        {
-          "resource": "CHEMICAL",
-          "max": 3
-        },
-        {
-          "resource": "WORK_FORCE_MID",
-          "max": 3
-        },
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 62
-        }
-      ],
-      "optional_inputs": [
-        {
-          "resource": "COMPUTER_SERVICES",
-          "max": 0.1
-        },
-        {
-          "resource": "LEGAL_SERVICES",
-          "max": 0.1
-        }
-      ],
-      "outputs": [
-        {
-          "resource": "FABRIC",
-          "max": 37
-        }
-      ]
-    }
+    ]
   }
 ]

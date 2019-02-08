@@ -1,0 +1,82 @@
+[
+  {
+    "budget": 370,
+    "cost": 6720000,
+    "required_inputs": [
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 22
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 1
+      },
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.2
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.2
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "FRESH_FOOD",
+        "max": 50
+      },
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 24
+      }
+    ],
+    "id": "dis.farm",
+    "type": "INDUSTRY"
+  },
+  {
+    "budget": 60,
+    "cost": 1600000,
+    "required_inputs": [
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 13
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 0.3
+      },
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.05
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.01
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "FRESH_FOOD",
+        "max": 10
+      },
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 4
+      }
+    ],
+    "id": "dis.farm.small",
+    "type": "INDUSTRY"
+  }
+]

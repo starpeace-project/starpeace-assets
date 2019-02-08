@@ -1,0 +1,74 @@
+[
+  {
+    "budget": 530,
+    "cost": 12600000,
+    "required_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 14
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 133
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.5
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.2
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "ORE",
+        "max": 728
+      }
+    ],
+    "id": "mko.mine",
+    "type": "INDUSTRY"
+  },
+  {
+    "budget": 87,
+    "cost": 3000000,
+    "required_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 5
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 75
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.2
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "ORE",
+        "max": 255
+      }
+    ],
+    "id": "mko.mine.small",
+    "type": "INDUSTRY"
+  }
+]

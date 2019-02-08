@@ -1,0 +1,66 @@
+[
+  {
+    "budget": 425,
+    "cost": 13440000,
+    "required_inputs": [
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 30
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 0.75
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "FRESH_FOOD",
+        "max": 60
+      },
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 30
+      }
+    ],
+    "id": "pgi.farm",
+    "type": "INDUSTRY"
+  },
+  {
+    "budget": 125,
+    "cost": 3200000,
+    "required_inputs": [
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 18
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 0.25
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "FRESH_FOOD",
+        "max": 20
+      },
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 10
+      }
+    ],
+    "id": "pgi.farm.small",
+    "type": "INDUSTRY"
+  }
+]

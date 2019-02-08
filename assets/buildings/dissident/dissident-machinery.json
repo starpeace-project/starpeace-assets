@@ -17,52 +17,6 @@
     "industry_type": "MACHINERY",
     "required_inventions": [
       "MachInd"
-    ],
-    "industry": {
-      "budget": 8000,
-      "cost": 16800000,
-      "required_inputs": [
-        {
-          "resource": "METAL",
-          "max": 714
-        },
-        {
-          "resource": "CHEMICAL",
-          "max": 60
-        },
-        {
-          "resource": "ELECTRONIC_COMPONENT",
-          "max": 24
-        },
-        {
-          "resource": "WORK_FORCE_HI",
-          "max": 1
-        },
-        {
-          "resource": "WORK_FORCE_MID",
-          "max": 11
-        },
-        {
-          "resource": "WORK_FORCE_LO",
-          "max": 164
-        }
-      ],
-      "optional_inputs": [
-        {
-          "resource": "COMPUTER_SERVICES",
-          "max": 0.2
-        },
-        {
-          "resource": "LEGAL_SERVICES",
-          "max": 0.1
-        }
-      ],
-      "outputs": [
-        {
-          "resource": "MACHINERY",
-          "max": 2
-        }
-      ]
-    }
+    ]
   }
 ]

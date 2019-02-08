@@ -1,0 +1,90 @@
+[
+  {
+    "budget": 600,
+    "cost": 27719999,
+    "required_inputs": [
+      {
+        "resource": "ORE",
+        "max": 445
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 36
+      },
+      {
+        "resource": "WORK_FORCE_HI",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 3
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 160
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.4
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.2
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "METAL",
+        "max": 218
+      }
+    ],
+    "id": "mko.metal.industry",
+    "type": "INDUSTRY"
+  },
+  {
+    "budget": 120,
+    "cost": 6600000,
+    "required_inputs": [
+      {
+        "resource": "ORE",
+        "max": 150
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 12
+      },
+      {
+        "resource": "WORK_FORCE_HI",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 2
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 90
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.2
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "METAL",
+        "max": 72
+      }
+    ],
+    "id": "mko.metal.industry.small",
+    "type": "INDUSTRY"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "budget": 4300,
+    "cost": 30000000,
+    "required_inputs": [
+      {
+        "resource": "METAL",
+        "max": 44
+      },
+      {
+        "resource": "ELECTRONIC_COMPONENT",
+        "max": 44
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 18
+      },
+      {
+        "resource": "WORK_FORCE_HI",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 33
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 133
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 1.8
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.4
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "COMPUTER",
+        "max": 9
+      }
+    ],
+    "id": "mko.bm.industry",
+    "type": "INDUSTRY"
+  }
+]

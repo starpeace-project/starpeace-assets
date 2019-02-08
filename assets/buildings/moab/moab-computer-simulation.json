@@ -1,0 +1,50 @@
+[
+  {
+    "budget": 1000,
+    "cost": 40000000,
+    "required_inputs": [
+      {
+        "resource": "METAL",
+        "max": 250
+      },
+      {
+        "resource": "ELECTRONIC_COMPONENT",
+        "max": 250
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 50
+      },
+      {
+        "resource": "WORK_FORCE_HI",
+        "max": 12
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 33
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 133
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 2
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.8
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "COMPUTER",
+        "max": 25
+      }
+    ],
+    "id": "moab.bm.industry",
+    "type": "INDUSTRY"
+  }
+]

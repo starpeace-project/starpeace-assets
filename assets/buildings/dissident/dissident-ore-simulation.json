@@ -1,0 +1,74 @@
+[
+  {
+    "budget": 340,
+    "cost": 8400000,
+    "required_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 10
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 109
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 1
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.1
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "ORE",
+        "max": 800
+      }
+    ],
+    "id": "dis.mine",
+    "type": "INDUSTRY"
+  },
+  {
+    "budget": 120,
+    "cost": 2000000,
+    "required_inputs": [
+      {
+        "resource": "CHEMICAL",
+        "max": 3
+      },
+      {
+        "resource": "WORK_FORCE_MID",
+        "max": 1
+      },
+      {
+        "resource": "WORK_FORCE_LO",
+        "max": 60
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.2
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.03
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "ORE",
+        "max": 175
+      }
+    ],
+    "id": "dis.mine.small",
+    "type": "INDUSTRY"
+  }
+]
