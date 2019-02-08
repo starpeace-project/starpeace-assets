@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/starpeace-project/starpeace-assets.svg)](https://travis-ci.org/starpeace-project/starpeace-assets)
 [![License: Commercial](https://img.shields.io/badge/license-Commercial-yellowgreen.svg)](./LICENSE)
 
-Assets for [STARPEACE](https://www.starpeace.io), including gameplay images, sounds, and compilation tools for client integration.
+Assets for [STARPEACE](https://www.starpeace.io), including gameplay images, sounds, definitions, and baseline simulation configurations.
 
 ## Documentation
 
