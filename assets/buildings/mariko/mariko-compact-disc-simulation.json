@@ -27,17 +27,17 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 10
+        "max": 1
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 10
+        "max": 2
       }
     ],
     "outputs": [
       {
         "resource": "COMPACT_DISC",
-        "max": 100
+        "max": 500
       }
     ],
     "id": "mko.cd.industry",

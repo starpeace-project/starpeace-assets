@@ -322,7 +322,7 @@
       "PT": "papel"
     },
     "unit_id": "KILOGRAM",
-    "price": 15
+    "price": 1
   },
   {
     "id": "PRINTED_MATERIAL",
@@ -335,7 +335,7 @@
       "PT": "material impresso"
     },
     "unit_id": "KILOGRAM",
-    "price": 25
+    "price": 5
   },
   {
     "id": "PHARMACEUTICAL",
@@ -361,7 +361,7 @@
       "PT": "plástico"
     },
     "unit_id": "KILOGRAM",
-    "price": 225
+    "price": 15
   },
   {
     "id": "PROCESSED_FOOD",
@@ -400,7 +400,7 @@
       "PT": "produtos químicos em bruto"
     },
     "unit_id": "KILOGRAM",
-    "price": 100
+    "price": 5
   },
   {
     "id": "SILICON",
