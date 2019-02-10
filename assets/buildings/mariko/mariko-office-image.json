@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.office.a.empty",
-    "image": "assets/buildings/mariko/mko.office.a.empty.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.a.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -12,7 +12,7 @@
   },
   {
     "id": "mko.office.a",
-    "image": "assets/buildings/mariko/mko.office.a.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.a.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -23,7 +23,7 @@
   },
   {
     "id": "mko.office.b.empty",
-    "image": "assets/buildings/mariko/mko.office.b.empty.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.b.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -33,7 +33,7 @@
   },
   {
     "id": "mko.office.b",
-    "image": "assets/buildings/mariko/mko.office.b.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.b.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -43,7 +43,7 @@
   },
   {
     "id": "mko.office.c.empty",
-    "image": "assets/buildings/mariko/mko.office.c.empty.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.c.empty.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [
@@ -52,7 +52,7 @@
   },
   {
     "id": "mko.office.c",
-    "image": "assets/buildings/mariko/mko.office.c.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.c.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [
@@ -61,7 +61,7 @@
   },
   {
     "id": "mko.office.d.empty",
-    "image": "assets/buildings/mariko/mko.office.d.empty.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.d.empty.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [
@@ -74,7 +74,7 @@
   },
   {
     "id": "mko.office.d",
-    "image": "assets/buildings/mariko/mko.office.d.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.d.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [
@@ -87,7 +87,7 @@
   },
   {
     "id": "mko.office.e.empty",
-    "image": "assets/buildings/mariko/mko.office.e.empty.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.e.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -99,7 +99,7 @@
   },
   {
     "id": "mko.office.e",
-    "image": "assets/buildings/mariko/mko.office.e.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.e.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -111,7 +111,7 @@
   },
   {
     "id": "mko.office.f.empty",
-    "image": "assets/buildings/mariko/mko.office.f.empty.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.f.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -122,7 +122,7 @@
   },
   {
     "id": "mko.office.f",
-    "image": "assets/buildings/mariko/mko.office.f.gif",
+    "image_path": "assets/buildings/mariko/images/mko.office.f.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

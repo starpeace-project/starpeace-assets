@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.lumber",
-    "image_id": "dis.lumber.0",
-    "construction_image_id": "generic.construction.8",
+    "image_id": "dis.lumber.1",
+    "construction_image_id": "dis.lumber.construction",
     "name": {
       "DE": "Sägewerk",
       "EN": "Lumber Mill",

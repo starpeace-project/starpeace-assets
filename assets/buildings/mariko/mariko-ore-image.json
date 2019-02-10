@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.mine",
-    "image": "assets/buildings/mariko/mko.mine.gif",
+    "image_path": "assets/buildings/mariko/images/mko.mine.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -18,7 +18,7 @@
   },
   {
     "id": "mko.mine.small",
-    "image": "assets/buildings/mariko/mko.mine.small.gif",
+    "image_path": "assets/buildings/mariko/images/mko.mine.small.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

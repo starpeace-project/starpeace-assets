@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.office.a.empty",
-    "image": "assets/buildings/pgi/pgi.office.a.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.office.a.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -15,7 +15,7 @@
   },
   {
     "id": "pgi.office.a",
-    "image": "assets/buildings/pgi/pgi.office.a.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.office.a.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -29,7 +29,7 @@
   },
   {
     "id": "pgi.office.b.empty",
-    "image": "assets/buildings/pgi/pgi.office.b.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.office.b.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -39,7 +39,7 @@
   },
   {
     "id": "pgi.office.b",
-    "image": "assets/buildings/pgi/pgi.office.b.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.office.b.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -49,7 +49,7 @@
   },
   {
     "id": "pgi.office.c.empty",
-    "image": "assets/buildings/pgi/pgi.office.c.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.office.c.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -61,7 +61,7 @@
   },
   {
     "id": "pgi.office.c",
-    "image": "assets/buildings/pgi/pgi.office.c.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.office.c.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -73,7 +73,7 @@
   },
   {
     "id": "pgi.office.d.empty",
-    "image": "assets/buildings/pgi/pgi.office.d.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.office.d.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -87,7 +87,7 @@
   },
   {
     "id": "pgi.office.d",
-    "image": "assets/buildings/pgi/pgi.office.d.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.office.d.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

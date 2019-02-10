@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.bar",
-    "image": "assets/buildings/moab/moab.bar.gif",
+    "image_path": "assets/buildings/moab/images/moab.bar.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

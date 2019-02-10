@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.tv.station",
-    "image": "assets/buildings/mariko/mko.tv.station.gif",
+    "image_path": "assets/buildings/mariko/images/mko.tv.station.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

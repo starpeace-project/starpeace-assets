@@ -1,0 +1,470 @@
+[
+  {
+    "id": "APPLIANCE",
+    "label_plural": {
+      "DE": "haushaltsgeräte",
+      "EN": "appliances",
+      "ES": "accesorios",
+      "FR": "appareils électroménagers",
+      "IT": "elettrodomestici",
+      "PT": "eletrodomésticos"
+    },
+    "unit_id": "ITEM",
+    "price": 200
+  },
+  {
+    "id": "AUTOMOBILE",
+    "label_plural": {
+      "DE": "automobile",
+      "EN": "automobiles",
+      "ES": "automóviles",
+      "FR": "automobiles",
+      "IT": "automobili",
+      "PT": "automóveis"
+    },
+    "unit_id": "ITEM",
+    "price": 12000
+  },
+  {
+    "id": "BOOK",
+    "label_plural": {
+      "DE": "bücher",
+      "EN": "books",
+      "ES": "libros",
+      "FR": "livres",
+      "IT": "libri",
+      "PT": "livros"
+    },
+    "unit_id": "ITEM",
+    "price": 10
+  },
+  {
+    "id": "CHEMICAL",
+    "label_plural": {
+      "DE": "chemikalien",
+      "EN": "chemicals",
+      "ES": "productos químicos",
+      "FR": "produits chimiques",
+      "IT": "sostanze chimiche",
+      "PT": "produtos quimicos"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 20
+  },
+  {
+    "id": "CLOTHES",
+    "label_plural": {
+      "DE": "kleidung",
+      "EN": "clothing",
+      "ES": "ropa",
+      "FR": "vêtements",
+      "IT": "capi di abbigliamento",
+      "PT": "roupas"
+    },
+    "unit_id": "ITEM",
+    "price": 25
+  },
+  {
+    "id": "COAL",
+    "label_plural": {
+      "DE": "kohle",
+      "EN": "coal",
+      "ES": "carbón",
+      "FR": "charbon",
+      "IT": "carbone",
+      "PT": "carvão"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 60
+  },
+  {
+    "id": "COMPACT_DISC",
+    "label_plural": {
+      "DE": "CDs",
+      "EN": "compact discs",
+      "ES": "discos compactos",
+      "FR": "disques compactes",
+      "IT": "compact disc",
+      "PT": "discos compactos"
+    },
+    "unit_id": "ITEM",
+    "price": 15
+  },
+  {
+    "id": "COMPUTER",
+    "label_plural": {
+      "DE": "computers",
+      "EN": "computers",
+      "ES": "ordenadores",
+      "FR": "ordinateurs",
+      "IT": "computer",
+      "PT": "computadores"
+    },
+    "unit_id": "ITEM",
+    "price": 800
+  },
+  {
+    "id": "COMPUTER_SERVICES",
+    "label_plural": {
+      "DE": "computer service",
+      "EN": "computer services",
+      "ES": "servicios informaticos",
+      "FR": "services informatiques",
+      "IT": "servizi informatici",
+      "PT": "serviços informáticos"
+    },
+    "unit_id": "HOUR",
+    "price": 200
+  },
+  {
+    "id": "CONSTRUCTION",
+    "label_plural": {
+      "DE": "baukraft",
+      "EN": "construction force",
+      "ES": "fuerza de construcción",
+      "FR": "force de construction",
+      "IT": "forza di costruzione",
+      "PT": "força de construção"
+    },
+    "unit_id": "TON",
+    "price": 100
+  },
+  {
+    "id": "CRUDE_OIL",
+    "label_plural": {
+      "DE": "rohöl",
+      "EN": "crude oil",
+      "ES": "petróleo crudo",
+      "FR": "huile brute",
+      "IT": "olio crudo",
+      "PT": "óleo cru"
+    },
+    "unit_id": "LITER",
+    "price": 0.5
+  },
+  {
+    "id": "ELECTRONIC_COMPONENT",
+    "label_plural": {
+      "DE": "elektronische bauteile",
+      "EN": "electronic components",
+      "ES": "componentes electrónicos",
+      "FR": "composants electroniques",
+      "IT": "componenti elettronici",
+      "PT": "componentes eletrônicos"
+    },
+    "unit_id": "ITEM",
+    "price": 50
+  },
+  {
+    "id": "EXECUTIVE",
+    "label_plural": {
+      "DE": "exekutive arbeit",
+      "EN": "executive labor",
+      "ES": "trabajo ejecutivo",
+      "FR": "travail exécutif",
+      "IT": "lavoro esecutivo",
+      "PT": "trabalho executivo"
+    },
+    "unit_id": "HOUR",
+    "price": 100
+  },
+  {
+    "id": "FABRIC",
+    "label_plural": {
+      "DE": "stoff",
+      "EN": "fabric",
+      "ES": "tela",
+      "FR": "en tissu",
+      "IT": "tessuto",
+      "PT": "tecido"
+    },
+    "unit_id": "METER",
+    "price": 8
+  },
+  {
+    "id": "FRESH_FOOD",
+    "label_plural": {
+      "DE": "frisches essen",
+      "EN": "fresh food",
+      "ES": "comida fresca",
+      "FR": "nourriture fraîche",
+      "IT": "cibo fresco",
+      "PT": "comida fresca"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 4
+  },
+  {
+    "id": "FURNITURE",
+    "label_plural": {
+      "DE": "möbel",
+      "EN": "furniture",
+      "ES": "mueble",
+      "FR": "meubles",
+      "IT": "mobilia",
+      "PT": "mobília"
+    },
+    "unit_id": "ITEM",
+    "price": 50
+  },
+  {
+    "id": "GASOLINE",
+    "label_plural": {
+      "DE": "benzin",
+      "EN": "gasoline",
+      "ES": "gasolina",
+      "FR": "de l'essence",
+      "IT": "gasolio",
+      "PT": "gasolina"
+    },
+    "unit_id": "LITER",
+    "price": 1.5
+  },
+  {
+    "id": "LEGAL_SERVICES",
+    "label_plural": {
+      "DE": "rechtsberatung",
+      "EN": "legal services",
+      "ES": "servicios jurídicos",
+      "FR": "services juridiques",
+      "IT": "servizi legali",
+      "PT": "serviços legais"
+    },
+    "unit_id": "HOUR",
+    "price": 250
+  },
+  {
+    "id": "LIQUOR",
+    "label_plural": {
+      "DE": "alkohol",
+      "EN": "liquor",
+      "ES": "espíritu",
+      "FR": "alcool",
+      "IT": "liquore",
+      "PT": "licor"
+    },
+    "unit_id": "LITER",
+    "price": 25
+  },
+  {
+    "id": "MACHINERY",
+    "label_plural": {
+      "DE": "maschinen",
+      "EN": "machinery",
+      "ES": "maquinaria",
+      "FR": "machinerie",
+      "IT": "macchinario",
+      "PT": "máquinas"
+    },
+    "unit_id": "ITEM",
+    "price": 8000
+  },
+  {
+    "id": "METAL",
+    "label_plural": {
+      "DE": "metalle",
+      "EN": "metals",
+      "ES": "rieles",
+      "FR": "métaux",
+      "IT": "metalli",
+      "PT": "metais"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 8
+  },
+  {
+    "id": "MOVIE",
+    "label_plural": {
+      "DE": "filme",
+      "EN": "movies",
+      "ES": "películas",
+      "FR": "films",
+      "IT": "film",
+      "PT": "filmes"
+    },
+    "unit_id": "ITEM",
+    "price": 15
+  },
+  {
+    "id": "ORE",
+    "label_plural": {
+      "DE": "erz",
+      "EN": "ore",
+      "ES": "mineral",
+      "FR": "minerai",
+      "IT": "minerale",
+      "PT": "minério"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 1
+  },
+  {
+    "id": "ORGANIC_MATERIAL",
+    "label_plural": {
+      "DE": "organisches material",
+      "EN": "organic material",
+      "ES": "material organico",
+      "FR": "matériau organique",
+      "IT": "materiale organico",
+      "PT": "material orgânico"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 10
+  },
+  {
+    "id": "PAPER",
+    "label_plural": {
+      "DE": "papier",
+      "EN": "paper",
+      "ES": "papel",
+      "FR": "papier",
+      "IT": "carta",
+      "PT": "papel"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 15
+  },
+  {
+    "id": "PRINTED_MATERIAL",
+    "label_plural": {
+      "DE": "gedrucktes material",
+      "EN": "printed material",
+      "ES": "material impreso",
+      "FR": "matériau imprimé",
+      "IT": "materiale stampato",
+      "PT": "material impresso"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 25
+  },
+  {
+    "id": "PHARMACEUTICAL",
+    "label_plural": {
+      "DE": "pharmazeutika",
+      "EN": "pharmaceuticals",
+      "ES": "productos farmacéuticos",
+      "FR": "médicaments",
+      "IT": "prodotti farmaceutici",
+      "PT": "fármacos"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 2500
+  },
+  {
+    "id": "PLASTIC",
+    "label_plural": {
+      "DE": "kunststoff",
+      "EN": "plastic",
+      "ES": "plastico",
+      "FR": "plastique",
+      "IT": "plastica",
+      "PT": "plástico"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 225
+  },
+  {
+    "id": "PROCESSED_FOOD",
+    "label_plural": {
+      "DE": "verarbeitete lebensmittel",
+      "EN": "processed food",
+      "ES": "alimentos procesados",
+      "FR": "aliments transformés",
+      "IT": "cibo trattato",
+      "PT": "comida processada"
+    },
+    "unit_id": "ITEM",
+    "price": 15
+  },
+  {
+    "id": "PROFESSIONAL",
+    "label_plural": {
+      "DE": "berufliche arbeit",
+      "EN": "professional labor",
+      "ES": "labor profesional",
+      "FR": "travail professionnel",
+      "IT": "lavoro professionale",
+      "PT": "trabalho profissional"
+    },
+    "unit_id": "HOUR",
+    "price": 40
+  },
+  {
+    "id": "RAW_CHEMICAL",
+    "label_plural": {
+      "DE": "rohchemikalien",
+      "EN": "raw chemicals",
+      "ES": "químicos crudos",
+      "FR": "produits chimiques bruts",
+      "IT": "prodotti chimici grezzi",
+      "PT": "produtos químicos em bruto"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 100
+  },
+  {
+    "id": "SILICON",
+    "label_plural": {
+      "DE": "silizium",
+      "EN": "silicon",
+      "ES": "silicio",
+      "FR": "silicium",
+      "IT": "silicio",
+      "PT": "silício"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 15
+  },
+  {
+    "id": "STONE",
+    "label_plural": {
+      "DE": "stein",
+      "EN": "stone",
+      "ES": "piedra",
+      "FR": "pierre",
+      "IT": "pietra",
+      "PT": "pedra"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 400
+  },
+  {
+    "id": "TIMBER",
+    "label_plural": {
+      "DE": "bauholz",
+      "EN": "timber",
+      "ES": "madera",
+      "FR": "bois",
+      "IT": "legname",
+      "PT": "madeira"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 15
+  },
+  {
+    "id": "TOY",
+    "label_plural": {
+      "DE": "spielzeuge",
+      "EN": "toys",
+      "ES": "juguetes",
+      "FR": "jouets",
+      "IT": "giocattoli",
+      "PT": "brinquedos"
+    },
+    "unit_id": "ITEM",
+    "price": 40
+  },
+  {
+    "id": "WORKER",
+    "label_plural": {
+      "DE": "körperliche arbeit",
+      "EN": "manual labor",
+      "ES": "trabajo físico",
+      "FR": "manual labor",
+      "IT": "lavoro fisico",
+      "PT": "trabalho braçal"
+    },
+    "unit_id": "HOUR",
+    "price": 10
+  }
+]

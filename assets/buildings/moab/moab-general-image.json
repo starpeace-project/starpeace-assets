@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.cathedral",
-    "image": "assets/buildings/moab/moab.cathedral.gif",
+    "image_path": "assets/buildings/moab/images/moab.cathedral.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -21,7 +21,7 @@
   },
   {
     "id": "moab.correctional",
-    "image": "assets/buildings/moab/moab.correctional.gif",
+    "image_path": "assets/buildings/moab/images/moab.correctional.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -32,7 +32,7 @@
   },
   {
     "id": "moab.correctional.tower",
-    "image": "assets/buildings/moab/moab.correctional.tower.gif",
+    "image_path": "assets/buildings/moab/images/moab.correctional.tower.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -44,7 +44,7 @@
   },
   {
     "id": "moab.hq.1",
-    "image": "assets/buildings/moab/moab.hq.1.gif",
+    "image_path": "assets/buildings/moab/images/moab.hq.1.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -63,7 +63,7 @@
   },
   {
     "id": "moab.hq.2",
-    "image": "assets/buildings/moab/moab.hq.2.gif",
+    "image_path": "assets/buildings/moab/images/moab.hq.2.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -88,7 +88,7 @@
   },
   {
     "id": "moab.hq.3",
-    "image": "assets/buildings/moab/moab.hq.3.gif",
+    "image_path": "assets/buildings/moab/images/moab.hq.3.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -108,7 +108,7 @@
   },
   {
     "id": "moab.hq.4",
-    "image": "assets/buildings/moab/moab.hq.4.gif",
+    "image_path": "assets/buildings/moab/images/moab.hq.4.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -130,7 +130,7 @@
   },
   {
     "id": "moab.hq.5",
-    "image": "assets/buildings/moab/moab.hq.5.gif",
+    "image_path": "assets/buildings/moab/images/moab.hq.5.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -155,7 +155,7 @@
   },
   {
     "id": "moab.industry.tower",
-    "image": "assets/buildings/moab/moab.industry.tower.gif",
+    "image_path": "assets/buildings/moab/images/moab.industry.tower.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -167,7 +167,7 @@
   },
   {
     "id": "moab.market.tower",
-    "image": "assets/buildings/moab/moab.market.tower.gif",
+    "image_path": "assets/buildings/moab/images/moab.market.tower.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -178,7 +178,7 @@
   },
   {
     "id": "moab.residential.tower",
-    "image": "assets/buildings/moab/moab.residential.tower.gif",
+    "image_path": "assets/buildings/moab/images/moab.residential.tower.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -190,7 +190,7 @@
   },
   {
     "id": "moab.townhall",
-    "image": "assets/buildings/moab/moab.townhall.gif",
+    "image_path": "assets/buildings/moab/images/moab.townhall.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -205,7 +205,7 @@
   },
   {
     "id": "moab.tradecenter",
-    "image": "assets/buildings/moab/moab.tradecenter.gif",
+    "image_path": "assets/buildings/moab/images/moab.tradecenter.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

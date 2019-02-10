@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.gas.station",
-    "image": "assets/buildings/moab/moab.gas.station.gif",
+    "image_path": "assets/buildings/moab/images/moab.gas.station.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -13,7 +13,7 @@
   },
   {
     "id": "moab.refinery",
-    "image": "assets/buildings/moab/moab.refinery.gif",
+    "image_path": "assets/buildings/moab/images/moab.refinery.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

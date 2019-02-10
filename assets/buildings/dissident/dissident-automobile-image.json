@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.car.industry",
-    "image": "assets/buildings/dissident/dis.car.industry.gif",
+    "image_path": "assets/buildings/dissident/images/dis.car.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -16,7 +16,7 @@
   },
   {
     "id": "dis.car.store",
-    "image": "assets/buildings/dissident/dis.car.store.gif",
+    "image_path": "assets/buildings/dissident/images/dis.car.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

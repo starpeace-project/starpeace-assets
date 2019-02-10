@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.office.a.empty",
-    "image": "assets/buildings/moab/moab.office.a.empty.gif",
+    "image_path": "assets/buildings/moab/images/moab.office.a.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -17,7 +17,7 @@
   },
   {
     "id": "moab.office.a",
-    "image": "assets/buildings/moab/moab.office.a.gif",
+    "image_path": "assets/buildings/moab/images/moab.office.a.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -33,7 +33,7 @@
   },
   {
     "id": "moab.office.b.empty",
-    "image": "assets/buildings/moab/moab.office.b.empty.gif",
+    "image_path": "assets/buildings/moab/images/moab.office.b.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -46,7 +46,7 @@
   },
   {
     "id": "moab.office.b",
-    "image": "assets/buildings/moab/moab.office.b.gif",
+    "image_path": "assets/buildings/moab/images/moab.office.b.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

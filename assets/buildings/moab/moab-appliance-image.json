@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.hha.industry",
-    "image": "assets/buildings/moab/moab.hha.industry.gif",
+    "image_path": "assets/buildings/moab/images/moab.hha.industry.gif",
     "tile_width": 6,
     "tile_height": 6,
     "hit_area": [
@@ -16,7 +16,7 @@
   },
   {
     "id": "moab.hha.store",
-    "image": "assets/buildings/moab/moab.hha.store.gif",
+    "image_path": "assets/buildings/moab/images/moab.hha.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.computing",
-    "image": "assets/buildings/pgi/pgi.computing.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.computing.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

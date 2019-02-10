@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.office.a.empty",
-    "image": "assets/buildings/dissident/dis.office.a.empty.gif",
+    "image_path": "assets/buildings/dissident/images/dis.office.a.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -16,7 +16,7 @@
   },
   {
     "id": "dis.office.a",
-    "image": "assets/buildings/dissident/dis.office.a.gif",
+    "image_path": "assets/buildings/dissident/images/dis.office.a.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -29,7 +29,7 @@
   },
   {
     "id": "dis.office.b.empty",
-    "image": "assets/buildings/dissident/dis.office.b.empty.gif",
+    "image_path": "assets/buildings/dissident/images/dis.office.b.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -42,7 +42,7 @@
   },
   {
     "id": "dis.office.b",
-    "image": "assets/buildings/dissident/dis.office.b.gif",
+    "image_path": "assets/buildings/dissident/images/dis.office.b.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -56,7 +56,7 @@
   },
   {
     "id": "dis.office.c.empty",
-    "image": "assets/buildings/dissident/dis.office.c.empty.gif",
+    "image_path": "assets/buildings/dissident/images/dis.office.c.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -70,7 +70,7 @@
   },
   {
     "id": "dis.office.c",
-    "image": "assets/buildings/dissident/dis.office.c.gif",
+    "image_path": "assets/buildings/dissident/images/dis.office.c.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

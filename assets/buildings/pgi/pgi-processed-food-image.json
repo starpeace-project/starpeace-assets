@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.food.proc",
-    "image": "assets/buildings/pgi/pgi.food.proc.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.food.proc.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -27,7 +27,7 @@
   },
   {
     "id": "pgi.food.proc.small",
-    "image": "assets/buildings/pgi/pgi.food.proc.small.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.food.proc.small.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

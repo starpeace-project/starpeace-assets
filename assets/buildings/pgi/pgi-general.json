@@ -14,7 +14,7 @@
     "seal": "pgi",
     "zone": "CIVICS",
     "category": "CIVIC",
-    "industry_type": "FIRE_PREVENTION",
+    "industry_type": "FIRE",
     "required_inventions": [
       "CivicFac"
     ],

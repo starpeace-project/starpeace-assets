@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.chemical.industry",
-    "image": "assets/buildings/dissident/dis.chemical.industry.gif",
+    "image_path": "assets/buildings/dissident/images/dis.chemical.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -21,7 +21,7 @@
   },
   {
     "id": "dis.chemical.industry.small",
-    "image": "assets/buildings/dissident/dis.chemical.industry.small.gif",
+    "image_path": "assets/buildings/dissident/images/dis.chemical.industry.small.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

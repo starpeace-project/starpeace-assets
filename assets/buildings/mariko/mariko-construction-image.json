@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.construction.industry",
-    "image": "assets/buildings/mariko/mko.construction.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.construction.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

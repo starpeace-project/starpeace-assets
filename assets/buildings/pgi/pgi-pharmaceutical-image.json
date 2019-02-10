@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.drug.store",
-    "image": "assets/buildings/pgi/pgi.drug.store.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.drug.store.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -11,7 +11,7 @@
   },
   {
     "id": "pgi.pharma.industry",
-    "image": "assets/buildings/pgi/pgi.pharma.industry.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.pharma.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

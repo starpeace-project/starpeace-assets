@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.restaurant.a",
-    "image": "assets/buildings/dissident/dis.restaurant.a.gif",
+    "image_path": "assets/buildings/dissident/images/dis.restaurant.a.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [
@@ -12,7 +12,7 @@
   },
   {
     "id": "dis.restaurant.b",
-    "image": "assets/buildings/dissident/dis.restaurant.b.gif",
+    "image_path": "assets/buildings/dissident/images/dis.restaurant.b.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

@@ -16,11 +16,11 @@
         "max": 30
       },
       {
-        "resource": "WORK_FORCE_MID",
+        "resource": "PROFESSIONAL",
         "max": 4
       },
       {
-        "resource": "WORK_FORCE_LO",
+        "resource": "WORKER",
         "max": 164
       }
     ],

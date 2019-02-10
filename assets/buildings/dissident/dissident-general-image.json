@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.hospital",
-    "image": "assets/buildings/dissident/dis.hospital.gif",
+    "image_path": "assets/buildings/dissident/images/dis.hospital.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -14,7 +14,7 @@
   },
   {
     "id": "dis.hq.1",
-    "image": "assets/buildings/dissident/dis.hq.1.gif",
+    "image_path": "assets/buildings/dissident/images/dis.hq.1.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -28,7 +28,7 @@
   },
   {
     "id": "dis.hq.2",
-    "image": "assets/buildings/dissident/dis.hq.2.gif",
+    "image_path": "assets/buildings/dissident/images/dis.hq.2.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -50,7 +50,7 @@
   },
   {
     "id": "dis.hq.3",
-    "image": "assets/buildings/dissident/dis.hq.3.gif",
+    "image_path": "assets/buildings/dissident/images/dis.hq.3.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -73,7 +73,7 @@
   },
   {
     "id": "dis.hq.4",
-    "image": "assets/buildings/dissident/dis.hq.4.gif",
+    "image_path": "assets/buildings/dissident/images/dis.hq.4.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -95,7 +95,7 @@
   },
   {
     "id": "dis.hq.5",
-    "image": "assets/buildings/dissident/dis.hq.5.gif",
+    "image_path": "assets/buildings/dissident/images/dis.hq.5.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -119,7 +119,7 @@
   },
   {
     "id": "dis.park.small",
-    "image": "assets/buildings/dissident/dis.park.small.gif",
+    "image_path": "assets/buildings/dissident/images/dis.park.small.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -141,7 +141,7 @@
   },
   {
     "id": "dis.police",
-    "image": "assets/buildings/dissident/dis.police.gif",
+    "image_path": "assets/buildings/dissident/images/dis.police.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [
@@ -152,7 +152,7 @@
   },
   {
     "id": "dis.school",
-    "image": "assets/buildings/dissident/dis.school.gif",
+    "image_path": "assets/buildings/dissident/images/dis.school.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -165,7 +165,7 @@
   },
   {
     "id": "dis.townhall",
-    "image": "assets/buildings/dissident/dis.townhall.gif",
+    "image_path": "assets/buildings/dissident/images/dis.townhall.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -186,7 +186,7 @@
   },
   {
     "id": "dis.tradecenter",
-    "image": "assets/buildings/dissident/dis.tradecenter.gif",
+    "image_path": "assets/buildings/dissident/images/dis.tradecenter.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

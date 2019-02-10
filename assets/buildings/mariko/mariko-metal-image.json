@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.metal.industry",
-    "image": "assets/buildings/mariko/mko.metal.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.metal.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -16,7 +16,7 @@
   },
   {
     "id": "mko.metal.industry.small",
-    "image": "assets/buildings/mariko/mko.metal.industry.small.gif",
+    "image_path": "assets/buildings/mariko/images/mko.metal.industry.small.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

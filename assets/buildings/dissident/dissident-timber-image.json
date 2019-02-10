@@ -1,7 +1,7 @@
 [
   {
-    "id": "dis.lumber.0",
-    "image": "assets/buildings/dissident/dis.lumber.0.gif",
+    "id": "dis.lumber.construction",
+    "image_path": "assets/buildings/dissident/images/dis.lumber.construction.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [
@@ -13,7 +13,7 @@
   },
   {
     "id": "dis.lumber.1",
-    "image": "assets/buildings/dissident/dis.lumber.1.gif",
+    "image_path": "assets/buildings/dissident/images/dis.lumber.1.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [
@@ -25,7 +25,7 @@
   },
   {
     "id": "dis.lumber.2",
-    "image": "assets/buildings/dissident/dis.lumber.2.gif",
+    "image_path": "assets/buildings/dissident/images/dis.lumber.2.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [
@@ -37,7 +37,7 @@
   },
   {
     "id": "dis.lumber.3",
-    "image": "assets/buildings/dissident/dis.lumber.3.gif",
+    "image_path": "assets/buildings/dissident/images/dis.lumber.3.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [
@@ -49,7 +49,7 @@
   },
   {
     "id": "dis.lumber.4",
-    "image": "assets/buildings/dissident/dis.lumber.4.gif",
+    "image_path": "assets/buildings/dissident/images/dis.lumber.4.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [
@@ -96,7 +96,7 @@
   },
   {
     "id": "dis.lumber.5",
-    "image": "assets/buildings/dissident/dis.lumber.5.gif",
+    "image_path": "assets/buildings/dissident/images/dis.lumber.5.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [
@@ -139,7 +139,7 @@
   },
   {
     "id": "dis.lumber.6",
-    "image": "assets/buildings/dissident/dis.lumber.6.gif",
+    "image_path": "assets/buildings/dissident/images/dis.lumber.6.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [
@@ -170,7 +170,7 @@
   },
   {
     "id": "dis.lumber.7",
-    "image": "assets/buildings/dissident/dis.lumber.7.gif",
+    "image_path": "assets/buildings/dissident/images/dis.lumber.7.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [

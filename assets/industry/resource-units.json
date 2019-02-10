@@ -1,0 +1,68 @@
+[
+  {
+    "id": "HOUR",
+    "label_plural": {
+      "DE": "std",
+      "EN": "hours",
+      "ES": "horas",
+      "FR": "heures",
+      "IT": "ore",
+      "PT": "horas"
+    }
+  },
+  {
+    "id": "ITEM",
+    "label_plural": {
+      "DE": "artikel",
+      "EN": "items",
+      "ES": "artículos",
+      "FR": "articles",
+      "IT": "elementi",
+      "PT": "unid"
+    }
+  },
+  {
+    "id": "KILOGRAM",
+    "label_plural": {
+      "DE": "kg",
+      "EN": "kg",
+      "ES": "kg",
+      "FR": "kg",
+      "IT": "kg",
+      "PT": "kg"
+    }
+  },
+  {
+    "id": "LITER",
+    "label_plural": {
+      "DE": "liters",
+      "EN": "liters",
+      "ES": "litros",
+      "FR": "litres",
+      "IT": "litri",
+      "PT": "litros"
+    }
+  },
+  {
+    "id": "METER",
+    "label_plural": {
+      "DE": "meters",
+      "EN": "meters",
+      "ES": "metros",
+      "FR": "mètres",
+      "IT": "metri",
+      "PT": "metros"
+    }
+  },
+  {
+    "id": "TON",
+    "label_plural": {
+      "DE": "tonnen",
+      "EN": "tons",
+      "ES": "montones",
+      "FR": "tonnes",
+      "IT": "tonnellate",
+      "PT": "toneladas"
+    }
+  }
+]

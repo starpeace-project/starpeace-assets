@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.food.store",
-    "image": "assets/buildings/moab/moab.food.store.gif",
+    "image_path": "assets/buildings/moab/images/moab.food.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

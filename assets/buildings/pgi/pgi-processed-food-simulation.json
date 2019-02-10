@@ -12,11 +12,11 @@
         "max": 20
       },
       {
-        "resource": "WORK_FORCE_MID",
+        "resource": "PROFESSIONAL",
         "max": 1
       },
       {
-        "resource": "WORK_FORCE_LO",
+        "resource": "WORKER",
         "max": 70
       }
     ],
@@ -52,11 +52,11 @@
         "max": 10
       },
       {
-        "resource": "WORK_FORCE_MID",
+        "resource": "PROFESSIONAL",
         "max": 1
       },
       {
-        "resource": "WORK_FORCE_LO",
+        "resource": "WORKER",
         "max": 50
       }
     ],

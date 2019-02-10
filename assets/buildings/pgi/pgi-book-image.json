@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.printing.plant",
-    "image": "assets/buildings/pgi/pgi.printing.plant.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.printing.plant.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

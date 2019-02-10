@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.bar",
-    "image": "assets/buildings/dissident/dis.bar.gif",
+    "image_path": "assets/buildings/dissident/images/dis.bar.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

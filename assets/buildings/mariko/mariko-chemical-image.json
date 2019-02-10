@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.chemical.industry",
-    "image": "assets/buildings/mariko/mko.chemical.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.chemical.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -15,7 +15,7 @@
   },
   {
     "id": "mko.chemical.industry.small",
-    "image": "assets/buildings/mariko/mko.chemical.industry.small.gif",
+    "image_path": "assets/buildings/mariko/images/mko.chemical.industry.small.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

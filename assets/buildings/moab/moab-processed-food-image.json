@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.food.proc",
-    "image": "assets/buildings/moab/moab.food.proc.gif",
+    "image_path": "assets/buildings/moab/images/moab.food.proc.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

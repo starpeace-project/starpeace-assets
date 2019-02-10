@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.market.a",
-    "image": "assets/buildings/mariko/mko.market.a.gif",
+    "image_path": "assets/buildings/mariko/images/mko.market.a.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -13,7 +13,7 @@
   },
   {
     "id": "mko.market.b",
-    "image": "assets/buildings/mariko/mko.market.b.gif",
+    "image_path": "assets/buildings/mariko/images/mko.market.b.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -23,7 +23,7 @@
   },
   {
     "id": "mko.market.c",
-    "image": "assets/buildings/mariko/mko.market.c.gif",
+    "image_path": "assets/buildings/mariko/images/mko.market.c.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

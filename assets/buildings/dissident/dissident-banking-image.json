@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.bank",
-    "image": "assets/buildings/dissident/dis.bank.gif",
+    "image_path": "assets/buildings/dissident/images/dis.bank.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

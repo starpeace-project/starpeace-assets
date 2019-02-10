@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.computing",
-    "image": "assets/buildings/moab/moab.computing.gif",
+    "image_path": "assets/buildings/moab/images/moab.computing.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

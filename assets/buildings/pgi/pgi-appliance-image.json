@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.hha.industry",
-    "image": "assets/buildings/pgi/pgi.hha.industry.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hha.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -13,7 +13,7 @@
   },
   {
     "id": "pgi.hha.industry.small",
-    "image": "assets/buildings/pgi/pgi.hha.industry.small.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hha.industry.small.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

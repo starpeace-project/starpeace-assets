@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.construction.industry",
-    "image": "assets/buildings/moab/moab.construction.industry.gif",
+    "image_path": "assets/buildings/moab/images/moab.construction.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

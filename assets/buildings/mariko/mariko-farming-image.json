@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.farm",
-    "image": "assets/buildings/mariko/mko.farm.gif",
+    "image_path": "assets/buildings/mariko/images/mko.farm.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -11,7 +11,7 @@
   },
   {
     "id": "mko.farm.small",
-    "image": "assets/buildings/mariko/mko.farm.small.gif",
+    "image_path": "assets/buildings/mariko/images/mko.farm.small.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

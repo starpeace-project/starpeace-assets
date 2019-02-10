@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.hha.industry",
-    "image": "assets/buildings/mariko/mko.hha.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.hha.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -25,7 +25,7 @@
   },
   {
     "id": "mko.hha.industry.small",
-    "image": "assets/buildings/mariko/mko.hha.industry.small.gif",
+    "image_path": "assets/buildings/mariko/images/mko.hha.industry.small.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -49,7 +49,7 @@
   },
   {
     "id": "mko.hha.store",
-    "image": "assets/buildings/mariko/mko.hha.store.gif",
+    "image_path": "assets/buildings/mariko/images/mko.hha.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.cd.industry",
-    "image": "assets/buildings/mariko/mko.cd.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.cd.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -19,7 +19,7 @@
   },
   {
     "id": "mko.cd.store",
-    "image": "assets/buildings/mariko/mko.cd.store.gif",
+    "image_path": "assets/buildings/mariko/images/mko.cd.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

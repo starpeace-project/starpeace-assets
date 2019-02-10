@@ -1,7 +1,7 @@
 [
   {
     "id": "generic.warehouse.chemical",
-    "image": "assets/buildings/generic/generic.warehouse.chemical.gif",
+    "image_path": "assets/buildings/generic/images/generic.warehouse.chemical.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -19,7 +19,7 @@
   },
   {
     "id": "generic.warehouse.cold",
-    "image": "assets/buildings/generic/generic.warehouse.cold.gif",
+    "image_path": "assets/buildings/generic/images/generic.warehouse.cold.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -35,7 +35,7 @@
   },
   {
     "id": "generic.warehouse.cold.super",
-    "image": "assets/buildings/generic/generic.warehouse.cold.super.gif",
+    "image_path": "assets/buildings/generic/images/generic.warehouse.cold.super.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -46,7 +46,7 @@
   },
   {
     "id": "generic.warehouse.export",
-    "image": "assets/buildings/generic/generic.warehouse.export.gif",
+    "image_path": "assets/buildings/generic/images/generic.warehouse.export.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -58,7 +58,7 @@
   },
   {
     "id": "generic.warehouse.fabric",
-    "image": "assets/buildings/generic/generic.warehouse.fabric.gif",
+    "image_path": "assets/buildings/generic/images/generic.warehouse.fabric.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -71,7 +71,7 @@
   },
   {
     "id": "generic.warehouse.import",
-    "image": "assets/buildings/generic/generic.warehouse.import.gif",
+    "image_path": "assets/buildings/generic/images/generic.warehouse.import.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -83,7 +83,7 @@
   },
   {
     "id": "generic.warehouse.ore",
-    "image": "assets/buildings/generic/generic.warehouse.ore.gif",
+    "image_path": "assets/buildings/generic/images/generic.warehouse.ore.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -97,7 +97,7 @@
   },
   {
     "id": "generic.warehouse.univeral",
-    "image": "assets/buildings/generic/generic.warehouse.univeral.gif",
+    "image_path": "assets/buildings/generic/images/generic.warehouse.univeral.gif",
     "tile_width": 6,
     "tile_height": 6,
     "hit_area": [

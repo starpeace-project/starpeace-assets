@@ -1,7 +1,7 @@
 [
   {
     "id": "generic.mausoleum.construction",
-    "image": "assets/buildings/generic/generic.mausoleum.construction.gif",
+    "image_path": "assets/buildings/generic/images/generic.mausoleum.construction.gif",
     "tile_width": 9,
     "tile_height": 9,
     "hit_area": [
@@ -11,7 +11,7 @@
   },
   {
     "id": "generic.mausoleum.legend",
-    "image": "assets/buildings/generic/generic.mausoleum.legend.gif",
+    "image_path": "assets/buildings/generic/images/generic.mausoleum.legend.gif",
     "tile_width": 9,
     "tile_height": 9,
     "hit_area": [
@@ -31,7 +31,7 @@
   },
   {
     "id": "generic.mausoleum.paradigm",
-    "image": "assets/buildings/generic/generic.mausoleum.paradigm.gif",
+    "image_path": "assets/buildings/generic/images/generic.mausoleum.paradigm.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

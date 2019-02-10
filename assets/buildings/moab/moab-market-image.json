@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.market",
-    "image": "assets/buildings/moab/moab.market.gif",
+    "image_path": "assets/buildings/moab/images/moab.market.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

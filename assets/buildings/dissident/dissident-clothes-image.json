@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.clothes.industry",
-    "image": "assets/buildings/dissident/dis.clothes.industry.gif",
+    "image_path": "assets/buildings/dissident/images/dis.clothes.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -18,7 +18,7 @@
   },
   {
     "id": "dis.clothes.industry.small",
-    "image": "assets/buildings/dissident/dis.clothes.industry.small.gif",
+    "image_path": "assets/buildings/dissident/images/dis.clothes.industry.small.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -33,7 +33,7 @@
   },
   {
     "id": "dis.clothes.store",
-    "image": "assets/buildings/dissident/dis.clothes.store.gif",
+    "image_path": "assets/buildings/dissident/images/dis.clothes.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

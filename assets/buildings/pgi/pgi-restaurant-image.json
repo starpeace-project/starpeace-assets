@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.restaurant",
-    "image": "assets/buildings/pgi/pgi.restaurant.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.restaurant.gif",
     "construction_image_id": "generic.construction.1",
     "tile_width": 1,
     "tile_height": 1,

@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.const.industry",
-    "image": "assets/buildings/pgi/pgi.const.industry.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.const.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

@@ -1,7 +1,7 @@
 [
   {
     "id": "magna.supermarket.a",
-    "image": "assets/buildings/magna/magna.supermarket.a.gif",
+    "image_path": "assets/buildings/magna/images/magna.supermarket.a.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -22,7 +22,7 @@
   },
   {
     "id": "magna.supermarket.b",
-    "image": "assets/buildings/magna/magna.supermarket.b.gif",
+    "image_path": "assets/buildings/magna/images/magna.supermarket.b.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

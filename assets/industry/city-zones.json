@@ -1,0 +1,67 @@
+[
+  {
+    "id": "COMMERCIAL",
+    "value": 7,
+    "color": "0x4974D8"
+  },
+  {
+    "id": "CIVICS",
+    "value": 8,
+    "color": "0xFFFFFF"
+  },
+  {
+    "id": "HC_RESIDENTIAL",
+    "value": 3,
+    "color": "0xC0FFBB"
+  },
+  {
+    "id": "INDUSTRIAL",
+    "value": 6,
+    "color": "0xD7D988"
+  },
+  {
+    "id": "LC_RESIDENTIAL",
+    "value": 5,
+    "color": "0x23481E"
+  },
+  {
+    "id": "MC_RESIDENTIAL",
+    "value": 4,
+    "color": "0x4FA343"
+  },
+  {
+    "id": "MAUSOLEUM",
+    "value": 12,
+    "color": "0xFFFFFF"
+  },
+  {
+    "id": "NONE",
+    "value": 0,
+    "color": "0x000000"
+  },
+  {
+    "id": "OFFICES",
+    "value": 9,
+    "color": "0x394488"
+  },
+  {
+    "id": "RESERVED",
+    "value": 1,
+    "color": "0x800000"
+  },
+  {
+    "id": "RESIDENTIAL",
+    "value": 2,
+    "color": "0x008080"
+  },
+  {
+    "id": "SERVICE",
+    "value": 10,
+    "color": "0x4974D8"
+  },
+  {
+    "id": "WAREHOUSE",
+    "value": 11,
+    "color": "0xD7D988"
+  }
+]

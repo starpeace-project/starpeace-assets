@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.food.store",
-    "image": "assets/buildings/pgi/pgi.food.store.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.food.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

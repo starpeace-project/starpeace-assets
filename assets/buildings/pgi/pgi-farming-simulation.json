@@ -4,11 +4,11 @@
     "cost": 13440000,
     "required_inputs": [
       {
-        "resource": "WORK_FORCE_MID",
+        "resource": "PROFESSIONAL",
         "max": 1
       },
       {
-        "resource": "WORK_FORCE_LO",
+        "resource": "WORKER",
         "max": 30
       }
     ],
@@ -36,11 +36,11 @@
     "cost": 3200000,
     "required_inputs": [
       {
-        "resource": "WORK_FORCE_MID",
+        "resource": "PROFESSIONAL",
         "max": 1
       },
       {
-        "resource": "WORK_FORCE_LO",
+        "resource": "WORKER",
         "max": 18
       }
     ],

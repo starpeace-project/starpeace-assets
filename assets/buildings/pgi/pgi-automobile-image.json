@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.car.industry",
-    "image": "assets/buildings/pgi/pgi.car.industry.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.car.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -20,7 +20,7 @@
   },
   {
     "id": "pgi.car.store",
-    "image": "assets/buildings/pgi/pgi.car.store.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.car.store.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

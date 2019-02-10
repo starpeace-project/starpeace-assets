@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.fire",
-    "image": "assets/buildings/pgi/pgi.fire.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.fire.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -13,7 +13,7 @@
   },
   {
     "id": "pgi.hospital",
-    "image": "assets/buildings/pgi/pgi.hospital.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hospital.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -25,7 +25,7 @@
   },
   {
     "id": "pgi.hq.1",
-    "image": "assets/buildings/pgi/pgi.hq.1.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hq.1.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -39,7 +39,7 @@
   },
   {
     "id": "pgi.hq.2",
-    "image": "assets/buildings/pgi/pgi.hq.2.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hq.2.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -54,7 +54,7 @@
   },
   {
     "id": "pgi.hq.3",
-    "image": "assets/buildings/pgi/pgi.hq.3.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hq.3.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -70,7 +70,7 @@
   },
   {
     "id": "pgi.hq.4",
-    "image": "assets/buildings/pgi/pgi.hq.4.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hq.4.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -85,7 +85,7 @@
   },
   {
     "id": "pgi.hq.5",
-    "image": "assets/buildings/pgi/pgi.hq.5.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hq.5.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -100,7 +100,7 @@
   },
   {
     "id": "pgi.police",
-    "image": "assets/buildings/pgi/pgi.police.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.police.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -111,7 +111,7 @@
   },
   {
     "id": "pgi.school",
-    "image": "assets/buildings/pgi/pgi.school.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.school.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -121,7 +121,7 @@
   },
   {
     "id": "pgi.townhall",
-    "image": "assets/buildings/pgi/pgi.townhall.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.townhall.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -136,7 +136,7 @@
   },
   {
     "id": "pgi.tradecenter",
-    "image": "assets/buildings/pgi/pgi.tradecenter.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.tradecenter.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

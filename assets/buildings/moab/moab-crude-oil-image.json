@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.oil.rig",
-    "image": "assets/buildings/moab/moab.oil.rig.gif",
+    "image_path": "assets/buildings/moab/images/moab.oil.rig.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

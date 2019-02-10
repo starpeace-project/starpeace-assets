@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.farm",
-    "image": "assets/buildings/dissident/dis.farm.gif",
+    "image_path": "assets/buildings/dissident/images/dis.farm.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -23,7 +23,7 @@
   },
   {
     "id": "dis.farm.small",
-    "image": "assets/buildings/dissident/dis.farm.small.gif",
+    "image_path": "assets/buildings/dissident/images/dis.farm.small.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

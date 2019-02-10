@@ -1,7 +1,7 @@
 [
   {
     "id": "magna.cloud.city.empty",
-    "image": "assets/buildings/magna/magna.cloud.city.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.cloud.city.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -17,7 +17,7 @@
   },
   {
     "id": "magna.cloud.city",
-    "image": "assets/buildings/magna/magna.cloud.city.gif",
+    "image_path": "assets/buildings/magna/images/magna.cloud.city.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -33,7 +33,7 @@
   },
   {
     "id": "magna.heaven.empty",
-    "image": "assets/buildings/magna/magna.heaven.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.heaven.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -55,7 +55,7 @@
   },
   {
     "id": "magna.heaven",
-    "image": "assets/buildings/magna/magna.heaven.gif",
+    "image_path": "assets/buildings/magna/images/magna.heaven.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -77,7 +77,7 @@
   },
   {
     "id": "magna.hive.empty",
-    "image": "assets/buildings/magna/magna.hive.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.hive.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -98,7 +98,7 @@
   },
   {
     "id": "magna.hive",
-    "image": "assets/buildings/magna/magna.hive.gif",
+    "image_path": "assets/buildings/magna/images/magna.hive.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -119,7 +119,7 @@
   },
   {
     "id": "magna.ivory.tower.empty",
-    "image": "assets/buildings/magna/magna.ivory.tower.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.ivory.tower.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -137,7 +137,7 @@
   },
   {
     "id": "magna.ivory.tower",
-    "image": "assets/buildings/magna/magna.ivory.tower.gif",
+    "image_path": "assets/buildings/magna/images/magna.ivory.tower.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -155,7 +155,7 @@
   },
   {
     "id": "magna.mayflower.empty",
-    "image": "assets/buildings/magna/magna.mayflower.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.mayflower.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -173,7 +173,7 @@
   },
   {
     "id": "magna.mayflower",
-    "image": "assets/buildings/magna/magna.mayflower.gif",
+    "image_path": "assets/buildings/magna/images/magna.mayflower.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -191,7 +191,7 @@
   },
   {
     "id": "magna.octopus.empty",
-    "image": "assets/buildings/magna/magna.octopus.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.octopus.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -211,7 +211,7 @@
   },
   {
     "id": "magna.octopus",
-    "image": "assets/buildings/magna/magna.octopus.gif",
+    "image_path": "assets/buildings/magna/images/magna.octopus.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -231,7 +231,7 @@
   },
   {
     "id": "magna.sky.dome.empty",
-    "image": "assets/buildings/magna/magna.sky.dome.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.sky.dome.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -248,7 +248,7 @@
   },
   {
     "id": "magna.sky.dome",
-    "image": "assets/buildings/magna/magna.sky.dome.gif",
+    "image_path": "assets/buildings/magna/images/magna.sky.dome.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -265,7 +265,7 @@
   },
   {
     "id": "magna.solarium.empty",
-    "image": "assets/buildings/magna/magna.solarium.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.solarium.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -292,7 +292,7 @@
   },
   {
     "id": "magna.solarium",
-    "image": "assets/buildings/magna/magna.solarium.gif",
+    "image_path": "assets/buildings/magna/images/magna.solarium.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -319,7 +319,7 @@
   },
   {
     "id": "magna.the.spring.empty",
-    "image": "assets/buildings/magna/magna.the.spring.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.the.spring.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -341,7 +341,7 @@
   },
   {
     "id": "magna.the.spring",
-    "image": "assets/buildings/magna/magna.the.spring.gif",
+    "image_path": "assets/buildings/magna/images/magna.the.spring.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -363,7 +363,7 @@
   },
   {
     "id": "magna.tulip.empty",
-    "image": "assets/buildings/magna/magna.tulip.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.tulip.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -382,7 +382,7 @@
   },
   {
     "id": "magna.tulip",
-    "image": "assets/buildings/magna/magna.tulip.gif",
+    "image_path": "assets/buildings/magna/images/magna.tulip.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -401,7 +401,7 @@
   },
   {
     "id": "magna.whirlpool.empty",
-    "image": "assets/buildings/magna/magna.whirlpool.empty.gif",
+    "image_path": "assets/buildings/magna/images/magna.whirlpool.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -417,7 +417,7 @@
   },
   {
     "id": "magna.whirlpool",
-    "image": "assets/buildings/magna/magna.whirlpool.gif",
+    "image_path": "assets/buildings/magna/images/magna.whirlpool.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

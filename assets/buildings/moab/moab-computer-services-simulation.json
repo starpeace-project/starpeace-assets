@@ -8,15 +8,15 @@
         "max": 1
       },
       {
-        "resource": "WORK_FORCE_HI",
+        "resource": "EXECUTIVE",
         "max": 3
       },
       {
-        "resource": "WORK_FORCE_MID",
+        "resource": "PROFESSIONAL",
         "max": 33
       },
       {
-        "resource": "WORK_FORCE_LO",
+        "resource": "WORKER",
         "max": 7
       }
     ],

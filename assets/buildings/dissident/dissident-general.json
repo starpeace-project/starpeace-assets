@@ -116,7 +116,7 @@
     "seal": "dissident",
     "zone": "CIVICS",
     "category": "CIVIC",
-    "industry_type": "TOWNHALL",
+    "industry_type": "GOVERNMENT",
     "restricted": true,
     "required_inventions": []
   },
@@ -135,7 +135,7 @@
     "seal": "dissident",
     "zone": "CIVICS",
     "category": "CIVIC",
-    "industry_type": "TRADECENTER",
+    "industry_type": "GOVERNMENT",
     "restricted": true,
     "required_inventions": []
   }

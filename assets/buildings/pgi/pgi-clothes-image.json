@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.clothes.industry",
-    "image": "assets/buildings/pgi/pgi.clothes.industry.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.clothes.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -14,7 +14,7 @@
   },
   {
     "id": "pgi.clothes.industry.small",
-    "image": "assets/buildings/pgi/pgi.clothes.industry.small.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.clothes.industry.small.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

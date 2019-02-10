@@ -4,15 +4,15 @@
     "cost": 5000000,
     "required_inputs": [
       {
-        "resource": "WORK_FORCE_HI",
+        "resource": "EXECUTIVE",
         "max": 2
       },
       {
-        "resource": "WORK_FORCE_MID",
+        "resource": "PROFESSIONAL",
         "max": 4
       },
       {
-        "resource": "WORK_FORCE_LO",
+        "resource": "WORKER",
         "max": 50
       }
     ],

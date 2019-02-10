@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.legal.services",
-    "image": "assets/buildings/pgi/pgi.legal.services.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.legal.services.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

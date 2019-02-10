@@ -2,7 +2,7 @@
   {
     "id": "moab.textile.industry",
     "image_id": "moab.textile.industry",
-    "construction_id": "generic.construction.4",
+    "construction_image_id": "generic.construction.4",
     "name": {
       "DE": "Kuppel der Fäden",
       "EN": "Dome of Threads",

@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.bar",
-    "image": "assets/buildings/pgi/pgi.bar.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.bar.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

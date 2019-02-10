@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.heavy.industry",
-    "image": "assets/buildings/mariko/mko.heavy.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.heavy.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

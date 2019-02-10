@@ -8,15 +8,15 @@
         "max": 792
       },
       {
-        "resource": "WORK_FORCE_HI",
+        "resource": "EXECUTIVE",
         "max": 1
       },
       {
-        "resource": "WORK_FORCE_MID",
+        "resource": "PROFESSIONAL",
         "max": 14
       },
       {
-        "resource": "WORK_FORCE_LO",
+        "resource": "WORKER",
         "max": 42
       }
     ],
@@ -48,15 +48,15 @@
         "max": 400
       },
       {
-        "resource": "WORK_FORCE_HI",
+        "resource": "EXECUTIVE",
         "max": 1
       },
       {
-        "resource": "WORK_FORCE_MID",
+        "resource": "PROFESSIONAL",
         "max": 10
       },
       {
-        "resource": "WORK_FORCE_LO",
+        "resource": "WORKER",
         "max": 30
       }
     ],

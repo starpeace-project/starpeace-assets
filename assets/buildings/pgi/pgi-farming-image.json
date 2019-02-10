@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.farm",
-    "image": "assets/buildings/pgi/pgi.farm.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.farm.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -13,7 +13,7 @@
   },
   {
     "id": "pgi.farm.small",
-    "image": "assets/buildings/pgi/pgi.farm.small.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.farm.small.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

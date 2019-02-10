@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.book.store",
-    "image": "assets/buildings/dissident/dis.book.store.gif",
+    "image_path": "assets/buildings/dissident/images/dis.book.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

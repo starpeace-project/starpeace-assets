@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.tv.station",
-    "image": "assets/buildings/moab/moab.tv.station.gif",
+    "image_path": "assets/buildings/moab/images/moab.tv.station.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

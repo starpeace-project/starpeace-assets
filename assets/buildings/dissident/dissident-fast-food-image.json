@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.food.store",
-    "image": "assets/buildings/dissident/dis.food.store.gif",
+    "image_path": "assets/buildings/dissident/images/dis.food.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

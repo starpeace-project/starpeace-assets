@@ -1,0 +1,629 @@
+[
+  {
+    "id": "APPLIANCE",
+    "label": {
+      "DE": "Haushaltsgeräte",
+      "EN": "Appliances",
+      "ES": "Accesorios",
+      "FR": "Appareils Électroménagers",
+      "IT": "Appliances",
+      "PT": "Eletrodomésticos"
+    }
+  },
+  {
+    "id": "AUTOMOBILE",
+    "label": {
+      "DE": "Kraftfahrzeug",
+      "EN": "Automobile",
+      "ES": "Automóvil",
+      "FR": "Voiture",
+      "IT": "Automobile",
+      "PT": "Automóvel"
+    }
+  },
+  {
+    "id": "BANKING",
+    "label": {
+      "DE": "Bank",
+      "EN": "Banking",
+      "ES": "Bancario",
+      "FR": "Bancaire",
+      "IT": "Bancario",
+      "PT": "Bancário"
+    }
+  },
+  {
+    "id": "BAR",
+    "label": {
+      "DE": "Lokal",
+      "EN": "Bars",
+      "ES": "Barras",
+      "FR": "Les Bars",
+      "IT": "Barre",
+      "PT": "Barras"
+    }
+  },
+  {
+    "id": "BOOK",
+    "label": {
+      "DE": "Bücher",
+      "EN": "Book",
+      "ES": "Libro",
+      "FR": "Livre",
+      "IT": "Libro",
+      "PT": "Livro"
+    }
+  },
+  {
+    "id": "CHEMICAL",
+    "label": {
+      "DE": "Chemikalien",
+      "EN": "Chemical",
+      "ES": "Químico",
+      "FR": "Chimique",
+      "IT": "Chimico",
+      "PT": "Químico"
+    }
+  },
+  {
+    "id": "CLOTHES",
+    "label": {
+      "DE": "Kleiderfabrik",
+      "EN": "Clothing",
+      "ES": "Ropa",
+      "FR": "Vêtements",
+      "IT": "Capi di Abbigliamento",
+      "PT": "Roupas"
+    }
+  },
+  {
+    "id": "COAL",
+    "label": {
+      "DE": "Kohle",
+      "EN": "Coal",
+      "ES": "Carbón",
+      "FR": "Charbon",
+      "IT": "Carbone",
+      "PT": "Carvão"
+    }
+  },
+  {
+    "id": "COLLEGE",
+    "label": {
+      "DE": "Universität",
+      "EN": "College",
+      "ES": "Universidad",
+      "FR": "Université",
+      "IT": "Università",
+      "PT": "Faculdade"
+    }
+  },
+  {
+    "id": "COMPACT_DISC",
+    "label": {
+      "DE": "CD",
+      "EN": "Compact Disc",
+      "ES": "Disco Compacto",
+      "FR": "Disque Compact",
+      "IT": "Compact Disc",
+      "PT": "Disco Compacto"
+    }
+  },
+  {
+    "id": "COMPUTER",
+    "label": {
+      "DE": "Computer",
+      "EN": "Computer",
+      "ES": "Computadora",
+      "FR": "Ordinateur",
+      "IT": "Computer",
+      "PT": "Computador"
+    }
+  },
+  {
+    "id": "COMPUTER_SERVICES",
+    "label": {
+      "DE": "Computer Dienstleistungen",
+      "EN": "Computer Services",
+      "ES": "Servicios Informaticos",
+      "FR": "Services Informatiques",
+      "IT": "Servizi Informatici",
+      "PT": "Serviços Informáticos"
+    }
+  },
+  {
+    "id": "CONSTRUCTION",
+    "label": {
+      "DE": "Bauindustrie",
+      "EN": "Construction",
+      "ES": "Construcción",
+      "FR": "Construction",
+      "IT": "Costruzione",
+      "PT": "Construção"
+    }
+  },
+  {
+    "id": "CRUDE_OIL",
+    "label": {
+      "DE": "Rohöl",
+      "EN": "Crude Oil",
+      "ES": "Petróleo Crudo",
+      "FR": "Huile Brute",
+      "IT": "Olio Crudo",
+      "PT": "Óleo Cru"
+    }
+  },
+  {
+    "id": "ELECTRONIC_COMPONENT",
+    "label": {
+      "DE": "Elektronikbauteile",
+      "EN": "Electronic Component",
+      "ES": "Componente Electrónico",
+      "FR": "Composant Élèctronique",
+      "IT": "Componente Elettronico",
+      "PT": "Componente Eletronico"
+    }
+  },
+  {
+    "id": "FABRIC",
+    "label": {
+      "DE": "Gewebekonstruktion",
+      "EN": "Fabric",
+      "ES": "Tela",
+      "FR": "En Tissu",
+      "IT": "Tessuto",
+      "PT": "Tecido"
+    }
+  },
+  {
+    "id": "FAST_FOOD",
+    "label": {
+      "DE": "Schnellrestaurant",
+      "EN": "Fast Food",
+      "ES": "Comida Rápida",
+      "FR": "Fast Food",
+      "IT": "Fast Food",
+      "PT": "Comida Rápida"
+    }
+  },
+  {
+    "id": "FARMING",
+    "label": {
+      "DE": "Landwirtschaft",
+      "EN": "Farming",
+      "ES": "Agricultura",
+      "FR": "Agriculture",
+      "IT": "Agricoltura",
+      "PT": "Agricultura"
+    }
+  },
+  {
+    "id": "FIRE",
+    "label": {
+      "DE": "Brandschutz",
+      "EN": "Fire Safety",
+      "ES": "Seguridad Contra Incendios",
+      "FR": "La Sécurité Incendie",
+      "IT": "Sicurezza Antincendio",
+      "PT": "Segurança Contra Incêndios"
+    }
+  },
+  {
+    "id": "FUNERAL_SERVICES",
+    "label": {
+      "DE": "Bestattungsinstitut",
+      "EN": "Funeral Services",
+      "ES": "Servicios Fúnebres",
+      "FR": "Services Funéraires",
+      "IT": "Servizi Funebri",
+      "PT": "Serviços Funerários"
+    }
+  },
+  {
+    "id": "FURNITURE",
+    "label": {
+      "DE": "Möbelindustrie",
+      "EN": "Furniture",
+      "ES": "Mueble",
+      "FR": "Meubles",
+      "IT": "Mobilia",
+      "PT": "Mobília"
+    }
+  },
+  {
+    "id": "GARBAGE",
+    "label": {
+      "DE": "Müll",
+      "EN": "Garbage",
+      "ES": "Basura",
+      "FR": "Des Ordures",
+      "IT": "Spazzatura",
+      "PT": "Lixo"
+    }
+  },
+  {
+    "id": "GASOLINE",
+    "label": {
+      "DE": "Treibstoff",
+      "EN": "Gasoline",
+      "ES": "Gasolina",
+      "FR": "De L'Essence",
+      "IT": "Gasolio",
+      "PT": "Gasolina"
+    }
+  },
+  {
+    "id": "GENERAL",
+    "label": {
+      "DE": "Allgemein",
+      "EN": "General",
+      "ES": "General",
+      "FR": "Général",
+      "IT": "Generale",
+      "PT": "Geral"
+    }
+  },
+  {
+    "id": "GOVERNMENT",
+    "label": {
+      "DE": "Regierung",
+      "EN": "Government",
+      "ES": "Gobierno",
+      "FR": "Gouvernement",
+      "IT": "Governo",
+      "PT": "Governo"
+    }
+  },
+  {
+    "id": "HC_RESIDENTIAL",
+    "label": {
+      "DE": "Hochwertige Immobilien",
+      "EN": "High-class Residential",
+      "ES": "Clase Alta Residencial",
+      "FR": "Résidentiel Haut de Gamme",
+      "IT": "Residenziale di Alta Classe",
+      "PT": "Residencial de Alta Classe"
+    }
+  },
+  {
+    "id": "HEADQUARTERS",
+    "label": {
+      "DE": "Zentrale",
+      "EN": "Headquarters",
+      "ES": "Sede",
+      "FR": "Quartier Général",
+      "IT": "Quartier Generale",
+      "PT": "Quartel General"
+    }
+  },
+  {
+    "id": "HOSPITAL",
+    "label": {
+      "DE": "Krankenhaus",
+      "EN": "Hospital",
+      "ES": "Hospital",
+      "FR": "Hôpital",
+      "IT": "Ospedale",
+      "PT": "Hospital"
+    }
+  },
+  {
+    "id": "LC_RESIDENTIAL",
+    "label": {
+      "DE": "Preiswerte Immobilien",
+      "EN": "Low-class Residential",
+      "ES": "Residencial de Clase Baja",
+      "FR": "Résidentiel Bas de Gamme",
+      "IT": "Residenziale di Classe Bassa",
+      "PT": "Residencial de Baixa Classe"
+    }
+  },
+  {
+    "id": "LEGAL_SERVICES",
+    "label": {
+      "DE": "Rechtsdienstleistungen",
+      "EN": "Legal Services",
+      "ES": "Servicios Jurídicos",
+      "FR": "Services Juridiques",
+      "IT": "Servizi Legali",
+      "PT": "Serviços Legais"
+    }
+  },
+  {
+    "id": "LIQUOR",
+    "label": {
+      "DE": "Spirituosen",
+      "EN": "Liquor",
+      "ES": "Espíritu",
+      "FR": "Alcool",
+      "IT": "Liquore",
+      "PT": "Licor"
+    }
+  },
+  {
+    "id": "MACHINERY",
+    "label": {
+      "DE": "Maschinen",
+      "EN": "Machinery",
+      "ES": "Maquinaria",
+      "FR": "Machinerie",
+      "IT": "Macchinario",
+      "PT": "Maquinário"
+    }
+  },
+  {
+    "id": "MARKET",
+    "label": {
+      "DE": "Markt",
+      "EN": "Market",
+      "ES": "Mercado",
+      "FR": "Marché",
+      "IT": "Mercato",
+      "PT": "Mercado"
+    }
+  },
+  {
+    "id": "MAUSOLEUM",
+    "label": {
+      "DE": "Mausoleum",
+      "EN": "Mausoleum",
+      "ES": "Mausoleo",
+      "FR": "Mausolée",
+      "IT": "Mausoleo",
+      "PT": "Mausoléu"
+    }
+  },
+  {
+    "id": "MC_RESIDENTIAL",
+    "label": {
+      "DE": "Bürgerliche Immobilien",
+      "EN": "Middle-class Residential",
+      "ES": "Clase Media Residencial",
+      "FR": "Classe Moyenne Résidentiel",
+      "IT": "Residenziale di Classe Media",
+      "PT": "Residencial de Classe Média"
+    }
+  },
+  {
+    "id": "METAL",
+    "label": {
+      "DE": "Metalurgie",
+      "EN": "Metallurgy",
+      "ES": "Metalurgia",
+      "FR": "Métallurgie",
+      "IT": "Metallurgia",
+      "PT": "Metalurgia"
+    }
+  },
+  {
+    "id": "MOVIE",
+    "label": {
+      "DE": "Kino",
+      "EN": "Movie",
+      "ES": "Película",
+      "FR": "Film",
+      "IT": "Film",
+      "PT": "Filme"
+    }
+  },
+  {
+    "id": "MUSEUM",
+    "label": {
+      "DE": "Museum",
+      "EN": "Museum",
+      "ES": "Museo",
+      "FR": "Musée",
+      "IT": "Museo",
+      "PT": "Museu"
+    }
+  },
+  {
+    "id": "OFFICE",
+    "label": {
+      "DE": "Büro",
+      "EN": "Office",
+      "ES": "Oficina",
+      "FR": "Bureau",
+      "IT": "Ufficio",
+      "PT": "Escritório"
+    }
+  },
+  {
+    "id": "ORE",
+    "label": {
+      "DE": "Erz",
+      "EN": "Ore",
+      "ES": "Mineral",
+      "FR": "Minerai",
+      "IT": "Minerale",
+      "PT": "Minério"
+    }
+  },
+  {
+    "id": "PAPER",
+    "label": {
+      "DE": "Papier",
+      "EN": "Paper",
+      "ES": "Papel",
+      "FR": "Papier",
+      "IT": "Carta",
+      "PT": "Papel"
+    }
+  },
+  {
+    "id": "PARK",
+    "label": {
+      "DE": "Park",
+      "EN": "Park",
+      "ES": "Parque",
+      "FR": "Parc",
+      "IT": "Parco",
+      "PT": "Parque"
+    }
+  },
+  {
+    "id": "PHARMACEUTICAL",
+    "label": {
+      "DE": "Arzneimittel",
+      "EN": "Pharmaceutical",
+      "ES": "Farmacéutico",
+      "FR": "Pharmaceutique",
+      "IT": "Farmaceutico",
+      "PT": "Farmacêutico"
+    }
+  },
+  {
+    "id": "PLASTIC",
+    "label": {
+      "DE": "Kunststoff",
+      "EN": "Plastic",
+      "ES": "Plastico",
+      "FR": "Plastique",
+      "IT": "Plastica",
+      "PT": "Plástico"
+    }
+  },
+  {
+    "id": "POLICE",
+    "label": {
+      "DE": "Polizei",
+      "EN": "Police",
+      "ES": "Policía",
+      "FR": "Police",
+      "IT": "Polizia",
+      "PT": "Polícia"
+    }
+  },
+  {
+    "id": "PRISON",
+    "label": {
+      "DE": "Haftanstalt",
+      "EN": "Prison",
+      "ES": "Prisión",
+      "FR": "Prison",
+      "IT": "Prigione",
+      "PT": "Prisão"
+    }
+  },
+  {
+    "id": "PROCESSED_FOOD",
+    "label": {
+      "DE": "Verarbeitete Lebensmittel",
+      "EN": "Processed Food",
+      "ES": "Alimentos Procesados",
+      "FR": "Aliments Transformés",
+      "IT": "Cibo Trattato",
+      "PT": "Comida Processada"
+    }
+  },
+  {
+    "id": "RAW_CHEMICAL",
+    "label": {
+      "DE": "Rohchemikalien",
+      "EN": "Raw Chemical",
+      "ES": "Química Cruda",
+      "FR": "Produit Chimique Brut",
+      "IT": "Prodotto Chimico Crudo",
+      "PT": "Químico Bruto"
+    }
+  },
+  {
+    "id": "RESIDENTIAL",
+    "label": {
+      "DE": "Wohn",
+      "EN": "Restaurant",
+      "ES": "Residencial",
+      "FR": "Résidentiel",
+      "IT": "Residenziale",
+      "PT": "Residencial"
+    }
+  },
+  {
+    "id": "RESTAURANT",
+    "label": {
+      "DE": "Restaurant",
+      "EN": "Restaurant",
+      "ES": "Restaurante",
+      "FR": "Restaurant",
+      "IT": "Ristorante",
+      "PT": "Restaurante"
+    }
+  },
+  {
+    "id": "SCHOOL",
+    "label": {
+      "DE": "Schule",
+      "EN": "School",
+      "ES": "Colegio",
+      "FR": "École",
+      "IT": "Scuola",
+      "PT": "Escola"
+    }
+  },
+  {
+    "id": "SILICON",
+    "label": {
+      "DE": "Silizium",
+      "EN": "Silicon",
+      "ES": "Silicio",
+      "FR": "Silicium",
+      "IT": "Silicio",
+      "PT": "Silício"
+    }
+  },
+  {
+    "id": "STONE",
+    "label": {
+      "DE": "Stein",
+      "EN": "Stone",
+      "ES": "Piedra",
+      "FR": "Pierre",
+      "IT": "Pietra",
+      "PT": "Pedra"
+    }
+  },
+  {
+    "id": "TELEVISION",
+    "label": {
+      "DE": "Fernsehen",
+      "EN": "Television",
+      "ES": "Televisión",
+      "FR": "Télévision",
+      "IT": "Televisione",
+      "PT": "Televisão"
+    }
+  },
+  {
+    "id": "TIMBER",
+    "label": {
+      "DE": "Holz",
+      "EN": "Timber",
+      "ES": "Madera",
+      "FR": "Bois",
+      "IT": "Legname",
+      "PT": "Madeira"
+    }
+  },
+  {
+    "id": "TOY",
+    "label": {
+      "DE": "Spielzeug",
+      "EN": "Toy",
+      "ES": "Juguete",
+      "FR": "Jouet",
+      "IT": "Giocattolo",
+      "PT": "Brinquedo"
+    }
+  },
+  {
+    "id": "WAREHOUSE",
+    "label": {
+      "DE": "Lagerhalle",
+      "EN": "Warehouse",
+      "ES": "Almacén",
+      "FR": "Entrepôt",
+      "IT": "Magazzino",
+      "PT": "Armazém"
+    }
+  }
+]

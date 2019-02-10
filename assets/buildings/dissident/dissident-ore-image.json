@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.mine",
-    "image": "assets/buildings/dissident/dis.mine.gif",
+    "image_path": "assets/buildings/dissident/images/dis.mine.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -28,7 +28,7 @@
   },
   {
     "id": "dis.mine.small",
-    "image": "assets/buildings/dissident/dis.mine.small.gif",
+    "image_path": "assets/buildings/dissident/images/dis.mine.small.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.hi.res.a.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.a.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.a.empty.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -15,7 +15,7 @@
   },
   {
     "id": "pgi.hi.res.a",
-    "image": "assets/buildings/pgi/pgi.hi.res.a.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.a.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -29,7 +29,7 @@
   },
   {
     "id": "pgi.hi.res.b.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.b.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.b.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -41,7 +41,7 @@
   },
   {
     "id": "pgi.hi.res.b",
-    "image": "assets/buildings/pgi/pgi.hi.res.b.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.b.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -53,7 +53,7 @@
   },
   {
     "id": "pgi.hi.res.c.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.c.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.c.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -65,7 +65,7 @@
   },
   {
     "id": "pgi.hi.res.c",
-    "image": "assets/buildings/pgi/pgi.hi.res.c.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.c.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -77,7 +77,7 @@
   },
   {
     "id": "pgi.hi.res.d.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.d.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.d.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -89,7 +89,7 @@
   },
   {
     "id": "pgi.hi.res.d",
-    "image": "assets/buildings/pgi/pgi.hi.res.d.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.d.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -101,7 +101,7 @@
   },
   {
     "id": "pgi.hi.res.e.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.e.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.e.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -112,7 +112,7 @@
   },
   {
     "id": "pgi.hi.res.e",
-    "image": "assets/buildings/pgi/pgi.hi.res.e.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.e.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -123,7 +123,7 @@
   },
   {
     "id": "pgi.hi.res.f.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.f.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.f.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -135,7 +135,7 @@
   },
   {
     "id": "pgi.hi.res.f",
-    "image": "assets/buildings/pgi/pgi.hi.res.f.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.f.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -147,7 +147,7 @@
   },
   {
     "id": "pgi.hi.res.g.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.g.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.g.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -159,7 +159,7 @@
   },
   {
     "id": "pgi.hi.res.g",
-    "image": "assets/buildings/pgi/pgi.hi.res.g.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.g.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -171,7 +171,7 @@
   },
   {
     "id": "pgi.hi.res.h.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.h.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.h.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -183,7 +183,7 @@
   },
   {
     "id": "pgi.hi.res.h",
-    "image": "assets/buildings/pgi/pgi.hi.res.h.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.h.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -195,7 +195,7 @@
   },
   {
     "id": "pgi.hi.res.i.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.i.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.i.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -207,7 +207,7 @@
   },
   {
     "id": "pgi.hi.res.i",
-    "image": "assets/buildings/pgi/pgi.hi.res.i.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.i.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -219,7 +219,7 @@
   },
   {
     "id": "pgi.hi.res.j.empty",
-    "image": "assets/buildings/pgi/pgi.hi.res.j.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.j.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -230,7 +230,7 @@
   },
   {
     "id": "pgi.hi.res.j",
-    "image": "assets/buildings/pgi/pgi.hi.res.j.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.hi.res.j.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -241,7 +241,7 @@
   },
   {
     "id": "pgi.lo.res.a.empty",
-    "image": "assets/buildings/pgi/pgi.lo.res.a.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.a.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -253,7 +253,7 @@
   },
   {
     "id": "pgi.lo.res.a",
-    "image": "assets/buildings/pgi/pgi.lo.res.a.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.a.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -264,7 +264,7 @@
   },
   {
     "id": "pgi.lo.res.b.empty",
-    "image": "assets/buildings/pgi/pgi.lo.res.b.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.b.empty.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -276,7 +276,7 @@
   },
   {
     "id": "pgi.lo.res.b",
-    "image": "assets/buildings/pgi/pgi.lo.res.b.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.b.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -288,7 +288,7 @@
   },
   {
     "id": "pgi.lo.res.c.empty",
-    "image": "assets/buildings/pgi/pgi.lo.res.c.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.c.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -300,7 +300,7 @@
   },
   {
     "id": "pgi.lo.res.c",
-    "image": "assets/buildings/pgi/pgi.lo.res.c.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.c.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -312,7 +312,7 @@
   },
   {
     "id": "pgi.lo.res.d.empty",
-    "image": "assets/buildings/pgi/pgi.lo.res.d.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.d.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -325,7 +325,7 @@
   },
   {
     "id": "pgi.lo.res.d",
-    "image": "assets/buildings/pgi/pgi.lo.res.d.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.d.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -338,7 +338,7 @@
   },
   {
     "id": "pgi.lo.res.e.empty",
-    "image": "assets/buildings/pgi/pgi.lo.res.e.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.e.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -351,7 +351,7 @@
   },
   {
     "id": "pgi.lo.res.e",
-    "image": "assets/buildings/pgi/pgi.lo.res.e.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.e.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -364,7 +364,7 @@
   },
   {
     "id": "pgi.lo.res.f.empty",
-    "image": "assets/buildings/pgi/pgi.lo.res.f.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.f.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -377,7 +377,7 @@
   },
   {
     "id": "pgi.lo.res.f",
-    "image": "assets/buildings/pgi/pgi.lo.res.f.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.lo.res.f.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -390,7 +390,7 @@
   },
   {
     "id": "pgi.mi.res.a.empty",
-    "image": "assets/buildings/pgi/pgi.mi.res.a.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.a.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -403,7 +403,7 @@
   },
   {
     "id": "pgi.mi.res.a",
-    "image": "assets/buildings/pgi/pgi.mi.res.a.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.a.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -416,7 +416,7 @@
   },
   {
     "id": "pgi.mi.res.b.empty",
-    "image": "assets/buildings/pgi/pgi.mi.res.b.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.b.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -429,7 +429,7 @@
   },
   {
     "id": "pgi.mi.res.b",
-    "image": "assets/buildings/pgi/pgi.mi.res.b.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.b.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -442,7 +442,7 @@
   },
   {
     "id": "pgi.mi.res.c.empty",
-    "image": "assets/buildings/pgi/pgi.mi.res.c.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.c.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -456,7 +456,7 @@
   },
   {
     "id": "pgi.mi.res.c",
-    "image": "assets/buildings/pgi/pgi.mi.res.c.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.c.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -470,7 +470,7 @@
   },
   {
     "id": "pgi.mi.res.d.empty",
-    "image": "assets/buildings/pgi/pgi.mi.res.d.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.d.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -483,7 +483,7 @@
   },
   {
     "id": "pgi.mi.res.d",
-    "image": "assets/buildings/pgi/pgi.mi.res.d.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.d.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -496,7 +496,7 @@
   },
   {
     "id": "pgi.mi.res.e.empty",
-    "image": "assets/buildings/pgi/pgi.mi.res.e.empty.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.e.empty.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -506,7 +506,7 @@
   },
   {
     "id": "pgi.mi.res.e",
-    "image": "assets/buildings/pgi/pgi.mi.res.e.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mi.res.e.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

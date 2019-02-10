@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.food.proc",
-    "image": "assets/buildings/mariko/mko.food.proc.gif",
+    "image_path": "assets/buildings/mariko/images/mko.food.proc.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -24,7 +24,7 @@
   },
   {
     "id": "mko.food.proc.small",
-    "image": "assets/buildings/mariko/mko.food.proc.small.gif",
+    "image_path": "assets/buildings/mariko/images/mko.food.proc.small.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.plastic.industry",
-    "image": "assets/buildings/mariko/mko.plastic.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.plastic.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.bm.industry",
-    "image": "assets/buildings/dissident/dis.bm.industry.gif",
+    "image_path": "assets/buildings/dissident/images/dis.bm.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

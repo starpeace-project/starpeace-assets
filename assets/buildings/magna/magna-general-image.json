@@ -1,7 +1,7 @@
 [
   {
     "id": "magna.research.a",
-    "image": "assets/buildings/magna/magna.research.a.gif",
+    "image_path": "assets/buildings/magna/images/magna.research.a.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -21,7 +21,7 @@
   },
   {
     "id": "magna.research.b",
-    "image": "assets/buildings/magna/magna.research.b.gif",
+    "image_path": "assets/buildings/magna/images/magna.research.b.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -44,7 +44,7 @@
   },
   {
     "id": "magna.construction",
-    "image": "assets/buildings/magna/magna.construction.gif",
+    "image_path": "assets/buildings/magna/images/magna.construction.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

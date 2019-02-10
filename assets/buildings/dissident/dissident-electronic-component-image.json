@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.elect.comp.industry",
-    "image": "assets/buildings/dissident/dis.elect.comp.industry.gif",
+    "image_path": "assets/buildings/dissident/images/dis.elect.comp.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -21,7 +21,7 @@
   },
   {
     "id": "dis.elect.comp.industry.small",
-    "image": "assets/buildings/dissident/dis.elect.comp.industry.small.gif",
+    "image_path": "assets/buildings/dissident/images/dis.elect.comp.industry.small.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

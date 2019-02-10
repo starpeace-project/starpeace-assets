@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.hospital",
-    "image": "assets/buildings/mariko/mko.hospital.gif",
+    "image_path": "assets/buildings/mariko/images/mko.hospital.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -10,7 +10,7 @@
   },
   {
     "id": "mko.hq.1",
-    "image": "assets/buildings/mariko/mko.hq.1.gif",
+    "image_path": "assets/buildings/mariko/images/mko.hq.1.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -24,7 +24,7 @@
   },
   {
     "id": "mko.hq.2",
-    "image": "assets/buildings/mariko/mko.hq.2.gif",
+    "image_path": "assets/buildings/mariko/images/mko.hq.2.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -39,7 +39,7 @@
   },
   {
     "id": "mko.hq.3",
-    "image": "assets/buildings/mariko/mko.hq.3.gif",
+    "image_path": "assets/buildings/mariko/images/mko.hq.3.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -55,7 +55,7 @@
   },
   {
     "id": "mko.hq.4",
-    "image": "assets/buildings/mariko/mko.hq.4.gif",
+    "image_path": "assets/buildings/mariko/images/mko.hq.4.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -71,7 +71,7 @@
   },
   {
     "id": "mko.hq.5",
-    "image": "assets/buildings/mariko/mko.hq.5.gif",
+    "image_path": "assets/buildings/mariko/images/mko.hq.5.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -85,7 +85,7 @@
   },
   {
     "id": "mko.police",
-    "image": "assets/buildings/mariko/mko.police.gif",
+    "image_path": "assets/buildings/mariko/images/mko.police.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -95,7 +95,7 @@
   },
   {
     "id": "mko.school",
-    "image": "assets/buildings/mariko/mko.school.gif",
+    "image_path": "assets/buildings/mariko/images/mko.school.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -105,7 +105,7 @@
   },
   {
     "id": "mko.townhall",
-    "image": "assets/buildings/mariko/mko.townhall.gif",
+    "image_path": "assets/buildings/mariko/images/mko.townhall.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -120,7 +120,7 @@
   },
   {
     "id": "mko.tradecenter",
-    "image": "assets/buildings/mariko/mko.tradecenter.gif",
+    "image_path": "assets/buildings/mariko/images/mko.tradecenter.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

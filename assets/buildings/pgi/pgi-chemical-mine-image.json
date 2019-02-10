@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.mine",
-    "image": "assets/buildings/pgi/pgi.mine.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mine.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -24,7 +24,7 @@
   },
   {
     "id": "pgi.mine.small",
-    "image": "assets/buildings/pgi/pgi.mine.small.gif",
+    "image_path": "assets/buildings/pgi/images/pgi.mine.small.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [

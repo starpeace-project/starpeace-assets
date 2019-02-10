@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.computing",
-    "image": "assets/buildings/dissident/dis.computing.gif",
+    "image_path": "assets/buildings/dissident/images/dis.computing.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.car.industry",
-    "image": "assets/buildings/moab/moab.car.industry.gif",
+    "image_path": "assets/buildings/moab/images/moab.car.industry.gif",
     "tile_width": 6,
     "tile_height": 6,
     "hit_area": [
@@ -18,7 +18,7 @@
   },
   {
     "id": "moab.car.store",
-    "image": "assets/buildings/moab/moab.car.store.gif",
+    "image_path": "assets/buildings/moab/images/moab.car.store.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

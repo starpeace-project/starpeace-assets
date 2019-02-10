@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.chemical.industry",
-    "image": "assets/buildings/moab/moab.chemical.industry.gif",
+    "image_path": "assets/buildings/moab/images/moab.chemical.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [

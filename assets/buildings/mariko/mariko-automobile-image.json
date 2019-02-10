@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.car.industry",
-    "image": "assets/buildings/mariko/mko.car.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.car.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -17,7 +17,7 @@
   },
   {
     "id": "mko.car.store",
-    "image": "assets/buildings/mariko/mko.car.store.gif",
+    "image_path": "assets/buildings/mariko/images/mko.car.store.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

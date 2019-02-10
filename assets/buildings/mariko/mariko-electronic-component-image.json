@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.elect.comp.industry",
-    "image": "assets/buildings/mariko/mko.elect.comp.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.elect.comp.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -13,7 +13,7 @@
   },
   {
     "id": "mko.elect.comp.industry.small",
-    "image": "assets/buildings/mariko/mko.elect.comp.industry.small.gif",
+    "image_path": "assets/buildings/mariko/images/mko.elect.comp.industry.small.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

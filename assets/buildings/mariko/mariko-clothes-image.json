@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.clothes.industry",
-    "image": "assets/buildings/mariko/mko.clothes.industry.gif",
+    "image_path": "assets/buildings/mariko/images/mko.clothes.industry.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -17,7 +17,7 @@
   },
   {
     "id": "mko.clothes.industry.small",
-    "image": "assets/buildings/mariko/mko.clothes.industry.small.gif",
+    "image_path": "assets/buildings/mariko/images/mko.clothes.industry.small.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -33,7 +33,7 @@
   },
   {
     "id": "mko.clothes.store",
-    "image": "assets/buildings/mariko/mko.clothes.store.gif",
+    "image_path": "assets/buildings/mariko/images/mko.clothes.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

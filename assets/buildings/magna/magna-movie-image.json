@@ -1,7 +1,7 @@
 [
   {
     "id": "magna.movie.studios.construction",
-    "image": "assets/buildings/magna/magna.movie.studios.construction.gif",
+    "image_path": "assets/buildings/magna/images/magna.movie.studios.construction.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [
@@ -18,7 +18,7 @@
   },
   {
     "id": "magna.movie.studios",
-    "image": "assets/buildings/magna/magna.movie.studios.gif",
+    "image_path": "assets/buildings/magna/images/magna.movie.studios.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [

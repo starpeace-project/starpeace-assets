@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.clothes.industry",
-    "image": "assets/buildings/moab/moab.clothes.industry.gif",
+    "image_path": "assets/buildings/moab/images/moab.clothes.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -13,7 +13,7 @@
   },
   {
     "id": "moab.clothes.store",
-    "image": "assets/buildings/moab/moab.clothes.store.gif",
+    "image_path": "assets/buildings/moab/images/moab.clothes.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

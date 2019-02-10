@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.hha.industry",
-    "image": "assets/buildings/dissident/dis.hha.industry.gif",
+    "image_path": "assets/buildings/dissident/images/dis.hha.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -21,7 +21,7 @@
   },
   {
     "id": "dis.hha.industry.small",
-    "image": "assets/buildings/dissident/dis.hha.industry.small.gif",
+    "image_path": "assets/buildings/dissident/images/dis.hha.industry.small.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -41,7 +41,7 @@
   },
   {
     "id": "dis.hha.store",
-    "image": "assets/buildings/dissident/dis.hha.store.gif",
+    "image_path": "assets/buildings/dissident/images/dis.hha.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

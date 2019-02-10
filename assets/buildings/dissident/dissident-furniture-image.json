@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.furniture.industry",
-    "image": "assets/buildings/dissident/dis.furniture.industry.gif",
+    "image_path": "assets/buildings/dissident/images/dis.furniture.industry.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -13,7 +13,7 @@
   },
   {
     "id": "dis.furniture.store",
-    "image": "assets/buildings/dissident/dis.furniture.store.gif",
+    "image_path": "assets/buildings/dissident/images/dis.furniture.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

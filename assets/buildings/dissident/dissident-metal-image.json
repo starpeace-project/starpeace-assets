@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.metal.industry",
-    "image": "assets/buildings/dissident/dis.metal.industry.gif",
+    "image_path": "assets/buildings/dissident/images/dis.metal.industry.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -35,7 +35,7 @@
   },
   {
     "id": "dis.metal.industry.small",
-    "image": "assets/buildings/dissident/dis.metal.industry.small.gif",
+    "image_path": "assets/buildings/dissident/images/dis.metal.industry.small.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.food.proc",
-    "image": "assets/buildings/dissident/dis.food.proc.gif",
+    "image_path": "assets/buildings/dissident/images/dis.food.proc.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -36,7 +36,7 @@
   },
   {
     "id": "dis.food.proc.small",
-    "image": "assets/buildings/dissident/dis.food.proc.small.gif",
+    "image_path": "assets/buildings/dissident/images/dis.food.proc.small.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [

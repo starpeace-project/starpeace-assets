@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.movie",
-    "image": "assets/buildings/dissident/dis.movie.gif",
+    "image_path": "assets/buildings/dissident/images/dis.movie.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

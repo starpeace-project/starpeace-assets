@@ -22,7 +22,7 @@
   {
     "id": "mko.textile.industry.small",
     "image_id": "mko.textile.industry.small",
-    "image": "assets/buildings/mariko/mko.textile.industry.small.gif",
+    "image_path": "assets/buildings/mariko/images/mko.textile.industry.small.gif",
     "construction_image_id": "generic.construction.5",
     "name": {
       "DE": "Kleine Textilfabrik",

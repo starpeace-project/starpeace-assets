@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.market.a",
-    "image": "assets/buildings/dissident/dis.market.a.gif",
+    "image_path": "assets/buildings/dissident/images/dis.market.a.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -12,7 +12,7 @@
   },
   {
     "id": "dis.market.b",
-    "image": "assets/buildings/dissident/dis.market.b.gif",
+    "image_path": "assets/buildings/dissident/images/dis.market.b.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [

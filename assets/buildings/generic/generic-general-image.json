@@ -1,7 +1,7 @@
 [
   {
     "id": "generic.capitol",
-    "image": "assets/buildings/generic/generic.capitol.gif",
+    "image_path": "assets/buildings/generic/images/generic.capitol.gif",
     "tile_width": 7,
     "tile_height": 7,
     "hit_area": [
@@ -20,7 +20,7 @@
   },
   {
     "id": "generic.college",
-    "image": "assets/buildings/generic/generic.college.gif",
+    "image_path": "assets/buildings/generic/images/generic.college.gif",
     "tile_width": 8,
     "tile_height": 8,
     "hit_area": [
@@ -33,7 +33,7 @@
   },
   {
     "id": "generic.dump",
-    "image": "assets/buildings/generic/generic.dump.gif",
+    "image_path": "assets/buildings/generic/images/generic.dump.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -51,7 +51,7 @@
   },
   {
     "id": "generic.jail",
-    "image": "assets/buildings/generic/generic.jail.gif",
+    "image_path": "assets/buildings/generic/images/generic.jail.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -66,7 +66,7 @@
   },
   {
     "id": "generic.museum",
-    "image": "assets/buildings/generic/generic.museum.gif",
+    "image_path": "assets/buildings/generic/images/generic.museum.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -79,7 +79,7 @@
   },
   {
     "id": "generic.park.alien.a",
-    "image": "assets/buildings/generic/generic.park.alien.a.gif",
+    "image_path": "assets/buildings/generic/images/generic.park.alien.a.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -103,7 +103,7 @@
   },
   {
     "id": "generic.park.alien.b",
-    "image": "assets/buildings/generic/generic.park.alien.b.gif",
+    "image_path": "assets/buildings/generic/images/generic.park.alien.b.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -120,7 +120,7 @@
   },
   {
     "id": "generic.park.alien.c",
-    "image": "assets/buildings/generic/generic.park.alien.c.gif",
+    "image_path": "assets/buildings/generic/images/generic.park.alien.c.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -142,7 +142,7 @@
   },
   {
     "id": "generic.park.alien.d",
-    "image": "assets/buildings/generic/generic.park.alien.d.gif",
+    "image_path": "assets/buildings/generic/images/generic.park.alien.d.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -164,7 +164,7 @@
   },
   {
     "id": "generic.park.central",
-    "image": "assets/buildings/generic/generic.park.central.gif",
+    "image_path": "assets/buildings/generic/images/generic.park.central.gif",
     "tile_width": 7,
     "tile_height": 7,
     "hit_area": [
@@ -179,7 +179,7 @@
   },
   {
     "id": "generic.park.medium",
-    "image": "assets/buildings/generic/generic.park.medium.gif",
+    "image_path": "assets/buildings/generic/images/generic.park.medium.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -194,7 +194,7 @@
   },
   {
     "id": "generic.park.small",
-    "image": "assets/buildings/generic/generic.park.small.gif",
+    "image_path": "assets/buildings/generic/images/generic.park.small.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -208,7 +208,7 @@
   },
   {
     "id": "generic.portal.in",
-    "image": "assets/buildings/generic/generic.portal.in.gif",
+    "image_path": "assets/buildings/generic/images/generic.portal.in.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -221,7 +221,7 @@
   },
   {
     "id": "generic.portal.out",
-    "image": "assets/buildings/generic/generic.portal.out.gif",
+    "image_path": "assets/buildings/generic/images/generic.portal.out.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -234,7 +234,7 @@
   },
   {
     "id": "generic.statue",
-    "image": "assets/buildings/generic/generic.statue.gif",
+    "image_path": "assets/buildings/generic/images/generic.statue.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -254,7 +254,7 @@
   },
   {
     "id": "generic.tennis",
-    "image": "assets/buildings/generic/generic.tennis.gif",
+    "image_path": "assets/buildings/generic/images/generic.tennis.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -263,7 +263,7 @@
   },
   {
     "id": "generic.tower",
-    "image": "assets/buildings/generic/generic.tower.gif",
+    "image_path": "assets/buildings/generic/images/generic.tower.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -278,7 +278,7 @@
   },
   {
     "id": "generic.construction.1",
-    "image": "assets/buildings/generic/generic.construction.1.gif",
+    "image_path": "assets/buildings/generic/images/generic.construction.1.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [
@@ -288,7 +288,7 @@
   },
   {
     "id": "generic.construction.2",
-    "image": "assets/buildings/generic/generic.construction.2.gif",
+    "image_path": "assets/buildings/generic/images/generic.construction.2.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
@@ -303,7 +303,7 @@
   },
   {
     "id": "generic.construction.3",
-    "image": "assets/buildings/generic/generic.construction.3.gif",
+    "image_path": "assets/buildings/generic/images/generic.construction.3.gif",
     "tile_width": 3,
     "tile_height": 3,
     "hit_area": [
@@ -313,7 +313,7 @@
   },
   {
     "id": "generic.construction.4",
-    "image": "assets/buildings/generic/generic.construction.4.gif",
+    "image_path": "assets/buildings/generic/images/generic.construction.4.gif",
     "tile_width": 4,
     "tile_height": 4,
     "hit_area": [
@@ -323,7 +323,7 @@
   },
   {
     "id": "generic.construction.5",
-    "image": "assets/buildings/generic/generic.construction.5.gif",
+    "image_path": "assets/buildings/generic/images/generic.construction.5.gif",
     "tile_width": 5,
     "tile_height": 5,
     "hit_area": [
@@ -360,7 +360,7 @@
   },
   {
     "id": "generic.construction.6",
-    "image": "assets/buildings/generic/generic.construction.6.gif",
+    "image_path": "assets/buildings/generic/images/generic.construction.6.gif",
     "tile_width": 6,
     "tile_height": 6,
     "hit_area": [
@@ -381,7 +381,7 @@
   },
   {
     "id": "generic.construction.7",
-    "image": "assets/buildings/generic/generic.construction.7.gif",
+    "image_path": "assets/buildings/generic/images/generic.construction.7.gif",
     "tile_width": 7,
     "tile_height": 7,
     "hit_area": [
@@ -406,6 +406,20 @@
       [{"x":264,"y":191},{"x":272,"y":177},{"x":153,"y":163},{"x":153,"y":170}],
       [{"x":138,"y":161},{"x":153,"y":163},{"x":93,"y":71},{"x":82,"y":72}],
       [{"x":304,"y":163},{"x":283,"y":34},{"x":274,"y":172}]
+    ]
+  },
+  {
+    "id": "generic.construction.8",
+    "image_path": "assets/buildings/generic/images/generic.construction.8.gif",
+    "tile_width": 8,
+    "tile_height": 8,
+    "hit_area": [
+      [ { "x":490, "y":117 }, { "x":446, "y":92 }, { "x":421, "y":80 }, { "x":375, "y":60 }, { "x":349, "y":54 }, { "x":474, "y":134 }, { "x":479, "y":135 } ],
+      [ { "x":299, "y":234 }, { "x":306, "y":209 }, { "x":168, "y":192 }, { "x":210, "y":230 }, { "x":247, "y":246 } ],
+      [ { "x":37, "y":109 }, { "x":89, "y":172 }, { "x":101, "y":177 }, { "x":349, "y":54 }, { "x":338, "y":39 }, { "x":269, "y":7 } ],
+      [ { "x":306, "y":209 }, { "x":328, "y":187 }, { "x":101, "y":177 }, { "x":168, "y":192 } ],
+      [ { "x":123, "y":188 }, { "x":168, "y":192 }, { "x":101, "y":177 } ],
+      [ { "x":389, "y":185 }, { "x":474, "y":134 }, { "x":349, "y":54 }, { "x":101, "y":177 }, { "x":328, "y":187 }, { "x":352, "y":187 } ]
     ]
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": "mko.food.store",
-    "image": "assets/buildings/mariko/mko.food.store.gif",
+    "image_path": "assets/buildings/mariko/images/mko.food.store.gif",
     "tile_width": 1,
     "tile_height": 1,
     "hit_area": [

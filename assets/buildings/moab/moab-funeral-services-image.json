@@ -1,7 +1,7 @@
 [
   {
     "id": "moab.funeral",
-    "image": "assets/buildings/moab/moab.funeral.gif",
+    "image_path": "assets/buildings/moab/images/moab.funeral.gif",
     "tile_width": 2,
     "tile_height": 2,
     "hit_area": [
