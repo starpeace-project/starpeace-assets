@@ -10,7 +10,7 @@
       "PT": "eletrodomésticos"
     },
     "unit_id": "ITEM",
-    "price": 200
+    "price": 110
   },
   {
     "id": "AUTOMOBILE",
@@ -23,7 +23,7 @@
       "PT": "automóveis"
     },
     "unit_id": "ITEM",
-    "price": 12000
+    "price": 7000
   },
   {
     "id": "BOOK",
@@ -36,7 +36,7 @@
       "PT": "livros"
     },
     "unit_id": "ITEM",
-    "price": 10
+    "price": 15
   },
   {
     "id": "CHEMICAL",
@@ -75,7 +75,7 @@
       "PT": "carvão"
     },
     "unit_id": "KILOGRAM",
-    "price": 60
+    "price": 1
   },
   {
     "id": "COMPACT_DISC",
@@ -140,7 +140,7 @@
       "PT": "óleo cru"
     },
     "unit_id": "LITER",
-    "price": 0.5
+    "price": 0.2
   },
   {
     "id": "ELECTRONIC_COMPONENT",
@@ -179,7 +179,7 @@
       "PT": "tecido"
     },
     "unit_id": "METER",
-    "price": 8
+    "price": 6
   },
   {
     "id": "FRESH_FOOD",
@@ -205,7 +205,7 @@
       "PT": "mobília"
     },
     "unit_id": "ITEM",
-    "price": 50
+    "price": 100
   },
   {
     "id": "GASOLINE",
@@ -218,7 +218,7 @@
       "PT": "gasolina"
     },
     "unit_id": "LITER",
-    "price": 1.5
+    "price": 0.5
   },
   {
     "id": "LEGAL_SERVICES",
@@ -244,7 +244,7 @@
       "PT": "licor"
     },
     "unit_id": "LITER",
-    "price": 25
+    "price": 5
   },
   {
     "id": "MACHINERY",
@@ -283,7 +283,7 @@
       "PT": "filmes"
     },
     "unit_id": "ITEM",
-    "price": 15
+    "price": 50
   },
   {
     "id": "ORE",
@@ -322,7 +322,7 @@
       "PT": "papel"
     },
     "unit_id": "KILOGRAM",
-    "price": 1
+    "price": 15
   },
   {
     "id": "PRINTED_MATERIAL",
@@ -335,7 +335,7 @@
       "PT": "material impresso"
     },
     "unit_id": "KILOGRAM",
-    "price": 5
+    "price": 25
   },
   {
     "id": "PHARMACEUTICAL",
@@ -348,7 +348,7 @@
       "PT": "fármacos"
     },
     "unit_id": "KILOGRAM",
-    "price": 2500
+    "price": 40
   },
   {
     "id": "PLASTIC",
@@ -361,7 +361,7 @@
       "PT": "plástico"
     },
     "unit_id": "KILOGRAM",
-    "price": 15
+    "price": 5
   },
   {
     "id": "PROCESSED_FOOD",
@@ -400,7 +400,7 @@
       "PT": "produtos químicos em bruto"
     },
     "unit_id": "KILOGRAM",
-    "price": 5
+    "price": 1
   },
   {
     "id": "SILICON",
@@ -413,7 +413,7 @@
       "PT": "silício"
     },
     "unit_id": "KILOGRAM",
-    "price": 15
+    "price": 1
   },
   {
     "id": "STONE",
@@ -426,7 +426,7 @@
       "PT": "pedra"
     },
     "unit_id": "KILOGRAM",
-    "price": 400
+    "price": 1
   },
   {
     "id": "TIMBER",
@@ -439,7 +439,7 @@
       "PT": "madeira"
     },
     "unit_id": "KILOGRAM",
-    "price": 15
+    "price": 2
   },
   {
     "id": "TOY",
@@ -452,7 +452,7 @@
       "PT": "brinquedos"
     },
     "unit_id": "ITEM",
-    "price": 40
+    "price": 32
   },
   {
     "id": "WORKER",
