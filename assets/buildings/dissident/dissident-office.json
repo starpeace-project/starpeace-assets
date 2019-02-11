@@ -11,7 +11,7 @@
       "IT": "Costolette",
       "PT": "Costelas"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -32,7 +32,7 @@
       "IT": "Palla rossa",
       "PT": "Bola vermelha"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -53,7 +53,7 @@
       "IT": "Duango",
       "PT": "Duango"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",

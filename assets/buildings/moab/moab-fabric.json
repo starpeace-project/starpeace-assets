@@ -11,7 +11,7 @@
       "IT": "Cupola di fili",
       "PT": "Domo de Roscas"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FABRIC",

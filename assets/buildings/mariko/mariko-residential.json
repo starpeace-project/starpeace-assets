@@ -11,7 +11,7 @@
       "IT": "Katana House",
       "PT": "Katana House"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -32,7 +32,7 @@
       "IT": "Casa Sohei",
       "PT": "Sohei House"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -53,7 +53,7 @@
       "IT": "Casa Tarakawa",
       "PT": "Casa Tarakawa"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -74,7 +74,7 @@
       "IT": "Katana Building",
       "PT": "Edifício Katana"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -95,7 +95,7 @@
       "IT": "Edificio Nikotori",
       "PT": "Edifício Nikotori"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -116,7 +116,7 @@
       "IT": "Edificio Hazobito",
       "PT": "Edifício Hazobito"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -137,7 +137,7 @@
       "IT": "Edificio di Hisogari",
       "PT": "Edifício Hisogari"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -158,7 +158,7 @@
       "IT": "Taramagushi",
       "PT": "Taramagushi"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -179,7 +179,7 @@
       "IT": "Camere Somsei-Taj",
       "PT": "Quartos Somsei-Taj"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -200,7 +200,7 @@
       "IT": "Camere di Marakas",
       "PT": "Quartos Marakas"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -221,7 +221,7 @@
       "IT": "Yohito Rooms",
       "PT": "Quartos Yohito"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -242,7 +242,7 @@
       "IT": "Camere Hirijoto-Manko",
       "PT": "Quartos Hirijoto-Manko"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -263,7 +263,7 @@
       "IT": "Camere blu",
       "PT": "Quartos azuis"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -284,7 +284,7 @@
       "IT": "Delizia viola",
       "PT": "Prazer Roxo"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -305,7 +305,7 @@
       "IT": "Round Mariko",
       "PT": "Mariko Rodada"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",

@@ -11,7 +11,7 @@
       "IT": "Miniera chimica",
       "PT": "Mina Química"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CHEMICAL",
@@ -31,7 +31,7 @@
       "IT": "Piccola miniera chimica",
       "PT": "Mina Química Pequena"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CHEMICAL",

@@ -11,7 +11,7 @@
       "IT": "Studio legale",
       "PT": "Escritório de advocacia"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "SERVICE",
     "category": "SERVICE",
     "industry_type": "LEGAL_SERVICES",

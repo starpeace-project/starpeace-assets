@@ -11,7 +11,7 @@
       "IT": "Palazzo Zharot",
       "PT": "Palácio Zharot"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -32,7 +32,7 @@
       "IT": "Palazzo nero",
       "PT": "Palácio Negro"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -53,7 +53,7 @@
       "IT": "Knights Dome",
       "PT": "Cavaleiros cúpula"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -74,7 +74,7 @@
       "IT": "Bungalow dei Cavalieri",
       "PT": "Bungalow Cavaleiros"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -95,7 +95,7 @@
       "IT": "Guruh Dome",
       "PT": "Guruh Dome"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -116,7 +116,7 @@
       "IT": "Cupola di Lothar",
       "PT": "Lothar Dome"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -137,7 +137,7 @@
       "IT": "Ciotola nera",
       "PT": "Taça Negra"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -158,7 +158,7 @@
       "IT": "Souls Dome",
       "PT": "Cúpula de almas"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -179,7 +179,7 @@
       "IT": "Infermiera dome",
       "PT": "Enfermeira, cúpula"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -200,7 +200,7 @@
       "IT": "Zoo dell'infermiera",
       "PT": "Enfermeira, jardim zoológico"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -221,7 +221,7 @@
       "IT": "Stanze dell'infermiera",
       "PT": "Enfermeira"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -242,7 +242,7 @@
       "IT": "Infermiera Fraternità",
       "PT": "Enfermeira Fraternidade"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",

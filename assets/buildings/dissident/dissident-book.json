@@ -11,7 +11,7 @@
       "IT": "Libreria",
       "PT": "Livraria"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "BOOK",

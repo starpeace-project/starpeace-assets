@@ -6,12 +6,13 @@ CoordinateList = require('./building/coordinate-list')
 Coordinate = require('./building/coordinate')
 
 CityZone = require('./industry/city-zone')
-CompanySeal = require('./industry/company-seal')
 IndustryCategory = require('./industry/industry-category')
 IndustryType = require('./industry/industry-type')
 ResourceQuantity = require('./industry/resource-quantity')
 ResourceType = require('./industry/resource-type')
 ResourceUnit = require('./industry/resource-unit')
+
+CompanySeal = require('./seal/company-seal')
 
 exports = module.exports = {
   BuildingDefinition
@@ -21,10 +22,11 @@ exports = module.exports = {
   Coordinate
 
   CityZone
-  CompanySeal
   IndustryCategory
   IndustryType
   ResourceQuantity
   ResourceType
   ResourceUnit
+
+  CompanySeal
 }

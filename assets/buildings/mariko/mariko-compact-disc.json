@@ -11,7 +11,7 @@
       "IT": "Fabbrica di Compact Disc",
       "PT": "Fábrica de Compact Disc"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "COMPACT_DISC",
@@ -31,7 +31,7 @@
       "IT": "Compact Disc Store",
       "PT": "Loja de discos compactos"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "COMPACT_DISC",

@@ -11,7 +11,7 @@
       "IT": "Cinema",
       "PT": "Cinema"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MOVIE",

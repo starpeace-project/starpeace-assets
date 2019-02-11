@@ -11,7 +11,7 @@
       "IT": "Farmacia",
       "PT": "Farmácia"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "PHARMACEUTICAL",
@@ -30,7 +30,7 @@
       "IT": "Fabbrica farmaceutica",
       "PT": "Fábrica Farmacêutica"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "PHARMACEUTICAL",

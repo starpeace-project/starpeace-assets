@@ -11,7 +11,7 @@
       "IT": "Sede Magna",
       "PT": "Sede da Magna"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "COMMERCIAL",
     "category": "SERVICE",
     "industry_type": "HEADQUARTERS",
@@ -29,7 +29,7 @@
       "IT": "Magna Research Center",
       "PT": "Centro de Pesquisas Magna"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "COMMERCIAL",
     "category": "SERVICE",
     "industry_type": "HEADQUARTERS",

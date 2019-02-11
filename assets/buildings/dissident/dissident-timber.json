@@ -11,7 +11,7 @@
       "IT": "Segheria",
       "PT": "Serraria"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "TIMBER",

@@ -11,7 +11,7 @@
       "IT": "Fabbrica di mobili",
       "PT": "Fábrica de móveis"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FURNITURE",
@@ -31,7 +31,7 @@
       "IT": "Negozio di mobili",
       "PT": "Loja de móveis"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "FURNITURE",

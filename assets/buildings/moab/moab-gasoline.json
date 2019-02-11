@@ -11,7 +11,7 @@
       "IT": "Stazione di servizio",
       "PT": "Posto de gasolina"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "GASOLINE",
@@ -30,7 +30,7 @@
       "IT": "Refinery Dome",
       "PT": "Abóbada da refinaria"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "GASOLINE",

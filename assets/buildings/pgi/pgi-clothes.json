@@ -11,7 +11,7 @@
       "IT": "Fabbrica di abbigliamento",
       "PT": "Fábrica de Roupas"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CLOTHES",
@@ -31,7 +31,7 @@
       "IT": "Piccola fabbrica di abbigliamento",
       "PT": "Fábrica de Roupas Pequenas"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CLOTHES",

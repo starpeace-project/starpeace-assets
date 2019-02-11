@@ -11,7 +11,7 @@
       "IT": "Fabbrica di componenti elettronici",
       "PT": "Fábrica de Componentes Eletrônicos"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "ELECTRONIC_COMPONENT",
@@ -31,7 +31,7 @@
       "IT": "Piccola fabbrica di componenti elettronici",
       "PT": "Fábrica de Pequenos Componentes Eletrônicos"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "ELECTRONIC_COMPONENT",

@@ -4,6 +4,7 @@ _ = require('lodash')
 
 AuditBuilding = require('./audit/audit-building')
 AuditIndustry = require('./audit/audit-industry')
+AuditSeal = require('./audit/audit-seal')
 
 FileUtils = require('./utils/file-utils')
 Utils = require('./utils/utils')
@@ -21,13 +22,16 @@ source_dir = path.join(root, process.argv[2])
 
 building_root_dir = path.join(source_dir, 'buildings')
 industry_root_dir = path.join(source_dir, 'industry')
+seal_root_dir = path.join(source_dir, 'seals')
 
 console.log " input directory: #{source_dir}"
 console.log " building root directory: #{building_root_dir}"
 console.log " industry root directory: #{industry_root_dir}"
+console.log " seal root directory: #{seal_root_dir}"
 console.log "\n-------------------------------------------------------------------------------\n"
 
 Promise.resolve AuditIndustry.audit(industry_root_dir)
+  .then AuditSeal.audit(seal_root_dir)
   .then AuditBuilding.audit(building_root_dir)
   .then (audit_data) ->
 

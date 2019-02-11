@@ -11,7 +11,7 @@
       "IT": "Stazione TV",
       "PT": "Estação de TV"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "COMMERCIAL",
     "category": "SERVICE",
     "industry_type": "TELEVISION",

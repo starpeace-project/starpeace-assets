@@ -11,7 +11,7 @@
       "IT": "Yamamoto",
       "PT": "Yamamoto"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -32,7 +32,7 @@
       "IT": "Tanakuta",
       "PT": "Tanakuta"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -53,7 +53,7 @@
       "IT": "Sato Scraper",
       "PT": "Raspador Sato"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -74,7 +74,7 @@
       "IT": "Kunawa Scraper",
       "PT": "Raspador Kunawa"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -95,7 +95,7 @@
       "IT": "Koto-ku",
       "PT": "Koto-ku"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -116,7 +116,7 @@
       "IT": "Piccolo Koto",
       "PT": "Koto Pequeno"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",

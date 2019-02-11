@@ -11,7 +11,7 @@
       "IT": "Cattedrale di Moab",
       "PT": "Catedral de Moab"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "SERVICE",
     "category": "SERVICE",
     "industry_type": "HEADQUARTERS",
@@ -30,7 +30,7 @@
       "IT": "Moab Correctional",
       "PT": "Moab Correcional"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PRISON",
@@ -51,7 +51,7 @@
       "IT": "Torre degli affari civici",
       "PT": "Torre dos Assuntos Cívicos"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PRISON",
@@ -72,7 +72,7 @@
       "IT": "Quartier generale",
       "PT": "Quartel general"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "SERVICE",
     "category": "SERVICE",
     "industry_type": "HEADQUARTERS",
@@ -90,7 +90,7 @@
       "IT": "Torre delle industrie",
       "PT": "Torre de indústrias"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "SERVICE",
     "category": "SERVICE",
     "industry_type": "HEADQUARTERS",
@@ -108,7 +108,7 @@
       "IT": "Torre del commercio",
       "PT": "Torre de comércio"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "SERVICE",
     "category": "SERVICE",
     "industry_type": "HEADQUARTERS",
@@ -126,7 +126,7 @@
       "IT": "Real Estate Tower",
       "PT": "Torre Imobiliária"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "SERVICE",
     "category": "SERVICE",
     "industry_type": "HEADQUARTERS",
@@ -144,7 +144,7 @@
       "IT": "Municipio",
       "PT": "Prefeitura"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "GOVERNMENT",
@@ -163,7 +163,7 @@
       "IT": "Tradecenter",
       "PT": "Centro comercial"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "GOVERNMENT",

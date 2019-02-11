@@ -11,7 +11,7 @@
       "IT": "Caserma dei pompieri",
       "PT": "Corpo de Bombeiros"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "FIRE",
@@ -32,7 +32,7 @@
       "IT": "Ospedale",
       "PT": "Hospital"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "HOSPITAL",
@@ -53,7 +53,7 @@
       "IT": "Quartier generale",
       "PT": "Quartel general"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "SERVICE",
     "category": "SERVICE",
     "industry_type": "HEADQUARTERS",
@@ -71,7 +71,7 @@
       "IT": "Stazione di polizia",
       "PT": "Delegacia de polícia"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "POLICE",
@@ -92,7 +92,7 @@
       "IT": "Scuola",
       "PT": "Escola"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "SCHOOL",
@@ -113,7 +113,7 @@
       "IT": "Municipio",
       "PT": "Prefeitura"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "GOVERNMENT",
@@ -132,7 +132,7 @@
       "IT": "Tradecenter",
       "PT": "Centro comercial"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "GOVERNMENT",

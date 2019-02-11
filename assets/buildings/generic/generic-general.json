@@ -11,7 +11,7 @@
       "IT": "Campidoglio",
       "PT": "Capitólio"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "GOVERNMENT",
@@ -30,7 +30,7 @@
       "IT": "Università",
       "PT": "Faculdade"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "COLLEGE",
@@ -51,7 +51,7 @@
       "IT": "Cumulo di rifiuti",
       "PT": "Despejo"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "GARBAGE",
@@ -72,7 +72,7 @@
       "IT": "Prigione",
       "PT": "Cadeia"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PRISON",
@@ -93,7 +93,7 @@
       "IT": "Museo",
       "PT": "Museu"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "MUSEUM",
@@ -114,7 +114,7 @@
       "IT": "Lizzard Park",
       "PT": "Lizzard Park"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -135,7 +135,7 @@
       "IT": "Gobblin Park",
       "PT": "Parque Gobblin"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -156,7 +156,7 @@
       "IT": "Pollo Park",
       "PT": "Frango Park"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -177,7 +177,7 @@
       "IT": "Alien Park",
       "PT": "Parque Alienígena"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -198,7 +198,7 @@
       "IT": "Parco centrale",
       "PT": "Parque Central"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -219,7 +219,7 @@
       "IT": "Parco",
       "PT": "Parque"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -240,7 +240,7 @@
       "IT": "Piccolo parco",
       "PT": "Pequeno parque"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -261,7 +261,7 @@
       "IT": "Portale in entrata",
       "PT": "Portal de entrada"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "RESERVED",
     "category": "CIVIC",
     "industry_type": "GOVERNMENT",
@@ -280,7 +280,7 @@
       "IT": "Portale in uscita",
       "PT": "Portal de saída"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "RESERVED",
     "category": "CIVIC",
     "industry_type": "GOVERNMENT",
@@ -299,7 +299,7 @@
       "IT": "Statua",
       "PT": "Estátua"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -320,7 +320,7 @@
       "IT": "Campo da tennis",
       "PT": "Quadra de tênis"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -341,7 +341,7 @@
       "IT": "Torre IFEL",
       "PT": "Torre IFEL"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",

@@ -21,4 +21,5 @@ exports = module.exports = class CompanySeal
     seal.id = json.id
     seal.name_short = json.name_short
     seal.name_long = json.name_long
+    seal.buildings = json.buildings || []
     seal

@@ -11,7 +11,7 @@
       "IT": "Fabbrica di elettrodomestici",
       "PT": "Fábrica de Eletrodomésticos"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "APPLIANCE",
@@ -31,7 +31,7 @@
       "IT": "Fabbrica di piccoli elettrodomestici",
       "PT": "Fábrica de Pequenos Eletrodomésticos"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "APPLIANCE",
@@ -51,7 +51,7 @@
       "IT": "Negozio di elettrodomestici",
       "PT": "Loja de Eletrodomésticos"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "APPLIANCE",

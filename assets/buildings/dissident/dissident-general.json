@@ -11,7 +11,7 @@
       "IT": "Ospedale",
       "PT": "Hospital"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "HOSPITAL",
@@ -32,7 +32,7 @@
       "IT": "Quartier generale",
       "PT": "Quartel general"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "SERVICE",
     "category": "SERVICE",
     "industry_type": "HEADQUARTERS",
@@ -50,7 +50,7 @@
       "IT": "Piccolo parco",
       "PT": "Pequeno parque"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "PARK",
@@ -71,7 +71,7 @@
       "IT": "Stazione di polizia",
       "PT": "Delegacia de polícia"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "POLICE",
@@ -92,7 +92,7 @@
       "IT": "Scuola",
       "PT": "Escola"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "SCHOOL",
@@ -113,7 +113,7 @@
       "IT": "Municipio",
       "PT": "Prefeitura"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "GOVERNMENT",
@@ -132,7 +132,7 @@
       "IT": "Tradecenter",
       "PT": "Centro comercial"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "CIVICS",
     "category": "CIVIC",
     "industry_type": "GOVERNMENT",

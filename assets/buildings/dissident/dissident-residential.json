@@ -11,7 +11,7 @@
       "IT": "Ago",
       "PT": "Agulha"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -32,7 +32,7 @@
       "IT": "Balloon House",
       "PT": "Casa de Balão"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -53,7 +53,7 @@
       "IT": "Imbuto",
       "PT": "Funil"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -74,7 +74,7 @@
       "IT": "Cottage",
       "PT": "Chalé"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -95,7 +95,7 @@
       "IT": "Edificio di alta classe generico",
       "PT": "Edifício genérico de alta classe"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -116,7 +116,7 @@
       "IT": "Generico edificio di bassa classe",
       "PT": "Edifício genérico de baixa classe"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -137,7 +137,7 @@
       "IT": "Generico edificio della classe media",
       "PT": "Edifício de classe média genérico"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -158,7 +158,7 @@
       "IT": "Case riciclate",
       "PT": "Casas recicladas"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -179,7 +179,7 @@
       "IT": "Edifici riciclati",
       "PT": "Edifícios reciclados"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -200,7 +200,7 @@
       "IT": "Lattine di sardine",
       "PT": "Latas de sardinha"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -221,7 +221,7 @@
       "IT": "La caserma",
       "PT": "O quartel"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -242,7 +242,7 @@
       "IT": "Torre dei sogni",
       "PT": "Torre dos Sonhos"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -263,7 +263,7 @@
       "IT": "I funghi",
       "PT": "Os cogumelos"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -284,7 +284,7 @@
       "IT": "Le boccole",
       "PT": "As buchas"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -305,7 +305,7 @@
       "IT": "Avvitatore",
       "PT": "Screwer"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -326,7 +326,7 @@
       "IT": "Castelli",
       "PT": "Castelos"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -347,7 +347,7 @@
       "IT": "Guglia",
       "PT": "Pináculo"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",

@@ -11,7 +11,7 @@
       "IT": "Antenna TV",
       "PT": "Antena de tv"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "SERVICE",
     "industry_type": "TELEVISION",
@@ -32,7 +32,7 @@
       "IT": "Stazione TV",
       "PT": "Estação de TV"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "SERVICE",
     "industry_type": "TELEVISION",

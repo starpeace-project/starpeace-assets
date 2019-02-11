@@ -11,7 +11,7 @@
       "IT": "Fabbrica di automobili",
       "PT": "Fábrica de Automóveis"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "AUTOMOBILE",
@@ -31,7 +31,7 @@
       "IT": "Concessionaria automobilistica",
       "PT": "Concessionária de Automóveis"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "AUTOMOBILE",

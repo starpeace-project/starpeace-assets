@@ -11,7 +11,7 @@
       "IT": "Cupola del macchinario",
       "PT": "Cúpula de Máquinas"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "MACHINERY",

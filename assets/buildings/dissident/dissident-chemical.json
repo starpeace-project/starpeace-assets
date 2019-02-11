@@ -11,7 +11,7 @@
       "IT": "Impianto chimico",
       "PT": "Planta química"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CHEMICAL",
@@ -31,7 +31,7 @@
       "IT": "Piccolo stabilimento chimico",
       "PT": "Planta Química Pequena"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CHEMICAL",

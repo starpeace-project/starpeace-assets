@@ -11,7 +11,7 @@
       "IT": "Cupola di costruzione",
       "PT": "Cúpula de construção"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CONSTRUCTION",

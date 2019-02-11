@@ -11,7 +11,7 @@
       "IT": "Miniera chimica",
       "PT": "Mina Química"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CHEMICAL",

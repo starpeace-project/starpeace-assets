@@ -11,7 +11,7 @@
       "IT": "Fabbrica di plastica",
       "PT": "Fábrica De Plásticos"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CHEMICAL",

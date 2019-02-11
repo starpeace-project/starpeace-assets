@@ -11,7 +11,7 @@
       "IT": "Grande fattoria",
       "PT": "Grande fazenda"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FARMING",
@@ -31,7 +31,7 @@
       "IT": "Azienda agricola",
       "PT": "Fazenda"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FARMING",

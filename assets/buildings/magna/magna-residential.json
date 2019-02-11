@@ -11,7 +11,7 @@
       "IT": "Cloud City",
       "PT": "Cloud City"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -32,7 +32,7 @@
       "IT": "Il cielo del lavoratore",
       "PT": "Céu do trabalhador"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -53,7 +53,7 @@
       "IT": "L'alveare",
       "PT": "A colméia"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -74,7 +74,7 @@
       "IT": "Torre d'avorio",
       "PT": "Torre de marfim"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -95,7 +95,7 @@
       "IT": "Maggio Fiore",
       "PT": "Pode flor"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -116,7 +116,7 @@
       "IT": "Il polpo",
       "PT": "O polvo"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -137,7 +137,7 @@
       "IT": "Sky Dome",
       "PT": "Sky Dome"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -158,7 +158,7 @@
       "IT": "solario",
       "PT": "Solário"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -179,7 +179,7 @@
       "IT": "La primavera",
       "PT": "A primavera"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -200,7 +200,7 @@
       "IT": "Tulipano",
       "PT": "Tulipa"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -221,7 +221,7 @@
       "IT": "The Whirlpool",
       "PT": "O Whirlpool"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",

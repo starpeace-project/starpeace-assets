@@ -11,7 +11,7 @@
       "IT": "Cupola di patatine",
       "PT": "Cúpula de batatas fritas"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "ELECTRONIC_COMPONENT",

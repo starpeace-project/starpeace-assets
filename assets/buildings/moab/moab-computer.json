@@ -11,7 +11,7 @@
       "IT": "Cupola del computer",
       "PT": "Cúpula de computador"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "COMPUTER",

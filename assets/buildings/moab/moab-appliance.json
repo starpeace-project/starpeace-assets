@@ -11,7 +11,7 @@
       "IT": "Cupola per elettrodomestici",
       "PT": "Cúpula de Eletrodomésticos"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "APPLIANCE",
@@ -31,7 +31,7 @@
       "IT": "Negozio di elettrodomestici",
       "PT": "Loja de Eletrodomésticos"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "APPLIANCE",

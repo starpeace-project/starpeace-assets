@@ -11,7 +11,7 @@
       "IT": "Mercato di Takuri",
       "PT": "Mercado Takuri"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MARKET",
@@ -32,7 +32,7 @@
       "IT": "Mercato Tamakura",
       "PT": "Tamakura Market"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MARKET",
@@ -53,7 +53,7 @@
       "IT": "Mercato di Satoi",
       "PT": "Satoi Market"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MARKET",

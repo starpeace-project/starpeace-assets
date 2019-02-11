@@ -11,7 +11,7 @@
       "IT": "Fabbrica tessile",
       "PT": "Fábrica têxtil"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FABRIC",
@@ -31,7 +31,7 @@
       "IT": "Piccola fabbrica tessile",
       "PT": "Fábrica de Pequenos Têxteis"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FABRIC",

@@ -11,7 +11,7 @@
       "IT": "Cupola chimica",
       "PT": "Domo Químico"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CHEMICAL",

@@ -11,7 +11,7 @@
       "IT": "Minerale",
       "PT": "Mina De Minério"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "ORE",
@@ -31,7 +31,7 @@
       "IT": "Piccola miniera di minerali",
       "PT": "Mina de minério pequena"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "ORE",

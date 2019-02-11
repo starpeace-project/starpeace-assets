@@ -11,7 +11,7 @@
       "IT": "Stoccaggio chimico",
       "PT": "Armazenamento de produtos químicos"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
@@ -29,7 +29,7 @@
       "IT": "Celle frigorifere",
       "PT": "Armazém frio"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
@@ -47,7 +47,7 @@
       "IT": "Super Cold Storage",
       "PT": "Super armazenamento a frio"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
@@ -65,7 +65,7 @@
       "IT": "Esporta spazio di archiviazione",
       "PT": "Armazenamento de Exportação"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
@@ -83,7 +83,7 @@
       "IT": "Stoccaggio di tessuti",
       "PT": "Armazenamento de Tecidos"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
@@ -101,7 +101,7 @@
       "IT": "Importa memoria",
       "PT": "Importar Armazenamento"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
@@ -119,7 +119,7 @@
       "IT": "Deposito minerale",
       "PT": "Armazenamento De Minério"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",
@@ -137,7 +137,7 @@
       "IT": "Archiviazione generale",
       "PT": "Armazenamento Geral"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "WAREHOUSE",
     "category": "LOGISTICS",
     "industry_type": "WAREHOUSE",

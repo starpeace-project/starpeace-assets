@@ -11,7 +11,7 @@
       "IT": "Puntura",
       "PT": "Picada"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -32,7 +32,7 @@
       "IT": "Davis Bow",
       "PT": "Davis Bow"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -53,7 +53,7 @@
       "IT": "Mc Neon Tower",
       "PT": "Mc Neon Tower"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -74,7 +74,7 @@
       "IT": "The Spire",
       "PT": "O Pináculo"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",

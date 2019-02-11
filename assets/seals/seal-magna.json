@@ -1,24 +1,41 @@
-{
-  "id": "MAGNA",
-  "name": "Magna",
-  "buildings": [
-    "magna.cloud.city",
-    "magna.construction",
-    "magna.heaven",
-    "magna.hive",
-    "magna.ivory.tower",
-    "magna.mayflower",
-    "magna.movie.studios",
-    "magna.movie.studios.construction",
-    "magna.octopus",
-    "magna.research.a",
-    "magna.research.b",
-    "magna.sky.dome",
-    "magna.solarium",
-    "magna.supermarket.a",
-    "magna.supermarket.b",
-    "magna.the.spring",
-    "magna.tulip",
-    "magna.whirlpool"
-  ]
-}
+[
+  {
+    "id": "MAGNA",
+    "name_short": {
+      "DE": "Magna",
+      "EN": "Magna",
+      "ES": "Magna",
+      "FR": "Magna",
+      "IT": "Magna",
+      "PT": "Magna"
+    },
+    "name_long": {
+      "DE": "Magna Corp",
+      "EN": "Magna Corp",
+      "ES": "Magna Corp",
+      "FR": "Magna Corp",
+      "IT": "Magna Corp",
+      "PT": "Magna Corp"
+    },
+    "buildings": [
+      "magna.cloud.city",
+      "magna.construction",
+      "magna.heaven",
+      "magna.hive",
+      "magna.ivory.tower",
+      "magna.mayflower",
+      "magna.movie.studios",
+      "magna.movie.studios.construction",
+      "magna.octopus",
+      "magna.research.a",
+      "magna.research.b",
+      "magna.sky.dome",
+      "magna.solarium",
+      "magna.supermarket.a",
+      "magna.supermarket.b",
+      "magna.the.spring",
+      "magna.tulip",
+      "magna.whirlpool"
+    ]
+  }
+]

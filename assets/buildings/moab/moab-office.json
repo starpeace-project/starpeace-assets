@@ -11,7 +11,7 @@
       "IT": "Basilica di Moab",
       "PT": "Basílica de Moabe"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",
@@ -32,7 +32,7 @@
       "IT": "Dark Crysler",
       "PT": "Dark Crysler"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "OFFICES",
     "category": "REAL_ESTATE",
     "industry_type": "OFFICE",

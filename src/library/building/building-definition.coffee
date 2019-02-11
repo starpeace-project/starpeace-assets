@@ -47,7 +47,7 @@ exports = module.exports = class BuildingDefinition
     definition.zone = json.zone
     definition.category = json.category
     definition.industry_type = json.industry_type
-    definition.seal_id = json.seal
+    definition.seal_id = json.seal_id
     definition.restricted = json.restricted || false
     definition.required_invention_ids = json.required_inventions
 

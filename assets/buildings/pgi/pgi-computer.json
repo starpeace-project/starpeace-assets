@@ -11,7 +11,7 @@
       "IT": "Fabbrica di computer",
       "PT": "Fábrica de Computadores"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "COMPUTER",

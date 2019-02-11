@@ -11,7 +11,7 @@
       "IT": "Banca",
       "PT": "Banco"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "SERVICE",
     "industry_type": "BANKING",

@@ -11,7 +11,7 @@
       "IT": "Fabbrica di giocattoli",
       "PT": "Fábrica de brinquedos"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "TOY",
@@ -31,7 +31,7 @@
       "IT": "Negozio di giocattoli",
       "PT": "Loja de brinquedos"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "TOY",

@@ -11,7 +11,7 @@
       "IT": "Azienda agricola",
       "PT": "Fazenda"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FARMING",
@@ -31,7 +31,7 @@
       "IT": "Piccola fattoria",
       "PT": "Fazendinha"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FARMING",

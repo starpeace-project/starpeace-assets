@@ -11,7 +11,7 @@
       "IT": "Fabbrica di macchinari",
       "PT": "Fábrica de Máquinas"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "MACHINERY",

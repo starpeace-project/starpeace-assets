@@ -11,7 +11,7 @@
       "IT": "Grande mercato",
       "PT": "Grande mercado"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MARKET",
@@ -32,7 +32,7 @@
       "IT": "Mercato delle pulci",
       "PT": "Mercado de pulgas"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MARKET",

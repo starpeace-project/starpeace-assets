@@ -11,7 +11,7 @@
       "IT": "Mausoleo della leggenda",
       "PT": "Mausoléu lendário"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "MAUSOLEUM",
     "category": "SERVICE",
     "industry_type": "MAUSOLEUM",
@@ -30,7 +30,7 @@
       "IT": "Mausoleo del Paradigma",
       "PT": "Paradigma Mausoléu"
     },
-    "seal": "generic",
+    "seal_id": "GEN",
     "zone": "MAUSOLEUM",
     "category": "SERVICE",
     "industry_type": "MAUSOLEUM",

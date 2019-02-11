@@ -11,7 +11,7 @@
       "IT": "Piattaforma petrolifera",
       "PT": "Plataforma de petróleo"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CRUDE_OIL",

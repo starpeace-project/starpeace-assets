@@ -11,7 +11,7 @@
       "IT": "Venditore Sky",
       "PT": "Vendedor do céu"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MARKET",
@@ -32,7 +32,7 @@
       "IT": "Galaxie",
       "PT": "Galaxie"
     },
-    "seal": "magna",
+    "seal_id": "MAGNA",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MARKET",

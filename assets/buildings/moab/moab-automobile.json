@@ -11,7 +11,7 @@
       "IT": "Cupola dell'automobile",
       "PT": "Cúpula Automóvel"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "AUTOMOBILE",
@@ -31,7 +31,7 @@
       "IT": "Concessionaria automobilistica",
       "PT": "Concessionária de Automóveis"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "AUTOMOBILE",

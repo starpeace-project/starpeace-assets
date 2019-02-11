@@ -11,7 +11,7 @@
       "IT": "Cupola di vestiti",
       "PT": "Cúpula de Roupas"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CLOTHES",
@@ -31,7 +31,7 @@
       "IT": "Negozio di abbigliamento",
       "PT": "Loja de roupas"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "CLOTHES",

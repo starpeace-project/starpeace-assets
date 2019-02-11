@@ -11,7 +11,7 @@
       "IT": "Fabbrica di abbigliamento",
       "PT": "Fábrica de Roupas"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CLOTHES",
@@ -31,7 +31,7 @@
       "IT": "Piccola fabbrica di abbigliamento",
       "PT": "Fábrica de Roupas Pequenas"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "CLOTHES",
@@ -51,7 +51,7 @@
       "IT": "Negozio di abbigliamento",
       "PT": "Loja de roupas"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "CLOTHES",

@@ -71,6 +71,13 @@ exports = module.exports = class AuditBuilding
       else
         console.log " [OK] all building definitions have valid industry type references"
 
+      definitions_with_unknown_seals = _.filter(definitions, (definition) -> !audit_data.seal.company_seals_by_id[definition.seal_id]?)
+      if definitions_with_unknown_seals.length
+        console.log " [ERROR] building definition #{definition.id} has unknown seal references #{definition.seal_id}" for definition in definitions_with_unknown_seals
+        throw "found #{definitions_with_unknown_seals.length} building definitions with unknown seal references"
+      else
+        console.log " [OK] all building definitions have valid seal references"
+
       process.stdout.write '\n'
 
       simulation_definitions_with_unknown_resources = _.filter(simulation_definitions, (definition) ->
@@ -85,7 +92,7 @@ exports = module.exports = class AuditBuilding
 
       console.log "\n [OK] finished building audit successfully\n"
       console.log "-------------------------------------------------------------------------------\n"
-      resolve(_.assign(audit_data, {
+      resolve(_.merge(audit_data, {
         building: {
           definitions_by_id
           image_definitions_by_id

@@ -18,7 +18,6 @@ FileUtils = require('../utils/file-utils')
 
 exports = module.exports = class AuditIndustry
   @EXPECTED_CITY_ZONE_COUNT: 13
-  @EXPECTED_COMPANY_SEAL_COUNT: 5
   @EXPECTED_INDUSTRY_CATEGORY_COUNT: 7
   @EXPECTED_INDUSTRY_TYPE_COUNT: 57
   @EXPECTED_RESOURCE_TYPE_COUNT: 36
@@ -32,13 +31,6 @@ exports = module.exports = class AuditIndustry
       city_zones_by_id = _.keyBy(city_zones, 'id')
       AuditUtils.audit_is_valid('city zone', city_zones)
       AuditUtils.audit_unique_count_by_id('city zone', city_zones, city_zones_by_id, AuditIndustry.EXPECTED_CITY_ZONE_COUNT)
-
-      process.stdout.write '\n'
-
-      company_seals = FileUtils.parse_files(root_dir, ['company-seals.json'], [], CompanySeal.from_json)
-      company_seals_by_id = _.keyBy(company_seals, 'id')
-      AuditUtils.audit_is_valid('company seal', company_seals)
-      AuditUtils.audit_unique_count_by_id('company seal', company_seals, company_seals_by_id, AuditIndustry.EXPECTED_COMPANY_SEAL_COUNT)
 
       process.stdout.write '\n'
 
@@ -82,7 +74,6 @@ exports = module.exports = class AuditIndustry
       resolve({
         industry: {
           city_zones_by_id
-          company_seals_by_id
           industry_categories_by_id
           industry_types_by_id
           resource_types_by_id

@@ -11,7 +11,7 @@
       "IT": "Palazzo Xanadu",
       "PT": "Palácio Xanadu"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -32,7 +32,7 @@
       "IT": "Atrio",
       "PT": "Átrio"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -53,7 +53,7 @@
       "IT": "The Willington",
       "PT": "The Willington"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -74,7 +74,7 @@
       "IT": "Golden Cap",
       "PT": "Boné de ouro"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -95,7 +95,7 @@
       "IT": "Kent Square",
       "PT": "Kent Square"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -116,7 +116,7 @@
       "IT": "Torri di Lisgar",
       "PT": "Torres de Lisgar"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -137,7 +137,7 @@
       "IT": "Capanna bianca",
       "PT": "Cabana branca"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -158,7 +158,7 @@
       "IT": "Camere di Lione",
       "PT": "Quartos em Lyon"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -179,7 +179,7 @@
       "IT": "Blue Mansion",
       "PT": "Mansão azul"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -200,7 +200,7 @@
       "IT": "Mansion rosa",
       "PT": "Mansão Rosa"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "HC_RESIDENTIAL",
@@ -221,7 +221,7 @@
       "IT": "Playfair Towers",
       "PT": "Torres Playfair"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -242,7 +242,7 @@
       "IT": "Arlington Rooms",
       "PT": "Arlington Quartos"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -263,7 +263,7 @@
       "IT": "Atrio di Cesare",
       "PT": "Átrio de César"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -284,7 +284,7 @@
       "IT": "La Sicilia",
       "PT": "A Sicília"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -305,7 +305,7 @@
       "IT": "Mountbatten Rooms",
       "PT": "Quartos em Mountbatten"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -326,7 +326,7 @@
       "IT": "L'Ambasciatore",
       "PT": "O embaixador"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "LC_RESIDENTIAL",
@@ -347,7 +347,7 @@
       "IT": "Gladston Apts.",
       "PT": "Gladston Apts."
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -368,7 +368,7 @@
       "IT": "Quincy",
       "PT": "Quincy"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -389,7 +389,7 @@
       "IT": "Metcalfe Towers",
       "PT": "Torres Metcalfe"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -410,7 +410,7 @@
       "IT": "Delmar Apts.",
       "PT": "Delmar Apts."
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",
@@ -431,7 +431,7 @@
       "IT": "Sunset Apts.",
       "PT": "Apts do por do sol."
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
     "industry_type": "MC_RESIDENTIAL",

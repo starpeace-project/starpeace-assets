@@ -11,7 +11,7 @@
       "IT": "Robot da cucina",
       "PT": "Processador de alimentos"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "PROCESSED_FOOD",
@@ -31,7 +31,7 @@
       "IT": "Piccolo robot da cucina",
       "PT": "Processador de Alimentos Pequenos"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "PROCESSED_FOOD",

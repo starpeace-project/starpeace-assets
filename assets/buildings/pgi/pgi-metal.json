@@ -11,7 +11,7 @@
       "IT": "Grande fabbrica di metalli",
       "PT": "Grande fábrica de metal"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "METAL",
@@ -31,7 +31,7 @@
       "IT": "Fabbrica di metalli",
       "PT": "Fábrica de metal"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "METAL",

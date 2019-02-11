@@ -11,7 +11,7 @@
       "IT": "Minerale",
       "PT": "Mina De Minério"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "ORE",
@@ -31,7 +31,7 @@
       "IT": "Piccola miniera di minerali",
       "PT": "Mina de minério pequena"
     },
-    "seal": "dissident",
+    "seal_id": "DIS",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "ORE",

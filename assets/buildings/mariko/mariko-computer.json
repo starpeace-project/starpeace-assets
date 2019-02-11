@@ -11,7 +11,7 @@
       "IT": "Fabbrica di computer",
       "PT": "Fábrica de Computadores"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "COMPUTER",
@@ -31,7 +31,7 @@
       "IT": "Negozio di computer",
       "PT": "Loja de informática"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "COMPUTER",

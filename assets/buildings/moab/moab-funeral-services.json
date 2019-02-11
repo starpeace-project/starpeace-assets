@@ -11,7 +11,7 @@
       "IT": "Pompe funebri",
       "PT": "Salão Funerário"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "FUNERAL_SERVICES",

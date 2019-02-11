@@ -11,7 +11,7 @@
       "IT": "Fabbrica di metalli",
       "PT": "Fábrica de metal"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "METAL",
@@ -31,7 +31,7 @@
       "IT": "Piccola fabbrica di metalli",
       "PT": "Pequena fábrica de metal"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "METAL",

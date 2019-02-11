@@ -11,7 +11,7 @@
       "IT": "Fabbrica tessile",
       "PT": "Fábrica têxtil"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FABRIC",
@@ -32,7 +32,7 @@
       "IT": "Piccola fabbrica tessile",
       "PT": "Fábrica de Pequenos Têxteis"
     },
-    "seal": "mariko",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "FABRIC",

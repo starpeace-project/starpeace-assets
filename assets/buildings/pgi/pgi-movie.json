@@ -11,7 +11,7 @@
       "IT": "Cinema",
       "PT": "Cinema"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MOVIE",
@@ -30,7 +30,7 @@
       "IT": "Cinema",
       "PT": "Cinema"
     },
-    "seal": "pgi",
+    "seal_id": "PGI",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MOVIE",

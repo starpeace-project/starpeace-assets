@@ -11,7 +11,7 @@
       "IT": "Studio legale",
       "PT": "Escritório de advocacia"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "SERVICE",
     "category": "SERVICE",
     "industry_type": "LEGAL_SERVICES",

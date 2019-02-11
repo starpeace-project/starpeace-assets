@@ -11,7 +11,7 @@
       "IT": "Cupola di metalli",
       "PT": "Cúpula de metais"
     },
-    "seal": "moab",
+    "seal_id": "MOAB",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "METAL",
