@@ -41,7 +41,7 @@
     "outputs": [
       {
         "resource": "APPLIANCE",
-        "max": 24
+        "max": 14
       }
     ],
     "id": "dis.hha.industry",
@@ -89,7 +89,7 @@
     "outputs": [
       {
         "resource": "APPLIANCE",
-        "max": 4
+        "max": 5
       }
     ],
     "id": "dis.hha.industry.small",

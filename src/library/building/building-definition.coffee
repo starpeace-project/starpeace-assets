@@ -13,6 +13,7 @@ exports = module.exports = class BuildingDefinition
     return false unless @construction_image_id?.length > 0
 
     return false unless @zone?.length > 0
+    return false unless @seal_id?.length > 0
     return false unless @category?.length > 0
     return false unless @industry_type?.length > 0
 
@@ -25,9 +26,9 @@ exports = module.exports = class BuildingDefinition
       name_key: @name_key()
       image_id: @image_id
       construction_image_id: @construction_image_id
-      seal_ids: _.uniq(@seal_ids)
     }
     json.category = @category if @category?.length
+    json.seal_id = @seal_id if @seal_id?.length
     json.industry_type = @industry_type if @industry_type?.length
     json.zone = @zone if @zone?.length
     json.restricted = true if @restricted
@@ -46,6 +47,7 @@ exports = module.exports = class BuildingDefinition
     definition.zone = json.zone
     definition.category = json.category
     definition.industry_type = json.industry_type
+    definition.seal_id = json.seal
     definition.restricted = json.restricted || false
     definition.required_invention_ids = json.required_inventions
 
