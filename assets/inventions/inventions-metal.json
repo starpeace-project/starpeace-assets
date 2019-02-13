@@ -1,5 +1,5 @@
-{
-  "AtomicSizeMetalSheets": {
+[
+  {
     "id": "AtomicSizeMetalSheets",
     "category": "INDUSTRY",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
@@ -29,7 +29,7 @@
       "NoGravityShapingM"
     ]
   },
-  "AtomicSizeMetalSheetsM": {
+  {
     "id": "AtomicSizeMetalSheetsM",
     "category": "INDUSTRY",
     "name": {
@@ -50,7 +50,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
@@ -59,7 +59,7 @@
       "NoGravityShapingM"
     ]
   },
-  "AutoCoolingSuites": {
+  {
     "id": "AutoCoolingSuites",
     "category": "INDUSTRY",
     "name": {
@@ -81,7 +81,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 8,
       "quality": -3
     },
@@ -90,7 +90,7 @@
       "Metallic"
     ]
   },
-  "AutoCoolingSuitesM": {
+  {
     "id": "AutoCoolingSuitesM",
     "category": "INDUSTRY",
     "name": {
@@ -112,7 +112,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 8,
       "quality": -3
     },
@@ -121,7 +121,7 @@
       "Metallic"
     ]
   },
-  "BuiltInTrasmittors": {
+  {
     "id": "BuiltInTrasmittors",
     "category": "INDUSTRY",
     "name": {
@@ -142,7 +142,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
@@ -151,7 +151,7 @@
       "Metallic"
     ]
   },
-  "BuiltInTrasmittorsM": {
+  {
     "id": "BuiltInTrasmittorsM",
     "category": "INDUSTRY",
     "name": {
@@ -172,7 +172,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
@@ -181,7 +181,7 @@
       "Metallic"
     ]
   },
-  "DeepCryogenicSteelCooling": {
+  {
     "id": "DeepCryogenicSteelCooling",
     "category": "INDUSTRY",
     "name": {
@@ -202,7 +202,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
@@ -211,7 +211,7 @@
       "Metallic"
     ]
   },
-  "DeepCryogenicSteelCoolingM": {
+  {
     "id": "DeepCryogenicSteelCoolingM",
     "category": "INDUSTRY",
     "name": {
@@ -232,7 +232,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
@@ -241,7 +241,7 @@
       "Metallic"
     ]
   },
-  "ExtraterrestrialAlloys": {
+  {
     "id": "ExtraterrestrialAlloys",
     "category": "INDUSTRY",
     "name": {
@@ -262,7 +262,7 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
@@ -271,7 +271,7 @@
       "Metallic"
     ]
   },
-  "ExtraterrestrialAlloysM": {
+  {
     "id": "ExtraterrestrialAlloysM",
     "category": "INDUSTRY",
     "name": {
@@ -292,7 +292,7 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
@@ -301,7 +301,7 @@
       "Metallic"
     ]
   },
-  "InternalBusSystem": {
+  {
     "id": "InternalBusSystem",
     "category": "INDUSTRY",
     "name": {
@@ -323,7 +323,7 @@
     "properties": {
       "price": 90000000,
       "prestige": 2,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 7
     },
     "industry_type": "METAL",
@@ -331,7 +331,7 @@
       "LSMetal"
     ]
   },
-  "InternalBusSystemM": {
+  {
     "id": "InternalBusSystemM",
     "category": "INDUSTRY",
     "name": {
@@ -353,7 +353,7 @@
     "properties": {
       "price": 90000000,
       "prestige": 2,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 7
     },
     "industry_type": "METAL",
@@ -361,7 +361,7 @@
       "Metallic"
     ]
   },
-  "LSMetal": {
+  {
     "id": "LSMetal",
     "category": "INDUSTRY",
     "name": {
@@ -382,14 +382,14 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "master"
+      "level": "MASTER"
     },
     "industry_type": "METAL",
     "depends_on": [
       "Metallic"
     ]
   },
-  "Metallic": {
+  {
     "id": "Metallic",
     "category": "INDUSTRY",
     "name": {
@@ -410,14 +410,14 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "METAL",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "MetallicArt": {
+  {
     "id": "MetallicArt",
     "category": "INDUSTRY",
     "name": {
@@ -439,7 +439,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
@@ -448,7 +448,7 @@
       "Metallic"
     ]
   },
-  "MetallicArtM": {
+  {
     "id": "MetallicArtM",
     "category": "INDUSTRY",
     "name": {
@@ -470,7 +470,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
@@ -479,7 +479,7 @@
       "Metallic"
     ]
   },
-  "MetallurgyMuseum": {
+  {
     "id": "MetallurgyMuseum",
     "category": "INDUSTRY",
     "name": {
@@ -501,7 +501,7 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 3
     },
     "industry_type": "METAL",
@@ -509,7 +509,7 @@
       "Metallic"
     ]
   },
-  "MetallurgyMuseumM": {
+  {
     "id": "MetallurgyMuseumM",
     "category": "INDUSTRY",
     "name": {
@@ -531,7 +531,7 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 3
     },
     "industry_type": "METAL",
@@ -539,7 +539,7 @@
       "Metallic"
     ]
   },
-  "NanotechnologyDevelopment": {
+  {
     "id": "NanotechnologyDevelopment",
     "category": "INDUSTRY",
     "name": {
@@ -560,7 +560,7 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 10
     },
@@ -569,7 +569,7 @@
       "Metallic"
     ]
   },
-  "NanotechnologyDevelopmentM": {
+  {
     "id": "NanotechnologyDevelopmentM",
     "category": "INDUSTRY",
     "name": {
@@ -590,7 +590,7 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 10
     },
@@ -599,7 +599,7 @@
       "Metallic"
     ]
   },
-  "NoGravityShaping": {
+  {
     "id": "NoGravityShaping",
     "category": "INDUSTRY",
     "name": {
@@ -620,7 +620,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -8,
       "quality": 10
     },
@@ -629,7 +629,7 @@
       "Metallic"
     ]
   },
-  "NoGravityShapingM": {
+  {
     "id": "NoGravityShapingM",
     "category": "INDUSTRY",
     "name": {
@@ -650,7 +650,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -8,
       "quality": 10
     },
@@ -659,7 +659,7 @@
       "Metallic"
     ]
   },
-  "OreScreening": {
+  {
     "id": "OreScreening",
     "category": "INDUSTRY",
     "name": {
@@ -680,7 +680,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -3,
       "quality": 6
     },
@@ -689,7 +689,7 @@
       "Metallic"
     ]
   },
-  "OreScreeningM": {
+  {
     "id": "OreScreeningM",
     "category": "INDUSTRY",
     "name": {
@@ -710,7 +710,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -3,
       "quality": 6
     },
@@ -719,7 +719,7 @@
       "Metallic"
     ]
   },
-  "PreciousMetalTreatment": {
+  {
     "id": "PreciousMetalTreatment",
     "category": "INDUSTRY",
     "name": {
@@ -741,7 +741,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5
     },
     "industry_type": "METAL",
@@ -749,7 +749,7 @@
       "Metallic"
     ]
   },
-  "PreciousMetalTreatmentM": {
+  {
     "id": "PreciousMetalTreatmentM",
     "category": "INDUSTRY",
     "name": {
@@ -771,7 +771,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5
     },
     "industry_type": "METAL",
@@ -779,7 +779,7 @@
       "Metallic"
     ]
   },
-  "SecurityCollapsingMechanism": {
+  {
     "id": "SecurityCollapsingMechanism",
     "category": "INDUSTRY",
     "name": {
@@ -801,7 +801,7 @@
     "properties": {
       "price": 120000000,
       "prestige": 30,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5
     },
     "industry_type": "METAL",
@@ -809,7 +809,7 @@
       "LSMetal"
     ]
   },
-  "SecurityCollapsingMechanismM": {
+  {
     "id": "SecurityCollapsingMechanismM",
     "category": "INDUSTRY",
     "name": {
@@ -831,7 +831,7 @@
     "properties": {
       "price": 120000000,
       "prestige": 30,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5
     },
     "industry_type": "METAL",
@@ -839,7 +839,7 @@
       "Metallic"
     ]
   },
-  "SuperconductorsProduction": {
+  {
     "id": "SuperconductorsProduction",
     "category": "INDUSTRY",
     "name": {
@@ -860,7 +860,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
@@ -869,7 +869,7 @@
       "Metallic"
     ]
   },
-  "SuperconductorsProductionM": {
+  {
     "id": "SuperconductorsProductionM",
     "category": "INDUSTRY",
     "name": {
@@ -890,7 +890,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
@@ -899,7 +899,7 @@
       "Metallic"
     ]
   },
-  "UltimateTitaniumAlloy": {
+  {
     "id": "UltimateTitaniumAlloy",
     "category": "INDUSTRY",
     "name": {
@@ -921,7 +921,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
@@ -930,7 +930,7 @@
       "Metallic"
     ]
   },
-  "UltimateTitaniumAlloyM": {
+  {
     "id": "UltimateTitaniumAlloyM",
     "category": "INDUSTRY",
     "name": {
@@ -952,7 +952,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
@@ -961,4 +961,4 @@
       "Metallic"
     ]
   }
-}
+]

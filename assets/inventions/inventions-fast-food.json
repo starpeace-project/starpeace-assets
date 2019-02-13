@@ -1,5 +1,5 @@
-{
-  "DailyFarmDeliveries": {
+[
+  {
     "id": "DailyFarmDeliveries",
     "category": "COMMERCE",
     "name": {
@@ -20,13 +20,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
     "industry_type": "FAST_FOOD"
   },
-  "DeliCounter": {
+  {
     "id": "DeliCounter",
     "category": "COMMERCE",
     "name": {
@@ -47,13 +47,13 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
     "industry_type": "FAST_FOOD"
   },
-  "ExpiringDatesAlteration": {
+  {
     "id": "ExpiringDatesAlteration",
     "category": "COMMERCE",
     "name": {
@@ -74,13 +74,13 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": -2
     },
     "industry_type": "FAST_FOOD"
   },
-  "ExtraterrestrialVegetables": {
+  {
     "id": "ExtraterrestrialVegetables",
     "category": "COMMERCE",
     "name": {
@@ -102,13 +102,13 @@
     "properties": {
       "price": 15000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
     "industry_type": "FAST_FOOD"
   },
-  "Flowers": {
+  {
     "id": "Flowers",
     "category": "COMMERCE",
     "name": {
@@ -129,7 +129,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "desirability": 1
     },
     "industry_type": "FAST_FOOD",
@@ -137,7 +137,7 @@
       "DailyFarmDeliveries"
     ]
   },
-  "FoodIntegrityDailyControls": {
+  {
     "id": "FoodIntegrityDailyControls",
     "category": "COMMERCE",
     "name": {
@@ -158,13 +158,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
     "industry_type": "FAST_FOOD"
   },
-  "HygieneChecks": {
+  {
     "id": "HygieneChecks",
     "category": "COMMERCE",
     "name": {
@@ -185,13 +185,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "desirability": 2
     },
     "industry_type": "FAST_FOOD"
   },
-  "MonthlyPaymentOption": {
+  {
     "id": "MonthlyPaymentOption",
     "category": "COMMERCE",
     "name": {
@@ -212,13 +212,13 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
     "industry_type": "FAST_FOOD"
   },
-  "NoBrandFood": {
+  {
     "id": "NoBrandFood",
     "category": "COMMERCE",
     "name": {
@@ -239,13 +239,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
     "industry_type": "FAST_FOOD"
   },
-  "Oven": {
+  {
     "id": "Oven",
     "category": "COMMERCE",
     "name": {
@@ -266,13 +266,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
     "industry_type": "FAST_FOOD"
   },
-  "PartyOrders": {
+  {
     "id": "PartyOrders",
     "category": "COMMERCE",
     "name": {
@@ -293,13 +293,13 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
     "industry_type": "FAST_FOOD"
   },
-  "SelfServeVegetablesPicking": {
+  {
     "id": "SelfServeVegetablesPicking",
     "category": "COMMERCE",
     "name": {
@@ -320,13 +320,13 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": -1
     },
     "industry_type": "FAST_FOOD"
   },
-  "SeniorCitizenFreeHomeDelivery": {
+  {
     "id": "SeniorCitizenFreeHomeDelivery",
     "category": "COMMERCE",
     "name": {
@@ -348,13 +348,13 @@
     "properties": {
       "price": 25000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
     "industry_type": "FAST_FOOD"
   },
-  "SpecializedStores": {
+  {
     "id": "SpecializedStores",
     "category": "COMMERCE",
     "name": {
@@ -375,13 +375,13 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": 1
     },
     "industry_type": "FAST_FOOD"
   },
-  "WorkersLunch": {
+  {
     "id": "WorkersLunch",
     "category": "COMMERCE",
     "name": {
@@ -402,10 +402,10 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
     "industry_type": "FAST_FOOD"
   }
-}
+]

@@ -1,5 +1,5 @@
-{
-  "AntiAlienPaperCheck": {
+[
+  {
     "id": "AntiAlienPaperCheck",
     "category": "COMMERCE",
     "name": {
@@ -21,12 +21,12 @@
     "properties": {
       "price": 100000000,
       "prestige": 20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3
     },
     "industry_type": "AUTOMOBILE"
   },
-  "AutoInd": {
+  {
     "id": "AutoInd",
     "category": "INDUSTRY",
     "name": {
@@ -47,14 +47,14 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "AUTOMOBILE",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "AutoWashingCars": {
+  {
     "id": "AutoWashingCars",
     "category": "INDUSTRY",
     "name": {
@@ -76,7 +76,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 15,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 7
     },
@@ -85,7 +85,7 @@
       "AutoInd"
     ]
   },
-  "BetweenWorldsTransfer": {
+  {
     "id": "BetweenWorldsTransfer",
     "category": "COMMERCE",
     "name": {
@@ -106,13 +106,13 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
     "industry_type": "AUTOMOBILE"
   },
-  "BlindSpotSensors": {
+  {
     "id": "BlindSpotSensors",
     "category": "INDUSTRY",
     "name": {
@@ -134,7 +134,7 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
@@ -143,7 +143,7 @@
       "AutoInd"
     ]
   },
-  "BodyShop": {
+  {
     "id": "BodyShop",
     "category": "COMMERCE",
     "name": {
@@ -164,7 +164,7 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
@@ -173,7 +173,7 @@
       "InternalRepairmentCenter"
     ]
   },
-  "BreathAnalyzerStarter": {
+  {
     "id": "BreathAnalyzerStarter",
     "category": "INDUSTRY",
     "name": {
@@ -195,7 +195,7 @@
     "properties": {
       "price": 250000000,
       "prestige": 150,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -7,
       "quality": 3
     },
@@ -204,7 +204,7 @@
       "AutoInd"
     ]
   },
-  "ComplementaryTuneups": {
+  {
     "id": "ComplementaryTuneups",
     "category": "COMMERCE",
     "name": {
@@ -225,7 +225,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": 3
     },
@@ -234,7 +234,7 @@
       "InternalRepairmentCenter"
     ]
   },
-  "CutthroatSalesmenPolicy": {
+  {
     "id": "CutthroatSalesmenPolicy",
     "category": "COMMERCE",
     "name": {
@@ -256,13 +256,13 @@
     "properties": {
       "price": 45000000,
       "prestige": -10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "desirability": -2
     },
     "industry_type": "AUTOMOBILE"
   },
-  "DesignOutsourcing": {
+  {
     "id": "DesignOutsourcing",
     "category": "INDUSTRY",
     "name": {
@@ -284,7 +284,7 @@
     "properties": {
       "price": 450000000,
       "prestige": 15,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": 15
     },
@@ -293,7 +293,7 @@
       "AutoInd"
     ]
   },
-  "DirectionalBuiltInComputer": {
+  {
     "id": "DirectionalBuiltInComputer",
     "category": "INDUSTRY",
     "name": {
@@ -315,7 +315,7 @@
     "properties": {
       "price": 95000000,
       "prestige": 10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 12
     },
@@ -324,7 +324,7 @@
       "AutoInd"
     ]
   },
-  "ElectricGasEngine": {
+  {
     "id": "ElectricGasEngine",
     "category": "INDUSTRY",
     "name": {
@@ -346,7 +346,7 @@
     "properties": {
       "price": 240000000,
       "prestige": 50,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -15,
       "quality": 30
     },
@@ -355,7 +355,7 @@
       "AutoInd"
     ]
   },
-  "ErgonomicInteriors": {
+  {
     "id": "ErgonomicInteriors",
     "category": "INDUSTRY",
     "name": {
@@ -377,7 +377,7 @@
     "properties": {
       "price": 30000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -10,
       "quality": 10
     },
@@ -386,7 +386,7 @@
       "AutoInd"
     ]
   },
-  "ExtensiveTestDrive": {
+  {
     "id": "ExtensiveTestDrive",
     "category": "COMMERCE",
     "name": {
@@ -407,13 +407,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "desirability": 3
     },
     "industry_type": "AUTOMOBILE"
   },
-  "FamilyMarketingStrategy": {
+  {
     "id": "FamilyMarketingStrategy",
     "category": "COMMERCE",
     "name": {
@@ -434,13 +434,13 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "desirability": -2
     },
     "industry_type": "AUTOMOBILE"
   },
-  "FreeGas": {
+  {
     "id": "FreeGas",
     "category": "COMMERCE",
     "name": {
@@ -461,13 +461,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "desirability": 2
     },
     "industry_type": "AUTOMOBILE"
   },
-  "GlueOnTires": {
+  {
     "id": "GlueOnTires",
     "category": "INDUSTRY",
     "name": {
@@ -489,7 +489,7 @@
     "properties": {
       "price": 25000000,
       "prestige": -3,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -3,
       "quality": 5
     },
@@ -498,7 +498,7 @@
       "AutoInd"
     ]
   },
-  "HardSeats": {
+  {
     "id": "HardSeats",
     "category": "INDUSTRY",
     "name": {
@@ -520,7 +520,7 @@
     "properties": {
       "price": 20000000,
       "prestige": -5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 6,
       "quality": -4
     },
@@ -529,7 +529,7 @@
       "AutoInd"
     ]
   },
-  "InternalRepairmentCenter": {
+  {
     "id": "InternalRepairmentCenter",
     "category": "COMMERCE",
     "name": {
@@ -551,13 +551,13 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "desirability": 5
     },
     "industry_type": "AUTOMOBILE"
   },
-  "LeasingAndFinancing": {
+  {
     "id": "LeasingAndFinancing",
     "category": "COMMERCE",
     "name": {
@@ -578,13 +578,13 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "desirability": 3
     },
     "industry_type": "AUTOMOBILE"
   },
-  "LimitedModelsSelection": {
+  {
     "id": "LimitedModelsSelection",
     "category": "COMMERCE",
     "name": {
@@ -606,13 +606,13 @@
     "properties": {
       "price": 80000000,
       "prestige": -3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 20,
       "desirability": -5
     },
     "industry_type": "AUTOMOBILE"
   },
-  "LowQualityCoating": {
+  {
     "id": "LowQualityCoating",
     "category": "INDUSTRY",
     "name": {
@@ -633,7 +633,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -5
     },
@@ -642,7 +642,7 @@
       "AutoInd"
     ]
   },
-  "LuxuriousOffice": {
+  {
     "id": "LuxuriousOffice",
     "category": "COMMERCE",
     "name": {
@@ -664,13 +664,13 @@
     "properties": {
       "price": 20000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "desirability": 2
     },
     "industry_type": "AUTOMOBILE"
   },
-  "MassiveFeaturesStandardization": {
+  {
     "id": "MassiveFeaturesStandardization",
     "category": "INDUSTRY",
     "name": {
@@ -691,7 +691,7 @@
     },
     "properties": {
       "price": 285000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 30,
       "quality": -5
     },
@@ -700,7 +700,7 @@
       "AutoInd"
     ]
   },
-  "NewCarSmellSpray": {
+  {
     "id": "NewCarSmellSpray",
     "category": "COMMERCE",
     "name": {
@@ -721,7 +721,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
@@ -730,7 +730,7 @@
       "UsedCarDepartments"
     ]
   },
-  "RubberRecycling": {
+  {
     "id": "RubberRecycling",
     "category": "INDUSTRY",
     "name": {
@@ -752,7 +752,7 @@
     "properties": {
       "price": 175000000,
       "prestige": 15,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 8,
       "quality": -1
     },
@@ -761,7 +761,7 @@
       "AutoInd"
     ]
   },
-  "SalesmenTrainingCourse": {
+  {
     "id": "SalesmenTrainingCourse",
     "category": "COMMERCE",
     "name": {
@@ -782,12 +782,12 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3
     },
     "industry_type": "AUTOMOBILE"
   },
-  "UltimateAirBag": {
+  {
     "id": "UltimateAirBag",
     "category": "INDUSTRY",
     "name": {
@@ -809,7 +809,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 20,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 7
     },
@@ -818,7 +818,7 @@
       "AutoInd"
     ]
   },
-  "UsedCarDepartments": {
+  {
     "id": "UsedCarDepartments",
     "category": "COMMERCE",
     "name": {
@@ -840,13 +840,13 @@
     "properties": {
       "price": 110000000,
       "prestige": -3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "desirability": 8
     },
     "industry_type": "AUTOMOBILE"
   },
-  "WarrantyPolicy": {
+  {
     "id": "WarrantyPolicy",
     "category": "INDUSTRY",
     "name": {
@@ -868,7 +868,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -4,
       "quality": 8
     },
@@ -877,7 +877,7 @@
       "AutoInd"
     ]
   },
-  "WrecksRecycling": {
+  {
     "id": "WrecksRecycling",
     "category": "INDUSTRY",
     "name": {
@@ -899,7 +899,7 @@
     "properties": {
       "price": 160000000,
       "prestige": -10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 40,
       "quality": -20
     },
@@ -908,4 +908,4 @@
       "AutoInd"
     ]
   }
-}
+]

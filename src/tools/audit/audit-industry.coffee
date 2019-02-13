@@ -11,6 +11,7 @@ FileUtils = require('../utils/file-utils')
   CompanySeal
   IndustryCategory
   IndustryType
+  Level
   ResourceType
   ResourceUnit
 } = require('../../lib')
@@ -20,6 +21,7 @@ exports = module.exports = class AuditIndustry
   @EXPECTED_CITY_ZONE_COUNT: 13
   @EXPECTED_INDUSTRY_CATEGORY_COUNT: 7
   @EXPECTED_INDUSTRY_TYPE_COUNT: 57
+  @EXPECTED_LEVEL_COUNT: 6
   @EXPECTED_RESOURCE_TYPE_COUNT: 36
   @EXPECTED_RESOURCE_UNIT_COUNT: 6
 
@@ -45,6 +47,13 @@ exports = module.exports = class AuditIndustry
       industry_types_by_id = _.keyBy(industry_types, 'id')
       AuditUtils.audit_is_valid('industry type', industry_types)
       AuditUtils.audit_unique_count_by_id('industry type', industry_types, industry_types_by_id, AuditIndustry.EXPECTED_INDUSTRY_TYPE_COUNT)
+
+      process.stdout.write '\n'
+
+      levels = FileUtils.parse_files(root_dir, ['levels.json'], [], Level.from_json)
+      levels_by_id = _.keyBy(levels, 'id')
+      AuditUtils.audit_is_valid('level', levels)
+      AuditUtils.audit_unique_count_by_id('level', levels, levels_by_id, AuditIndustry.EXPECTED_LEVEL_COUNT)
 
       process.stdout.write '\n'
 
@@ -76,6 +85,7 @@ exports = module.exports = class AuditIndustry
           city_zones_by_id
           industry_categories_by_id
           industry_types_by_id
+          levels_by_id
           resource_types_by_id
           resource_units_by_id
         }

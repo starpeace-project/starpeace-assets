@@ -1,5 +1,5 @@
-{
-  "EtTimber": {
+[
+  {
     "id": "EtTimber",
     "category": "INDUSTRY",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 280000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
@@ -29,7 +29,7 @@
       "Timber"
     ]
   },
-  "TimbAlienBactCtrl": {
+  {
     "id": "TimbAlienBactCtrl",
     "category": "INDUSTRY",
     "name": {
@@ -51,7 +51,7 @@
     "properties": {
       "price": 280000000,
       "prestige": 30,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5
     },
     "industry_type": "TIMBER",
@@ -59,7 +59,7 @@
       "EtTimber"
     ]
   },
-  "TimbAromaticWood": {
+  {
     "id": "TimbAromaticWood",
     "category": "INDUSTRY",
     "name": {
@@ -81,7 +81,7 @@
     "properties": {
       "price": 180000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
@@ -90,7 +90,7 @@
       "Timber"
     ]
   },
-  "TimbASMSheets": {
+  {
     "id": "TimbASMSheets",
     "category": "INDUSTRY",
     "name": {
@@ -111,7 +111,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
@@ -120,7 +120,7 @@
       "Timber"
     ]
   },
-  "TimbCatRepel": {
+  {
     "id": "TimbCatRepel",
     "category": "INDUSTRY",
     "name": {
@@ -141,7 +141,7 @@
     },
     "properties": {
       "price": 85000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
@@ -150,7 +150,7 @@
       "Timber"
     ]
   },
-  "TimbColoredTrees": {
+  {
     "id": "TimbColoredTrees",
     "category": "INDUSTRY",
     "name": {
@@ -171,7 +171,7 @@
     },
     "properties": {
       "price": 325000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -8,
       "quality": 10
     },
@@ -180,7 +180,7 @@
       "Timber"
     ]
   },
-  "Timber": {
+  {
     "id": "Timber",
     "category": "INDUSTRY",
     "name": {
@@ -201,14 +201,14 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "TIMBER",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "TimbGreenMusic": {
+  {
     "id": "TimbGreenMusic",
     "category": "INDUSTRY",
     "name": {
@@ -230,7 +230,7 @@
     "properties": {
       "price": 160000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5
     },
     "industry_type": "TIMBER",
@@ -238,7 +238,7 @@
       "Timber"
     ]
   },
-  "TimbHiDensity": {
+  {
     "id": "TimbHiDensity",
     "category": "INDUSTRY",
     "name": {
@@ -260,7 +260,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -8,
       "quality": 3
     },
@@ -269,7 +269,7 @@
       "Timber"
     ]
   },
-  "TimbInternalBusSystem": {
+  {
     "id": "TimbInternalBusSystem",
     "category": "INDUSTRY",
     "name": {
@@ -291,7 +291,7 @@
     "properties": {
       "price": 90000000,
       "prestige": 2,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 7
     },
     "industry_type": "TIMBER",
@@ -299,7 +299,7 @@
       "Timber"
     ]
   },
-  "TimbMuseum": {
+  {
     "id": "TimbMuseum",
     "category": "INDUSTRY",
     "name": {
@@ -321,7 +321,7 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 3
     },
     "industry_type": "TIMBER",
@@ -329,7 +329,7 @@
       "Timber"
     ]
   },
-  "TimbNanoDev": {
+  {
     "id": "TimbNanoDev",
     "category": "INDUSTRY",
     "name": {
@@ -350,7 +350,7 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 10
     },
@@ -359,7 +359,7 @@
       "Timber"
     ]
   },
-  "TimbSpecFert": {
+  {
     "id": "TimbSpecFert",
     "category": "INDUSTRY",
     "name": {
@@ -380,7 +380,7 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -3,
       "quality": 6
     },
@@ -389,7 +389,7 @@
       "Timber"
     ]
   },
-  "TimbSupercondProd": {
+  {
     "id": "TimbSupercondProd",
     "category": "INDUSTRY",
     "name": {
@@ -410,7 +410,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
@@ -419,7 +419,7 @@
       "Timber"
     ]
   },
-  "TimbTwinTrees": {
+  {
     "id": "TimbTwinTrees",
     "category": "INDUSTRY",
     "name": {
@@ -441,7 +441,7 @@
     "properties": {
       "price": 165000000,
       "prestige": -10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
@@ -450,7 +450,7 @@
       "Timber"
     ]
   },
-  "TimbWoodBubbles": {
+  {
     "id": "TimbWoodBubbles",
     "category": "INDUSTRY",
     "name": {
@@ -471,7 +471,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
@@ -480,4 +480,4 @@
       "Timber"
     ]
   }
-}
+]

@@ -1,5 +1,5 @@
-{
-  "AnhalcolicProducts": {
+[
+  {
     "id": "AnhalcolicProducts",
     "category": "INDUSTRY",
     "name": {
@@ -21,7 +21,7 @@
     "properties": {
       "price": 90000000,
       "prestige": 30,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
@@ -30,7 +30,7 @@
       "Liquors"
     ]
   },
-  "AntiBreakingGlassBottle": {
+  {
     "id": "AntiBreakingGlassBottle",
     "category": "INDUSTRY",
     "name": {
@@ -52,7 +52,7 @@
     "properties": {
       "price": 75000000,
       "prestige": 50,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5
     },
     "industry_type": "LIQUOR",
@@ -60,7 +60,7 @@
       "Liquors"
     ]
   },
-  "BreathControlSeal": {
+  {
     "id": "BreathControlSeal",
     "category": "INDUSTRY",
     "name": {
@@ -82,14 +82,14 @@
     "properties": {
       "price": 140000000,
       "prestige": 70,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "LIQUOR",
     "depends_on": [
       "Liquors"
     ]
   },
-  "CheapStrongLiquors": {
+  {
     "id": "CheapStrongLiquors",
     "category": "INDUSTRY",
     "name": {
@@ -111,7 +111,7 @@
     "properties": {
       "price": 90000000,
       "prestige": -10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 15,
       "quality": -5
     },
@@ -120,7 +120,7 @@
       "Liquors"
     ]
   },
-  "Cocktails": {
+  {
     "id": "Cocktails",
     "category": "INDUSTRY",
     "name": {
@@ -142,7 +142,7 @@
     "properties": {
       "price": 85000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 10
     },
@@ -151,7 +151,7 @@
       "Liquors"
     ]
   },
-  "EthnicDrinksSelection": {
+  {
     "id": "EthnicDrinksSelection",
     "category": "INDUSTRY",
     "name": {
@@ -173,7 +173,7 @@
     "properties": {
       "price": 40000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -182,7 +182,7 @@
       "Liquors"
     ]
   },
-  "EvaporatedAlcoholRecycling": {
+  {
     "id": "EvaporatedAlcoholRecycling",
     "category": "INDUSTRY",
     "name": {
@@ -203,7 +203,7 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 8
     },
     "industry_type": "LIQUOR",
@@ -211,7 +211,7 @@
       "Liquors"
     ]
   },
-  "ExtraStrongVolatileLiquor": {
+  {
     "id": "ExtraStrongVolatileLiquor",
     "category": "INDUSTRY",
     "name": {
@@ -232,7 +232,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 7
     },
@@ -241,7 +241,7 @@
       "Liquors"
     ]
   },
-  "ExtraterrestrialFlavours": {
+  {
     "id": "ExtraterrestrialFlavours",
     "category": "INDUSTRY",
     "name": {
@@ -263,7 +263,7 @@
     "properties": {
       "price": 150000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "quality": 8
     },
@@ -272,7 +272,7 @@
       "Liquors"
     ]
   },
-  "HeadacheAndStomachDrug": {
+  {
     "id": "HeadacheAndStomachDrug",
     "category": "INDUSTRY",
     "name": {
@@ -294,7 +294,7 @@
     "properties": {
       "price": 50000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "quality": -5
     },
@@ -303,7 +303,7 @@
       "Liquors"
     ]
   },
-  "HistoryOfAlcoholicDrinks": {
+  {
     "id": "HistoryOfAlcoholicDrinks",
     "category": "INDUSTRY",
     "name": {
@@ -324,7 +324,7 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "quality": 5
     },
@@ -333,7 +333,7 @@
       "Liquors"
     ]
   },
-  "LightProducts": {
+  {
     "id": "LightProducts",
     "category": "INDUSTRY",
     "name": {
@@ -355,7 +355,7 @@
     "properties": {
       "price": 30000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 2
     },
@@ -364,7 +364,7 @@
       "Liquors"
     ]
   },
-  "Liquors": {
+  {
     "id": "Liquors",
     "category": "INDUSTRY",
     "name": {
@@ -385,14 +385,14 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "LIQUOR",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "PurifyWater": {
+  {
     "id": "PurifyWater",
     "category": "INDUSTRY",
     "name": {
@@ -413,7 +413,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 4
     },
@@ -422,7 +422,7 @@
       "Liquors"
     ]
   },
-  "TastersBattery": {
+  {
     "id": "TastersBattery",
     "category": "INDUSTRY",
     "name": {
@@ -443,7 +443,7 @@
     },
     "properties": {
       "price": 105000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "quality": 15
     },
@@ -452,7 +452,7 @@
       "Liquors"
     ]
   },
-  "UniversalOrganicDistillation": {
+  {
     "id": "UniversalOrganicDistillation",
     "category": "INDUSTRY",
     "name": {
@@ -474,7 +474,7 @@
     "properties": {
       "price": 365000000,
       "prestige": -15,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 50,
       "quality": -10
     },
@@ -483,4 +483,4 @@
       "Liquors"
     ]
   }
-}
+]

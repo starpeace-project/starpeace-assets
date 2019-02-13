@@ -1,5 +1,5 @@
-{
-  "3Dlooms": {
+[
+  {
     "id": "3Dlooms",
     "category": "INDUSTRY",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "quality": 5
     },
@@ -29,7 +29,7 @@
       "TextileLic"
     ]
   },
-  "AdvancedFashions": {
+  {
     "id": "AdvancedFashions",
     "category": "INDUSTRY",
     "name": {
@@ -50,7 +50,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 7
     },
@@ -59,7 +59,7 @@
       "BasicFashions"
     ]
   },
-  "Anticamouflage": {
+  {
     "id": "Anticamouflage",
     "category": "INDUSTRY",
     "name": {
@@ -80,7 +80,7 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 10
     },
@@ -89,7 +89,7 @@
       "TextileLic"
     ]
   },
-  "BasicFashions": {
+  {
     "id": "BasicFashions",
     "category": "INDUSTRY",
     "name": {
@@ -110,7 +110,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 7
     },
@@ -119,7 +119,7 @@
       "TextileLic"
     ]
   },
-  "BioFabrics": {
+  {
     "id": "BioFabrics",
     "category": "INDUSTRY",
     "name": {
@@ -141,7 +141,7 @@
     "properties": {
       "price": 90000000,
       "prestige": 100,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": -10
     },
@@ -150,7 +150,7 @@
       "TextileLic"
     ]
   },
-  "BlindPoint": {
+  {
     "id": "BlindPoint",
     "category": "INDUSTRY",
     "name": {
@@ -172,7 +172,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "quality": -7
     },
@@ -181,7 +181,7 @@
       "TextileLic"
     ]
   },
-  "CoulombFab": {
+  {
     "id": "CoulombFab",
     "category": "INDUSTRY",
     "name": {
@@ -202,7 +202,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "quality": -7
     },
@@ -211,7 +211,7 @@
       "TextileLic"
     ]
   },
-  "FabricEnlargement": {
+  {
     "id": "FabricEnlargement",
     "category": "INDUSTRY",
     "name": {
@@ -233,7 +233,7 @@
     "properties": {
       "price": 10000000,
       "prestige": -2,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "quality": -7
     },
@@ -242,7 +242,7 @@
       "TextileLic"
     ]
   },
-  "InvKnit": {
+  {
     "id": "InvKnit",
     "category": "INDUSTRY",
     "name": {
@@ -264,7 +264,7 @@
     "properties": {
       "price": 10000000,
       "prestige": 4,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "quality": -10
     },
@@ -273,7 +273,7 @@
       "TextileLic"
     ]
   },
-  "Livingfabrics": {
+  {
     "id": "Livingfabrics",
     "category": "INDUSTRY",
     "name": {
@@ -295,7 +295,7 @@
     "properties": {
       "price": 500000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 50
     },
@@ -304,7 +304,7 @@
       "TextileLic"
     ]
   },
-  "LSTextile": {
+  {
     "id": "LSTextile",
     "category": "INDUSTRY",
     "name": {
@@ -325,14 +325,14 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "entrepreneur"
+      "level": "ENTREPRENEUR"
     },
     "industry_type": "FABRIC",
     "depends_on": [
       "TextileLic"
     ]
   },
-  "MutCatep": {
+  {
     "id": "MutCatep",
     "category": "INDUSTRY",
     "name": {
@@ -353,7 +353,7 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 10
     },
@@ -362,7 +362,7 @@
       "TextileLic"
     ]
   },
-  "NATOpolyester": {
+  {
     "id": "NATOpolyester",
     "category": "INDUSTRY",
     "name": {
@@ -384,7 +384,7 @@
     "properties": {
       "price": 95000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 9
     },
@@ -393,7 +393,7 @@
       "TextileLic"
     ]
   },
-  "Quicktint": {
+  {
     "id": "Quicktint",
     "category": "INDUSTRY",
     "name": {
@@ -414,7 +414,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "quality": -7
     },
@@ -423,7 +423,7 @@
       "TextileLic"
     ]
   },
-  "RealFashion": {
+  {
     "id": "RealFashion",
     "category": "INDUSTRY",
     "name": {
@@ -445,7 +445,7 @@
     "properties": {
       "price": 110000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 12
     },
@@ -454,7 +454,7 @@
       "TopFashions"
     ]
   },
-  "Silencers": {
+  {
     "id": "Silencers",
     "category": "INDUSTRY",
     "name": {
@@ -476,7 +476,7 @@
     "properties": {
       "price": 35000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 1
     },
@@ -485,7 +485,7 @@
       "TextileLic"
     ]
   },
-  "SyntThreads": {
+  {
     "id": "SyntThreads",
     "category": "INDUSTRY",
     "name": {
@@ -507,7 +507,7 @@
     "properties": {
       "price": 120000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "quality": 5
     },
@@ -516,7 +516,7 @@
       "TextileLic"
     ]
   },
-  "TextileLic": {
+  {
     "id": "TextileLic",
     "category": "INDUSTRY",
     "name": {
@@ -537,14 +537,14 @@
     },
     "properties": {
       "price": 2000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "FABRIC",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "TopFashions": {
+  {
     "id": "TopFashions",
     "category": "INDUSTRY",
     "name": {
@@ -565,7 +565,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 10
     },
@@ -574,7 +574,7 @@
       "BasicFashions"
     ]
   },
-  "VertLooms": {
+  {
     "id": "VertLooms",
     "category": "INDUSTRY",
     "name": {
@@ -596,7 +596,7 @@
     "properties": {
       "price": 140000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 15,
       "quality": -4
     },
@@ -605,4 +605,4 @@
       "TextileLic"
     ]
   }
-}
+]

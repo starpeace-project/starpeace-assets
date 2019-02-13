@@ -1,5 +1,5 @@
-{
-  "AwardShows": {
+[
+  {
     "id": "AwardShows",
     "category": "SERVICE",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 700000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
@@ -29,7 +29,7 @@
       "BasicTelevision"
     ]
   },
-  "BasicTelevision": {
+  {
     "id": "BasicTelevision",
     "category": "SERVICE",
     "name": {
@@ -51,14 +51,14 @@
     "properties": {
       "price": 10000000,
       "prestige": 10,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "TELEVISION",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "Cartoons": {
+  {
     "id": "Cartoons",
     "category": "SERVICE",
     "name": {
@@ -79,7 +79,7 @@
     },
     "properties": {
       "price": 600000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
@@ -88,7 +88,7 @@
       "BasicTelevision"
     ]
   },
-  "CommentatorsForTheBlind": {
+  {
     "id": "CommentatorsForTheBlind",
     "category": "SERVICE",
     "name": {
@@ -110,7 +110,7 @@
     "properties": {
       "price": 700000000,
       "prestige": 20,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 2
     },
@@ -119,7 +119,7 @@
       "BasicTelevision"
     ]
   },
-  "DetctiveSeries": {
+  {
     "id": "DetctiveSeries",
     "category": "SERVICE",
     "name": {
@@ -140,7 +140,7 @@
     },
     "properties": {
       "price": 1000000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 7
     },
@@ -149,7 +149,7 @@
       "BasicTelevision"
     ]
   },
-  "DigitalPlatform": {
+  {
     "id": "DigitalPlatform",
     "category": "SERVICE",
     "name": {
@@ -170,7 +170,7 @@
     },
     "properties": {
       "price": 1200000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -15,
       "quality": 10
     },
@@ -179,7 +179,7 @@
       "BasicTelevision"
     ]
   },
-  "Infomercials": {
+  {
     "id": "Infomercials",
     "category": "SERVICE",
     "name": {
@@ -201,7 +201,7 @@
     "properties": {
       "price": 500000000,
       "prestige": -5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -2
     },
@@ -210,7 +210,7 @@
       "BasicTelevision"
     ]
   },
-  "InvestigativeJournalism": {
+  {
     "id": "InvestigativeJournalism",
     "category": "SERVICE",
     "name": {
@@ -232,7 +232,7 @@
     "properties": {
       "price": 900000000,
       "prestige": 20,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
@@ -241,7 +241,7 @@
       "BasicTelevision"
     ]
   },
-  "LateNightShows": {
+  {
     "id": "LateNightShows",
     "category": "SERVICE",
     "name": {
@@ -262,7 +262,7 @@
     },
     "properties": {
       "price": 800000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 2,
       "quality": 2
     },
@@ -271,7 +271,7 @@
       "BasicTelevision"
     ]
   },
-  "LaughTracksBan": {
+  {
     "id": "LaughTracksBan",
     "category": "SERVICE",
     "name": {
@@ -293,7 +293,7 @@
     "properties": {
       "price": 500000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 3
     },
@@ -302,7 +302,7 @@
       "SitComInvasion"
     ]
   },
-  "LocalNews": {
+  {
     "id": "LocalNews",
     "category": "SERVICE",
     "name": {
@@ -324,7 +324,7 @@
     "properties": {
       "price": 500000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 2,
       "quality": 2
     },
@@ -333,7 +333,7 @@
       "BasicTelevision"
     ]
   },
-  "NewTalents": {
+  {
     "id": "NewTalents",
     "category": "SERVICE",
     "name": {
@@ -355,7 +355,7 @@
     "properties": {
       "price": 400000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
@@ -364,7 +364,7 @@
       "BasicTelevision"
     ]
   },
-  "PayPerView": {
+  {
     "id": "PayPerView",
     "category": "SERVICE",
     "name": {
@@ -386,7 +386,7 @@
     "properties": {
       "price": 900000000,
       "prestige": -10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 15,
       "quality": -5
     },
@@ -395,7 +395,7 @@
       "BasicTelevision"
     ]
   },
-  "QuizShows": {
+  {
     "id": "QuizShows",
     "category": "SERVICE",
     "name": {
@@ -416,7 +416,7 @@
     },
     "properties": {
       "price": 1000000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 2,
       "quality": 5
     },
@@ -425,7 +425,7 @@
       "BasicTelevision"
     ]
   },
-  "RealityShows": {
+  {
     "id": "RealityShows",
     "category": "SERVICE",
     "name": {
@@ -447,7 +447,7 @@
     "properties": {
       "price": 1000000000,
       "prestige": -10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -3,
       "quality": 5
     },
@@ -456,7 +456,7 @@
       "BasicTelevision"
     ]
   },
-  "SexyVarietyShows": {
+  {
     "id": "SexyVarietyShows",
     "category": "SERVICE",
     "name": {
@@ -478,7 +478,7 @@
     "properties": {
       "price": 700000000,
       "prestige": -10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
@@ -487,7 +487,7 @@
       "BasicTelevision"
     ]
   },
-  "SingleSportChannels": {
+  {
     "id": "SingleSportChannels",
     "category": "SERVICE",
     "name": {
@@ -509,7 +509,7 @@
     "properties": {
       "price": 900000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -2
     },
@@ -518,7 +518,7 @@
       "DigitalPlatform"
     ]
   },
-  "SitComInvasion": {
+  {
     "id": "SitComInvasion",
     "category": "SERVICE",
     "name": {
@@ -540,7 +540,7 @@
     "properties": {
       "price": 800000000,
       "prestige": -5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 2,
       "quality": 2
     },
@@ -549,7 +549,7 @@
       "BasicTelevision"
     ]
   },
-  "SoapOperasExcellency": {
+  {
     "id": "SoapOperasExcellency",
     "category": "SERVICE",
     "name": {
@@ -570,7 +570,7 @@
     },
     "properties": {
       "price": 800000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 4
     },
@@ -579,7 +579,7 @@
       "BasicTelevision"
     ]
   },
-  "Subtitles": {
+  {
     "id": "Subtitles",
     "category": "SERVICE",
     "name": {
@@ -601,7 +601,7 @@
     "properties": {
       "price": 600000000,
       "prestige": 30,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -1,
       "quality": 1
     },
@@ -610,7 +610,7 @@
       "BasicTelevision"
     ]
   },
-  "TrashyTalkshows": {
+  {
     "id": "TrashyTalkshows",
     "category": "SERVICE",
     "name": {
@@ -632,7 +632,7 @@
     "properties": {
       "price": 800000000,
       "prestige": -20,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": 2
     },
@@ -641,4 +641,4 @@
       "BasicTelevision"
     ]
   }
-}
+]

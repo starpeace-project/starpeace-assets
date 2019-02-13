@@ -1,5 +1,5 @@
-{
-  "AdoptAFloorCampaign": {
+[
+  {
     "id": "AdoptAFloorCampaign",
     "category": "REAL_ESTATE",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 3,
       "maintenance": 3,
       "privacy": -1
@@ -30,7 +30,7 @@
       "RealEstate"
     ]
   },
-  "AdvAroma": {
+  {
     "id": "AdvAroma",
     "category": "REAL_ESTATE",
     "name": {
@@ -51,7 +51,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 4,
       "environment": 1
     },
@@ -60,7 +60,7 @@
       "RealEstate"
     ]
   },
-  "AdvDec": {
+  {
     "id": "AdvDec",
     "category": "REAL_ESTATE",
     "name": {
@@ -81,7 +81,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 5
     },
     "industry_type": "RESIDENTIAL",
@@ -89,7 +89,7 @@
       "RealEstate"
     ]
   },
-  "AIManager": {
+  {
     "id": "AIManager",
     "category": "REAL_ESTATE",
     "name": {
@@ -110,7 +110,7 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "maintenance": 6
     },
     "industry_type": "RESIDENTIAL",
@@ -118,7 +118,7 @@
       "RealEstate"
     ]
   },
-  "AirBorneDeliveries": {
+  {
     "id": "AirBorneDeliveries",
     "category": "REAL_ESTATE",
     "name": {
@@ -139,7 +139,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "maintenance": -2,
       "privacy": 4,
       "security": 3,
@@ -150,7 +150,7 @@
       "RealEstate"
     ]
   },
-  "AntiPollPaint": {
+  {
     "id": "AntiPollPaint",
     "category": "REAL_ESTATE",
     "name": {
@@ -171,7 +171,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -7,
       "environment": 25
     },
@@ -180,7 +180,7 @@
       "RealEstate"
     ]
   },
-  "AntiRadGlass": {
+  {
     "id": "AntiRadGlass",
     "category": "REAL_ESTATE",
     "name": {
@@ -201,7 +201,7 @@
     },
     "properties": {
       "price": 27000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -3,
       "privacy": 2,
       "environment": 10
@@ -211,7 +211,7 @@
       "RealEstate"
     ]
   },
-  "AntiRadWall": {
+  {
     "id": "AntiRadWall",
     "category": "REAL_ESTATE",
     "name": {
@@ -232,7 +232,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -1,
       "environment": 10
     },
@@ -241,7 +241,7 @@
       "RealEstate"
     ]
   },
-  "BanjeeJumping": {
+  {
     "id": "BanjeeJumping",
     "category": "REAL_ESTATE",
     "name": {
@@ -262,7 +262,7 @@
     },
     "properties": {
       "price": 120000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 3,
       "maintenance": 4,
       "privacy": -2,
@@ -273,7 +273,7 @@
       "RealEstate"
     ]
   },
-  "CleaningMonitoringSystem": {
+  {
     "id": "CleaningMonitoringSystem",
     "category": "REAL_ESTATE",
     "name": {
@@ -294,7 +294,7 @@
     },
     "properties": {
       "price": 180000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -2,
       "maintenance": 10,
       "privacy": 2,
@@ -305,7 +305,7 @@
       "RealEstate"
     ]
   },
-  "ClosedCircuits": {
+  {
     "id": "ClosedCircuits",
     "category": "REAL_ESTATE",
     "name": {
@@ -326,7 +326,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "privacy": -4,
       "security": 9
     },
@@ -335,7 +335,7 @@
       "RealEstate"
     ]
   },
-  "Colossus": {
+  {
     "id": "Colossus",
     "category": "REAL_ESTATE",
     "name": {
@@ -357,7 +357,7 @@
     "properties": {
       "price": 120000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 5,
       "maintenance": -1,
       "privacy": -1
@@ -367,7 +367,7 @@
       "RealEstate"
     ]
   },
-  "Communities": {
+  {
     "id": "Communities",
     "category": "REAL_ESTATE",
     "name": {
@@ -388,7 +388,7 @@
     },
     "properties": {
       "price": 180000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "privacy": 2
     },
     "industry_type": "RESIDENTIAL",
@@ -396,7 +396,7 @@
       "RealEstate"
     ]
   },
-  "ComplementaryCars": {
+  {
     "id": "ComplementaryCars",
     "category": "REAL_ESTATE",
     "name": {
@@ -417,7 +417,7 @@
     },
     "properties": {
       "price": 140000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "maintenance": 3,
       "privacy": -1,
       "security": 1,
@@ -428,7 +428,7 @@
       "RealEstate"
     ]
   },
-  "ControlledRiots": {
+  {
     "id": "ControlledRiots",
     "category": "REAL_ESTATE",
     "name": {
@@ -450,7 +450,7 @@
     "properties": {
       "price": 100000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "maintenance": -2,
       "privacy": -1,
       "security": 6
@@ -460,7 +460,7 @@
       "RealEstate"
     ]
   },
-  "DailyCleaners": {
+  {
     "id": "DailyCleaners",
     "category": "REAL_ESTATE",
     "name": {
@@ -481,7 +481,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 2,
       "maintenance": -2,
       "privacy": -1,
@@ -493,7 +493,7 @@
       "RealEstate"
     ]
   },
-  "DigitalPaintings": {
+  {
     "id": "DigitalPaintings",
     "category": "REAL_ESTATE",
     "name": {
@@ -514,7 +514,7 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 3,
       "maintenance": 1,
       "security": 2
@@ -524,7 +524,7 @@
       "RealEstate"
     ]
   },
-  "ElecFenc": {
+  {
     "id": "ElecFenc",
     "category": "REAL_ESTATE",
     "name": {
@@ -545,7 +545,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -5,
       "maintenance": -3,
       "privacy": 4,
@@ -556,7 +556,7 @@
       "RealEstate"
     ]
   },
-  "EmergencyParachuting": {
+  {
     "id": "EmergencyParachuting",
     "category": "REAL_ESTATE",
     "name": {
@@ -577,7 +577,7 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "maintenance": 2,
       "security": 2,
       "environment": 2
@@ -587,7 +587,7 @@
       "RealEstate"
     ]
   },
-  "EnvMusic": {
+  {
     "id": "EnvMusic",
     "category": "REAL_ESTATE",
     "name": {
@@ -608,7 +608,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 4
     },
     "industry_type": "RESIDENTIAL",
@@ -616,7 +616,7 @@
       "RealEstate"
     ]
   },
-  "EscortService": {
+  {
     "id": "EscortService",
     "category": "REAL_ESTATE",
     "name": {
@@ -637,7 +637,7 @@
     },
     "properties": {
       "price": 140000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "security": 5
     },
     "industry_type": "RESIDENTIAL",
@@ -645,7 +645,7 @@
       "RealEstate"
     ]
   },
-  "FengShui": {
+  {
     "id": "FengShui",
     "category": "REAL_ESTATE",
     "name": {
@@ -666,7 +666,7 @@
     },
     "properties": {
       "price": 180000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 7
     },
     "industry_type": "RESIDENTIAL",
@@ -674,7 +674,7 @@
       "RealEstate"
     ]
   },
-  "FishBowls": {
+  {
     "id": "FishBowls",
     "category": "REAL_ESTATE",
     "name": {
@@ -695,7 +695,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 2
     },
     "industry_type": "RESIDENTIAL",
@@ -703,7 +703,7 @@
       "RealEstate"
     ]
   },
-  "Gardener": {
+  {
     "id": "Gardener",
     "category": "REAL_ESTATE",
     "name": {
@@ -724,7 +724,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 3,
       "maintenance": -2,
       "security": 2,
@@ -735,7 +735,7 @@
       "RealEstate"
     ]
   },
-  "GatedFloors": {
+  {
     "id": "GatedFloors",
     "category": "REAL_ESTATE",
     "name": {
@@ -756,7 +756,7 @@
     },
     "properties": {
       "price": 180000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -2,
       "maintenance": -2,
       "privacy": 5,
@@ -767,7 +767,7 @@
       "RealEstate"
     ]
   },
-  "GlassCleaningRobots": {
+  {
     "id": "GlassCleaningRobots",
     "category": "REAL_ESTATE",
     "name": {
@@ -788,7 +788,7 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 2,
       "maintenance": 2,
       "privacy": -1,
@@ -800,7 +800,7 @@
       "RealEstate"
     ]
   },
-  "GlobFilters": {
+  {
     "id": "GlobFilters",
     "category": "REAL_ESTATE",
     "name": {
@@ -821,7 +821,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "maintenance": -10,
       "security": -4,
       "environment": 10
@@ -831,7 +831,7 @@
       "RealEstate"
     ]
   },
-  "GunCompart": {
+  {
     "id": "GunCompart",
     "category": "REAL_ESTATE",
     "name": {
@@ -852,7 +852,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -3,
       "security": 7
     },
@@ -861,7 +861,7 @@
       "RealEstate"
     ]
   },
-  "HallMirrors": {
+  {
     "id": "HallMirrors",
     "category": "REAL_ESTATE",
     "name": {
@@ -882,7 +882,7 @@
     },
     "properties": {
       "price": 1000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -2,
       "privacy": -1,
       "security": 2
@@ -892,7 +892,7 @@
       "RealEstate"
     ]
   },
-  "HallwayTrees": {
+  {
     "id": "HallwayTrees",
     "category": "REAL_ESTATE",
     "name": {
@@ -913,7 +913,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 4,
       "security": -2,
       "environment": 3
@@ -923,7 +923,7 @@
       "RealEstate"
     ]
   },
-  "HighSpeedElevators": {
+  {
     "id": "HighSpeedElevators",
     "category": "REAL_ESTATE",
     "name": {
@@ -944,7 +944,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "privacy": 2,
       "environment": 3
     },
@@ -953,7 +953,7 @@
       "RealEstate"
     ]
   },
-  "HoboEnrolling": {
+  {
     "id": "HoboEnrolling",
     "category": "REAL_ESTATE",
     "name": {
@@ -975,7 +975,7 @@
     "properties": {
       "price": 140000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -4,
       "maintenance": 2,
       "privacy": -1,
@@ -987,7 +987,7 @@
       "RealEstate"
     ]
   },
-  "HolidayCenters": {
+  {
     "id": "HolidayCenters",
     "category": "REAL_ESTATE",
     "name": {
@@ -1009,7 +1009,7 @@
     "properties": {
       "price": 140000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 3,
       "maintenance": -3,
       "privacy": 6,
@@ -1020,7 +1020,7 @@
       "RealEstate"
     ]
   },
-  "InternalZoo": {
+  {
     "id": "InternalZoo",
     "category": "REAL_ESTATE",
     "name": {
@@ -1041,7 +1041,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 6,
       "maintenance": -2,
       "environment": -1
@@ -1051,7 +1051,7 @@
       "RealEstate"
     ]
   },
-  "IntExt": {
+  {
     "id": "IntExt",
     "category": "REAL_ESTATE",
     "name": {
@@ -1072,7 +1072,7 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 3,
       "privacy": -2,
       "security": -3,
@@ -1083,7 +1083,7 @@
       "RealEstate"
     ]
   },
-  "MobileApartments": {
+  {
     "id": "MobileApartments",
     "category": "REAL_ESTATE",
     "name": {
@@ -1104,7 +1104,7 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 5,
       "maintenance": -5,
       "privacy": 5,
@@ -1115,7 +1115,7 @@
       "RealEstate"
     ]
   },
-  "OxygenMasks": {
+  {
     "id": "OxygenMasks",
     "category": "REAL_ESTATE",
     "name": {
@@ -1136,7 +1136,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": -1,
       "environment": 4
     },
@@ -1145,7 +1145,7 @@
       "RealEstate"
     ]
   },
-  "Painting": {
+  {
     "id": "Painting",
     "category": "REAL_ESTATE",
     "name": {
@@ -1166,7 +1166,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 4,
       "security": -2
     },
@@ -1175,7 +1175,7 @@
       "RealEstate"
     ]
   },
-  "PatBldgs": {
+  {
     "id": "PatBldgs",
     "category": "REAL_ESTATE",
     "name": {
@@ -1196,7 +1196,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "maintenance": -4,
       "privacy": -3,
       "security": 10
@@ -1206,7 +1206,7 @@
       "RealEstate"
     ]
   },
-  "RealEstate": {
+  {
     "id": "RealEstate",
     "category": "REAL_ESTATE",
     "name": {
@@ -1227,11 +1227,11 @@
     },
     "properties": {
       "price": 500000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "RESIDENTIAL"
   },
-  "ScentDiffusers": {
+  {
     "id": "ScentDiffusers",
     "category": "REAL_ESTATE",
     "name": {
@@ -1253,7 +1253,7 @@
     "properties": {
       "price": 160000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 1,
       "security": -2,
       "environment": 6
@@ -1263,7 +1263,7 @@
       "RealEstate"
     ]
   },
-  "Sculpt": {
+  {
     "id": "Sculpt",
     "category": "REAL_ESTATE",
     "name": {
@@ -1284,7 +1284,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 4,
       "security": -3
     },
@@ -1293,7 +1293,7 @@
       "RealEstate"
     ]
   },
-  "SealedEnvironment": {
+  {
     "id": "SealedEnvironment",
     "category": "REAL_ESTATE",
     "name": {
@@ -1314,7 +1314,7 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "environment": 8
     },
     "industry_type": "RESIDENTIAL",
@@ -1322,7 +1322,7 @@
       "RealEstate"
     ]
   },
-  "SelfDef": {
+  {
     "id": "SelfDef",
     "category": "REAL_ESTATE",
     "name": {
@@ -1343,7 +1343,7 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "security": 7
     },
     "industry_type": "RESIDENTIAL",
@@ -1351,7 +1351,7 @@
       "RealEstate"
     ]
   },
-  "SuicideTerrace": {
+  {
     "id": "SuicideTerrace",
     "category": "REAL_ESTATE",
     "name": {
@@ -1373,7 +1373,7 @@
     "properties": {
       "price": 160000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "beauty": 2,
       "privacy": 2,
       "security": 2
@@ -1383,7 +1383,7 @@
       "RealEstate"
     ]
   },
-  "ZeroToleranceRent": {
+  {
     "id": "ZeroToleranceRent",
     "category": "REAL_ESTATE",
     "name": {
@@ -1405,7 +1405,7 @@
     "properties": {
       "price": 180000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "maintenance": 2,
       "privacy": 2,
       "security": 3
@@ -1415,4 +1415,4 @@
       "RealEstate"
     ]
   }
-}
+]

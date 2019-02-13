@@ -1,5 +1,5 @@
-{
-  "AdultEntertainment": {
+[
+  {
     "id": "AdultEntertainment",
     "category": "COMMERCE",
     "name": {
@@ -21,7 +21,7 @@
     "properties": {
       "price": 35000000,
       "prestige": -30,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 5
     },
@@ -30,7 +30,7 @@
       "Bars"
     ]
   },
-  "Bars": {
+  {
     "id": "Bars",
     "category": "COMMERCE",
     "name": {
@@ -51,11 +51,11 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "BAR"
   },
-  "Bouncers": {
+  {
     "id": "Bouncers",
     "category": "COMMERCE",
     "name": {
@@ -76,7 +76,7 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
@@ -85,7 +85,7 @@
       "Bars"
     ]
   },
-  "CheapFoodOffer": {
+  {
     "id": "CheapFoodOffer",
     "category": "COMMERCE",
     "name": {
@@ -107,7 +107,7 @@
     "properties": {
       "price": 5000000,
       "prestige": -3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -3
     },
@@ -116,7 +116,7 @@
       "Bars"
     ]
   },
-  "DanceFloor": {
+  {
     "id": "DanceFloor",
     "category": "COMMERCE",
     "name": {
@@ -137,7 +137,7 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "desirability": 2
     },
     "industry_type": "BAR",
@@ -145,7 +145,7 @@
       "Bars"
     ]
   },
-  "EthnicCocktails": {
+  {
     "id": "EthnicCocktails",
     "category": "COMMERCE",
     "name": {
@@ -167,7 +167,7 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
@@ -176,7 +176,7 @@
       "Bars"
     ]
   },
-  "FreeFood": {
+  {
     "id": "FreeFood",
     "category": "COMMERCE",
     "name": {
@@ -198,7 +198,7 @@
     "properties": {
       "price": 30000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
@@ -207,7 +207,7 @@
       "Bars"
     ]
   },
-  "HappyHour": {
+  {
     "id": "HappyHour",
     "category": "COMMERCE",
     "name": {
@@ -229,7 +229,7 @@
     "properties": {
       "price": 25000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
@@ -238,7 +238,7 @@
       "Bars"
     ]
   },
-  "HomeMadeWine": {
+  {
     "id": "HomeMadeWine",
     "category": "COMMERCE",
     "name": {
@@ -260,7 +260,7 @@
     "properties": {
       "price": 35000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "desirability": -3
     },
@@ -269,7 +269,7 @@
       "Bars"
     ]
   },
-  "HugeDraftSelection": {
+  {
     "id": "HugeDraftSelection",
     "category": "COMMERCE",
     "name": {
@@ -290,7 +290,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
@@ -299,7 +299,7 @@
       "Bars"
     ]
   },
-  "LiveMusicShows": {
+  {
     "id": "LiveMusicShows",
     "category": "COMMERCE",
     "name": {
@@ -320,7 +320,7 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
@@ -329,7 +329,7 @@
       "Bars"
     ]
   },
-  "NoSmoking": {
+  {
     "id": "NoSmoking",
     "category": "COMMERCE",
     "name": {
@@ -351,7 +351,7 @@
     "properties": {
       "price": 25000000,
       "prestige": 30,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": -3
     },
@@ -360,7 +360,7 @@
       "Bars"
     ]
   },
-  "P.R.Customers": {
+  {
     "id": "P.R.Customers",
     "category": "COMMERCE",
     "name": {
@@ -381,7 +381,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -1
     },
@@ -390,7 +390,7 @@
       "Bars"
     ]
   },
-  "PoolTablesAndDarts": {
+  {
     "id": "PoolTablesAndDarts",
     "category": "COMMERCE",
     "name": {
@@ -411,7 +411,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
@@ -420,7 +420,7 @@
       "Bars"
     ]
   },
-  "StrictIDCheck": {
+  {
     "id": "StrictIDCheck",
     "category": "COMMERCE",
     "name": {
@@ -442,7 +442,7 @@
     "properties": {
       "price": 15000000,
       "prestige": 20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": -1
     },
@@ -451,7 +451,7 @@
       "Bars"
     ]
   },
-  "ThemeBars": {
+  {
     "id": "ThemeBars",
     "category": "COMMERCE",
     "name": {
@@ -472,7 +472,7 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
@@ -481,4 +481,4 @@
       "Bars"
     ]
   }
-}
+]

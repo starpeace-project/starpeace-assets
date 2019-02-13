@@ -1,5 +1,5 @@
-{
-  "ActorsResort": {
+[
+  {
     "id": "ActorsResort",
     "category": "INDUSTRY",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 150000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -3,
       "quality": 5
     },
@@ -29,7 +29,7 @@
       "MovieStudios"
     ]
   },
-  "AdultMoviesWing": {
+  {
     "id": "AdultMoviesWing",
     "category": "INDUSTRY",
     "name": {
@@ -51,7 +51,7 @@
     "properties": {
       "price": 40000000,
       "prestige": -10,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 3,
       "quality": -5
     },
@@ -60,7 +60,7 @@
       "MovieStudios"
     ]
   },
-  "AnimalsTrainingGround": {
+  {
     "id": "AnimalsTrainingGround",
     "category": "INDUSTRY",
     "name": {
@@ -82,7 +82,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -5,
       "quality": 3
     },
@@ -91,7 +91,7 @@
       "MovieStudios"
     ]
   },
-  "ArcadeGames": {
+  {
     "id": "ArcadeGames",
     "category": "COMMERCE",
     "name": {
@@ -112,7 +112,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
@@ -121,7 +121,7 @@
       "MovieTheater"
     ]
   },
-  "AudiencePreScreening": {
+  {
     "id": "AudiencePreScreening",
     "category": "INDUSTRY",
     "name": {
@@ -142,7 +142,7 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 2,
       "quality": 2
     },
@@ -151,7 +151,7 @@
       "MovieStudios"
     ]
   },
-  "AutomaticProjectorMachines": {
+  {
     "id": "AutomaticProjectorMachines",
     "category": "COMMERCE",
     "name": {
@@ -173,7 +173,7 @@
     "properties": {
       "price": 145000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 15
     },
     "industry_type": "MOVIE",
@@ -181,7 +181,7 @@
       "MovieTheater"
     ]
   },
-  "AwardsLobbyingStrategy": {
+  {
     "id": "AwardsLobbyingStrategy",
     "category": "INDUSTRY",
     "name": {
@@ -203,7 +203,7 @@
     "properties": {
       "price": 100000000,
       "prestige": -10,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5
     },
     "industry_type": "MOVIE",
@@ -211,7 +211,7 @@
       "MovieStudios"
     ]
   },
-  "BigStarsOnly": {
+  {
     "id": "BigStarsOnly",
     "category": "INDUSTRY",
     "name": {
@@ -233,7 +233,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -1,
       "quality": 2
     },
@@ -242,7 +242,7 @@
       "ActorsResort"
     ]
   },
-  "BlockbustersOnlyPolicy": {
+  {
     "id": "BlockbustersOnlyPolicy",
     "category": "COMMERCE",
     "name": {
@@ -264,7 +264,7 @@
     "properties": {
       "price": 15000000,
       "prestige": -3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
@@ -273,7 +273,7 @@
       "MovieTheater"
     ]
   },
-  "CGIDevelopers": {
+  {
     "id": "CGIDevelopers",
     "category": "INDUSTRY",
     "name": {
@@ -294,7 +294,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -2,
       "quality": 3
     },
@@ -303,7 +303,7 @@
       "SpecialEffectDepartment"
     ]
   },
-  "CultureOrientedMovies": {
+  {
     "id": "CultureOrientedMovies",
     "category": "INDUSTRY",
     "name": {
@@ -324,7 +324,7 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 10
     },
     "industry_type": "MOVIE",
@@ -332,7 +332,7 @@
       "MovieStudios"
     ]
   },
-  "DiscountDay": {
+  {
     "id": "DiscountDay",
     "category": "COMMERCE",
     "name": {
@@ -354,7 +354,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "desirability": 2
     },
     "industry_type": "MOVIE",
@@ -362,7 +362,7 @@
       "MovieTheater"
     ]
   },
-  "DubbyingDepartment": {
+  {
     "id": "DubbyingDepartment",
     "category": "INDUSTRY",
     "name": {
@@ -383,7 +383,7 @@
     },
     "properties": {
       "price": 120000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5,
       "quality": 2
     },
@@ -392,7 +392,7 @@
       "MovieStudios"
     ]
   },
-  "DVDFeatures": {
+  {
     "id": "DVDFeatures",
     "category": "INDUSTRY",
     "name": {
@@ -413,7 +413,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 2,
       "quality": 2
     },
@@ -422,7 +422,7 @@
       "MovieStudios"
     ]
   },
-  "EditingDictatrship": {
+  {
     "id": "EditingDictatrship",
     "category": "INDUSTRY",
     "name": {
@@ -444,7 +444,7 @@
     "properties": {
       "price": 80000000,
       "prestige": -5,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
@@ -453,7 +453,7 @@
       "MovieStudios"
     ]
   },
-  "ExperimentalFilmmaking": {
+  {
     "id": "ExperimentalFilmmaking",
     "category": "INDUSTRY",
     "name": {
@@ -475,7 +475,7 @@
     "properties": {
       "price": 40000000,
       "prestige": 15,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -5,
       "quality": 5
     },
@@ -484,7 +484,7 @@
       "MovieStudios"
     ]
   },
-  "ExtrasExploitation": {
+  {
     "id": "ExtrasExploitation",
     "category": "INDUSTRY",
     "name": {
@@ -506,7 +506,7 @@
     "properties": {
       "price": 30000000,
       "prestige": -10,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 3
     },
     "industry_type": "MOVIE",
@@ -514,7 +514,7 @@
       "MovieStudios"
     ]
   },
-  "FeatureMagazine": {
+  {
     "id": "FeatureMagazine",
     "category": "COMMERCE",
     "name": {
@@ -535,7 +535,7 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
@@ -544,7 +544,7 @@
       "MovieTheater"
     ]
   },
-  "GoreExploitation": {
+  {
     "id": "GoreExploitation",
     "category": "INDUSTRY",
     "name": {
@@ -566,7 +566,7 @@
     "properties": {
       "price": 70000000,
       "prestige": -3,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 2,
       "quality": -3
     },
@@ -575,7 +575,7 @@
       "SpecialEffectDepartment"
     ]
   },
-  "ImperialChairs": {
+  {
     "id": "ImperialChairs",
     "category": "COMMERCE",
     "name": {
@@ -596,7 +596,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
@@ -605,7 +605,7 @@
       "MovieTheater"
     ]
   },
-  "InHouseWriters": {
+  {
     "id": "InHouseWriters",
     "category": "INDUSTRY",
     "name": {
@@ -626,7 +626,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -1,
       "quality": 4
     },
@@ -635,7 +635,7 @@
       "MovieStudios"
     ]
   },
-  "MovieStudios": {
+  {
     "id": "MovieStudios",
     "category": "INDUSTRY",
     "name": {
@@ -656,12 +656,12 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "master",
+      "level": "MASTER",
       "nobility": 200
     },
     "industry_type": "MOVIE"
   },
-  "MovieTheater": {
+  {
     "id": "MovieTheater",
     "category": "COMMERCE",
     "name": {
@@ -682,11 +682,11 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "MOVIE"
   },
-  "Odorama": {
+  {
     "id": "Odorama",
     "category": "COMMERCE",
     "name": {
@@ -707,7 +707,7 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "desirability": 3
     },
@@ -716,7 +716,7 @@
       "MovieTheater"
     ]
   },
-  "QuadrophonicSound": {
+  {
     "id": "QuadrophonicSound",
     "category": "COMMERCE",
     "name": {
@@ -737,7 +737,7 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
@@ -746,7 +746,7 @@
       "MovieTheater"
     ]
   },
-  "SensoryOverload": {
+  {
     "id": "SensoryOverload",
     "category": "COMMERCE",
     "name": {
@@ -767,7 +767,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
@@ -776,7 +776,7 @@
       "MovieTheater"
     ]
   },
-  "SequelsAndRemakes": {
+  {
     "id": "SequelsAndRemakes",
     "category": "INDUSTRY",
     "name": {
@@ -797,7 +797,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
@@ -806,7 +806,7 @@
       "MovieStudios"
     ]
   },
-  "SpecialEffectDepartment": {
+  {
     "id": "SpecialEffectDepartment",
     "category": "INDUSTRY",
     "name": {
@@ -827,7 +827,7 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -1,
       "quality": 2
     },
@@ -836,7 +836,7 @@
       "MovieStudios"
     ]
   },
-  "StraightToVideoPolicy": {
+  {
     "id": "StraightToVideoPolicy",
     "category": "INDUSTRY",
     "name": {
@@ -857,7 +857,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5,
       "quality": 2
     },
@@ -866,7 +866,7 @@
       "AudiencePreScreening"
     ]
   },
-  "StudioTour": {
+  {
     "id": "StudioTour",
     "category": "INDUSTRY",
     "name": {
@@ -888,7 +888,7 @@
     "properties": {
       "price": 40000000,
       "prestige": 2,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 2
     },
     "industry_type": "MOVIE",
@@ -896,7 +896,7 @@
       "MovieStudios"
     ]
   },
-  "SubliminalMessages": {
+  {
     "id": "SubliminalMessages",
     "category": "COMMERCE",
     "name": {
@@ -918,7 +918,7 @@
     "properties": {
       "price": 5000000,
       "prestige": -15,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
@@ -927,7 +927,7 @@
       "MovieTheater"
     ]
   },
-  "TakeAwayTrailers": {
+  {
     "id": "TakeAwayTrailers",
     "category": "COMMERCE",
     "name": {
@@ -948,7 +948,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "desirability": 3
     },
@@ -957,7 +957,7 @@
       "MovieTheater"
     ]
   },
-  "TemperatureVarations": {
+  {
     "id": "TemperatureVarations",
     "category": "COMMERCE",
     "name": {
@@ -978,7 +978,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
@@ -987,7 +987,7 @@
       "MovieTheater"
     ]
   },
-  "TightShootingSchedule": {
+  {
     "id": "TightShootingSchedule",
     "category": "INDUSTRY",
     "name": {
@@ -1008,7 +1008,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
@@ -1017,7 +1017,7 @@
       "MovieStudios"
     ]
   },
-  "TouchStimulation": {
+  {
     "id": "TouchStimulation",
     "category": "COMMERCE",
     "name": {
@@ -1038,7 +1038,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
@@ -1047,7 +1047,7 @@
       "MovieTheater"
     ]
   },
-  "XRatedMovies": {
+  {
     "id": "XRatedMovies",
     "category": "COMMERCE",
     "name": {
@@ -1069,7 +1069,7 @@
     "properties": {
       "price": 5000000,
       "prestige": -50,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": 3
     },
@@ -1078,7 +1078,7 @@
       "MovieTheater"
     ]
   },
-  "YearlyFestival": {
+  {
     "id": "YearlyFestival",
     "category": "COMMERCE",
     "name": {
@@ -1100,7 +1100,7 @@
     "properties": {
       "price": 15000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
@@ -1109,4 +1109,4 @@
       "MovieTheater"
     ]
   }
-}
+]

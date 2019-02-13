@@ -1,5 +1,5 @@
-{
-  "24HoursProduction": {
+[
+  {
     "id": "24HoursProduction",
     "category": "INDUSTRY",
     "name": {
@@ -21,7 +21,7 @@
     "properties": {
       "price": 190000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 25,
       "quality": -3
     },
@@ -30,7 +30,7 @@
       "OilRigs"
     ]
   },
-  "CentralizedQualityControl": {
+  {
     "id": "CentralizedQualityControl",
     "category": "INDUSTRY",
     "name": {
@@ -51,7 +51,7 @@
     },
     "properties": {
       "price": 150000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "quality": 12
     },
@@ -60,7 +60,7 @@
       "OilRigs"
     ]
   },
-  "DrillsExtraterrestrialCustomization": {
+  {
     "id": "DrillsExtraterrestrialCustomization",
     "category": "INDUSTRY",
     "name": {
@@ -81,7 +81,7 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5
     },
     "industry_type": "CRUDE_OIL",
@@ -89,7 +89,7 @@
       "OilRigs"
     ]
   },
-  "EarthquakeAnalyzing": {
+  {
     "id": "EarthquakeAnalyzing",
     "category": "INDUSTRY",
     "name": {
@@ -110,7 +110,7 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4
     },
     "industry_type": "CRUDE_OIL",
@@ -118,7 +118,7 @@
       "OilRigs"
     ]
   },
-  "EchologicalDisasterPreventionChart": {
+  {
     "id": "EchologicalDisasterPreventionChart",
     "category": "INDUSTRY",
     "name": {
@@ -140,7 +140,7 @@
     "properties": {
       "price": 75000000,
       "prestige": 20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 6
     },
@@ -149,7 +149,7 @@
       "OilRigs"
     ]
   },
-  "EmergencyValves": {
+  {
     "id": "EmergencyValves",
     "category": "INDUSTRY",
     "name": {
@@ -171,7 +171,7 @@
     "properties": {
       "price": 40000000,
       "prestige": 20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1
     },
     "industry_type": "CRUDE_OIL",
@@ -179,7 +179,7 @@
       "OilRigs"
     ]
   },
-  "HighQualityDrillingMud": {
+  {
     "id": "HighQualityDrillingMud",
     "category": "INDUSTRY",
     "name": {
@@ -200,7 +200,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 6
     },
@@ -209,7 +209,7 @@
       "OilRigs"
     ]
   },
-  "ImpurityEatingBacteria": {
+  {
     "id": "ImpurityEatingBacteria",
     "category": "INDUSTRY",
     "name": {
@@ -230,7 +230,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -239,7 +239,7 @@
       "OilRigs"
     ]
   },
-  "IntelligentPigs": {
+  {
     "id": "IntelligentPigs",
     "category": "INDUSTRY",
     "name": {
@@ -260,7 +260,7 @@
     },
     "properties": {
       "price": 85000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 8
     },
@@ -269,7 +269,7 @@
       "OilRigs"
     ]
   },
-  "MassiveOilStorage": {
+  {
     "id": "MassiveOilStorage",
     "category": "INDUSTRY",
     "name": {
@@ -291,7 +291,7 @@
     "properties": {
       "price": 70000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 12,
       "quality": -4
     },
@@ -300,7 +300,7 @@
       "OilRigs"
     ]
   },
-  "OilRigs": {
+  {
     "id": "OilRigs",
     "category": "INDUSTRY",
     "name": {
@@ -321,14 +321,14 @@
     },
     "properties": {
       "price": 8000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "CRUDE_OIL",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "RocksSqueezingProcess": {
+  {
     "id": "RocksSqueezingProcess",
     "category": "INDUSTRY",
     "name": {
@@ -349,7 +349,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 8,
       "quality": -3
     },
@@ -358,7 +358,7 @@
       "OilRigs"
     ]
   },
-  "RoutinePartCleaningProcedure": {
+  {
     "id": "RoutinePartCleaningProcedure",
     "category": "INDUSTRY",
     "name": {
@@ -379,7 +379,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -388,7 +388,7 @@
       "OilRigs"
     ]
   },
-  "ShockWaveDepositQuantification": {
+  {
     "id": "ShockWaveDepositQuantification",
     "category": "INDUSTRY",
     "name": {
@@ -409,7 +409,7 @@
     },
     "properties": {
       "price": 110000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 8,
       "quality": 2
     },
@@ -418,7 +418,7 @@
       "OilRigs"
     ]
   },
-  "SolidOilStorage": {
+  {
     "id": "SolidOilStorage",
     "category": "INDUSTRY",
     "name": {
@@ -440,7 +440,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "quality": -3
     },
@@ -449,7 +449,7 @@
       "OilRigs"
     ]
   },
-  "VolatileGas": {
+  {
     "id": "VolatileGas",
     "category": "INDUSTRY",
     "name": {
@@ -471,7 +471,7 @@
     "properties": {
       "price": 165000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 15
     },
     "industry_type": "CRUDE_OIL",
@@ -479,4 +479,4 @@
       "OilRigs"
     ]
   }
-}
+]

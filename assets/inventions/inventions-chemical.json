@@ -1,5 +1,5 @@
-{
-  "AntiEspionageSystem": {
+[
+  {
     "id": "AntiEspionageSystem",
     "category": "INDUSTRY",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": -3,
       "quality": 7
     },
@@ -29,7 +29,7 @@
       "ChemLic"
     ]
   },
-  "ChemLic": {
+  {
     "id": "ChemLic",
     "category": "INDUSTRY",
     "name": {
@@ -50,14 +50,14 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "entrepreneur"
+      "level": "ENTREPRENEUR"
     },
     "industry_type": "CHEMICAL",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "CrisisMonitoringCenter": {
+  {
     "id": "CrisisMonitoringCenter",
     "category": "INDUSTRY",
     "name": {
@@ -79,7 +79,7 @@
     "properties": {
       "price": 105000000,
       "prestige": 25,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": 5
     },
     "industry_type": "CHEMICAL",
@@ -87,7 +87,7 @@
       "ChemLic"
     ]
   },
-  "DepuratorUpgrading": {
+  {
     "id": "DepuratorUpgrading",
     "category": "INDUSTRY",
     "name": {
@@ -109,7 +109,7 @@
     "properties": {
       "price": 120000000,
       "prestige": 80,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": -5
     },
     "industry_type": "CHEMICAL",
@@ -117,7 +117,7 @@
       "ChemLic"
     ]
   },
-  "DioxinEmissionControl": {
+  {
     "id": "DioxinEmissionControl",
     "category": "INDUSTRY",
     "name": {
@@ -139,7 +139,7 @@
     "properties": {
       "price": 10000000,
       "prestige": 30,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": -3,
       "quality": -3
     },
@@ -148,7 +148,7 @@
       "ChemLic"
     ]
   },
-  "EvacuationPlan": {
+  {
     "id": "EvacuationPlan",
     "category": "INDUSTRY",
     "name": {
@@ -170,7 +170,7 @@
     "properties": {
       "price": 6500000,
       "prestige": 10,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": 2
     },
     "industry_type": "CHEMICAL",
@@ -178,7 +178,7 @@
       "ChemLic"
     ]
   },
-  "ExtraterrestrialChemistry": {
+  {
     "id": "ExtraterrestrialChemistry",
     "category": "INDUSTRY",
     "name": {
@@ -200,7 +200,7 @@
     "properties": {
       "price": 220000000,
       "prestige": 5,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": 12,
       "quality": 8
     },
@@ -209,7 +209,7 @@
       "ChemLic"
     ]
   },
-  "ExtraVacuumPumps": {
+  {
     "id": "ExtraVacuumPumps",
     "category": "INDUSTRY",
     "name": {
@@ -230,7 +230,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": -5,
       "quality": 10
     },
@@ -239,7 +239,7 @@
       "ChemLic"
     ]
   },
-  "FullBodySecurity": {
+  {
     "id": "FullBodySecurity",
     "category": "INDUSTRY",
     "name": {
@@ -261,7 +261,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 10,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": -3,
       "quality": 4
     },
@@ -270,7 +270,7 @@
       "ChemLic"
     ]
   },
-  "InHouseWasteDisposal": {
+  {
     "id": "InHouseWasteDisposal",
     "category": "INDUSTRY",
     "name": {
@@ -292,7 +292,7 @@
     "properties": {
       "price": 40000000,
       "prestige": -30,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 15,
       "quality": -5
     },
@@ -301,7 +301,7 @@
       "LargeChem"
     ]
   },
-  "InternalHospitalAndFireStation": {
+  {
     "id": "InternalHospitalAndFireStation",
     "category": "INDUSTRY",
     "name": {
@@ -323,7 +323,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -3,
       "quality": 4
     },
@@ -332,7 +332,7 @@
       "LargeChem"
     ]
   },
-  "LargeChem": {
+  {
     "id": "LargeChem",
     "category": "INDUSTRY",
     "name": {
@@ -353,14 +353,14 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "CHEMICAL",
     "depends_on": [
       "ChemLic"
     ]
   },
-  "MassiveChemicalStorage": {
+  {
     "id": "MassiveChemicalStorage",
     "category": "INDUSTRY",
     "name": {
@@ -382,7 +382,7 @@
     "properties": {
       "price": 120000000,
       "prestige": -15,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 20,
       "quality": -5
     },
@@ -391,7 +391,7 @@
       "LargeChem"
     ]
   },
-  "PeriodicInstrumentsReplacement": {
+  {
     "id": "PeriodicInstrumentsReplacement",
     "category": "INDUSTRY",
     "name": {
@@ -412,7 +412,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": -2,
       "quality": 5
     },
@@ -421,7 +421,7 @@
       "ChemLic"
     ]
   },
-  "RawMaterialControl": {
+  {
     "id": "RawMaterialControl",
     "category": "INDUSTRY",
     "name": {
@@ -442,7 +442,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": -10,
       "quality": 15
     },
@@ -451,7 +451,7 @@
       "ChemLic"
     ]
   },
-  "RecyclingChemicalWaste": {
+  {
     "id": "RecyclingChemicalWaste",
     "category": "INDUSTRY",
     "name": {
@@ -473,7 +473,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 10,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": 20,
       "quality": -15
     },
@@ -482,7 +482,7 @@
       "ChemLic"
     ]
   },
-  "TotalPlantAutomation": {
+  {
     "id": "TotalPlantAutomation",
     "category": "INDUSTRY",
     "name": {
@@ -503,7 +503,7 @@
     },
     "properties": {
       "price": 600000000,
-      "level": "entrepreneur",
+      "level": "ENTREPRENEUR",
       "efficiency": 35,
       "quality": 20
     },
@@ -512,4 +512,4 @@
       "ChemLic"
     ]
   }
-}
+]

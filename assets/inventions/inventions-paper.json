@@ -1,5 +1,5 @@
-{
-  "AlternativeSources": {
+[
+  {
     "id": "AlternativeSources",
     "category": "INDUSTRY",
     "name": {
@@ -21,7 +21,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 50,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -2
     },
@@ -30,7 +30,7 @@
       "PaperInd"
     ]
   },
-  "ColorChangingPaper": {
+  {
     "id": "ColorChangingPaper",
     "category": "INDUSTRY",
     "name": {
@@ -51,7 +51,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
@@ -60,7 +60,7 @@
       "PaperInd"
     ]
   },
-  "ExtraterrestrialFibers": {
+  {
     "id": "ExtraterrestrialFibers",
     "category": "INDUSTRY",
     "name": {
@@ -81,7 +81,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 7
     },
@@ -90,7 +90,7 @@
       "PaperInd"
     ]
   },
-  "FoodContainers": {
+  {
     "id": "FoodContainers",
     "category": "INDUSTRY",
     "name": {
@@ -111,7 +111,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
@@ -120,7 +120,7 @@
       "PaperInd"
     ]
   },
-  "HandMadePaper": {
+  {
     "id": "HandMadePaper",
     "category": "INDUSTRY",
     "name": {
@@ -141,7 +141,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 5
     },
@@ -150,7 +150,7 @@
       "PaperInd"
     ]
   },
-  "MakeYourOwnPaperKit": {
+  {
     "id": "MakeYourOwnPaperKit",
     "category": "INDUSTRY",
     "name": {
@@ -171,7 +171,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 3,
       "quality": 1
     },
@@ -180,7 +180,7 @@
       "HandMadePaper"
     ]
   },
-  "MintContract": {
+  {
     "id": "MintContract",
     "category": "INDUSTRY",
     "name": {
@@ -202,7 +202,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 20,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -3,
       "quality": 2
     },
@@ -211,7 +211,7 @@
       "PaperInd"
     ]
   },
-  "PackagingMaterials": {
+  {
     "id": "PackagingMaterials",
     "category": "INDUSTRY",
     "name": {
@@ -232,7 +232,7 @@
     },
     "properties": {
       "price": 150000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -2
     },
@@ -241,7 +241,7 @@
       "PaperInd"
     ]
   },
-  "PaperBagCampaign": {
+  {
     "id": "PaperBagCampaign",
     "category": "INDUSTRY",
     "name": {
@@ -263,7 +263,7 @@
     "properties": {
       "price": 30000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 3
     },
     "industry_type": "PAPER",
@@ -271,7 +271,7 @@
       "PaperInd"
     ]
   },
-  "PaperClothes": {
+  {
     "id": "PaperClothes",
     "category": "INDUSTRY",
     "name": {
@@ -293,7 +293,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -3,
       "quality": 5
     },
@@ -302,7 +302,7 @@
       "PaperInd"
     ]
   },
-  "PaperHistory": {
+  {
     "id": "PaperHistory",
     "category": "INDUSTRY",
     "name": {
@@ -323,7 +323,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "quality": 4
     },
     "industry_type": "PAPER",
@@ -331,7 +331,7 @@
       "PaperInd"
     ]
   },
-  "PaperInd": {
+  {
     "id": "PaperInd",
     "category": "INDUSTRY",
     "name": {
@@ -352,14 +352,14 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "PAPER",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "PaperKnives": {
+  {
     "id": "PaperKnives",
     "category": "INDUSTRY",
     "name": {
@@ -380,7 +380,7 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 3
     },
     "industry_type": "PAPER",
@@ -388,7 +388,7 @@
       "PaperInd"
     ]
   },
-  "Parchment": {
+  {
     "id": "Parchment",
     "category": "INDUSTRY",
     "name": {
@@ -409,7 +409,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 3
     },
@@ -418,7 +418,7 @@
       "PaperInd"
     ]
   },
-  "RecyclingFacility": {
+  {
     "id": "RecyclingFacility",
     "category": "INDUSTRY",
     "name": {
@@ -440,7 +440,7 @@
     "properties": {
       "price": 400000000,
       "prestige": 10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 15,
       "quality": -2
     },
@@ -449,7 +449,7 @@
       "PaperInd"
     ]
   },
-  "TissueProduction": {
+  {
     "id": "TissueProduction",
     "category": "INDUSTRY",
     "name": {
@@ -470,7 +470,7 @@
     },
     "properties": {
       "price": 150000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": 5
     },
@@ -479,4 +479,4 @@
       "PaperInd"
     ]
   }
-}
+]

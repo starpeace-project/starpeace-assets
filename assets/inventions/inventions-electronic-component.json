@@ -1,5 +1,5 @@
-{
-  "AntiPaperCampaign": {
+[
+  {
     "id": "AntiPaperCampaign",
     "category": "INDUSTRY",
     "name": {
@@ -21,7 +21,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 3
     },
     "industry_type": "ELECTRONIC_COMPONENT",
@@ -29,7 +29,7 @@
       "ElectronicInk"
     ]
   },
-  "AutoDestructingComponents": {
+  {
     "id": "AutoDestructingComponents",
     "category": "INDUSTRY",
     "name": {
@@ -50,7 +50,7 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 6
     },
@@ -59,7 +59,7 @@
       "ElecLic"
     ]
   },
-  "CPUPowerTheorem": {
+  {
     "id": "CPUPowerTheorem",
     "category": "INDUSTRY",
     "name": {
@@ -80,7 +80,7 @@
     },
     "properties": {
       "price": 85000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 8,
       "quality": -2
     },
@@ -89,7 +89,7 @@
       "ElecLic"
     ]
   },
-  "ElecLic": {
+  {
     "id": "ElecLic",
     "category": "INDUSTRY",
     "name": {
@@ -110,14 +110,14 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "ELECTRONIC_COMPONENT",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "ElectronicInk": {
+  {
     "id": "ElectronicInk",
     "category": "INDUSTRY",
     "name": {
@@ -139,7 +139,7 @@
     "properties": {
       "price": 90000000,
       "prestige": 15,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
@@ -148,7 +148,7 @@
       "ElecLic"
     ]
   },
-  "FaradayHouses": {
+  {
     "id": "FaradayHouses",
     "category": "INDUSTRY",
     "name": {
@@ -170,7 +170,7 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
@@ -179,7 +179,7 @@
       "ElecLic"
     ]
   },
-  "GlobalWiringPlan": {
+  {
     "id": "GlobalWiringPlan",
     "category": "INDUSTRY",
     "name": {
@@ -201,7 +201,7 @@
     "properties": {
       "price": 120000000,
       "prestige": 10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 15
     },
@@ -210,7 +210,7 @@
       "ElecLic"
     ]
   },
-  "LSEPrd": {
+  {
     "id": "LSEPrd",
     "category": "INDUSTRY",
     "name": {
@@ -231,14 +231,14 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "ELECTRONIC_COMPONENT",
     "depends_on": [
       "ElecLic"
     ]
   },
-  "MetalDetector": {
+  {
     "id": "MetalDetector",
     "category": "INDUSTRY",
     "name": {
@@ -260,7 +260,7 @@
     "properties": {
       "price": 45000000,
       "prestige": -5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5
     },
     "industry_type": "ELECTRONIC_COMPONENT",
@@ -268,7 +268,7 @@
       "ElecLic"
     ]
   },
-  "NanoCircuits": {
+  {
     "id": "NanoCircuits",
     "category": "INDUSTRY",
     "name": {
@@ -289,7 +289,7 @@
     },
     "properties": {
       "price": 105000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": 5
     },
@@ -298,7 +298,7 @@
       "VacuumAssembling"
     ]
   },
-  "PCPartsAutoReplacement": {
+  {
     "id": "PCPartsAutoReplacement",
     "category": "INDUSTRY",
     "name": {
@@ -319,7 +319,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
@@ -328,7 +328,7 @@
       "ElecLic"
     ]
   },
-  "PersonalIdChips": {
+  {
     "id": "PersonalIdChips",
     "category": "INDUSTRY",
     "name": {
@@ -350,7 +350,7 @@
     "properties": {
       "price": 20000000,
       "prestige": -10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -5,
       "quality": 8
     },
@@ -359,7 +359,7 @@
       "ElecLic"
     ]
   },
-  "TheLittleElectrician": {
+  {
     "id": "TheLittleElectrician",
     "category": "INDUSTRY",
     "name": {
@@ -380,7 +380,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 4
     },
     "industry_type": "ELECTRONIC_COMPONENT",
@@ -388,7 +388,7 @@
       "ElecLic"
     ]
   },
-  "UniversalComponent": {
+  {
     "id": "UniversalComponent",
     "category": "INDUSTRY",
     "name": {
@@ -409,7 +409,7 @@
     },
     "properties": {
       "price": 225000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 30,
       "quality": -10
     },
@@ -418,7 +418,7 @@
       "ElecLic"
     ]
   },
-  "VacuumAssembling": {
+  {
     "id": "VacuumAssembling",
     "category": "INDUSTRY",
     "name": {
@@ -439,7 +439,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 4
     },
@@ -448,7 +448,7 @@
       "ElecLic"
     ]
   },
-  "WafersRecyclingProgram": {
+  {
     "id": "WafersRecyclingProgram",
     "category": "INDUSTRY",
     "name": {
@@ -470,7 +470,7 @@
     "properties": {
       "price": 55000000,
       "prestige": 10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
@@ -479,7 +479,7 @@
       "ElecLic"
     ]
   },
-  "WiresMagneticMonitorage": {
+  {
     "id": "WiresMagneticMonitorage",
     "category": "INDUSTRY",
     "name": {
@@ -501,7 +501,7 @@
     "properties": {
       "price": 40000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 4
     },
@@ -510,4 +510,4 @@
       "ElecLic"
     ]
   }
-}
+]

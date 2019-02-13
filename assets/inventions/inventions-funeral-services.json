@@ -1,5 +1,5 @@
-{
-  "CCFunerals": {
+[
+  {
     "id": "CCFunerals",
     "category": "COMMERCE",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": 2
     },
@@ -29,7 +29,7 @@
       "Funerals"
     ]
   },
-  "CoffinAlarm": {
+  {
     "id": "CoffinAlarm",
     "category": "COMMERCE",
     "name": {
@@ -51,7 +51,7 @@
     "properties": {
       "price": 55000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
@@ -60,7 +60,7 @@
       "Funerals"
     ]
   },
-  "CoffinVision": {
+  {
     "id": "CoffinVision",
     "category": "COMMERCE",
     "name": {
@@ -81,7 +81,7 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
@@ -90,7 +90,7 @@
       "Funerals"
     ]
   },
-  "CorpsesStandIn": {
+  {
     "id": "CorpsesStandIn",
     "category": "COMMERCE",
     "name": {
@@ -111,7 +111,7 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
@@ -120,7 +120,7 @@
       "Funerals"
     ]
   },
-  "Crematory": {
+  {
     "id": "Crematory",
     "category": "COMMERCE",
     "name": {
@@ -141,7 +141,7 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "desirability": 5
     },
@@ -150,7 +150,7 @@
       "Funerals"
     ]
   },
-  "Embalming": {
+  {
     "id": "Embalming",
     "category": "COMMERCE",
     "name": {
@@ -171,7 +171,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 4
     },
@@ -180,7 +180,7 @@
       "Funerals"
     ]
   },
-  "EthnicCeremonies": {
+  {
     "id": "EthnicCeremonies",
     "category": "COMMERCE",
     "name": {
@@ -202,7 +202,7 @@
     "properties": {
       "price": 90000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "desirability": 5
     },
@@ -211,7 +211,7 @@
       "Funerals"
     ]
   },
-  "FamilySpecials": {
+  {
     "id": "FamilySpecials",
     "category": "COMMERCE",
     "name": {
@@ -232,7 +232,7 @@
     },
     "properties": {
       "price": 120000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": 2
     },
@@ -241,7 +241,7 @@
       "Funerals"
     ]
   },
-  "Funerals": {
+  {
     "id": "Funerals",
     "category": "COMMERCE",
     "name": {
@@ -262,11 +262,11 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "FUNERAL_SERVICES"
   },
-  "HalloweenProps": {
+  {
     "id": "HalloweenProps",
     "category": "COMMERCE",
     "name": {
@@ -287,7 +287,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
@@ -296,7 +296,7 @@
       "Funerals"
     ]
   },
-  "HospitalSentinels": {
+  {
     "id": "HospitalSentinels",
     "category": "COMMERCE",
     "name": {
@@ -318,7 +318,7 @@
     "properties": {
       "price": 50000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3
     },
     "industry_type": "FUNERAL_SERVICES",
@@ -326,7 +326,7 @@
       "Funerals"
     ]
   },
-  "LuxuryUrns": {
+  {
     "id": "LuxuryUrns",
     "category": "COMMERCE",
     "name": {
@@ -347,7 +347,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
@@ -356,7 +356,7 @@
       "Crematory"
     ]
   },
-  "MediumsAndPsychics": {
+  {
     "id": "MediumsAndPsychics",
     "category": "COMMERCE",
     "name": {
@@ -378,7 +378,7 @@
     "properties": {
       "price": 100000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -4,
       "desirability": 6
     },
@@ -387,7 +387,7 @@
       "Funerals"
     ]
   },
-  "PetFunerals": {
+  {
     "id": "PetFunerals",
     "category": "COMMERCE",
     "name": {
@@ -409,7 +409,7 @@
     "properties": {
       "price": 8000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
@@ -418,7 +418,7 @@
       "Funerals"
     ]
   },
-  "WaxMuseumConnection": {
+  {
     "id": "WaxMuseumConnection",
     "category": "COMMERCE",
     "name": {
@@ -440,7 +440,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "desirability": 1
     },
@@ -449,7 +449,7 @@
       "Funerals"
     ]
   },
-  "WigsProduction": {
+  {
     "id": "WigsProduction",
     "category": "COMMERCE",
     "name": {
@@ -471,7 +471,7 @@
     "properties": {
       "price": 50000000,
       "prestige": -10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
@@ -480,4 +480,4 @@
       "Funerals"
     ]
   }
-}
+]

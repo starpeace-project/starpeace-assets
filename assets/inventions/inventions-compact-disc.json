@@ -1,5 +1,5 @@
-{
-  "cdAlternativeCases": {
+[
+  {
     "id": "cdAlternativeCases",
     "category": "INDUSTRY",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 4
     },
@@ -29,7 +29,7 @@
       "CDInd"
     ]
   },
-  "cdAntyCopyingSystem": {
+  {
     "id": "cdAntyCopyingSystem",
     "category": "INDUSTRY",
     "name": {
@@ -50,7 +50,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
@@ -59,7 +59,7 @@
       "CDInd"
     ]
   },
-  "cdArtistSubscription": {
+  {
     "id": "cdArtistSubscription",
     "category": "COMMERCE",
     "name": {
@@ -80,12 +80,12 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdAudioBooks": {
+  {
     "id": "cdAudioBooks",
     "category": "INDUSTRY",
     "name": {
@@ -107,7 +107,7 @@
     "properties": {
       "price": 40000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3
     },
     "industry_type": "COMPACT_DISC",
@@ -115,7 +115,7 @@
       "CDInd"
     ]
   },
-  "cdBackNoise": {
+  {
     "id": "cdBackNoise",
     "category": "INDUSTRY",
     "name": {
@@ -137,7 +137,7 @@
     "properties": {
       "price": 40000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3
     },
     "industry_type": "COMPACT_DISC",
@@ -145,7 +145,7 @@
       "CDInd"
     ]
   },
-  "cdBiodegradableCDs": {
+  {
     "id": "cdBiodegradableCDs",
     "category": "INDUSTRY",
     "name": {
@@ -167,7 +167,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 30,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2
     },
     "industry_type": "COMPACT_DISC",
@@ -175,7 +175,7 @@
       "CDInd"
     ]
   },
-  "cdCDPlayersCleaner": {
+  {
     "id": "cdCDPlayersCleaner",
     "category": "INDUSTRY",
     "name": {
@@ -196,7 +196,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
@@ -205,7 +205,7 @@
       "CDInd"
     ]
   },
-  "cdCDSigning": {
+  {
     "id": "cdCDSigning",
     "category": "COMMERCE",
     "name": {
@@ -226,13 +226,13 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdDancingDemonstrations": {
+  {
     "id": "cdDancingDemonstrations",
     "category": "COMMERCE",
     "name": {
@@ -253,13 +253,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdEdibleCDs": {
+  {
     "id": "cdEdibleCDs",
     "category": "INDUSTRY",
     "name": {
@@ -281,7 +281,7 @@
     "properties": {
       "price": 30000000,
       "prestige": 15,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 1
     },
@@ -290,7 +290,7 @@
       "cdBiodegradableCDs"
     ]
   },
-  "cdEnvFriendlyLasers": {
+  {
     "id": "cdEnvFriendlyLasers",
     "category": "INDUSTRY",
     "name": {
@@ -312,7 +312,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 1,
       "quality": -1
     },
@@ -321,7 +321,7 @@
       "CDInd"
     ]
   },
-  "cdFidelityCard": {
+  {
     "id": "cdFidelityCard",
     "category": "COMMERCE",
     "name": {
@@ -342,12 +342,12 @@
     },
     "properties": {
       "price": 4000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "desirability": 2
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdFlexibleCDs": {
+  {
     "id": "cdFlexibleCDs",
     "category": "INDUSTRY",
     "name": {
@@ -368,7 +368,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "quality": -1
     },
@@ -377,7 +377,7 @@
       "cdUnscratchableSurface"
     ]
   },
-  "cdFreeForBlind": {
+  {
     "id": "cdFreeForBlind",
     "category": "COMMERCE",
     "name": {
@@ -399,12 +399,12 @@
     "properties": {
       "price": 50000000,
       "prestige": 20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "desirability": 2
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdFullBodySecurity": {
+  {
     "id": "cdFullBodySecurity",
     "category": "INDUSTRY",
     "name": {
@@ -426,7 +426,7 @@
     "properties": {
       "price": 70000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
@@ -435,7 +435,7 @@
       "CDInd"
     ]
   },
-  "CDInd": {
+  {
     "id": "CDInd",
     "category": "INDUSTRY",
     "name": {
@@ -456,14 +456,14 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "COMPACT_DISC",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "cdInfomercialCDs": {
+  {
     "id": "cdInfomercialCDs",
     "category": "INDUSTRY",
     "name": {
@@ -484,7 +484,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "quality": -3
     },
@@ -493,7 +493,7 @@
       "CDInd"
     ]
   },
-  "cdKaraokeReady": {
+  {
     "id": "cdKaraokeReady",
     "category": "INDUSTRY",
     "name": {
@@ -514,7 +514,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
@@ -523,7 +523,7 @@
       "CDInd"
     ]
   },
-  "cdListeningStations": {
+  {
     "id": "cdListeningStations",
     "category": "COMMERCE",
     "name": {
@@ -544,13 +544,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdLivePerformances": {
+  {
     "id": "cdLivePerformances",
     "category": "COMMERCE",
     "name": {
@@ -572,7 +572,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 5
     },
@@ -581,7 +581,7 @@
       "cdCDSigning"
     ]
   },
-  "cdMiniCDs": {
+  {
     "id": "cdMiniCDs",
     "category": "INDUSTRY",
     "name": {
@@ -602,7 +602,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 6,
       "quality": -3
     },
@@ -611,7 +611,7 @@
       "CDInd"
     ]
   },
-  "cdMusicConsultant": {
+  {
     "id": "cdMusicConsultant",
     "category": "COMMERCE",
     "name": {
@@ -632,13 +632,13 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdMusicSnobs": {
+  {
     "id": "cdMusicSnobs",
     "category": "COMMERCE",
     "name": {
@@ -659,13 +659,13 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "desirability": -3
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdRepairingStation": {
+  {
     "id": "cdRepairingStation",
     "category": "COMMERCE",
     "name": {
@@ -686,13 +686,13 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "desirability": 1
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdRewritableCDs": {
+  {
     "id": "cdRewritableCDs",
     "category": "INDUSTRY",
     "name": {
@@ -714,7 +714,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
@@ -723,7 +723,7 @@
       "CDInd"
     ]
   },
-  "cdSingingStations": {
+  {
     "id": "cdSingingStations",
     "category": "COMMERCE",
     "name": {
@@ -744,7 +744,7 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
@@ -753,7 +753,7 @@
       "cdListeningStations"
     ]
   },
-  "cdSongsUniversalDatabase": {
+  {
     "id": "cdSongsUniversalDatabase",
     "category": "COMMERCE",
     "name": {
@@ -774,12 +774,12 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdTunesExpert": {
+  {
     "id": "cdTunesExpert",
     "category": "COMMERCE",
     "name": {
@@ -800,13 +800,13 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdUnscratchableSurface": {
+  {
     "id": "cdUnscratchableSurface",
     "category": "INDUSTRY",
     "name": {
@@ -827,7 +827,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 4
     },
@@ -836,7 +836,7 @@
       "CDInd"
     ]
   },
-  "cdUnwantedBins": {
+  {
     "id": "cdUnwantedBins",
     "category": "COMMERCE",
     "name": {
@@ -857,13 +857,13 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": -2
     },
     "industry_type": "COMPACT_DISC"
   },
-  "cdUsedSection": {
+  {
     "id": "cdUsedSection",
     "category": "COMMERCE",
     "name": {
@@ -884,10 +884,10 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
     "industry_type": "COMPACT_DISC"
   }
-}
+]

@@ -1,5 +1,5 @@
-{
-  "Barbra": {
+[
+  {
     "id": "Barbra",
     "category": "INDUSTRY",
     "name": {
@@ -21,7 +21,7 @@
     "properties": {
       "price": 90000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 15,
       "quality": -5
     },
@@ -30,7 +30,7 @@
       "FurnLic"
     ]
   },
-  "FlexibleFurniture": {
+  {
     "id": "FlexibleFurniture",
     "category": "INDUSTRY",
     "name": {
@@ -52,7 +52,7 @@
     "properties": {
       "price": 20000000,
       "prestige": -2,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
@@ -61,7 +61,7 @@
       "FurnLic"
     ]
   },
-  "FurnAssemblyCourses": {
+  {
     "id": "FurnAssemblyCourses",
     "category": "COMMERCE",
     "name": {
@@ -82,13 +82,13 @@
     },
     "properties": {
       "price": 85000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 1,
       "desirability": 2
     },
     "industry_type": "FURNITURE"
   },
-  "FurnBringithome": {
+  {
     "id": "FurnBringithome",
     "category": "COMMERCE",
     "name": {
@@ -109,13 +109,13 @@
     },
     "properties": {
       "price": 75000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
     "industry_type": "FURNITURE"
   },
-  "FurnDinnerTest": {
+  {
     "id": "FurnDinnerTest",
     "category": "COMMERCE",
     "name": {
@@ -137,13 +137,13 @@
     "properties": {
       "price": 60000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
     "industry_type": "FURNITURE"
   },
-  "FurnFullHouseSpecial": {
+  {
     "id": "FurnFullHouseSpecial",
     "category": "COMMERCE",
     "name": {
@@ -164,13 +164,13 @@
     },
     "properties": {
       "price": 43000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -1
     },
     "industry_type": "FURNITURE"
   },
-  "FurnHammockTraning": {
+  {
     "id": "FurnHammockTraning",
     "category": "COMMERCE",
     "name": {
@@ -191,13 +191,13 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
     "industry_type": "FURNITURE"
   },
-  "FurnLic": {
+  {
     "id": "FurnLic",
     "category": "INDUSTRY",
     "name": {
@@ -218,14 +218,14 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "FURNITURE",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "FurnLifetimeGuarantee": {
+  {
     "id": "FurnLifetimeGuarantee",
     "category": "COMMERCE",
     "name": {
@@ -247,13 +247,13 @@
     "properties": {
       "price": 160000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 4
     },
     "industry_type": "FURNITURE"
   },
-  "FurnRepairmentDepartment": {
+  {
     "id": "FurnRepairmentDepartment",
     "category": "COMMERCE",
     "name": {
@@ -274,13 +274,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "desirability": 4
     },
     "industry_type": "FURNITURE"
   },
-  "FurnSleepover": {
+  {
     "id": "FurnSleepover",
     "category": "COMMERCE",
     "name": {
@@ -301,13 +301,13 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
     "industry_type": "FURNITURE"
   },
-  "FurnSPAsCustomer": {
+  {
     "id": "FurnSPAsCustomer",
     "category": "COMMERCE",
     "name": {
@@ -328,13 +328,13 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": -1
     },
     "industry_type": "FURNITURE"
   },
-  "FurnUnexpTechnicians": {
+  {
     "id": "FurnUnexpTechnicians",
     "category": "COMMERCE",
     "name": {
@@ -355,7 +355,7 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
@@ -364,7 +364,7 @@
       "FurnRepairmentDepartment"
     ]
   },
-  "FurnVerticalStorage": {
+  {
     "id": "FurnVerticalStorage",
     "category": "COMMERCE",
     "name": {
@@ -385,13 +385,13 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
     "industry_type": "FURNITURE"
   },
-  "GrowingFurniture": {
+  {
     "id": "GrowingFurniture",
     "category": "INDUSTRY",
     "name": {
@@ -413,7 +413,7 @@
     "properties": {
       "price": 80000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 5
     },
@@ -422,7 +422,7 @@
       "FurnLic"
     ]
   },
-  "KidsLine": {
+  {
     "id": "KidsLine",
     "category": "INDUSTRY",
     "name": {
@@ -444,7 +444,7 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -453,7 +453,7 @@
       "FurnLic"
     ]
   },
-  "LegoFurniture": {
+  {
     "id": "LegoFurniture",
     "category": "INDUSTRY",
     "name": {
@@ -474,7 +474,7 @@
     },
     "properties": {
       "price": 400000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 40,
       "quality": -8
     },
@@ -483,7 +483,7 @@
       "FurnLic"
     ]
   },
-  "MassagingFurniture": {
+  {
     "id": "MassagingFurniture",
     "category": "INDUSTRY",
     "name": {
@@ -505,7 +505,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -4,
       "quality": 8
     },
@@ -514,7 +514,7 @@
       "FurnLic"
     ]
   },
-  "Noncombustiblefurniture": {
+  {
     "id": "Noncombustiblefurniture",
     "category": "INDUSTRY",
     "name": {
@@ -536,7 +536,7 @@
     "properties": {
       "price": 95000000,
       "prestige": 15,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
@@ -545,7 +545,7 @@
       "FurnLic"
     ]
   },
-  "PersonalizedFurniture": {
+  {
     "id": "PersonalizedFurniture",
     "category": "INDUSTRY",
     "name": {
@@ -566,7 +566,7 @@
     },
     "properties": {
       "price": 580000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -7,
       "quality": 15
     },
@@ -575,7 +575,7 @@
       "FurnLic"
     ]
   },
-  "PsyChair": {
+  {
     "id": "PsyChair",
     "category": "INDUSTRY",
     "name": {
@@ -597,7 +597,7 @@
     "properties": {
       "price": 170000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -4,
       "quality": 13
     },
@@ -606,7 +606,7 @@
       "FurnLic"
     ]
   },
-  "SmartDesk": {
+  {
     "id": "SmartDesk",
     "category": "INDUSTRY",
     "name": {
@@ -628,7 +628,7 @@
     "properties": {
       "price": 20000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
@@ -637,7 +637,7 @@
       "FurnLic"
     ]
   },
-  "SuperGlue": {
+  {
     "id": "SuperGlue",
     "category": "INDUSTRY",
     "name": {
@@ -658,7 +658,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -667,7 +667,7 @@
       "FurnLic"
     ]
   },
-  "Superwood": {
+  {
     "id": "Superwood",
     "category": "INDUSTRY",
     "name": {
@@ -688,7 +688,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 15,
       "quality": -4
     },
@@ -697,7 +697,7 @@
       "FurnLic"
     ]
   },
-  "Thorns": {
+  {
     "id": "Thorns",
     "category": "INDUSTRY",
     "name": {
@@ -719,7 +719,7 @@
     "properties": {
       "price": 185000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 8
     },
@@ -728,7 +728,7 @@
       "FurnLic"
     ]
   },
-  "UniversalChair": {
+  {
     "id": "UniversalChair",
     "category": "INDUSTRY",
     "name": {
@@ -750,7 +750,7 @@
     "properties": {
       "price": 800000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 10
     },
@@ -759,7 +759,7 @@
       "FurnLic"
     ]
   },
-  "UsedFurnMarket": {
+  {
     "id": "UsedFurnMarket",
     "category": "COMMERCE",
     "name": {
@@ -780,13 +780,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "desirability": 1
     },
     "industry_type": "FURNITURE"
   },
-  "WaterproofPieces": {
+  {
     "id": "WaterproofPieces",
     "category": "INDUSTRY",
     "name": {
@@ -807,7 +807,7 @@
     },
     "properties": {
       "price": 68000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -4,
       "quality": 10
     },
@@ -816,4 +816,4 @@
       "FurnLic"
     ]
   }
-}
+]

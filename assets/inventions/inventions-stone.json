@@ -1,5 +1,5 @@
-{
-  "StoneAdvGeology": {
+[
+  {
     "id": "StoneAdvGeology",
     "category": "INDUSTRY",
     "name": {
@@ -21,14 +21,14 @@
     "properties": {
       "price": 20000000,
       "prestige": 10,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "STONE",
     "depends_on": [
       "StoneMining"
     ]
   },
-  "StoneAdvMinSec": {
+  {
     "id": "StoneAdvMinSec",
     "category": "INDUSTRY",
     "name": {
@@ -50,7 +50,7 @@
     "properties": {
       "price": 210000000,
       "prestige": 100,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -1,
       "quality": -1
     },
@@ -59,7 +59,7 @@
       "StoneAdvGeology"
     ]
   },
-  "StoneAdvOreSensors": {
+  {
     "id": "StoneAdvOreSensors",
     "category": "INDUSTRY",
     "name": {
@@ -80,7 +80,7 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 10
     },
@@ -89,7 +89,7 @@
       "StoneMining"
     ]
   },
-  "StoneAirConducts": {
+  {
     "id": "StoneAirConducts",
     "category": "INDUSTRY",
     "name": {
@@ -110,7 +110,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -10
     },
@@ -119,7 +119,7 @@
       "StoneMining"
     ]
   },
-  "StoneExoscheletons": {
+  {
     "id": "StoneExoscheletons",
     "category": "INDUSTRY",
     "name": {
@@ -140,7 +140,7 @@
     },
     "properties": {
       "price": 325000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 40,
       "quality": -10
     },
@@ -149,7 +149,7 @@
       "StoneMining"
     ]
   },
-  "StoneExtMining": {
+  {
     "id": "StoneExtMining",
     "category": "INDUSTRY",
     "name": {
@@ -171,7 +171,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 20,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -5
     },
@@ -180,7 +180,7 @@
       "StoneAdvGeology"
     ]
   },
-  "StoneLSMining": {
+  {
     "id": "StoneLSMining",
     "category": "INDUSTRY",
     "name": {
@@ -201,14 +201,14 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "master"
+      "level": "MASTER"
     },
     "industry_type": "STONE",
     "depends_on": [
       "StoneMining"
     ]
   },
-  "StoneMagneticElev": {
+  {
     "id": "StoneMagneticElev",
     "category": "INDUSTRY",
     "name": {
@@ -229,7 +229,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 2
     },
     "industry_type": "STONE",
@@ -237,7 +237,7 @@
       "StoneMining"
     ]
   },
-  "StoneMicroExplosions": {
+  {
     "id": "StoneMicroExplosions",
     "category": "INDUSTRY",
     "name": {
@@ -259,7 +259,7 @@
     "properties": {
       "price": 145000000,
       "prestige": 10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -15,
       "quality": 25
     },
@@ -268,7 +268,7 @@
       "StoneMining"
     ]
   },
-  "StoneMinersLocators": {
+  {
     "id": "StoneMinersLocators",
     "category": "INDUSTRY",
     "name": {
@@ -290,7 +290,7 @@
     "properties": {
       "price": 45000000,
       "prestige": 20,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -3
     },
     "industry_type": "STONE",
@@ -298,7 +298,7 @@
       "StoneMining"
     ]
   },
-  "StoneMining": {
+  {
     "id": "StoneMining",
     "category": "INDUSTRY",
     "name": {
@@ -319,14 +319,14 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "STONE",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "StoneMiningBacteria": {
+  {
     "id": "StoneMiningBacteria",
     "category": "INDUSTRY",
     "name": {
@@ -348,7 +348,7 @@
     "properties": {
       "price": 365000000,
       "prestige": -10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -2,
       "quality": 40
     },
@@ -357,7 +357,7 @@
       "StoneAdvGeology"
     ]
   },
-  "StoneMiningDroids": {
+  {
     "id": "StoneMiningDroids",
     "category": "INDUSTRY",
     "name": {
@@ -378,7 +378,7 @@
     },
     "properties": {
       "price": 220000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5,
       "quality": -3
     },
@@ -387,7 +387,7 @@
       "StoneMining"
     ]
   },
-  "StoneOreAdulteration": {
+  {
     "id": "StoneOreAdulteration",
     "category": "INDUSTRY",
     "name": {
@@ -409,7 +409,7 @@
     "properties": {
       "price": 10000000,
       "prestige": -150,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 30,
       "quality": -35
     },
@@ -418,7 +418,7 @@
       "StoneMining"
     ]
   },
-  "StoneRemoteControlledCarts": {
+  {
     "id": "StoneRemoteControlledCarts",
     "category": "INDUSTRY",
     "name": {
@@ -439,7 +439,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 5
     },
     "industry_type": "STONE",
@@ -447,7 +447,7 @@
       "StoneMining"
     ]
   },
-  "StoneSteamDrills": {
+  {
     "id": "StoneSteamDrills",
     "category": "INDUSTRY",
     "name": {
@@ -468,7 +468,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 10,
       "quality": -5
     },
@@ -477,7 +477,7 @@
       "StoneAirConducts"
     ]
   },
-  "StoneUndergroundCharting": {
+  {
     "id": "StoneUndergroundCharting",
     "category": "INDUSTRY",
     "name": {
@@ -499,7 +499,7 @@
     "properties": {
       "price": 165000000,
       "prestige": 10,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": 7,
       "quality": 5
     },
@@ -508,4 +508,4 @@
       "StoneAdvGeology"
     ]
   }
-}
+]

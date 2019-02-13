@@ -1,5 +1,5 @@
-{
-  "CertifiedOperators": {
+[
+  {
     "id": "CertifiedOperators",
     "category": "INDUSTRY",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "master",
+      "level": "MASTER",
       "quality": 7
     },
     "industry_type": "MACHINERY",
@@ -28,7 +28,7 @@
       "MachInd"
     ]
   },
-  "ExcavatorSensors": {
+  {
     "id": "ExcavatorSensors",
     "category": "INDUSTRY",
     "name": {
@@ -49,7 +49,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
@@ -58,7 +58,7 @@
       "MachInd"
     ]
   },
-  "ExternalDecorations": {
+  {
     "id": "ExternalDecorations",
     "category": "INDUSTRY",
     "name": {
@@ -80,7 +80,7 @@
     "properties": {
       "price": 25000000,
       "prestige": 5,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -2,
       "quality": 3
     },
@@ -89,7 +89,7 @@
       "MachInd"
     ]
   },
-  "HouseMachine": {
+  {
     "id": "HouseMachine",
     "category": "INDUSTRY",
     "name": {
@@ -111,7 +111,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 7,
       "quality": -3
     },
@@ -120,7 +120,7 @@
       "MachInd"
     ]
   },
-  "InVacuumOperatingMachines": {
+  {
     "id": "InVacuumOperatingMachines",
     "category": "INDUSTRY",
     "name": {
@@ -142,7 +142,7 @@
     "properties": {
       "price": 40000000,
       "prestige": 20,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -5,
       "quality": 4
     },
@@ -151,7 +151,7 @@
       "MachInd"
     ]
   },
-  "MachInd": {
+  {
     "id": "MachInd",
     "category": "INDUSTRY",
     "name": {
@@ -172,14 +172,14 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "master"
+      "level": "MASTER"
     },
     "industry_type": "MACHINERY",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "MachineSilencers": {
+  {
     "id": "MachineSilencers",
     "category": "INDUSTRY",
     "name": {
@@ -201,7 +201,7 @@
     "properties": {
       "price": 130000000,
       "prestige": 10,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -3,
       "quality": 10
     },
@@ -210,7 +210,7 @@
       "MachInd"
     ]
   },
-  "ModularCranes": {
+  {
     "id": "ModularCranes",
     "category": "INDUSTRY",
     "name": {
@@ -231,7 +231,7 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5,
       "quality": 3
     },
@@ -240,7 +240,7 @@
       "MachInd"
     ]
   },
-  "MonumentsSpecializedMachines": {
+  {
     "id": "MonumentsSpecializedMachines",
     "category": "INDUSTRY",
     "name": {
@@ -262,7 +262,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 10,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
@@ -271,7 +271,7 @@
       "MachInd"
     ]
   },
-  "OnSiteAssembledMachines": {
+  {
     "id": "OnSiteAssembledMachines",
     "category": "INDUSTRY",
     "name": {
@@ -293,7 +293,7 @@
     "properties": {
       "price": 70000000,
       "prestige": -2,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 10,
       "quality": -5
     },
@@ -302,7 +302,7 @@
       "MachInd"
     ]
   },
-  "PartsService": {
+  {
     "id": "PartsService",
     "category": "INDUSTRY",
     "name": {
@@ -323,7 +323,7 @@
     },
     "properties": {
       "price": 120000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 15,
       "quality": -3
     },
@@ -332,7 +332,7 @@
       "MachInd"
     ]
   },
-  "RemoteControl": {
+  {
     "id": "RemoteControl",
     "category": "INDUSTRY",
     "name": {
@@ -354,7 +354,7 @@
     "properties": {
       "price": 95000000,
       "prestige": 3,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -5,
       "quality": 10
     },
@@ -363,7 +363,7 @@
       "MachInd"
     ]
   },
-  "RoboticMachines": {
+  {
     "id": "RoboticMachines",
     "category": "INDUSTRY",
     "name": {
@@ -385,7 +385,7 @@
     "properties": {
       "price": 100000000,
       "prestige": -5,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -5,
       "quality": 15
     },
@@ -394,7 +394,7 @@
       "MachInd"
     ]
   },
-  "StandardizedEngine": {
+  {
     "id": "StandardizedEngine",
     "category": "INDUSTRY",
     "name": {
@@ -415,7 +415,7 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 20,
       "quality": -5
     },
@@ -424,7 +424,7 @@
       "MachInd"
     ]
   },
-  "TransportationPlan": {
+  {
     "id": "TransportationPlan",
     "category": "INDUSTRY",
     "name": {
@@ -445,7 +445,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -8,
       "quality": 12
     },
@@ -454,7 +454,7 @@
       "MachInd"
     ]
   },
-  "WorkersTimer": {
+  {
     "id": "WorkersTimer",
     "category": "INDUSTRY",
     "name": {
@@ -476,7 +476,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 10,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -3,
       "quality": 5
     },
@@ -485,4 +485,4 @@
       "MachInd"
     ]
   }
-}
+]

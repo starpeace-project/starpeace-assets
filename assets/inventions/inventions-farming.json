@@ -1,5 +1,5 @@
-{
-  "AdvGen": {
+[
+  {
     "id": "AdvGen",
     "category": "INDUSTRY",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "quality": 1
     },
@@ -29,7 +29,7 @@
       "FarmLic"
     ]
   },
-  "ArtLight": {
+  {
     "id": "ArtLight",
     "category": "INDUSTRY",
     "name": {
@@ -51,7 +51,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 7,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "quality": 4
     },
@@ -60,7 +60,7 @@
       "ETClimate"
     ]
   },
-  "AutoIrr": {
+  {
     "id": "AutoIrr",
     "category": "INDUSTRY",
     "name": {
@@ -82,7 +82,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "quality": 1
     },
@@ -91,7 +91,7 @@
       "FarmLic"
     ]
   },
-  "BioFeed": {
+  {
     "id": "BioFeed",
     "category": "INDUSTRY",
     "name": {
@@ -113,7 +113,7 @@
     "properties": {
       "price": 50000000,
       "prestige": -100,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 20,
       "quality": 3
     },
@@ -122,7 +122,7 @@
       "FarmLic"
     ]
   },
-  "ColMutPl": {
+  {
     "id": "ColMutPl",
     "category": "INDUSTRY",
     "name": {
@@ -144,7 +144,7 @@
     "properties": {
       "price": 170000000,
       "prestige": -20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 40,
       "quality": -20
     },
@@ -153,7 +153,7 @@
       "ETClimate"
     ]
   },
-  "ETClimate": {
+  {
     "id": "ETClimate",
     "category": "INDUSTRY",
     "name": {
@@ -175,7 +175,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "quality": 3
     },
@@ -184,7 +184,7 @@
       "FarmLic"
     ]
   },
-  "ETGen": {
+  {
     "id": "ETGen",
     "category": "INDUSTRY",
     "name": {
@@ -206,14 +206,14 @@
     "properties": {
       "price": 40000000,
       "prestige": 20,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "FARMING",
     "depends_on": [
       "WaterPumps"
     ]
   },
-  "FarmLic": {
+  {
     "id": "FarmLic",
     "category": "INDUSTRY",
     "name": {
@@ -234,14 +234,14 @@
     },
     "properties": {
       "price": 1000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "FARMING",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "IndPhtsynt": {
+  {
     "id": "IndPhtsynt",
     "category": "INDUSTRY",
     "name": {
@@ -263,7 +263,7 @@
     "properties": {
       "price": 20000000,
       "prestige": -10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 6,
       "quality": -3
     },
@@ -272,7 +272,7 @@
       "FarmLic"
     ]
   },
-  "LargeFarms": {
+  {
     "id": "LargeFarms",
     "category": "INDUSTRY",
     "name": {
@@ -293,14 +293,14 @@
     },
     "properties": {
       "price": 4000000,
-      "level": "entrepreneur"
+      "level": "ENTREPRENEUR"
     },
     "industry_type": "FARMING",
     "depends_on": [
       "FarmLic"
     ]
   },
-  "MiceRcycl": {
+  {
     "id": "MiceRcycl",
     "category": "INDUSTRY",
     "name": {
@@ -322,7 +322,7 @@
     "properties": {
       "price": 10000000,
       "prestige": -40,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "quality": -7
     },
@@ -331,7 +331,7 @@
       "FarmLic"
     ]
   },
-  "PHyCtrl": {
+  {
     "id": "PHyCtrl",
     "category": "INDUSTRY",
     "name": {
@@ -352,7 +352,7 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "quality": 8
     },
@@ -361,7 +361,7 @@
       "FarmLic"
     ]
   },
-  "PlgCtrlSys": {
+  {
     "id": "PlgCtrlSys",
     "category": "INDUSTRY",
     "name": {
@@ -382,7 +382,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "quality": -3
     },
@@ -391,7 +391,7 @@
       "ETClimate"
     ]
   },
-  "SklessPigs": {
+  {
     "id": "SklessPigs",
     "category": "INDUSTRY",
     "name": {
@@ -413,7 +413,7 @@
     "properties": {
       "price": 30000000,
       "prestige": -100,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "quality": 2
     },
@@ -422,7 +422,7 @@
       "AdvGen"
     ]
   },
-  "SynAnFood": {
+  {
     "id": "SynAnFood",
     "category": "INDUSTRY",
     "name": {
@@ -444,7 +444,7 @@
     "properties": {
       "price": 15000000,
       "prestige": -7,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "quality": -2
     },
@@ -453,7 +453,7 @@
       "FarmLic"
     ]
   },
-  "SyntGround": {
+  {
     "id": "SyntGround",
     "category": "INDUSTRY",
     "name": {
@@ -475,7 +475,7 @@
     "properties": {
       "price": 20000000,
       "prestige": -7,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "quality": -3
     },
@@ -484,7 +484,7 @@
       "FarmLic"
     ]
   },
-  "VegMusic": {
+  {
     "id": "VegMusic",
     "category": "INDUSTRY",
     "name": {
@@ -506,7 +506,7 @@
     "properties": {
       "price": 90000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "quality": 2
     },
@@ -515,7 +515,7 @@
       "FarmLic"
     ]
   },
-  "WaterCtrl": {
+  {
     "id": "WaterCtrl",
     "category": "INDUSTRY",
     "name": {
@@ -537,7 +537,7 @@
     "properties": {
       "price": 55000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 4
     },
@@ -546,7 +546,7 @@
       "ETClimate"
     ]
   },
-  "WaterPumps": {
+  {
     "id": "WaterPumps",
     "category": "INDUSTRY",
     "name": {
@@ -568,7 +568,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 2,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "quality": 2
     },
@@ -577,4 +577,4 @@
       "FarmLic"
     ]
   }
-}
+]

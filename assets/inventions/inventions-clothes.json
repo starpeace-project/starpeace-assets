@@ -1,5 +1,5 @@
-{
-  "AlteringMirrors": {
+[
+  {
     "id": "AlteringMirrors",
     "category": "COMMERCE",
     "name": {
@@ -20,13 +20,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
     "industry_type": "CLOTHES"
   },
-  "Antialine": {
+  {
     "id": "Antialine",
     "category": "INDUSTRY",
     "name": {
@@ -48,7 +48,7 @@
     "properties": {
       "price": 10000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -7,
       "quality": 5
     },
@@ -57,7 +57,7 @@
       "ClothesLic"
     ]
   },
-  "ATCD": {
+  {
     "id": "ATCD",
     "category": "INDUSTRY",
     "name": {
@@ -79,7 +79,7 @@
     "properties": {
       "price": 160000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -7,
       "quality": 20
     },
@@ -88,7 +88,7 @@
       "ClothesLic"
     ]
   },
-  "AutoLaseSew": {
+  {
     "id": "AutoLaseSew",
     "category": "INDUSTRY",
     "name": {
@@ -109,7 +109,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "quality": -2
     },
@@ -118,7 +118,7 @@
       "ClothesLic"
     ]
   },
-  "BigSizes": {
+  {
     "id": "BigSizes",
     "category": "COMMERCE",
     "name": {
@@ -139,13 +139,13 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 1,
       "desirability": 1
     },
     "industry_type": "CLOTHES"
   },
-  "CasualComplimentsDeliverer": {
+  {
     "id": "CasualComplimentsDeliverer",
     "category": "COMMERCE",
     "name": {
@@ -166,12 +166,12 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "desirability": 2
     },
     "industry_type": "CLOTHES"
   },
-  "ClientsTasteAndMeasuresDatabase": {
+  {
     "id": "ClientsTasteAndMeasuresDatabase",
     "category": "COMMERCE",
     "name": {
@@ -192,13 +192,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "desirability": -1
     },
     "industry_type": "CLOTHES"
   },
-  "ClothesLic": {
+  {
     "id": "ClothesLic",
     "category": "INDUSTRY",
     "name": {
@@ -219,14 +219,14 @@
     },
     "properties": {
       "price": 1000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "CLOTHES",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "ClothGluing": {
+  {
     "id": "ClothGluing",
     "category": "INDUSTRY",
     "name": {
@@ -248,7 +248,7 @@
     "properties": {
       "price": 10000000,
       "prestige": -1,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "quality": -10
     },
@@ -257,7 +257,7 @@
       "ClothesLic"
     ]
   },
-  "ComplementaryAccessories": {
+  {
     "id": "ComplementaryAccessories",
     "category": "COMMERCE",
     "name": {
@@ -278,13 +278,13 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -4,
       "desirability": 5
     },
     "industry_type": "CLOTHES"
   },
-  "CoutureDresses": {
+  {
     "id": "CoutureDresses",
     "category": "COMMERCE",
     "name": {
@@ -306,13 +306,13 @@
     "properties": {
       "price": 65000000,
       "prestige": 30,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
     "industry_type": "CLOTHES"
   },
-  "DryCleaningService": {
+  {
     "id": "DryCleaningService",
     "category": "COMMERCE",
     "name": {
@@ -333,13 +333,13 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
     "industry_type": "CLOTHES"
   },
-  "FashionConsultants": {
+  {
     "id": "FashionConsultants",
     "category": "COMMERCE",
     "name": {
@@ -360,13 +360,13 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
     "industry_type": "CLOTHES"
   },
-  "GayOutfits": {
+  {
     "id": "GayOutfits",
     "category": "INDUSTRY",
     "name": {
@@ -388,7 +388,7 @@
     "properties": {
       "price": 60000000,
       "prestige": 20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "quality": 5
     },
@@ -397,7 +397,7 @@
       "ClothesLic"
     ]
   },
-  "HighQualitySuits": {
+  {
     "id": "HighQualitySuits",
     "category": "INDUSTRY",
     "name": {
@@ -419,7 +419,7 @@
     "properties": {
       "price": 90000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 10
     },
@@ -428,7 +428,7 @@
       "TopClothingDesignBasics"
     ]
   },
-  "HstClothing": {
+  {
     "id": "HstClothing",
     "category": "INDUSTRY",
     "name": {
@@ -449,7 +449,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "quality": 1
     },
     "industry_type": "CLOTHES",
@@ -457,7 +457,7 @@
       "ClothesLic"
     ]
   },
-  "HstFootwears": {
+  {
     "id": "HstFootwears",
     "category": "INDUSTRY",
     "name": {
@@ -478,7 +478,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "quality": 1
     },
     "industry_type": "CLOTHES",
@@ -486,7 +486,7 @@
       "ClothesLic"
     ]
   },
-  "HypAtt": {
+  {
     "id": "HypAtt",
     "category": "INDUSTRY",
     "name": {
@@ -507,7 +507,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "efficiency": -10,
       "quality": 10
     },
@@ -516,7 +516,7 @@
       "ClothesLic"
     ]
   },
-  "LimitedSizeChoice": {
+  {
     "id": "LimitedSizeChoice",
     "category": "COMMERCE",
     "name": {
@@ -537,13 +537,13 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": -2
     },
     "industry_type": "CLOTHES"
   },
-  "LingerieSelection": {
+  {
     "id": "LingerieSelection",
     "category": "COMMERCE",
     "name": {
@@ -564,13 +564,13 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
     "industry_type": "CLOTHES"
   },
-  "LSCManuf": {
+  {
     "id": "LSCManuf",
     "category": "INDUSTRY",
     "name": {
@@ -591,14 +591,14 @@
     },
     "properties": {
       "price": 2000000,
-      "level": "entrepreneur"
+      "level": "ENTREPRENEUR"
     },
     "industry_type": "CLOTHES",
     "depends_on": [
       "ClothesLic"
     ]
   },
-  "OldDressesRecycleBins": {
+  {
     "id": "OldDressesRecycleBins",
     "category": "COMMERCE",
     "name": {
@@ -620,13 +620,13 @@
     "properties": {
       "price": 25000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
     "industry_type": "CLOTHES"
   },
-  "OneUseClothes": {
+  {
     "id": "OneUseClothes",
     "category": "INDUSTRY",
     "name": {
@@ -648,7 +648,7 @@
     "properties": {
       "price": 10000000,
       "prestige": -10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "quality": -5
     },
@@ -657,7 +657,7 @@
       "ClothesLic"
     ]
   },
-  "OutOfFashionStockUp": {
+  {
     "id": "OutOfFashionStockUp",
     "category": "COMMERCE",
     "name": {
@@ -678,13 +678,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
     "industry_type": "CLOTHES"
   },
-  "RealTimeTailoring": {
+  {
     "id": "RealTimeTailoring",
     "category": "COMMERCE",
     "name": {
@@ -705,13 +705,13 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 1,
       "desirability": 2
     },
     "industry_type": "CLOTHES"
   },
-  "SmallChangeCabins": {
+  {
     "id": "SmallChangeCabins",
     "category": "COMMERCE",
     "name": {
@@ -732,13 +732,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
     "industry_type": "CLOTHES"
   },
-  "SponsoredShirts": {
+  {
     "id": "SponsoredShirts",
     "category": "INDUSTRY",
     "name": {
@@ -760,7 +760,7 @@
     "properties": {
       "price": 35000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "quality": -3
     },
@@ -769,7 +769,7 @@
       "ClothesLic"
     ]
   },
-  "Sportswear": {
+  {
     "id": "Sportswear",
     "category": "INDUSTRY",
     "name": {
@@ -790,7 +790,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 3
     },
@@ -799,7 +799,7 @@
       "ClothesLic"
     ]
   },
-  "TopClothingDesignBasics": {
+  {
     "id": "TopClothingDesignBasics",
     "category": "INDUSTRY",
     "name": {
@@ -820,7 +820,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -4,
       "quality": 10
     },
@@ -829,7 +829,7 @@
       "ClothesLic"
     ]
   },
-  "TraditionalCostumes": {
+  {
     "id": "TraditionalCostumes",
     "category": "INDUSTRY",
     "name": {
@@ -851,7 +851,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 2
     },
@@ -860,7 +860,7 @@
       "ClothesLic"
     ]
   },
-  "UnifootShoes": {
+  {
     "id": "UnifootShoes",
     "category": "INDUSTRY",
     "name": {
@@ -881,7 +881,7 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "quality": -10
     },
@@ -890,7 +890,7 @@
       "ClothesLic"
     ]
   },
-  "UsedClothesReshaping": {
+  {
     "id": "UsedClothesReshaping",
     "category": "COMMERCE",
     "name": {
@@ -912,7 +912,7 @@
     "properties": {
       "price": 5000000,
       "prestige": -10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
@@ -921,4 +921,4 @@
       "OldDressesRecycleBins"
     ]
   }
-}
+]

@@ -1,5 +1,5 @@
-{
-  "24HoursService": {
+[
+  {
     "id": "24HoursService",
     "category": "COMMERCE",
     "name": {
@@ -20,13 +20,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
     "industry_type": "GASOLINE"
   },
-  "AccessoryShop": {
+  {
     "id": "AccessoryShop",
     "category": "COMMERCE",
     "name": {
@@ -47,13 +47,13 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "desirability": 3
     },
     "industry_type": "GASOLINE"
   },
-  "AntiElectricCarCampaign": {
+  {
     "id": "AntiElectricCarCampaign",
     "category": "INDUSTRY",
     "name": {
@@ -75,7 +75,7 @@
     "properties": {
       "price": 30000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 4
     },
@@ -84,7 +84,7 @@
       "Refinery"
     ]
   },
-  "AsbestosClothes": {
+  {
     "id": "AsbestosClothes",
     "category": "INDUSTRY",
     "name": {
@@ -106,7 +106,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 8,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -115,7 +115,7 @@
       "Refinery"
     ]
   },
-  "AutocleaningPumps": {
+  {
     "id": "AutocleaningPumps",
     "category": "COMMERCE",
     "name": {
@@ -136,12 +136,12 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5
     },
     "industry_type": "GASOLINE"
   },
-  "AutomaticPlatePayment": {
+  {
     "id": "AutomaticPlatePayment",
     "category": "COMMERCE",
     "name": {
@@ -162,13 +162,13 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": 1
     },
     "industry_type": "GASOLINE"
   },
-  "BacteriaPurification": {
+  {
     "id": "BacteriaPurification",
     "category": "INDUSTRY",
     "name": {
@@ -189,7 +189,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 5
     },
@@ -198,7 +198,7 @@
       "Refinery"
     ]
   },
-  "CarEngineDetergent": {
+  {
     "id": "CarEngineDetergent",
     "category": "INDUSTRY",
     "name": {
@@ -220,7 +220,7 @@
     "properties": {
       "price": 30000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
@@ -229,7 +229,7 @@
       "Refinery"
     ]
   },
-  "CarWash": {
+  {
     "id": "CarWash",
     "category": "COMMERCE",
     "name": {
@@ -250,13 +250,13 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
     "industry_type": "GASOLINE"
   },
-  "ColoredSmokeEmission": {
+  {
     "id": "ColoredSmokeEmission",
     "category": "INDUSTRY",
     "name": {
@@ -278,7 +278,7 @@
     "properties": {
       "price": 40000000,
       "prestige": -2,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3
     },
     "industry_type": "GASOLINE",
@@ -286,7 +286,7 @@
       "Refinery"
     ]
   },
-  "CrudeOilAutomaticMixing": {
+  {
     "id": "CrudeOilAutomaticMixing",
     "category": "INDUSTRY",
     "name": {
@@ -307,7 +307,7 @@
     },
     "properties": {
       "price": 190000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 20,
       "quality": -4
     },
@@ -316,7 +316,7 @@
       "Refinery"
     ]
   },
-  "DepuratorsRotation": {
+  {
     "id": "DepuratorsRotation",
     "category": "INDUSTRY",
     "name": {
@@ -337,7 +337,7 @@
     },
     "properties": {
       "price": 315000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 35,
       "quality": -5
     },
@@ -346,7 +346,7 @@
       "Refinery"
     ]
   },
-  "DieselProduction": {
+  {
     "id": "DieselProduction",
     "category": "INDUSTRY",
     "name": {
@@ -367,7 +367,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "quality": 2
     },
@@ -376,7 +376,7 @@
       "Refinery"
     ]
   },
-  "DirectionsAndWeatherComputer": {
+  {
     "id": "DirectionsAndWeatherComputer",
     "category": "COMMERCE",
     "name": {
@@ -397,13 +397,13 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
     "industry_type": "GASOLINE"
   },
-  "FlammableItemsBan": {
+  {
     "id": "FlammableItemsBan",
     "category": "INDUSTRY",
     "name": {
@@ -425,7 +425,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4
     },
     "industry_type": "GASOLINE",
@@ -433,7 +433,7 @@
       "Refinery"
     ]
   },
-  "FreeOilChange": {
+  {
     "id": "FreeOilChange",
     "category": "COMMERCE",
     "name": {
@@ -454,12 +454,12 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "desirability": 2
     },
     "industry_type": "GASOLINE"
   },
-  "GasFireplaces": {
+  {
     "id": "GasFireplaces",
     "category": "INDUSTRY",
     "name": {
@@ -481,7 +481,7 @@
     "properties": {
       "price": 25000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -490,7 +490,7 @@
       "Refinery"
     ]
   },
-  "LongShifts": {
+  {
     "id": "LongShifts",
     "category": "COMMERCE",
     "name": {
@@ -512,13 +512,13 @@
     "properties": {
       "price": 5000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
     "industry_type": "GASOLINE"
   },
-  "MultiOctaneSelection": {
+  {
     "id": "MultiOctaneSelection",
     "category": "INDUSTRY",
     "name": {
@@ -539,7 +539,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -6,
       "quality": 10
     },
@@ -548,7 +548,7 @@
       "Refinery"
     ]
   },
-  "OilPumpsTuning": {
+  {
     "id": "OilPumpsTuning",
     "category": "INDUSTRY",
     "name": {
@@ -569,7 +569,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 4
     },
@@ -578,7 +578,7 @@
       "Refinery"
     ]
   },
-  "OxygenConcentrationStudy": {
+  {
     "id": "OxygenConcentrationStudy",
     "category": "INDUSTRY",
     "name": {
@@ -599,7 +599,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 6
     },
@@ -608,7 +608,7 @@
       "Refinery"
     ]
   },
-  "PitStop": {
+  {
     "id": "PitStop",
     "category": "COMMERCE",
     "name": {
@@ -629,13 +629,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
     "industry_type": "GASOLINE"
   },
-  "PlateMarketingStrategy": {
+  {
     "id": "PlateMarketingStrategy",
     "category": "COMMERCE",
     "name": {
@@ -656,7 +656,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": -1
     },
@@ -665,7 +665,7 @@
       "AutomaticPlatePayment"
     ]
   },
-  "PointsCard": {
+  {
     "id": "PointsCard",
     "category": "COMMERCE",
     "name": {
@@ -686,13 +686,13 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
     "industry_type": "GASOLINE"
   },
-  "Refinery": {
+  {
     "id": "Refinery",
     "category": "INDUSTRY",
     "name": {
@@ -713,14 +713,14 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "GASOLINE",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "RepairmentCenter": {
+  {
     "id": "RepairmentCenter",
     "category": "COMMERCE",
     "name": {
@@ -741,13 +741,13 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -4,
       "desirability": 3
     },
     "industry_type": "GASOLINE"
   },
-  "RocketAirplaneFuelProduction": {
+  {
     "id": "RocketAirplaneFuelProduction",
     "category": "INDUSTRY",
     "name": {
@@ -769,7 +769,7 @@
     "properties": {
       "price": 45000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -778,7 +778,7 @@
       "Refinery"
     ]
   },
-  "SelfServiceOnly": {
+  {
     "id": "SelfServiceOnly",
     "category": "COMMERCE",
     "name": {
@@ -799,13 +799,13 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "desirability": -2
     },
     "industry_type": "GASOLINE"
   },
-  "SOSService": {
+  {
     "id": "SOSService",
     "category": "COMMERCE",
     "name": {
@@ -827,7 +827,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "desirability": 2
     },
     "industry_type": "GASOLINE",
@@ -835,7 +835,7 @@
       "RepairmentCenter"
     ]
   },
-  "UnleadedOnlyProduction": {
+  {
     "id": "UnleadedOnlyProduction",
     "category": "INDUSTRY",
     "name": {
@@ -857,7 +857,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 15,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "quality": -1
     },
@@ -866,7 +866,7 @@
       "Refinery"
     ]
   },
-  "ValetRefilling": {
+  {
     "id": "ValetRefilling",
     "category": "COMMERCE",
     "name": {
@@ -888,10 +888,10 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "desirability": 4
     },
     "industry_type": "GASOLINE"
   }
-}
+]

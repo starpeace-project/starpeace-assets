@@ -1,5 +1,5 @@
-{
-  "AntiNoiseWallsAndDoors": {
+[
+  {
     "id": "AntiNoiseWallsAndDoors",
     "category": "REAL_ESTATE",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "privacy": 8,
       "security": -3
     },
@@ -29,7 +29,7 @@
       "Offices"
     ]
   },
-  "AutoCleaningConducts": {
+  {
     "id": "AutoCleaningConducts",
     "category": "REAL_ESTATE",
     "name": {
@@ -50,7 +50,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "maintenance": 3,
       "security": 3,
       "environment": 10
@@ -60,7 +60,7 @@
       "Offices"
     ]
   },
-  "CommonBathrooms": {
+  {
     "id": "CommonBathrooms",
     "category": "REAL_ESTATE",
     "name": {
@@ -81,7 +81,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "maintenance": 10,
       "privacy": -3,
       "security": -2
@@ -91,7 +91,7 @@
       "Offices"
     ]
   },
-  "DarkeningWindows": {
+  {
     "id": "DarkeningWindows",
     "category": "REAL_ESTATE",
     "name": {
@@ -112,7 +112,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "privacy": 5
     },
     "industry_type": "OFFICE",
@@ -120,7 +120,7 @@
       "Offices"
     ]
   },
-  "DayCare": {
+  {
     "id": "DayCare",
     "category": "REAL_ESTATE",
     "name": {
@@ -142,7 +142,7 @@
     "properties": {
       "price": 20000000,
       "prestige": 20,
-      "level": "tycoon",
+      "level": "TYCOON",
       "maintenance": -5,
       "security": 5
     },
@@ -151,7 +151,7 @@
       "Offices"
     ]
   },
-  "GuardsStand": {
+  {
     "id": "GuardsStand",
     "category": "REAL_ESTATE",
     "name": {
@@ -172,7 +172,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "beauty": -1,
       "maintenance": -3,
       "privacy": -2,
@@ -183,7 +183,7 @@
       "Offices"
     ]
   },
-  "HallLiveMusic": {
+  {
     "id": "HallLiveMusic",
     "category": "REAL_ESTATE",
     "name": {
@@ -205,7 +205,7 @@
     "properties": {
       "price": 10000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "beauty": 3,
       "maintenance": -2,
       "security": 1
@@ -215,7 +215,7 @@
       "Offices"
     ]
   },
-  "HandicappedUniversalAccess": {
+  {
     "id": "HandicappedUniversalAccess",
     "category": "REAL_ESTATE",
     "name": {
@@ -237,14 +237,14 @@
     "properties": {
       "price": 40000000,
       "prestige": 40,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "OFFICE",
     "depends_on": [
       "Offices"
     ]
   },
-  "IndoorGardens": {
+  {
     "id": "IndoorGardens",
     "category": "REAL_ESTATE",
     "name": {
@@ -265,7 +265,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "beauty": 10,
       "maintenance": -5,
       "environment": 2
@@ -275,7 +275,7 @@
       "Offices"
     ]
   },
-  "LightsAlwaysOn": {
+  {
     "id": "LightsAlwaysOn",
     "category": "REAL_ESTATE",
     "name": {
@@ -296,7 +296,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "beauty": 2,
       "maintenance": -3,
       "privacy": 3,
@@ -307,7 +307,7 @@
       "Offices"
     ]
   },
-  "LightTherapyRooms": {
+  {
     "id": "LightTherapyRooms",
     "category": "REAL_ESTATE",
     "name": {
@@ -329,7 +329,7 @@
     "properties": {
       "price": 15000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "maintenance": -1,
       "security": 3
     },
@@ -338,7 +338,7 @@
       "Offices"
     ]
   },
-  "MetalDetectors": {
+  {
     "id": "MetalDetectors",
     "category": "REAL_ESTATE",
     "name": {
@@ -359,7 +359,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "beauty": -2,
       "privacy": -3,
       "security": 10
@@ -369,7 +369,7 @@
       "GuardsStand"
     ]
   },
-  "NoSmokingPolicy": {
+  {
     "id": "NoSmokingPolicy",
     "category": "REAL_ESTATE",
     "name": {
@@ -390,7 +390,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "beauty": 2,
       "maintenance": 3,
       "environment": 5
@@ -400,7 +400,7 @@
       "Offices"
     ]
   },
-  "Offices": {
+  {
     "id": "Offices",
     "category": "REAL_ESTATE",
     "name": {
@@ -421,14 +421,14 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "tycoon"
+      "level": "TYCOON"
     },
     "industry_type": "OFFICE",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "OpenSpaces": {
+  {
     "id": "OpenSpaces",
     "category": "REAL_ESTATE",
     "name": {
@@ -449,7 +449,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "maintenance": -3,
       "security": 2
     },
@@ -458,7 +458,7 @@
       "Offices"
     ]
   },
-  "PoliceAlarm": {
+  {
     "id": "PoliceAlarm",
     "category": "REAL_ESTATE",
     "name": {
@@ -479,7 +479,7 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "maintenance": -1,
       "security": 10
     },
@@ -488,7 +488,7 @@
       "Offices"
     ]
   },
-  "PollutionMeasuringDevice": {
+  {
     "id": "PollutionMeasuringDevice",
     "category": "REAL_ESTATE",
     "name": {
@@ -509,7 +509,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "maintenance": -1,
       "environment": 5
     },
@@ -518,7 +518,7 @@
       "Offices"
     ]
   },
-  "PuppiesRoom": {
+  {
     "id": "PuppiesRoom",
     "category": "REAL_ESTATE",
     "name": {
@@ -540,7 +540,7 @@
     "properties": {
       "price": 10000000,
       "prestige": 5,
-      "level": "tycoon",
+      "level": "TYCOON",
       "beauty": 4,
       "maintenance": -5,
       "security": 2,
@@ -551,7 +551,7 @@
       "Offices"
     ]
   },
-  "RoboticFlyingCameras": {
+  {
     "id": "RoboticFlyingCameras",
     "category": "REAL_ESTATE",
     "name": {
@@ -572,7 +572,7 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "maintenance": 3,
       "privacy": -5,
       "security": 10
@@ -582,7 +582,7 @@
       "Offices"
     ]
   },
-  "SoftCarpets": {
+  {
     "id": "SoftCarpets",
     "category": "REAL_ESTATE",
     "name": {
@@ -603,7 +603,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "beauty": 3,
       "maintenance": -1,
       "security": -1
@@ -613,7 +613,7 @@
       "Offices"
     ]
   },
-  "Usher": {
+  {
     "id": "Usher",
     "category": "REAL_ESTATE",
     "name": {
@@ -634,7 +634,7 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "tycoon",
+      "level": "TYCOON",
       "maintenance": -2,
       "privacy": 3,
       "security": 2
@@ -644,4 +644,4 @@
       "Offices"
     ]
   }
-}
+]

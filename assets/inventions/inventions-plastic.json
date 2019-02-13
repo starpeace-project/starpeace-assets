@@ -1,5 +1,5 @@
-{
-  "AntiChockingPlasticBags": {
+[
+  {
     "id": "AntiChockingPlasticBags",
     "category": "INDUSTRY",
     "name": {
@@ -21,7 +21,7 @@
     "properties": {
       "price": 45000000,
       "prestige": 25,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 2
     },
@@ -30,7 +30,7 @@
       "BiodegradablePlasticLikeMaterial"
     ]
   },
-  "BiodegradablePlasticLikeMaterial": {
+  {
     "id": "BiodegradablePlasticLikeMaterial",
     "category": "INDUSTRY",
     "name": {
@@ -52,7 +52,7 @@
     "properties": {
       "price": 85000000,
       "prestige": 15,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 8
     },
@@ -61,7 +61,7 @@
       "Plastics"
     ]
   },
-  "EchologicalAwarenessCampaign": {
+  {
     "id": "EchologicalAwarenessCampaign",
     "category": "INDUSTRY",
     "name": {
@@ -83,7 +83,7 @@
     "properties": {
       "price": 110000000,
       "prestige": 35,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3
     },
     "industry_type": "PLASTIC",
@@ -91,7 +91,7 @@
       "PlasticRecyclingCenters"
     ]
   },
-  "ExtraStrongPlastic": {
+  {
     "id": "ExtraStrongPlastic",
     "category": "INDUSTRY",
     "name": {
@@ -112,7 +112,7 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 8
     },
@@ -121,7 +121,7 @@
       "SoundWaveMolder"
     ]
   },
-  "ExtraterrestrialOilImpurityRemoving": {
+  {
     "id": "ExtraterrestrialOilImpurityRemoving",
     "category": "INDUSTRY",
     "name": {
@@ -142,7 +142,7 @@
     },
     "properties": {
       "price": 110000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 12
     },
@@ -151,7 +151,7 @@
       "Plastics"
     ]
   },
-  "GrowYourOwnPlasticPlant": {
+  {
     "id": "GrowYourOwnPlasticPlant",
     "category": "INDUSTRY",
     "name": {
@@ -173,7 +173,7 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
@@ -182,7 +182,7 @@
       "Plastics"
     ]
   },
-  "LaserPlasticCutter": {
+  {
     "id": "LaserPlasticCutter",
     "category": "INDUSTRY",
     "name": {
@@ -203,7 +203,7 @@
     },
     "properties": {
       "price": 135000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7,
       "quality": 4
     },
@@ -212,7 +212,7 @@
       "Plastics"
     ]
   },
-  "PlasticDressLine": {
+  {
     "id": "PlasticDressLine",
     "category": "INDUSTRY",
     "name": {
@@ -233,7 +233,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -242,7 +242,7 @@
       "Plastics"
     ]
   },
-  "PlasticRecyclingCenters": {
+  {
     "id": "PlasticRecyclingCenters",
     "category": "INDUSTRY",
     "name": {
@@ -264,7 +264,7 @@
     "properties": {
       "price": 70000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "quality": -5
     },
@@ -273,7 +273,7 @@
       "Plastics"
     ]
   },
-  "Plastics": {
+  {
     "id": "Plastics",
     "category": "INDUSTRY",
     "name": {
@@ -294,14 +294,14 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "PLASTIC",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "ProPlasticCampaign": {
+  {
     "id": "ProPlasticCampaign",
     "category": "INDUSTRY",
     "name": {
@@ -323,7 +323,7 @@
     "properties": {
       "price": 70000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 7
     },
     "industry_type": "PLASTIC",
@@ -331,7 +331,7 @@
       "Plastics"
     ]
   },
-  "RecyclingDepurators": {
+  {
     "id": "RecyclingDepurators",
     "category": "INDUSTRY",
     "name": {
@@ -353,7 +353,7 @@
     "properties": {
       "price": 100000000,
       "prestige": 7,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 10,
       "quality": -2
     },
@@ -362,7 +362,7 @@
       "Plastics"
     ]
   },
-  "SoundWaveMolder": {
+  {
     "id": "SoundWaveMolder",
     "category": "INDUSTRY",
     "name": {
@@ -383,7 +383,7 @@
     },
     "properties": {
       "price": 330000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 35,
       "quality": -2
     },
@@ -392,7 +392,7 @@
       "Plastics"
     ]
   },
-  "SpaceApplications": {
+  {
     "id": "SpaceApplications",
     "category": "INDUSTRY",
     "name": {
@@ -414,7 +414,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 20,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -5,
       "quality": 8
     },
@@ -423,7 +423,7 @@
       "ExtraStrongPlastic"
     ]
   },
-  "UltrathinPlastic": {
+  {
     "id": "UltrathinPlastic",
     "category": "INDUSTRY",
     "name": {
@@ -445,7 +445,7 @@
     "properties": {
       "price": 40000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 6
     },
@@ -454,7 +454,7 @@
       "LaserPlasticCutter"
     ]
   },
-  "WoodLookingPlasticSheets": {
+  {
     "id": "WoodLookingPlasticSheets",
     "category": "INDUSTRY",
     "name": {
@@ -475,7 +475,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 6
     },
@@ -484,4 +484,4 @@
       "Plastics"
     ]
   }
-}
+]

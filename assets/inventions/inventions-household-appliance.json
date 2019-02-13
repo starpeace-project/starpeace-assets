@@ -1,5 +1,5 @@
-{
-  "24HoursTechnicalService": {
+[
+  {
     "id": "24HoursTechnicalService",
     "category": "COMMERCE",
     "name": {
@@ -21,13 +21,13 @@
     "properties": {
       "price": 60000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
     "industry_type": "APPLIANCE"
   },
-  "AlienAlarm": {
+  {
     "id": "AlienAlarm",
     "category": "INDUSTRY",
     "name": {
@@ -49,14 +49,14 @@
     "properties": {
       "price": 50000000,
       "prestige": 20,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "APPLIANCE",
     "depends_on": [
       "HHALic"
     ]
   },
-  "ArtificialPets": {
+  {
     "id": "ArtificialPets",
     "category": "INDUSTRY",
     "name": {
@@ -78,7 +78,7 @@
     "properties": {
       "price": 60000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -4,
       "quality": 10
     },
@@ -87,7 +87,7 @@
       "HHALic"
     ]
   },
-  "CoinsSlot": {
+  {
     "id": "CoinsSlot",
     "category": "INDUSTRY",
     "name": {
@@ -109,7 +109,7 @@
     "properties": {
       "price": 20000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 5
     },
@@ -118,7 +118,7 @@
       "HHALic"
     ]
   },
-  "DisintegratingBins": {
+  {
     "id": "DisintegratingBins",
     "category": "INDUSTRY",
     "name": {
@@ -140,7 +140,7 @@
     "properties": {
       "price": 20000000,
       "prestige": -2,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
@@ -149,7 +149,7 @@
       "HHALic"
     ]
   },
-  "FakeFireplaces": {
+  {
     "id": "FakeFireplaces",
     "category": "INDUSTRY",
     "name": {
@@ -170,7 +170,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
@@ -179,7 +179,7 @@
       "HHALic"
     ]
   },
-  "FinalEntertainmentSystem": {
+  {
     "id": "FinalEntertainmentSystem",
     "category": "COMMERCE",
     "name": {
@@ -200,13 +200,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 1,
       "desirability": 2
     },
     "industry_type": "APPLIANCE"
   },
-  "FullHouseSpecial": {
+  {
     "id": "FullHouseSpecial",
     "category": "COMMERCE",
     "name": {
@@ -227,13 +227,13 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -1
     },
     "industry_type": "APPLIANCE"
   },
-  "GeneralRemote": {
+  {
     "id": "GeneralRemote",
     "category": "INDUSTRY",
     "name": {
@@ -255,7 +255,7 @@
     "properties": {
       "price": 110000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "quality": 12
     },
@@ -264,7 +264,7 @@
       "HHALic"
     ]
   },
-  "HHALic": {
+  {
     "id": "HHALic",
     "category": "INDUSTRY",
     "name": {
@@ -285,14 +285,14 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "APPLIANCE",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "HiddenMachines": {
+  {
     "id": "HiddenMachines",
     "category": "COMMERCE",
     "name": {
@@ -313,13 +313,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
     "industry_type": "APPLIANCE"
   },
-  "HiFiDirectionalSpeakers": {
+  {
     "id": "HiFiDirectionalSpeakers",
     "category": "INDUSTRY",
     "name": {
@@ -341,7 +341,7 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -4,
       "quality": 8
     },
@@ -350,7 +350,7 @@
       "HHALic"
     ]
   },
-  "HiFiRoom": {
+  {
     "id": "HiFiRoom",
     "category": "COMMERCE",
     "name": {
@@ -371,13 +371,13 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
     "industry_type": "APPLIANCE"
   },
-  "HolographicTV": {
+  {
     "id": "HolographicTV",
     "category": "INDUSTRY",
     "name": {
@@ -399,7 +399,7 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -408,7 +408,7 @@
       "HHALic"
     ]
   },
-  "HomeTheatres": {
+  {
     "id": "HomeTheatres",
     "category": "COMMERCE",
     "name": {
@@ -429,13 +429,13 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
     "industry_type": "APPLIANCE"
   },
-  "LifeWarranties": {
+  {
     "id": "LifeWarranties",
     "category": "COMMERCE",
     "name": {
@@ -457,13 +457,13 @@
     "properties": {
       "price": 60000000,
       "prestige": 3,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
     "industry_type": "APPLIANCE"
   },
-  "LSAppProd": {
+  {
     "id": "LSAppProd",
     "category": "INDUSTRY",
     "name": {
@@ -484,14 +484,14 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "entrepreneur"
+      "level": "ENTREPRENEUR"
     },
     "industry_type": "APPLIANCE",
     "depends_on": [
       "HHALic"
     ]
   },
-  "MachinesRenting": {
+  {
     "id": "MachinesRenting",
     "category": "COMMERCE",
     "name": {
@@ -512,13 +512,13 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
     "industry_type": "APPLIANCE"
   },
-  "MorphingPet": {
+  {
     "id": "MorphingPet",
     "category": "INDUSTRY",
     "name": {
@@ -540,7 +540,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 8
     },
@@ -549,7 +549,7 @@
       "ArtificialPets"
     ]
   },
-  "OneDayExplanatoryCourse": {
+  {
     "id": "OneDayExplanatoryCourse",
     "category": "COMMERCE",
     "name": {
@@ -570,13 +570,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
     "industry_type": "APPLIANCE"
   },
-  "RepairmentDepartment": {
+  {
     "id": "RepairmentDepartment",
     "category": "COMMERCE",
     "name": {
@@ -597,13 +597,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -3,
       "desirability": 4
     },
     "industry_type": "APPLIANCE"
   },
-  "SalesPeopleAsCustomer": {
+  {
     "id": "SalesPeopleAsCustomer",
     "category": "COMMERCE",
     "name": {
@@ -624,13 +624,13 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": -1
     },
     "industry_type": "APPLIANCE"
   },
-  "UltrasoundsWashingMachines": {
+  {
     "id": "UltrasoundsWashingMachines",
     "category": "INDUSTRY",
     "name": {
@@ -652,7 +652,7 @@
     "properties": {
       "price": 20000000,
       "prestige": 10,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
@@ -661,7 +661,7 @@
       "HHALic"
     ]
   },
-  "UltraThinTv": {
+  {
     "id": "UltraThinTv",
     "category": "INDUSTRY",
     "name": {
@@ -682,7 +682,7 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
@@ -691,7 +691,7 @@
       "HHALic"
     ]
   },
-  "UnexperiencedTechnicians": {
+  {
     "id": "UnexperiencedTechnicians",
     "category": "COMMERCE",
     "name": {
@@ -712,13 +712,13 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
     "industry_type": "APPLIANCE"
   },
-  "UniversalMachine": {
+  {
     "id": "UniversalMachine",
     "category": "INDUSTRY",
     "name": {
@@ -739,7 +739,7 @@
     },
     "properties": {
       "price": 350000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 40,
       "quality": -8
     },
@@ -748,7 +748,7 @@
       "HHALic"
     ]
   },
-  "UnscreenedComponents": {
+  {
     "id": "UnscreenedComponents",
     "category": "INDUSTRY",
     "name": {
@@ -770,7 +770,7 @@
     "properties": {
       "price": 90000000,
       "prestige": -5,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 15,
       "quality": -5
     },
@@ -779,7 +779,7 @@
       "HHALic"
     ]
   },
-  "UsedMachineMarket": {
+  {
     "id": "UsedMachineMarket",
     "category": "COMMERCE",
     "name": {
@@ -800,13 +800,13 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 3,
       "desirability": 1
     },
     "industry_type": "APPLIANCE"
   },
-  "UsedUnitsRetirement": {
+  {
     "id": "UsedUnitsRetirement",
     "category": "INDUSTRY",
     "name": {
@@ -827,7 +827,7 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 15,
       "quality": -4
     },
@@ -836,7 +836,7 @@
       "HHALic"
     ]
   },
-  "VerticalStorage": {
+  {
     "id": "VerticalStorage",
     "category": "COMMERCE",
     "name": {
@@ -857,13 +857,13 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
     "industry_type": "APPLIANCE"
   },
-  "VoiceActivator": {
+  {
     "id": "VoiceActivator",
     "category": "INDUSTRY",
     "name": {
@@ -884,7 +884,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": -7,
       "quality": 10
     },
@@ -893,7 +893,7 @@
       "HHALic"
     ]
   },
-  "YearlyInspectionAndTuneUp": {
+  {
     "id": "YearlyInspectionAndTuneUp",
     "category": "COMMERCE",
     "name": {
@@ -914,7 +914,7 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "apprentice",
+      "level": "APPRENTICE",
       "efficiency": 2,
       "desirability": 1
     },
@@ -923,4 +923,4 @@
       "RepairmentDepartment"
     ]
   }
-}
+]

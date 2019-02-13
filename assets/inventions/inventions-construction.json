@@ -1,5 +1,5 @@
-{
-  "AlienArtifactsAwarenessPlan": {
+[
+  {
     "id": "AlienArtifactsAwarenessPlan",
     "category": "INDUSTRY",
     "name": {
@@ -21,7 +21,7 @@
     "properties": {
       "price": 85000000,
       "prestige": 10,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -2
     },
     "industry_type": "CONSTRUCTION",
@@ -29,7 +29,7 @@
       "ConstInd"
     ]
   },
-  "AntiseismicStructures": {
+  {
     "id": "AntiseismicStructures",
     "category": "INDUSTRY",
     "name": {
@@ -50,7 +50,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -5,
       "quality": 10
     },
@@ -59,7 +59,7 @@
       "ConstInd"
     ]
   },
-  "AutomatizedConstructionSite": {
+  {
     "id": "AutomatizedConstructionSite",
     "category": "INDUSTRY",
     "name": {
@@ -81,7 +81,7 @@
     "properties": {
       "price": 280000000,
       "prestige": -5,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": 30,
       "quality": -5
     },
@@ -90,7 +90,7 @@
       "ConstInd"
     ]
   },
-  "CaveauFoundations": {
+  {
     "id": "CaveauFoundations",
     "category": "INDUSTRY",
     "name": {
@@ -111,7 +111,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -2,
       "quality": 4
     },
@@ -120,7 +120,7 @@
       "ConstInd"
     ]
   },
-  "ConstInd": {
+  {
     "id": "ConstInd",
     "category": "INDUSTRY",
     "name": {
@@ -141,14 +141,14 @@
     },
     "properties": {
       "price": 2000000,
-      "level": "paradigm"
+      "level": "PARADIGM"
     },
     "industry_type": "CONSTRUCTION",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "CorporateAtrii": {
+  {
     "id": "CorporateAtrii",
     "category": "INDUSTRY",
     "name": {
@@ -170,7 +170,7 @@
     "properties": {
       "price": 85000000,
       "prestige": 15,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -2,
       "quality": 8
     },
@@ -179,7 +179,7 @@
       "MarbleRefinishing"
     ]
   },
-  "DemolitionStrategy": {
+  {
     "id": "DemolitionStrategy",
     "category": "INDUSTRY",
     "name": {
@@ -200,7 +200,7 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": 10,
       "quality": -5
     },
@@ -209,7 +209,7 @@
       "ConstInd"
     ]
   },
-  "DrawYourOwnHouse": {
+  {
     "id": "DrawYourOwnHouse",
     "category": "INDUSTRY",
     "name": {
@@ -230,7 +230,7 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -3,
       "quality": 5
     },
@@ -239,7 +239,7 @@
       "ConstInd"
     ]
   },
-  "ExtraterrestrialGravityStudy": {
+  {
     "id": "ExtraterrestrialGravityStudy",
     "category": "INDUSTRY",
     "name": {
@@ -261,7 +261,7 @@
     "properties": {
       "price": 125000000,
       "prestige": 5,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": 5,
       "quality": 5
     },
@@ -270,7 +270,7 @@
       "ConstInd"
     ]
   },
-  "LandscapingElements": {
+  {
     "id": "LandscapingElements",
     "category": "INDUSTRY",
     "name": {
@@ -292,7 +292,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -3,
       "quality": 8
     },
@@ -301,7 +301,7 @@
       "ConstInd"
     ]
   },
-  "MarbleRefinishing": {
+  {
     "id": "MarbleRefinishing",
     "category": "INDUSTRY",
     "name": {
@@ -323,7 +323,7 @@
     "properties": {
       "price": 35000000,
       "prestige": 4,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -2,
       "quality": 5
     },
@@ -332,7 +332,7 @@
       "ConstInd"
     ]
   },
-  "ModularFloors": {
+  {
     "id": "ModularFloors",
     "category": "INDUSTRY",
     "name": {
@@ -353,7 +353,7 @@
     },
     "properties": {
       "price": 175000000,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": 20,
       "quality": -5
     },
@@ -362,7 +362,7 @@
       "ConstInd"
     ]
   },
-  "PortalInspiredDetails": {
+  {
     "id": "PortalInspiredDetails",
     "category": "INDUSTRY",
     "name": {
@@ -383,7 +383,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -1,
       "quality": 5
     },
@@ -392,7 +392,7 @@
       "ConstInd"
     ]
   },
-  "SecretPassages": {
+  {
     "id": "SecretPassages",
     "category": "INDUSTRY",
     "name": {
@@ -413,7 +413,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -2,
       "quality": 4
     },
@@ -422,7 +422,7 @@
       "ConstInd"
     ]
   },
-  "SecurityWalls": {
+  {
     "id": "SecurityWalls",
     "category": "INDUSTRY",
     "name": {
@@ -443,7 +443,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": -4,
       "quality": 6
     },
@@ -452,7 +452,7 @@
       "ConstInd"
     ]
   },
-  "SuspectMounds": {
+  {
     "id": "SuspectMounds",
     "category": "INDUSTRY",
     "name": {
@@ -474,7 +474,7 @@
     "properties": {
       "price": 65000000,
       "prestige": -5,
-      "level": "paradigm",
+      "level": "PARADIGM",
       "efficiency": 8
     },
     "industry_type": "CONSTRUCTION",
@@ -482,4 +482,4 @@
       "ConstInd"
     ]
   }
-}
+]

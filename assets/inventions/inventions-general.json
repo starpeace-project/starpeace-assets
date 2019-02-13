@@ -1,5 +1,5 @@
-{
-  "BasicCommerce": {
+[
+  {
     "id": "BasicCommerce",
     "category": "COMMERCE",
     "name": {
@@ -20,14 +20,14 @@
     },
     "properties": {
       "price": 200000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "GENERAL",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "CivicFac": {
+  {
     "id": "CivicFac",
     "category": "CIVIC",
     "name": {
@@ -49,11 +49,11 @@
     "properties": {
       "price": 200000,
       "prestige": 5,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "GENERAL"
   },
-  "DistributedDirection": {
+  {
     "id": "DistributedDirection",
     "category": "SERVICE",
     "name": {
@@ -74,11 +74,11 @@
     },
     "properties": {
       "price": 1000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "GENERAL"
   },
-  "Industries": {
+  {
     "id": "Industries",
     "category": "INDUSTRY",
     "name": {
@@ -99,11 +99,11 @@
     },
     "properties": {
       "price": 500000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "GENERAL"
   },
-  "MinistryAdministration": {
+  {
     "id": "MinistryAdministration",
     "category": "CIVIC",
     "name": {
@@ -120,11 +120,11 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "GENERAL"
   },
-  "Monuments": {
+  {
     "id": "Monuments",
     "category": "CIVIC",
     "name": {
@@ -146,11 +146,11 @@
     "properties": {
       "price": 10000000,
       "prestige": 50,
-      "level": "entrepreneur"
+      "level": "ENTREPRENEUR"
     },
     "industry_type": "GENERAL"
   },
-  "WaterQuest": {
+  {
     "id": "WaterQuest",
     "category": "SERVICE",
     "name": {
@@ -172,7 +172,7 @@
     "properties": {
       "price": 10000000,
       "prestige": 50,
-      "level": "apprentice"
+      "level": "APPRENTICE"
     },
     "industry_type": "GENERAL",
     "depends_on": [
@@ -182,4 +182,4 @@
       "BasicCommerce"
     ]
   }
-}
+]

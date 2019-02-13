@@ -1,5 +1,5 @@
-{
-  "CDMeltingSecurity": {
+[
+  {
     "id": "CDMeltingSecurity",
     "category": "SERVICE",
     "name": {
@@ -20,7 +20,7 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -2,
       "quality": 4
     },
@@ -29,7 +29,7 @@
       "SoftwareFirms"
     ]
   },
-  "CellPhonesTechnology": {
+  {
     "id": "CellPhonesTechnology",
     "category": "SERVICE",
     "name": {
@@ -51,7 +51,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -1,
       "quality": 4
     },
@@ -60,7 +60,7 @@
       "SoftwareFirms"
     ]
   },
-  "CheapHardware": {
+  {
     "id": "CheapHardware",
     "category": "SERVICE",
     "name": {
@@ -81,7 +81,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 15,
       "quality": -5
     },
@@ -90,7 +90,7 @@
       "SoftwareFirms"
     ]
   },
-  "ConvolutedCode": {
+  {
     "id": "ConvolutedCode",
     "category": "SERVICE",
     "name": {
@@ -111,7 +111,7 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -5,
       "quality": 3
     },
@@ -120,7 +120,7 @@
       "SoftwareFirms"
     ]
   },
-  "DigitalMovies": {
+  {
     "id": "DigitalMovies",
     "category": "SERVICE",
     "name": {
@@ -141,7 +141,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
@@ -150,7 +150,7 @@
       "SoftwareFirms"
     ]
   },
-  "HackersRecruiting": {
+  {
     "id": "HackersRecruiting",
     "category": "SERVICE",
     "name": {
@@ -172,7 +172,7 @@
     "properties": {
       "price": 40000000,
       "prestige": -5,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 2,
       "quality": 3
     },
@@ -181,7 +181,7 @@
       "SoftwareFirms"
     ]
   },
-  "HologramGraphic": {
+  {
     "id": "HologramGraphic",
     "category": "SERVICE",
     "name": {
@@ -202,7 +202,7 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
@@ -211,7 +211,7 @@
       "SoftwareFirms"
     ]
   },
-  "IntraworldsECommerce": {
+  {
     "id": "IntraworldsECommerce",
     "category": "SERVICE",
     "name": {
@@ -233,7 +233,7 @@
     "properties": {
       "price": 140000000,
       "prestige": 30,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -5,
       "quality": 10
     },
@@ -242,7 +242,7 @@
       "ThroughPortalsDataTransfer"
     ]
   },
-  "LaptopsAndDockingStations": {
+  {
     "id": "LaptopsAndDockingStations",
     "category": "SERVICE",
     "name": {
@@ -263,7 +263,7 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
@@ -272,7 +272,7 @@
       "SoftwareFirms"
     ]
   },
-  "OceanusHistory": {
+  {
     "id": "OceanusHistory",
     "category": "SERVICE",
     "name": {
@@ -294,7 +294,7 @@
     "properties": {
       "price": 65000000,
       "prestige": 3,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -3,
       "quality": 7
     },
@@ -303,7 +303,7 @@
       "VideogamesDevelopment"
     ]
   },
-  "RelaxedWorkEnvironment": {
+  {
     "id": "RelaxedWorkEnvironment",
     "category": "SERVICE",
     "name": {
@@ -324,7 +324,7 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
@@ -333,7 +333,7 @@
       "SoftwareFirms"
     ]
   },
-  "SoftwareFirms": {
+  {
     "id": "SoftwareFirms",
     "category": "SERVICE",
     "name": {
@@ -354,14 +354,14 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "master"
+      "level": "MASTER"
     },
     "industry_type": "COMPUTER_SERVICES",
     "depends_on": [
       "DistributedDirection"
     ]
   },
-  "ThroughPortalsDataTransfer": {
+  {
     "id": "ThroughPortalsDataTransfer",
     "category": "SERVICE",
     "name": {
@@ -383,7 +383,7 @@
     "properties": {
       "price": 80000000,
       "prestige": 20,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 2,
       "quality": 2
     },
@@ -392,7 +392,7 @@
       "SoftwareFirms"
     ]
   },
-  "VideogamesDevelopment": {
+  {
     "id": "VideogamesDevelopment",
     "category": "SERVICE",
     "name": {
@@ -413,7 +413,7 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 2,
       "quality": 5
     },
@@ -422,7 +422,7 @@
       "SoftwareFirms"
     ]
   },
-  "VirusAntivirusBusiness": {
+  {
     "id": "VirusAntivirusBusiness",
     "category": "SERVICE",
     "name": {
@@ -444,7 +444,7 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
@@ -453,7 +453,7 @@
       "SoftwareFirms"
     ]
   },
-  "WorkingFromHome": {
+  {
     "id": "WorkingFromHome",
     "category": "SERVICE",
     "name": {
@@ -474,7 +474,7 @@
     },
     "properties": {
       "price": 95000000,
-      "level": "master",
+      "level": "MASTER",
       "efficiency": 5,
       "quality": 2
     },
@@ -483,4 +483,4 @@
       "SoftwareFirms"
     ]
   }
-}
+]

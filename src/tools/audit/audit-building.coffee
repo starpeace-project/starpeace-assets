@@ -90,6 +90,13 @@ exports = module.exports = class AuditBuilding
       else
         console.log " [OK] all building simulation definitions have valid resource type references"
 
+      definitions_with_unknown_inventions = _.filter(definitions, (definition) -> definition.required_invention_ids.length && _.find(definition.required_invention_ids, (id) -> !audit_data.invention.definitions_by_id[id]?)?)
+      if definitions_with_unknown_inventions.length
+        console.log " [ERROR] building definition #{definition.id} has unknown required invention references" for definition in definitions_with_unknown_inventions
+        throw "found #{definitions_with_unknown_inventions.length} building definitions with unknown required invention references"
+      else
+        console.log " [OK] all building definitions have valid required invention references"
+
       console.log "\n [OK] finished building audit successfully\n"
       console.log "-------------------------------------------------------------------------------\n"
       resolve(_.merge(audit_data, {
