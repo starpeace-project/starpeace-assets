@@ -8,7 +8,8 @@
       "FR": "Apprenti",
       "IT": "Novizio",
       "PT": "Aprendiz"
-    }
+    },
+    "level": 1
   },
   {
     "id": "ENTREPRENEUR",
@@ -19,7 +20,8 @@
       "FR": "Entrepreneur",
       "IT": "Imprenditore",
       "PT": "Empreendedor"
-    }
+    },
+    "level": 2
   },
   {
     "id": "TYCOON",
@@ -30,7 +32,8 @@
       "FR": "Investisseur",
       "IT": "Magnate",
       "PT": "Magnata"
-    }
+    },
+    "level": 3
   },
   {
     "id": "MASTER",
@@ -41,7 +44,8 @@
       "FR": "Maître",
       "IT": "Master",
       "PT": "Mestre"
-    }
+    },
+    "level": 4
   },
   {
     "id": "PARADIGM",
@@ -52,7 +56,8 @@
       "FR": "Patron",
       "IT": "Paradigma",
       "PT": "Paradigma"
-    }
+    },
+    "level": 5
   },
   {
     "id": "LEGEND",
@@ -63,6 +68,7 @@
       "FR": "Légende",
       "IT": "Leggenda",
       "PT": "Lenda"
-    }
+    },
+    "level": 6
   }
 ]
