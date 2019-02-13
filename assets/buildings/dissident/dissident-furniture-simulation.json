@@ -5,27 +5,27 @@
     "required_inputs": [
       {
         "resource": "TIMBER",
-        "max": 50
+        "max": 40
       },
       {
         "resource": "ORGANIC_MATERIAL",
-        "max": 10
+        "max": 8
       },
       {
         "resource": "FABRIC",
-        "max": 10
+        "max": 8
       },
       {
         "resource": "CHEMICAL",
-        "max": 20
+        "max": 16
       },
       {
         "resource": "PLASTIC",
-        "max": 10
+        "max": 8
       },
       {
         "resource": "METAL",
-        "max": 5
+        "max": 4
       },
       {
         "resource": "PROFESSIONAL",
@@ -37,10 +37,6 @@
       }
     ],
     "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.2
-      },
       {
         "resource": "LEGAL_SERVICES",
         "max": 0.1

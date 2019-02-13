@@ -166,7 +166,7 @@
       "PT": "trabalho executivo"
     },
     "unit_id": "HOUR",
-    "price": 100
+    "price": 20
   },
   {
     "id": "FABRIC",
@@ -387,7 +387,7 @@
       "PT": "trabalho profissional"
     },
     "unit_id": "HOUR",
-    "price": 40
+    "price": 8
   },
   {
     "id": "RAW_CHEMICAL",
@@ -465,6 +465,6 @@
       "PT": "trabalho braçal"
     },
     "unit_id": "HOUR",
-    "price": 10
+    "price": 2
   }
 ]
