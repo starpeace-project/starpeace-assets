@@ -1,19 +1,31 @@
 [
   {
-    "budget": 800,
-    "cost": 18480000,
+    "cost": 33600000,
+    "construction": {
+      "duration": 45,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 50
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORE",
-        "max": 298
+        "max": 288
       },
       {
         "resource": "CHEMICAL",
-        "max": 24
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 1
+        "max": 21
       },
       {
         "resource": "PROFESSIONAL",
@@ -21,39 +33,55 @@
       },
       {
         "resource": "WORKER",
-        "max": 131
+        "max": 120
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 1
+        "max": 0.2
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.12
       }
     ],
     "outputs": [
       {
         "resource": "METAL",
-        "max": 240
+        "max": 144
       }
     ],
     "id": "dis.metal.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 600,
-    "cost": 4400000,
+    "cost": 8000000,
+    "construction": {
+      "duration": 45,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 50
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORE",
-        "max": 100
+        "max": 96
       },
       {
         "resource": "CHEMICAL",
-        "max": 8
+        "max": 7
       },
       {
         "resource": "PROFESSIONAL",
@@ -61,23 +89,23 @@
       },
       {
         "resource": "WORKER",
-        "max": 76
+        "max": 70
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.6
+        "max": 0.08
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.03
+        "max": 0.04
       }
     ],
     "outputs": [
       {
         "resource": "METAL",
-        "max": 50
+        "max": 48
       }
     ],
     "id": "dis.metal.industry.small",

@@ -1,7 +1,23 @@
 [
   {
-    "budget": 500,
-    "cost": 15120000,
+    "cost": 25200000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FRESH_FOOD",
@@ -9,7 +25,7 @@
       },
       {
         "resource": "CHEMICAL",
-        "max": 12
+        "max": 10
       },
       {
         "resource": "PROFESSIONAL",
@@ -17,31 +33,47 @@
       },
       {
         "resource": "WORKER",
-        "max": 65
+        "max": 66
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.24
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.12
       }
     ],
     "outputs": [
       {
         "resource": "PROCESSED_FOOD",
-        "max": 80
+        "max": 48
       }
     ],
     "id": "dis.food.proc",
     "type": "INDUSTRY"
   },
   {
-    "budget": 200,
-    "cost": 3600000,
+    "cost": 6000000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FRESH_FOOD",
@@ -49,7 +81,7 @@
       },
       {
         "resource": "CHEMICAL",
-        "max": 4
+        "max": 3
       },
       {
         "resource": "PROFESSIONAL",
@@ -63,11 +95,11 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.04
+        "max": 0.08
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.01
+        "max": 0.04
       }
     ],
     "outputs": [

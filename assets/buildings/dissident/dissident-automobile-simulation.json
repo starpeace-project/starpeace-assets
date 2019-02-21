@@ -1,15 +1,31 @@
 [
   {
-    "budget": 8000,
-    "cost": 30000000,
+    "cost": 33600000,
+    "construction": {
+      "duration": 45,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "METAL",
-        "max": 360
+        "max": 240
       },
       {
         "resource": "FABRIC",
-        "max": 40
+        "max": 22
       },
       {
         "resource": "ELECTRONIC_COMPONENT",
@@ -17,35 +33,39 @@
       },
       {
         "resource": "CHEMICAL",
-        "max": 60
+        "max": 12
+      },
+      {
+        "resource": "PLASTIC",
+        "max": 12
       },
       {
         "resource": "EXECUTIVE",
-        "max": 15
+        "max": 1
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 50
+        "max": 3
       },
       {
         "resource": "WORKER",
-        "max": 400
+        "max": 164
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 1
+        "max": 1.2
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.3
+        "max": 0.36
       }
     ],
     "outputs": [
       {
         "resource": "AUTOMOBILE",
-        "max": 0.8
+        "max": 0.36
       }
     ],
     "id": "dis.car.industry",

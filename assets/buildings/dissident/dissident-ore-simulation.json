@@ -1,7 +1,23 @@
 [
   {
-    "budget": 340,
     "cost": 8400000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
@@ -13,31 +29,47 @@
       },
       {
         "resource": "WORKER",
-        "max": 109
+        "max": 110
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 1
+        "max": 0.36
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.12
       }
     ],
     "outputs": [
       {
         "resource": "ORE",
-        "max": 800
+        "max": 480
       }
     ],
     "id": "dis.mine",
     "type": "INDUSTRY"
   },
   {
-    "budget": 120,
     "cost": 2000000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
@@ -49,23 +81,23 @@
       },
       {
         "resource": "WORKER",
-        "max": 60
+        "max": 63
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.12
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.03
+        "max": 0.04
       }
     ],
     "outputs": [
       {
         "resource": "ORE",
-        "max": 175
+        "max": 160
       }
     ],
     "id": "dis.mine.small",

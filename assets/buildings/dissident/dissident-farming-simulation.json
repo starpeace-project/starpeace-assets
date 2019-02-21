@@ -1,7 +1,23 @@
 [
   {
-    "budget": 370,
-    "cost": 6720000,
+    "cost": 8400000,
+    "construction": {
+      "duration": 25,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 80
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 15
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 5
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "PROFESSIONAL",
@@ -9,39 +25,47 @@
       },
       {
         "resource": "WORKER",
-        "max": 22
+        "max": 33
       }
     ],
     "optional_inputs": [
       {
         "resource": "CHEMICAL",
-        "max": 1
-      },
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.2
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.36
       }
     ],
     "outputs": [
       {
         "resource": "FRESH_FOOD",
-        "max": 50
+        "max": 36
       },
       {
         "resource": "ORGANIC_MATERIAL",
-        "max": 24
+        "max": 6
       }
     ],
     "id": "dis.farm",
     "type": "INDUSTRY"
   },
   {
-    "budget": 60,
-    "cost": 1600000,
+    "cost": 2000000,
+    "construction": {
+      "duration": 15,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 80
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 20
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 0
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "PROFESSIONAL",
@@ -49,31 +73,23 @@
       },
       {
         "resource": "WORKER",
-        "max": 13
+        "max": 19
       }
     ],
     "optional_inputs": [
       {
         "resource": "CHEMICAL",
-        "max": 0.3
-      },
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.05
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.01
+        "max": 0.12
       }
     ],
     "outputs": [
       {
         "resource": "FRESH_FOOD",
-        "max": 10
+        "max": 12
       },
       {
         "resource": "ORGANIC_MATERIAL",
-        "max": 4
+        "max": 2
       }
     ],
     "id": "dis.farm.small",

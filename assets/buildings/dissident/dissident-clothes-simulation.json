@@ -1,11 +1,27 @@
 [
   {
-    "budget": 670,
-    "cost": 10080000,
+    "cost": 13440000,
+    "construction": {
+      "duration": 25,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FABRIC",
-        "max": 26
+        "max": 40
       },
       {
         "resource": "ORGANIC_MATERIAL",
@@ -13,51 +29,7 @@
       },
       {
         "resource": "CHEMICAL",
-        "max": 10
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 2
-      },
-      {
-        "resource": "WORKER",
-        "max": 109
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.6
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.3
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "CLOTHES",
-        "max": 60
-      }
-    ],
-    "id": "dis.clothes.industry",
-    "type": "INDUSTRY"
-  },
-  {
-    "budget": 57,
-    "cost": 2400000,
-    "required_inputs": [
-      {
-        "resource": "FABRIC",
-        "max": 9
-      },
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 3
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 3
+        "max": 6
       },
       {
         "resource": "PROFESSIONAL",
@@ -65,17 +37,77 @@
       },
       {
         "resource": "WORKER",
-        "max": 63
+        "max": 88
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.48
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.24
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "CLOTHES",
+        "max": 36
+      }
+    ],
+    "id": "dis.clothes.industry",
+    "type": "INDUSTRY"
+  },
+  {
+    "cost": 3200000,
+    "construction": {
+      "duration": 25,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
+    "required_inputs": [
+      {
+        "resource": "FABRIC",
+        "max": 13
+      },
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 3
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 2
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max": 1
+      },
+      {
+        "resource": "WORKER",
+        "max": 51
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.16
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.08
       }
     ],
     "outputs": [

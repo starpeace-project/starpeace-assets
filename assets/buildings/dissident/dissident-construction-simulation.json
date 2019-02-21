@@ -1,11 +1,27 @@
 [
   {
-    "budget": 700,
-    "cost": 30000000,
+    "cost": 35280000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORE",
-        "max": 143
+        "max": 144
       },
       {
         "resource": "METAL",
@@ -14,6 +30,10 @@
       {
         "resource": "CHEMICAL",
         "max": 30
+      },
+      {
+        "resource": "TIMBER",
+        "max": 200
       },
       {
         "resource": "PROFESSIONAL",
@@ -27,17 +47,17 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.48
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.12
       }
     ],
     "outputs": [
       {
         "resource": "CONSTRUCTION",
-        "max": 40
+        "max": 24
       }
     ],
     "id": "dis.construction.industry",

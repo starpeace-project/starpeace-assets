@@ -1,11 +1,27 @@
 [
   {
-    "budget": 2000,
-    "cost": 30000000,
+    "cost": 33600000,
+    "construction": {
+      "duration": 45,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
-        "resource": "ORE",
-        "max": 476
+        "resource": "RAW_CHEMICAL",
+        "max": 480
       },
       {
         "resource": "EXECUTIVE",
@@ -13,7 +29,7 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 11
+        "max": 7
       },
       {
         "resource": "WORKER",
@@ -23,28 +39,44 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.476000040769577
+        "max": 0.48
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.357000023126602
+        "max": 0.36
       }
     ],
     "outputs": [
       {
         "resource": "CHEMICAL",
-        "max": 80
+        "max": 60
       }
     ],
     "id": "dis.chemical.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 300,
-    "cost": 7800000,
+    "cost": 8000000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
-        "resource": "ORE",
+        "resource": "RAW_CHEMICAL",
         "max": 160
       },
       {
@@ -53,7 +85,7 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 6
+        "max": 4
       },
       {
         "resource": "WORKER",
@@ -63,17 +95,17 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.16
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.3
+        "max": 0.12
       }
     ],
     "outputs": [
       {
         "resource": "CHEMICAL",
-        "max": 16
+        "max": 20
       }
     ],
     "id": "dis.chemical.industry.small",

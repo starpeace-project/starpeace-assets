@@ -1,7 +1,23 @@
 [
   {
-    "budget": 2000,
-    "cost": 16800000,
+    "cost": 30240000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
@@ -13,7 +29,7 @@
       },
       {
         "resource": "EXECUTIVE",
-        "max": 2
+        "max": 1
       },
       {
         "resource": "PROFESSIONAL",
@@ -21,31 +37,47 @@
       },
       {
         "resource": "WORKER",
-        "max": 87
+        "max": 88
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.5
+        "max": 0.3
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 1
+        "max": 0.36
       }
     ],
     "outputs": [
       {
         "resource": "ELECTRONIC_COMPONENT",
-        "max": 50
+        "max": 31.2
       }
     ],
     "id": "dis.elect.comp.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 700,
-    "cost": 4000000,
+    "cost": 7200000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
@@ -56,32 +88,28 @@
         "max": 8
       },
       {
-        "resource": "EXECUTIVE",
-        "max": 1
-      },
-      {
         "resource": "PROFESSIONAL",
-        "max": 4
+        "max": 3
       },
       {
         "resource": "WORKER",
-        "max": 51
+        "max": 50
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.25
+        "max": 0.1
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.3
+        "max": 0.12
       }
     ],
     "outputs": [
       {
         "resource": "ELECTRONIC_COMPONENT",
-        "max": 10
+        "max": 10.4
       }
     ],
     "id": "dis.elect.comp.industry.small",

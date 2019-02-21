@@ -1,7 +1,23 @@
 [
   {
-    "budget": 1700,
-    "cost": 16800000,
+    "cost": 25200000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 70
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 0
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 30
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "EXECUTIVE",
@@ -19,13 +35,13 @@
     "optional_inputs": [
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.4
+        "max": 0.2
       }
     ],
     "outputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 10
+        "max": 6
       }
     ],
     "id": "dis.computing",

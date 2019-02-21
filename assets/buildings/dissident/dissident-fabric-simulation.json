@@ -1,7 +1,23 @@
 [
   {
-    "budget": 400,
     "cost": 10080000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORGANIC_MATERIAL",
@@ -13,39 +29,55 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 4
+        "max": 2
       },
       {
         "resource": "WORKER",
-        "max": 87
+        "max": 88
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.6
+        "max": 0.12
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.3
+        "max": 0.1
       }
     ],
     "outputs": [
       {
         "resource": "FABRIC",
-        "max": 120
+        "max": 60
       }
     ],
     "id": "dis.textile.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 100,
     "cost": 2400000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORGANIC_MATERIAL",
-        "max": 6
+        "max": 5.2
       },
       {
         "resource": "CHEMICAL",
@@ -57,23 +89,15 @@
       },
       {
         "resource": "WORKER",
-        "max": 60
+        "max": 50
       }
     ],
     "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.2
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.1
-      }
     ],
     "outputs": [
       {
         "resource": "FABRIC",
-        "max": 26
+        "max": 20
       }
     ],
     "id": "dis.textile.industry.small",

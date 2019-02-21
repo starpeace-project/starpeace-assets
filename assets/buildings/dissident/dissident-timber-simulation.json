@@ -1,11 +1,27 @@
 [
   {
-    "budget": 1000,
     "cost": 50000000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 60
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 0
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
-        "max": 20
+        "max": 5
       },
       {
         "resource": "PROFESSIONAL",
@@ -13,17 +29,17 @@
       },
       {
         "resource": "WORKER",
-        "max": 100
+        "max": 20
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.08
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.04
       }
     ],
     "outputs": [

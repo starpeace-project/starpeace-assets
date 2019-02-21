@@ -1,11 +1,27 @@
 [
   {
-    "budget": 6000,
-    "cost": 25000000,
+    "cost": 33600000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "METAL",
-        "max": 30
+        "max": 10
       },
       {
         "resource": "ELECTRONIC_COMPONENT",
@@ -13,7 +29,11 @@
       },
       {
         "resource": "CHEMICAL",
-        "max": 12
+        "max": 10
+      },
+      {
+        "resource": "PLASTIC",
+        "max": 10
       },
       {
         "resource": "EXECUTIVE",
@@ -21,27 +41,27 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 27
+        "max": 9
       },
       {
         "resource": "WORKER",
-        "max": 109
+        "max": 110
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 1
+        "max": 1.2
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.24
       }
     ],
     "outputs": [
       {
         "resource": "COMPUTER",
-        "max": 10
+        "max": 6
       }
     ],
     "id": "dis.bm.industry",
