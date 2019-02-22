@@ -1,51 +1,83 @@
 [
   {
-    "budget": 290,
-    "cost": 19600000,
+    "cost": 70000000,
+    "construction": {
+      "duration": 50,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "RAW_CHEMICAL",
-        "max": 792
+        "max": 1000
       },
       {
         "resource": "EXECUTIVE",
-        "max": 1
+        "max": 2
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 14
+        "max": 9
       },
       {
         "resource": "WORKER",
-        "max": 42
+        "max": 190
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.8
+        "max": 1
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.6
+        "max": 0.75
       }
     ],
     "outputs": [
       {
         "resource": "CHEMICAL",
-        "max": 80
+        "max": 125
       }
     ],
     "id": "pgi.chemical.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 111,
-    "cost": 7000000,
+    "cost": 16000000,
+    "construction": {
+      "duration": 50,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "RAW_CHEMICAL",
-        "max": 400
+        "max": 320
       },
       {
         "resource": "EXECUTIVE",
@@ -53,21 +85,21 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 10
+        "max": 5
       },
       {
         "resource": "WORKER",
-        "max": 30
+        "max": 107
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.32
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.3
+        "max": 0.24
       }
     ],
     "outputs": [

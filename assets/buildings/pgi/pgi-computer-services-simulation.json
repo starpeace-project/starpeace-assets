@@ -1,7 +1,23 @@
 [
   {
-    "budget": 2000,
-    "cost": 33600000,
+    "cost": 52500000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 70
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 0
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 30
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "COMPUTER",
@@ -13,23 +29,23 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 19
+        "max": 21
       },
       {
         "resource": "WORKER",
-        "max": 15
+        "max": 16
       }
     ],
     "optional_inputs": [
       {
         "resource": "LEGAL_SERVICES",
-        "max": 1
+        "max": 0.2
       }
     ],
     "outputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 5
+        "max": 12.5
       }
     ],
     "id": "pgi.computing",

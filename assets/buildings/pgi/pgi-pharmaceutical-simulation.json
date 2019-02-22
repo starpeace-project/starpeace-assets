@@ -1,7 +1,23 @@
 [
   {
-    "budget": 133,
     "cost": 20000000,
+    "construction": {
+      "duration": 50,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",

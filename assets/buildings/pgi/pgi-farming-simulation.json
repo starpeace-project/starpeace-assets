@@ -1,15 +1,31 @@
 [
   {
-    "budget": 425,
-    "cost": 13440000,
+    "cost": 17500000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 80
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 15
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 5
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "PROFESSIONAL",
-        "max": 1
+        "max": 2
       },
       {
         "resource": "WORKER",
-        "max": 30
+        "max": 47
       }
     ],
     "optional_inputs": [
@@ -21,19 +37,31 @@
     "outputs": [
       {
         "resource": "FRESH_FOOD",
-        "max": 60
+        "max": 75
       },
       {
         "resource": "ORGANIC_MATERIAL",
-        "max": 30
+        "max": 12.5
       }
     ],
     "id": "pgi.farm",
     "type": "INDUSTRY"
   },
   {
-    "budget": 125,
-    "cost": 3200000,
+    "cost": 4000000,
+    "construction": {
+      "duration": 15,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 80
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "PROFESSIONAL",
@@ -41,23 +69,23 @@
       },
       {
         "resource": "WORKER",
-        "max": 18
+        "max": 27
       }
     ],
     "optional_inputs": [
       {
         "resource": "CHEMICAL",
-        "max": 0.25
+        "max": 0.24
       }
     ],
     "outputs": [
       {
         "resource": "FRESH_FOOD",
-        "max": 20
+        "max": 24
       },
       {
         "resource": "ORGANIC_MATERIAL",
-        "max": 10
+        "max": 4
       }
     ],
     "id": "pgi.farm.small",

@@ -1,19 +1,31 @@
 [
   {
-    "budget": 140,
-    "cost": 30800000,
+    "cost": 70000000,
+    "construction": {
+      "duration": 55,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 50
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORE",
-        "max": 495
+        "max": 600
       },
       {
         "resource": "CHEMICAL",
-        "max": 40
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 1
+        "max": 45
       },
       {
         "resource": "PROFESSIONAL",
@@ -21,43 +33,55 @@
       },
       {
         "resource": "WORKER",
-        "max": 169
+        "max": 174
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.5
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.25
       }
     ],
     "outputs": [
       {
         "resource": "METAL",
-        "max": 241
+        "max": 300
       }
     ],
     "id": "pgi.metal.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 24,
-    "cost": 11000000,
+    "cost": 16000000,
+    "construction": {
+      "duration": 55,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 50
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORE",
-        "max": 250
+        "max": 192
       },
       {
         "resource": "CHEMICAL",
-        "max": 20
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 1
+        "max": 14
       },
       {
         "resource": "PROFESSIONAL",
@@ -65,23 +89,23 @@
       },
       {
         "resource": "WORKER",
-        "max": 120
+        "max": 98
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.16
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.08
       }
     ],
     "outputs": [
       {
         "resource": "METAL",
-        "max": 120
+        "max": 96
       }
     ],
     "id": "pgi.metal.industry.small",

@@ -1,67 +1,35 @@
 [
   {
-    "budget": 200,
-    "cost": 16800000,
+    "cost": 28000000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FABRIC",
-        "max": 44
+        "max": 82
       },
       {
         "resource": "ORGANIC_MATERIAL",
-        "max": 16
+        "max": 20
       },
       {
         "resource": "CHEMICAL",
-        "max": 16
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 1
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 3
-      },
-      {
-        "resource": "WORKER",
-        "max": 113
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.8
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.4
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "CLOTHES",
-        "max": 60
-      }
-    ],
-    "id": "pgi.clothes.industry",
-    "type": "INDUSTRY"
-  },
-  {
-    "budget": 70,
-    "cost": 6000000,
-    "required_inputs": [
-      {
-        "resource": "FABRIC",
-        "max": 22
-      },
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 8
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 8
+        "max": 12
       },
       {
         "resource": "PROFESSIONAL",
@@ -69,23 +37,83 @@
       },
       {
         "resource": "WORKER",
-        "max": 80
+        "max": 126
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 1
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.5
       }
     ],
     "outputs": [
       {
         "resource": "CLOTHES",
-        "max": 30
+        "max": 75
+      }
+    ],
+    "id": "pgi.clothes.industry",
+    "type": "INDUSTRY"
+  },
+  {
+    "cost": 6400000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
+    "required_inputs": [
+      {
+        "resource": "FABRIC",
+        "max": 26
+      },
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 6
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 4
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max": 1
+      },
+      {
+        "resource": "WORKER",
+        "max": 72
+      }
+    ],
+    "optional_inputs": [
+      {
+        "resource": "COMPUTER_SERVICES",
+        "max": 0.32
+      },
+      {
+        "resource": "LEGAL_SERVICES",
+        "max": 0.16
+      }
+    ],
+    "outputs": [
+      {
+        "resource": "CLOTHES",
+        "max": 24
       }
     ],
     "id": "pgi.clothes.industry.small",

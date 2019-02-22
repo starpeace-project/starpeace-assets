@@ -1,47 +1,63 @@
 [
   {
-    "budget": 4000,
-    "cost": 28000000,
+    "cost": 70000000,
+    "construction": {
+      "duration": 60,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "METAL",
-        "max": 594
+        "max": 1500
       },
       {
         "resource": "CHEMICAL",
-        "max": 59
+        "max": 125
       },
       {
         "resource": "ELECTRONIC_COMPONENT",
-        "max": 40
+        "max": 50
       },
       {
         "resource": "EXECUTIVE",
-        "max": 1
+        "max": 2
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 14
+        "max": 8
       },
       {
         "resource": "WORKER",
-        "max": 155
+        "max": 190
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.5
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.25
       }
     ],
     "outputs": [
       {
         "resource": "MACHINERY",
-        "max": 2
+        "max": 2.5
       }
     ],
     "id": "pgi.heavy.industry",

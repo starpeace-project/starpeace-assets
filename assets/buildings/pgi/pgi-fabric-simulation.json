@@ -1,73 +1,45 @@
 [
   {
-    "budget": 100,
-    "cost": 16800000,
+    "cost": 21000000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORGANIC_MATERIAL",
-        "max": 30
+        "max": 38
       },
       {
         "resource": "CHEMICAL",
-        "max": 10
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 1
+        "max": 12
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 6
+        "max": 3
       },
       {
         "resource": "WORKER",
-        "max": 113
+        "max": 126
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.2
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "FABRIC",
-        "max": 120.599998474121
-      }
-    ],
-    "id": "pgi.textile.industry",
-    "type": "INDUSTRY"
-  },
-  {
-    "budget": 24,
-    "cost": 6000000,
-    "required_inputs": [
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 15
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 5
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 4
-      },
-      {
-        "resource": "WORKER",
-        "max": 80
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.12
       },
       {
         "resource": "LEGAL_SERVICES",
@@ -77,7 +49,55 @@
     "outputs": [
       {
         "resource": "FABRIC",
-        "max": 60
+        "max": 125
+      }
+    ],
+    "id": "pgi.textile.industry",
+    "type": "INDUSTRY"
+  },
+  {
+    "cost": 4800000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
+    "required_inputs": [
+      {
+        "resource": "ORGANIC_MATERIAL",
+        "max": 12
+      },
+      {
+        "resource": "CHEMICAL",
+        "max": 4
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max": 2
+      },
+      {
+        "resource": "WORKER",
+        "max": 72
+      }
+    ],
+    "optional_inputs": [
+    ],
+    "outputs": [
+      {
+        "resource": "FABRIC",
+        "max": 40
       }
     ],
     "id": "pgi.textile.industry.small",

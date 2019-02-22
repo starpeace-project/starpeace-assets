@@ -1,11 +1,27 @@
 [
   {
-    "budget": 100,
-    "cost": 25200000,
+    "cost": 52500000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FRESH_FOOD",
-        "max": 79
+        "max": 100
       },
       {
         "resource": "CHEMICAL",
@@ -13,43 +29,59 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 1
+        "max": 2
       },
       {
         "resource": "WORKER",
-        "max": 70
+        "max": 95
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.5
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.4
+        "max": 0.25
       }
     ],
     "outputs": [
       {
         "resource": "PROCESSED_FOOD",
-        "max": 80
+        "max": 100
       }
     ],
     "id": "pgi.food.proc",
     "type": "INDUSTRY"
   },
   {
-    "budget": 30,
-    "cost": 9000000,
+    "cost": 12000000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FRESH_FOOD",
-        "max": 40
+        "max": 32
       },
       {
         "resource": "CHEMICAL",
-        "max": 10
+        "max": 6
       },
       {
         "resource": "PROFESSIONAL",
@@ -57,23 +89,23 @@
       },
       {
         "resource": "WORKER",
-        "max": 50
+        "max": 54
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.16
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.08
       }
     ],
     "outputs": [
       {
         "resource": "PROCESSED_FOOD",
-        "max": 40
+        "max": 32
       }
     ],
     "id": "pgi.food.proc.small",

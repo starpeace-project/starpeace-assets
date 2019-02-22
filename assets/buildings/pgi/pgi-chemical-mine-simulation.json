@@ -1,7 +1,23 @@
 [
   {
-    "budget": 88,
     "cost": 17500000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
@@ -36,8 +52,24 @@
     "type": "INDUSTRY"
   },
   {
-    "budget": 16,
     "cost": 4000000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
@@ -55,11 +87,11 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.25
+        "max": 0.24
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.08
       }
     ],
     "outputs": [

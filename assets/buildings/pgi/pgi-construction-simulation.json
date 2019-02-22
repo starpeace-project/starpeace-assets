@@ -1,19 +1,39 @@
 [
   {
-    "budget": 2500,
-    "cost": 36960000,
+    "cost": 73500000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORE",
-        "max": 264
+        "max": 300
       },
       {
         "resource": "METAL",
-        "max": 55
+        "max": 62
       },
       {
         "resource": "CHEMICAL",
-        "max": 55
+        "max": 62
+      },
+      {
+        "resource": "TIMBER",
+        "max": 200
       },
       {
         "resource": "PROFESSIONAL",
@@ -21,7 +41,7 @@
       },
       {
         "resource": "WORKER",
-        "max": 222
+        "max": 237
       }
     ],
     "optional_inputs": [
@@ -31,7 +51,7 @@
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.25
       }
     ],
     "outputs": [
