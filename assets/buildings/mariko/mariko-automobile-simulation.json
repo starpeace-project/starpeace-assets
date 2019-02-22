@@ -1,11 +1,27 @@
 [
   {
-    "budget": 1400,
-    "cost": 20160000,
+    "cost": 50400000,
+    "construction": {
+      "duration": 55,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 45
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "METAL",
-        "max": 356
+        "max": 360
       },
       {
         "resource": "FABRIC",
@@ -17,7 +33,11 @@
       },
       {
         "resource": "CHEMICAL",
-        "max": 36
+        "max": 18
+      },
+      {
+        "resource": "PLASTIC",
+        "max": 18
       },
       {
         "resource": "EXECUTIVE",
@@ -25,27 +45,27 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 20
+        "max": 4
       },
       {
         "resource": "WORKER",
-        "max": 200
+        "max": 201
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 1.77999997138977
+        "max": 1.8
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.534000039100647
+        "max": 0.54
       }
     ],
     "outputs": [
       {
         "resource": "AUTOMOBILE",
-        "max": 1
+        "max": 0.54
       }
     ],
     "id": "mko.car.industry",

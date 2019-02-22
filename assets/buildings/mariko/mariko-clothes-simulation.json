@@ -1,11 +1,27 @@
 [
   {
-    "budget": 170,
-    "cost": 15120000,
+    "cost": 20160000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FABRIC",
-        "max": 39
+        "max": 59
       },
       {
         "resource": "ORGANIC_MATERIAL",
@@ -13,25 +29,25 @@
       },
       {
         "resource": "CHEMICAL",
-        "max": 14
+        "max": 9
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 3
+        "max": 1
       },
       {
         "resource": "WORKER",
-        "max": 133
+        "max": 107
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.7
+        "max": 0.72
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.3
+        "max": 0.36
       }
     ],
     "outputs": [
@@ -44,12 +60,28 @@
     "type": "INDUSTRY"
   },
   {
-    "budget": 5,
-    "cost": 3600000,
+    "cost": 4800000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FABRIC",
-        "max": 13
+        "max": 20
       },
       {
         "resource": "ORGANIC_MATERIAL",
@@ -57,25 +89,25 @@
       },
       {
         "resource": "CHEMICAL",
-        "max": 5
+        "max": 3
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 2
+        "max": 1
       },
       {
         "resource": "WORKER",
-        "max": 77
+        "max": 62
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.24
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.12
       }
     ],
     "outputs": [

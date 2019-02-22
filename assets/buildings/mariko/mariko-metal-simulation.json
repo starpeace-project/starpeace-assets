@@ -1,19 +1,31 @@
 [
   {
-    "budget": 600,
-    "cost": 27719999,
+    "cost": 50400000,
+    "construction": {
+      "duration": 55,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 50
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORE",
-        "max": 445
+        "max": 432
       },
       {
         "resource": "CHEMICAL",
-        "max": 36
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 1
+        "max": 32
       },
       {
         "resource": "PROFESSIONAL",
@@ -21,43 +33,55 @@
       },
       {
         "resource": "WORKER",
-        "max": 160
+        "max": 148
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.36
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.18
       }
     ],
     "outputs": [
       {
         "resource": "METAL",
-        "max": 218
+        "max": 216
       }
     ],
     "id": "mko.metal.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 120,
-    "cost": 6600000,
+    "cost": 12000000,
+    "construction": {
+      "duration": 55,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 50
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORE",
-        "max": 150
+        "max": 144
       },
       {
         "resource": "CHEMICAL",
-        "max": 12
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 1
+        "max": 11
       },
       {
         "resource": "PROFESSIONAL",
@@ -65,17 +89,17 @@
       },
       {
         "resource": "WORKER",
-        "max": 90
+        "max": 85
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.12
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.06
       }
     ],
     "outputs": [

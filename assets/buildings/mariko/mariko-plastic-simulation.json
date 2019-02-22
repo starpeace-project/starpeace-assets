@@ -1,7 +1,23 @@
 [
   {
-    "budget": 150,
     "cost": 20000000,
+    "construction": {
+      "duration": 55,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 50
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CRUDE_OIL",

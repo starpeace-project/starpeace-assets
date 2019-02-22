@@ -1,19 +1,39 @@
 [
   {
-    "budget": 630,
-    "cost": 22679999,
+    "cost": 45360000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "METAL",
-        "max": 64
+        "max": 60
       },
       {
         "resource": "ELECTRONIC_COMPONENT",
-        "max": 64
+        "max": 45
       },
       {
         "resource": "CHEMICAL",
-        "max": 36
+        "max": 18
+      },
+      {
+        "resource": "PLASTIC",
+        "max": 20
       },
       {
         "resource": "EXECUTIVE",
@@ -21,47 +41,67 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 13
+        "max": 5
       },
       {
         "resource": "WORKER",
-        "max": 160
+        "max": 161
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.7
+        "max": 0.72
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.4
+        "max": 0.36
       }
     ],
     "outputs": [
       {
         "resource": "APPLIANCE",
-        "max": 22
+        "max": 21.6
       }
     ],
     "id": "mko.hha.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 110,
-    "cost": 5400000,
+    "cost": 10800000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "METAL",
-        "max": 22
+        "max": 19
       },
       {
         "resource": "ELECTRONIC_COMPONENT",
-        "max": 22
+        "max": 15
       },
       {
         "resource": "CHEMICAL",
-        "max": 12
+        "max": 6
+      },
+      {
+        "resource": "PLASTIC",
+        "max": 7
       },
       {
         "resource": "EXECUTIVE",
@@ -69,7 +109,7 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 8
+        "max": 3
       },
       {
         "resource": "WORKER",
@@ -79,17 +119,17 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.24
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.12
       }
     ],
     "outputs": [
       {
         "resource": "APPLIANCE",
-        "max": 7
+        "max": 7.2
       }
     ],
     "id": "mko.hha.industry.small",

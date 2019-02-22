@@ -1,15 +1,31 @@
 [
   {
-    "budget": 74,
-    "cost": 22679999,
+    "cost": 37800000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FRESH_FOOD",
-        "max": 71
+        "max": 72
       },
       {
         "resource": "CHEMICAL",
-        "max": 18
+        "max": 14
       },
       {
         "resource": "PROFESSIONAL",
@@ -23,11 +39,11 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.36
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.4
+        "max": 0.18
       }
     ],
     "outputs": [
@@ -40,8 +56,24 @@
     "type": "INDUSTRY"
   },
   {
-    "budget": 10,
-    "cost": 5400000,
+    "cost": 9000000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FRESH_FOOD",
@@ -49,31 +81,31 @@
       },
       {
         "resource": "CHEMICAL",
-        "max": 6
+        "max": 5
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 2
+        "max": 1
       },
       {
         "resource": "WORKER",
-        "max": 50
+        "max": 46
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.1
+        "max": 0.12
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.06
       }
     ],
     "outputs": [
       {
         "resource": "PROCESSED_FOOD",
-        "max": 25
+        "max": 24
       }
     ],
     "id": "mko.food.proc.small",

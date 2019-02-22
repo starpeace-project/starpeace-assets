@@ -1,11 +1,27 @@
 [
   {
-    "budget": 176,
-    "cost": 15000000,
+    "cost": 45360000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
-        "max": 21
+        "max": 22
       },
       {
         "resource": "METAL",
@@ -13,7 +29,7 @@
       },
       {
         "resource": "EXECUTIVE",
-        "max": 3
+        "max": 1
       },
       {
         "resource": "PROFESSIONAL",
@@ -27,25 +43,41 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.5
+        "max": 0.45
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.5
+        "max": 0.54
       }
     ],
     "outputs": [
       {
         "resource": "ELECTRONIC_COMPONENT",
-        "max": 47
+        "max": 46.8
       }
     ],
     "id": "mko.elect.comp.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 10,
-    "cost": 6000000,
+    "cost": 10800000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
@@ -57,7 +89,7 @@
       },
       {
         "resource": "EXECUTIVE",
-        "max": 2
+        "max": 1
       },
       {
         "resource": "PROFESSIONAL",
@@ -71,17 +103,17 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.15
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.18
       }
     ],
     "outputs": [
       {
         "resource": "ELECTRONIC_COMPONENT",
-        "max": 15
+        "max": 15.6
       }
     ],
     "id": "mko.elect.comp.industry.small",

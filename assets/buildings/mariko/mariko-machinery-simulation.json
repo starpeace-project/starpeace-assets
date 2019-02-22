@@ -1,15 +1,31 @@
 [
   {
-    "budget": 2600,
-    "cost": 40000000,
+    "cost": 50400000,
+    "construction": {
+      "duration": 60,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "METAL",
-        "max": 1068
+        "max": 1080
       },
       {
         "resource": "CHEMICAL",
-        "max": 89
+        "max": 90
       },
       {
         "resource": "ELECTRONIC_COMPONENT",
@@ -21,27 +37,27 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 13
+        "max": 7
       },
       {
         "resource": "WORKER",
-        "max": 200
+        "max": 161
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.36
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.18
       }
     ],
     "outputs": [
       {
         "resource": "MACHINERY",
-        "max": 2
+        "max": 1.8
       }
     ],
     "id": "mko.heavy.industry",

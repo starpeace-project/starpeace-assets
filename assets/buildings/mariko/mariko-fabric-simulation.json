@@ -1,7 +1,23 @@
 [
   {
-    "budget": 200,
     "cost": 15120000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORGANIC_MATERIAL",
@@ -13,7 +29,7 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 5
+        "max": 3
       },
       {
         "resource": "WORKER",
@@ -23,25 +39,41 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.12
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.1
       }
     ],
     "outputs": [
       {
         "resource": "FABRIC",
-        "max": 110
+        "max": 90
       }
     ],
     "id": "mko.textile.industry",
     "type": "INDUSTRY"
   },
   {
-    "budget": 100,
     "cost": 3600000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORGANIC_MATERIAL",
@@ -53,7 +85,7 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 3
+        "max": 2
       },
       {
         "resource": "WORKER",
@@ -61,19 +93,11 @@
       }
     ],
     "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.1
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.1
-      }
     ],
     "outputs": [
       {
         "resource": "FABRIC",
-        "max": 37
+        "max": 30
       }
     ],
     "id": "mko.textile.industry.small",

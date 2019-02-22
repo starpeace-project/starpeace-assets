@@ -1,7 +1,23 @@
 [
   {
-    "budget": 530,
     "cost": 12600000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
@@ -13,31 +29,47 @@
       },
       {
         "resource": "WORKER",
-        "max": 133
+        "max": 134
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.5
+        "max": 0.54
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.18
       }
     ],
     "outputs": [
       {
         "resource": "ORE",
-        "max": 728
+        "max": 720
       }
     ],
     "id": "mko.mine",
     "type": "INDUSTRY"
   },
   {
-    "budget": 87,
     "cost": 3000000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
@@ -49,23 +81,23 @@
       },
       {
         "resource": "WORKER",
-        "max": 75
+        "max": 77
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.2
+        "max": 0.18
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.06
       }
     ],
     "outputs": [
       {
         "resource": "ORE",
-        "max": 255
+        "max": 240
       }
     ],
     "id": "mko.mine.small",
