@@ -1,43 +1,55 @@
 [
   {
-    "budget": 100,
-    "cost": 20000000,
+    "cost": 31500000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FRESH_FOOD",
-        "max": 150
+        "max": 60
       },
       {
         "resource": "CHEMICAL",
         "max": 12
       },
       {
-        "resource": "EXECUTIVE",
-        "max": 2
-      },
-      {
         "resource": "PROFESSIONAL",
-        "max": 7
+        "max": 1
       },
       {
         "resource": "WORKER",
-        "max": 133
+        "max": 73
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.5
+        "max": 0.3
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "max": 0.15
       }
     ],
     "outputs": [
       {
         "resource": "PROCESSED_FOOD",
-        "max": 40
+        "max": 60
       }
     ],
     "id": "moab.food.proc",

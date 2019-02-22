@@ -1,7 +1,23 @@
 [
   {
-    "budget": 1200,
     "cost": 42000000,
+    "construction": {
+      "duration": 45,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "METAL",
@@ -25,7 +41,7 @@
       },
       {
         "resource": "WORKER",
-        "max": 30
+        "max": 147
       }
     ],
     "optional_inputs": [

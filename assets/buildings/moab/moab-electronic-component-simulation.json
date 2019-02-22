@@ -1,15 +1,31 @@
 [
   {
-    "budget": 24,
-    "cost": 14000000,
+    "cost": 37800000,
+    "construction": {
+      "duration": 35,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 40
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "CHEMICAL",
-        "max": 12
+        "max": 18
       },
       {
         "resource": "METAL",
-        "max": 20
+        "max": 30
       },
       {
         "resource": "EXECUTIVE",
@@ -17,27 +33,27 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 6
+        "max": 7
       },
       {
         "resource": "WORKER",
-        "max": 80
+        "max": 98
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.3
+        "max": 0.375
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.3
+        "max": 0.45
       }
     ],
     "outputs": [
       {
         "resource": "ELECTRONIC_COMPONENT",
-        "max": 26
+        "max": 39
       }
     ],
     "id": "moab.elect.comp.industry",

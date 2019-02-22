@@ -43,11 +43,11 @@
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 10
+        "max": 0.1
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 10
+        "max": 0.1
       }
     ],
     "outputs": [

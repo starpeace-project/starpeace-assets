@@ -1,31 +1,43 @@
 [
   {
-    "budget": 32,
-    "cost": 10000000,
+    "cost": 16800000,
+    "construction": {
+      "duration": 25,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "FABRIC",
-        "max": 22
+        "max": 50
       },
       {
         "resource": "ORGANIC_MATERIAL",
-        "max": 8
+        "max": 12
       },
       {
         "resource": "CHEMICAL",
         "max": 8
       },
       {
-        "resource": "EXECUTIVE",
+        "resource": "PROFESSIONAL",
         "max": 1
       },
       {
-        "resource": "PROFESSIONAL",
-        "max": 20
-      },
-      {
         "resource": "WORKER",
-        "max": 100
+        "max": 98
       }
     ],
     "optional_inputs": [
@@ -35,13 +47,13 @@
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.5
+        "max": 0.3
       }
     ],
     "outputs": [
       {
         "resource": "CLOTHES",
-        "max": 50
+        "max": 45
       }
     ],
     "id": "moab.clothes.industry",

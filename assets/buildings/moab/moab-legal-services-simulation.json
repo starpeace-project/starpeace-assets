@@ -1,31 +1,47 @@
 [
   {
-    "budget": 1500,
-    "cost": 10000000,
+    "cost": 25200000,
+    "construction": {
+      "duration": 30,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 80
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 0
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 20
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "EXECUTIVE",
-        "max": 7
+        "max": 2
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 33
+        "max": 6
       },
       {
         "resource": "WORKER",
-        "max": 5
+        "max": 12
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 1
+        "max": 0.7
       }
     ],
     "outputs": [
       {
         "resource": "LEGAL_SERVICES",
-        "max": 11
+        "max": 4.5
       }
     ],
     "id": "moab.legal.services",

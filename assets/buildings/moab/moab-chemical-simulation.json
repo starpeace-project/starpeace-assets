@@ -1,11 +1,27 @@
 [
   {
-    "budget": 100,
-    "cost": 40000000,
+    "cost": 42000000,
+    "construction": {
+      "duration": 45,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 50
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 10
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "RAW_CHEMICAL",
-        "max": 400
+        "max": 600
       },
       {
         "resource": "EXECUTIVE",
@@ -13,27 +29,27 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 10
+        "max": 7
       },
       {
         "resource": "WORKER",
-        "max": 120
+        "max": 147
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.6
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.3
+        "max": 0.45
       }
     ],
     "outputs": [
       {
         "resource": "CHEMICAL",
-        "max": 40
+        "max": 75
       }
     ],
     "id": "moab.chemical.industry",

@@ -1,43 +1,63 @@
 [
   {
-    "budget": 800,
-    "cost": 15400000,
+    "cost": 44100000,
+    "construction": {
+      "duration": 40,
+      "cost": [
+        {
+          "resource": "CONSTRUCTION",
+          "max": 45
+        },
+        {
+          "resource": "MACHINERY",
+          "max": 40
+        },
+        {
+          "resource": "COMPUTER",
+          "max": 15
+        }
+      ]
+    },
     "required_inputs": [
       {
         "resource": "ORE",
-        "max": 120
+        "max": 180
       },
       {
         "resource": "METAL",
-        "max": 25
+        "max": 38
       },
       {
         "resource": "CHEMICAL",
-        "max": 25
+        "max": 38
+      },
+      {
+        "resource": "TIMBER",
+        "max": 200
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 4
+        "max": 6
       },
       {
         "resource": "WORKER",
-        "max": 150
+        "max": 184
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.4
+        "max": 0.6
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.1
+        "max": 0.15
       }
     ],
     "outputs": [
       {
         "resource": "CONSTRUCTION",
-        "max": 20
+        "max": 30
       }
     ],
     "id": "moab.construction.industry",
