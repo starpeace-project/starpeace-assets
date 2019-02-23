@@ -48,7 +48,7 @@
         "max": 720
       }
     ],
-    "id": "mko.mine",
+    "id": "mko.mine.silicon",
     "type": "INDUSTRY"
   },
   {
@@ -100,7 +100,7 @@
         "max": 240
       }
     ],
-    "id": "mko.mine.small",
+    "id": "mko.mine.silicon.small",
     "type": "INDUSTRY"
   }
 ]

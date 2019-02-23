@@ -1,6 +1,6 @@
 [
   {
-    "id": "mko.mine",
+    "id": "mko.mine.ore",
     "image_id": "mko.mine",
     "sign_id": "iron",
     "construction_image_id": "generic.construction.5",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "mko.mine.small",
+    "id": "mko.mine.ore.small",
     "image_id": "mko.mine.small",
     "construction_image_id": "generic.construction.5",
     "name": {

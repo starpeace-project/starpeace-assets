@@ -80,6 +80,13 @@ exports = module.exports = class AuditBuilding
 
       process.stdout.write '\n'
 
+      simulation_definitions_with_unknown_definitions = _.filter(simulation_definitions, (definition) -> !definitions_by_id[definition.id]?)
+      if simulation_definitions_with_unknown_definitions.length
+        console.log " [ERROR] building simulation definition #{definition.id} has unknown definition reference" for definition in simulation_definitions_with_unknown_definitions
+        throw "found #{simulation_definitions_with_unknown_definitions.length} building simulation definitions with unknown definition references"
+      else
+        console.log " [OK] all building simulation definitions have valid definition references"
+
       simulation_definitions_with_unknown_resources = _.filter(simulation_definitions, (definition) ->
         _.find(_.union(definition.required_inputs, definition.optional_inputs, definition.storage, definition.outputs),
           (quantity) -> !audit_data.industry.resource_types_by_id[quantity.resource]?)?
