@@ -1,0 +1,44 @@
+[
+  {
+    "id": "dis.mine.coal",
+    "image_id": "dis.mine",
+    "sign_id": "coal",
+    "construction_image_id": "generic.construction.5",
+    "name": {
+      "DE": "Kohlenmine",
+      "EN": "Coal Mine",
+      "ES": "Mina de Carbón",
+      "FR": "Mine de Charbon",
+      "IT": "Miniera di Carbone",
+      "PT": "Mina de Carvão"
+    },
+    "seal_id": "DIS",
+    "zone": "INDUSTRIAL",
+    "category": "INDUSTRY",
+    "industry_type": "COAL",
+    "required_inventions": [
+      "LSMining"
+    ]
+  },
+  {
+    "id": "dis.mine.coal.small",
+    "image_id": "dis.mine.small",
+    "sign_id": "coal",
+    "construction_image_id": "generic.construction.5",
+    "name": {
+      "DE": "Kleine Kohlenmine",
+      "EN": "Small Coal Mine",
+      "ES": "Pequeña Mina de Carbón",
+      "FR": "Petite Mine de Charbon",
+      "IT": "Piccola Miniera di Carbone",
+      "PT": "Mina de Carvão Pequena"
+    },
+    "seal_id": "DIS",
+    "zone": "INDUSTRIAL",
+    "category": "INDUSTRY",
+    "industry_type": "COAL",
+    "required_inventions": [
+      "Mining"
+    ]
+  }
+]

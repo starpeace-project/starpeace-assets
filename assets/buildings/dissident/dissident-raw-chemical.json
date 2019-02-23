@@ -1,0 +1,44 @@
+[
+  {
+    "id": "dis.mine.chemical",
+    "image_id": "dis.mine",
+    "sign_id": "chemical",
+    "construction_image_id": "generic.construction.5",
+    "name": {
+      "DE": "Chemische Mine",
+      "EN": "Chemical Mine",
+      "ES": "Mina Quimica",
+      "FR": "Mine Chimique",
+      "IT": "Miniera Chimica",
+      "PT": "Mina Química"
+    },
+    "seal_id": "DIS",
+    "zone": "INDUSTRIAL",
+    "category": "INDUSTRY",
+    "industry_type": "RAW_CHEMICAL",
+    "required_inventions": [
+      "LSMining"
+    ]
+  },
+  {
+    "id": "dis.mine.chemical.small",
+    "image_id": "dis.mine.small",
+    "sign_id": "chemical",
+    "construction_image_id": "generic.construction.5",
+    "name": {
+      "DE": "Kleine Chemische Mine",
+      "EN": "Small Chemical Mine",
+      "ES": "Pequeña Mina Química",
+      "FR": "Petite Mine Chimique",
+      "IT": "Piccola Miniera Chimica",
+      "PT": "Mina Química Pequena"
+    },
+    "seal_id": "DIS",
+    "zone": "INDUSTRIAL",
+    "category": "INDUSTRY",
+    "industry_type": "RAW_CHEMICAL",
+    "required_inventions": [
+      "Mining"
+    ]
+  }
+]

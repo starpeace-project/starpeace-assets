@@ -1,15 +1,16 @@
 [
   {
-    "id": "dis.mine",
+    "id": "dis.mine.ore",
     "image_id": "dis.mine",
+    "sign_id": "iron",
     "construction_image_id": "generic.construction.5",
     "name": {
-      "DE": "Erz mein",
+      "DE": "Erzmine",
       "EN": "Ore Mine",
-      "ES": "Mina de mineral",
-      "FR": "Mine de minerai",
+      "ES": "Mina de Mineral",
+      "FR": "Mine de Minerai",
       "IT": "Minerale",
-      "PT": "Mina De Minério"
+      "PT": "Mina de Minério"
     },
     "seal_id": "DIS",
     "zone": "INDUSTRIAL",
@@ -20,16 +21,17 @@
     ]
   },
   {
-    "id": "dis.mine.small",
+    "id": "dis.mine.ore.small",
     "image_id": "dis.mine.small",
+    "sign_id": "iron",
     "construction_image_id": "generic.construction.5",
     "name": {
       "DE": "Kleine Erzmine",
       "EN": "Small Ore Mine",
-      "ES": "Pequeña mina de mineral",
-      "FR": "Petite mine de minerai",
-      "IT": "Piccola miniera di minerali",
-      "PT": "Mina de minério pequena"
+      "ES": "Pequeña Mina de Mineral",
+      "FR": "Petite Mine de Minerai",
+      "IT": "Piccola Miniera di Minerali",
+      "PT": "Mina de Minério Pequena"
     },
     "seal_id": "DIS",
     "zone": "INDUSTRIAL",

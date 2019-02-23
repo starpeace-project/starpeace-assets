@@ -44,11 +44,11 @@
     ],
     "outputs": [
       {
-        "resource": "ORE",
+        "resource": "SILICON",
         "max": 480
       }
     ],
-    "id": "dis.mine.ore",
+    "id": "dis.mine.silicon",
     "type": "INDUSTRY"
   },
   {
@@ -96,11 +96,11 @@
     ],
     "outputs": [
       {
-        "resource": "ORE",
+        "resource": "SILICON",
         "max": 160
       }
     ],
-    "id": "dis.mine.ore.small",
+    "id": "dis.mine.silicon.small",
     "type": "INDUSTRY"
   }
 ]
