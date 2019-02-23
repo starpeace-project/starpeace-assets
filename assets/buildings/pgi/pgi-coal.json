@@ -1,9 +1,9 @@
 [
   {
-    "id": "dis.mine.coal",
-    "image_id": "dis.mine",
+    "id": "pgi.mine.coal",
+    "image_id": "pgi.mine",
     "sign_id": "coal",
-    "construction_image_id": "generic.construction.5",
+    "construction_image_id": "generic.construction.3",
     "name": {
       "DE": "Kohlenmine",
       "EN": "Coal Mine",
@@ -12,7 +12,7 @@
       "IT": "Miniera di Carbone",
       "PT": "Mina de Carvão"
     },
-    "seal_id": "DIS",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "COAL",
@@ -21,10 +21,10 @@
     ]
   },
   {
-    "id": "dis.mine.coal.small",
-    "image_id": "dis.mine.small",
+    "id": "pgi.mine.coal.small",
+    "image_id": "pgi.mine.small",
     "sign_id": "coal",
-    "construction_image_id": "generic.construction.5",
+    "construction_image_id": "generic.construction.3",
     "name": {
       "DE": "Kleine Kohlenmine",
       "EN": "Small Coal Mine",
@@ -33,7 +33,7 @@
       "IT": "Piccola Miniera di Carbone",
       "PT": "Mina de Carvão Pequena"
     },
-    "seal_id": "DIS",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "COAL",

@@ -14,9 +14,9 @@ FileUtils = require('../utils/file-utils')
 
 
 exports = module.exports = class AuditBuilding
-  @EXPECTED_DEFINITION_COUNT: 296
+  @EXPECTED_DEFINITION_COUNT: 324
   @EXPECTED_IMAGE_DEFINITION_COUNT: 417
-  @EXPECTED_SIMULATION_DEFINITION_COUNT: 105
+  @EXPECTED_SIMULATION_DEFINITION_COUNT: 133
 
   @audit: (root_dir) -> (audit_data) -> new Promise (resolve, reject) ->
     try

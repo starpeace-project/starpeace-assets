@@ -44,11 +44,11 @@
     ],
     "outputs": [
       {
-        "resource": "RAW_CHEMICAL",
+        "resource": "STONE",
         "max": 1000
       }
     ],
-    "id": "pgi.mine",
+    "id": "pgi.mine.stone",
     "type": "INDUSTRY"
   },
   {
@@ -96,11 +96,11 @@
     ],
     "outputs": [
       {
-        "resource": "RAW_CHEMICAL",
+        "resource": "STONE",
         "max": 320
       }
     ],
-    "id": "pgi.mine.small",
+    "id": "pgi.mine.stone.small",
     "type": "INDUSTRY"
   }
 ]

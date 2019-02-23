@@ -1,9 +1,9 @@
 [
   {
-    "id": "dis.mine.silicon",
-    "image_id": "dis.mine",
+    "id": "pgi.mine.silicon",
+    "image_id": "pgi.mine",
     "sign_id": "silicon",
-    "construction_image_id": "generic.construction.5",
+    "construction_image_id": "generic.construction.3",
     "name": {
       "DE": "Siliziummine",
       "EN": "Silicon Mine",
@@ -12,7 +12,7 @@
       "IT": "Miniera di Silicio",
       "PT": "Mina De Silício"
     },
-    "seal_id": "DIS",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "SILICON",
@@ -21,10 +21,10 @@
     ]
   },
   {
-    "id": "dis.mine.silicon.small",
-    "image_id": "dis.mine.small",
+    "id": "pgi.mine.silicon.small",
+    "image_id": "pgi.mine.small",
     "sign_id": "silicon",
-    "construction_image_id": "generic.construction.5",
+    "construction_image_id": "generic.construction.3",
     "name": {
       "DE": "Kleine Siliziummine",
       "EN": "Small Silicon Mine",
@@ -33,7 +33,7 @@
       "IT": "Piccola Miniera di Silicio",
       "PT": "Mina de Silício Pequena"
     },
-    "seal_id": "DIS",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "SILICON",

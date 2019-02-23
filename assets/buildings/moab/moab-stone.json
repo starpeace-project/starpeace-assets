@@ -1,0 +1,23 @@
+[
+  {
+    "id": "moab.mine.stone",
+    "image_id": "moab.mine",
+    "sign_id": "stone",
+    "construction_image_id": "generic.construction.6",
+    "name": {
+      "DE": "Steinbergwerk",
+      "EN": "Stone Mine",
+      "ES": "Mina de Piedra",
+      "FR": "Mine de Pierre",
+      "IT": "Miniera di Pietra",
+      "PT": "Mina de Pedra"
+    },
+    "seal_id": "MOAB",
+    "zone": "INDUSTRIAL",
+    "category": "INDUSTRY",
+    "industry_type": "STONE",
+    "required_inventions": [
+      "SiliconMining"
+    ]
+  }
+]

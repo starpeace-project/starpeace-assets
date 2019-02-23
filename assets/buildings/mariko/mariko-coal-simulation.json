@@ -44,11 +44,11 @@
     ],
     "outputs": [
       {
-        "resource": "ORE",
+        "resource": "COAL",
         "max": 720
       }
     ],
-    "id": "mko.mine.ore",
+    "id": "mko.mine.coal",
     "type": "INDUSTRY"
   },
   {
@@ -96,11 +96,11 @@
     ],
     "outputs": [
       {
-        "resource": "ORE",
+        "resource": "COAL",
         "max": 240
       }
     ],
-    "id": "mko.mine.ore.small",
+    "id": "mko.mine.coal.small",
     "type": "INDUSTRY"
   }
 ]

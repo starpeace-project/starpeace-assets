@@ -1,40 +1,42 @@
 [
   {
-    "id": "pgi.mine",
+    "id": "pgi.mine.chemical",
     "image_id": "pgi.mine",
+    "sign_id": "chemical",
     "construction_image_id": "generic.construction.3",
     "name": {
       "DE": "Chemische Mine",
       "EN": "Chemical Mine",
-      "ES": "Mina quimica",
-      "FR": "Mine chimique",
-      "IT": "Miniera chimica",
+      "ES": "Mina Quimica",
+      "FR": "Mine Chimique",
+      "IT": "Miniera Chimica",
       "PT": "Mina Química"
     },
     "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
-    "industry_type": "CHEMICAL",
+    "industry_type": "RAW_CHEMICAL",
     "required_inventions": [
       "ChemLSMining"
     ]
   },
   {
-    "id": "pgi.mine.small",
+    "id": "pgi.mine.chemical.small",
     "image_id": "pgi.mine.small",
+    "sign_id": "chemical",
     "construction_image_id": "generic.construction.3",
     "name": {
       "DE": "Kleine Chemische Mine",
       "EN": "Small Chemical Mine",
-      "ES": "Pequeña mina química",
-      "FR": "Petite mine chimique",
-      "IT": "Piccola miniera chimica",
+      "ES": "Pequeña Mina Química",
+      "FR": "Petite Mine Chimique",
+      "IT": "Piccola Miniera Chimica",
       "PT": "Mina Química Pequena"
     },
     "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
-    "industry_type": "CHEMICAL",
+    "industry_type": "RAW_CHEMICAL",
     "required_inventions": [
       "ChemMining"
     ]

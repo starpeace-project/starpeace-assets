@@ -48,7 +48,7 @@
         "max": 720
       }
     ],
-    "id": "mko.mine.ore",
+    "id": "mko.mine",
     "type": "INDUSTRY"
   },
   {
@@ -100,7 +100,7 @@
         "max": 240
       }
     ],
-    "id": "mko.mine.ore.small",
+    "id": "mko.mine.small",
     "type": "INDUSTRY"
   }
 ]

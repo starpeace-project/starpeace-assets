@@ -44,11 +44,11 @@
     ],
     "outputs": [
       {
-        "resource": "ORE",
+        "resource": "STONE",
         "max": 720
       }
     ],
-    "id": "mko.mine.ore",
+    "id": "mko.mine.stone",
     "type": "INDUSTRY"
   },
   {
@@ -96,11 +96,11 @@
     ],
     "outputs": [
       {
-        "resource": "ORE",
+        "resource": "STONE",
         "max": 240
       }
     ],
-    "id": "mko.mine.ore.small",
+    "id": "mko.mine.stone.small",
     "type": "INDUSTRY"
   }
 ]

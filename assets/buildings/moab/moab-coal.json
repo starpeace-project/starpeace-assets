@@ -1,0 +1,23 @@
+[
+  {
+    "id": "moab.mine.coal",
+    "image_id": "moab.mine",
+    "sign_id": "coal",
+    "construction_image_id": "generic.construction.6",
+    "name": {
+      "DE": "Kohlenmine",
+      "EN": "Coal Mine",
+      "ES": "Mina de Carbón",
+      "FR": "Mine de Charbon",
+      "IT": "Miniera di Carbone",
+      "PT": "Mina de Carvão"
+    },
+    "seal_id": "MOAB",
+    "zone": "INDUSTRIAL",
+    "category": "INDUSTRY",
+    "industry_type": "COAL",
+    "required_inventions": [
+      "CoalMining"
+    ]
+  }
+]

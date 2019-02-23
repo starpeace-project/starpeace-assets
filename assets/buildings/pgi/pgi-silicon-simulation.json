@@ -1,6 +1,6 @@
 [
   {
-    "cost": 12600000,
+    "cost": 17500000,
     "construction": {
       "duration": 35,
       "cost": [
@@ -21,38 +21,38 @@
     "required_inputs": [
       {
         "resource": "CHEMICAL",
-        "max": 14
+        "max": 20
       },
       {
         "resource": "PROFESSIONAL",
-        "max": 1
+        "max": 2
       },
       {
         "resource": "WORKER",
-        "max": 134
+        "max": 158
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.54
+        "max": 0.75
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.18
+        "max": 0.25
       }
     ],
     "outputs": [
       {
-        "resource": "ORE",
-        "max": 720
+        "resource": "SILICON",
+        "max": 1000
       }
     ],
-    "id": "mko.mine.ore",
+    "id": "pgi.mine.silicon",
     "type": "INDUSTRY"
   },
   {
-    "cost": 3000000,
+    "cost": 4000000,
     "construction": {
       "duration": 35,
       "cost": [
@@ -73,7 +73,7 @@
     "required_inputs": [
       {
         "resource": "CHEMICAL",
-        "max": 5
+        "max": 6
       },
       {
         "resource": "PROFESSIONAL",
@@ -81,26 +81,26 @@
       },
       {
         "resource": "WORKER",
-        "max": 77
+        "max": 89
       }
     ],
     "optional_inputs": [
       {
         "resource": "COMPUTER_SERVICES",
-        "max": 0.18
+        "max": 0.24
       },
       {
         "resource": "LEGAL_SERVICES",
-        "max": 0.06
+        "max": 0.08
       }
     ],
     "outputs": [
       {
-        "resource": "ORE",
-        "max": 240
+        "resource": "SILICON",
+        "max": 320
       }
     ],
-    "id": "mko.mine.ore.small",
+    "id": "pgi.mine.silicon.small",
     "type": "INDUSTRY"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "id": "dis.mine.chemical",
-    "image_id": "dis.mine",
+    "id": "mko.mine.chemical",
+    "image_id": "mko.mine",
     "sign_id": "chemical",
     "construction_image_id": "generic.construction.5",
     "name": {
@@ -12,7 +12,7 @@
       "IT": "Miniera Chimica",
       "PT": "Mina Química"
     },
-    "seal_id": "DIS",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "RAW_CHEMICAL",
@@ -21,8 +21,8 @@
     ]
   },
   {
-    "id": "dis.mine.chemical.small",
-    "image_id": "dis.mine.small",
+    "id": "mko.mine.chemical.small",
+    "image_id": "mko.mine.small",
     "sign_id": "chemical",
     "construction_image_id": "generic.construction.5",
     "name": {
@@ -33,7 +33,7 @@
       "IT": "Piccola Miniera Chimica",
       "PT": "Mina Química Pequena"
     },
-    "seal_id": "DIS",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "RAW_CHEMICAL",

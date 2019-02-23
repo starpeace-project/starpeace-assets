@@ -1,9 +1,9 @@
 [
   {
-    "id": "mko.mine",
-    "image_id": "mko.mine",
+    "id": "pgi.mine.ore",
+    "image_id": "pgi.mine",
     "sign_id": "iron",
-    "construction_image_id": "generic.construction.5",
+    "construction_image_id": "generic.construction.3",
     "name": {
       "DE": "Erzmine",
       "EN": "Ore Mine",
@@ -12,7 +12,7 @@
       "IT": "Minerale",
       "PT": "Mina de Minério"
     },
-    "seal_id": "MKO",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "ORE",
@@ -21,9 +21,10 @@
     ]
   },
   {
-    "id": "mko.mine.small",
-    "image_id": "mko.mine.small",
-    "construction_image_id": "generic.construction.5",
+    "id": "pgi.mine.ore.small",
+    "image_id": "pgi.mine.small",
+    "sign_id": "iron",
+    "construction_image_id": "generic.construction.3",
     "name": {
       "DE": "Kleine Erzmine",
       "EN": "Small Ore Mine",
@@ -32,7 +33,7 @@
       "IT": "Piccola Miniera di Minerali",
       "PT": "Mina de Minério Pequena"
     },
-    "seal_id": "MKO",
+    "seal_id": "PGI",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "ORE",

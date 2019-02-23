@@ -1,0 +1,23 @@
+[
+  {
+    "id": "moab.mine.ore",
+    "image_id": "moab.mine",
+    "sign_id": "iron",
+    "construction_image_id": "generic.construction.6",
+    "name": {
+      "DE": "Erzmine",
+      "EN": "Ore Mine",
+      "ES": "Mina de Mineral",
+      "FR": "Mine de Minerai",
+      "IT": "Minerale",
+      "PT": "Mina de Minério"
+    },
+    "seal_id": "MOAB",
+    "zone": "INDUSTRIAL",
+    "category": "INDUSTRY",
+    "industry_type": "ORE",
+    "required_inventions": [
+      "Mining"
+    ]
+  }
+]

@@ -44,11 +44,11 @@
     ],
     "outputs": [
       {
-        "resource": "RAW_CHEMICAL",
+        "resource": "ORE",
         "max": 600
       }
     ],
-    "id": "moab.mine",
+    "id": "moab.mine.ore",
     "type": "INDUSTRY"
   }
 ]

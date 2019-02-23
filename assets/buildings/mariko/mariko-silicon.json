@@ -1,7 +1,7 @@
 [
   {
-    "id": "dis.mine.silicon",
-    "image_id": "dis.mine",
+    "id": "mko.mine.silicon",
+    "image_id": "mko.mine",
     "sign_id": "silicon",
     "construction_image_id": "generic.construction.5",
     "name": {
@@ -12,7 +12,7 @@
       "IT": "Miniera di Silicio",
       "PT": "Mina De Silício"
     },
-    "seal_id": "DIS",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "SILICON",
@@ -21,8 +21,8 @@
     ]
   },
   {
-    "id": "dis.mine.silicon.small",
-    "image_id": "dis.mine.small",
+    "id": "mko.mine.silicon.small",
+    "image_id": "mko.mine.small",
     "sign_id": "silicon",
     "construction_image_id": "generic.construction.5",
     "name": {
@@ -33,7 +33,7 @@
       "IT": "Piccola Miniera di Silicio",
       "PT": "Mina de Silício Pequena"
     },
-    "seal_id": "DIS",
+    "seal_id": "MKO",
     "zone": "INDUSTRIAL",
     "category": "INDUSTRY",
     "industry_type": "SILICON",
