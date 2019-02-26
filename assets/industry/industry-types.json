@@ -209,6 +209,17 @@
     }
   },
   {
+    "id": "FOOD",
+    "label": {
+      "DE": "Essen",
+      "EN": "Food",
+      "ES": "Comida",
+      "FR": "Aliments",
+      "IT": "Cibo",
+      "PT": "Comida"
+    }
+  },
+  {
     "id": "FUNERAL_SERVICES",
     "label": {
       "DE": "Bestattungsinstitut",

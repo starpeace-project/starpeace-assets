@@ -1,0 +1,196 @@
+[
+  {
+    "id": "dis.restaurant.a",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 2700,
+        "max_velocity": 135
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 37.5,
+        "max_velocity": 1.875
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 1,
+        "weight_efficiency": 20,
+        "weight_quality": 15
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 20,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 150,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 0.16,
+        "weight_efficiency": 5,
+        "weight_quality": 10
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 0.08,
+        "weight_efficiency": 5,
+        "weight_quality": 10
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 5,
+            "weight_efficiency": 20,
+            "weight_quality": 50
+          },
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 3,
+            "weight_efficiency": 20,
+            "weight_quality": 50
+          },
+          {
+            "resource": "LIQUOR",
+            "max_velocity": 2,
+            "weight_efficiency": 20,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "RESTAURANT_SERVICE",
+            "max_velocity": 10,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 20.833333333333333333333333333333,
+                "probability": 0.7
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 41.666666666666666666666666666667,
+                "probability": 0.8
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 125,
+                "probability": 0.8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dis.restaurant.b",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 9000,
+        "max_velocity": 300
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 125,
+        "max_velocity": 4.1666666666666666666666666666667
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 2,
+        "weight_efficiency": 20,
+        "weight_quality": 15
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 35,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 250,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 0.32,
+        "weight_efficiency": 5,
+        "weight_quality": 10
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 0.16,
+        "weight_efficiency": 5,
+        "weight_quality": 10
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 12,
+            "weight_efficiency": 20,
+            "weight_quality": 50
+          },
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 8,
+            "weight_efficiency": 20,
+            "weight_quality": 50
+          },
+          {
+            "resource": "LIQUOR",
+            "max_velocity": 5,
+            "weight_efficiency": 20,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "RESTAURANT_SERVICE",
+            "max_velocity": 25,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 20.833333333333333333333333333333,
+                "probability": 0.7
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 41.666666666666666666666666666667,
+                "probability": 0.8
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 125,
+                "probability": 0.8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

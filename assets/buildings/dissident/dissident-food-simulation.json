@@ -1,0 +1,114 @@
+[
+  {
+    "id": "dis.food.store",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 360,
+        "max_velocity": 24
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 5,
+        "max_velocity": 0.33333333333333333333333333333333
+      }
+    ],
+    "labor": [
+      {
+        "resource": "WORKER",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 10
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 120,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 0.16,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 0.08,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 20,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 20,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.6
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.6
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 20,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 20,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.6
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.6
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
