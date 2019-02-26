@@ -37,13 +37,13 @@
       },
       {
         "resource": "COMPUTER_SERVICE",
-        "max_velocity": 1,
+        "max_velocity": 0.16,
         "weight_efficiency": 5,
         "weight_quality": 10
       },
       {
         "resource": "LEGAL_SERVICE",
-        "max_velocity": 1,
+        "max_velocity": 0.08,
         "weight_efficiency": 5,
         "weight_quality": 10
       }
