@@ -1,70 +1,98 @@
 [
   {
-    "cost": 50000000,
-    "construction": {
-      "duration": 50,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 50
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 10
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "PAPER",
-        "max": 60
-      },
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 10
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 20
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 1
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 6
-      },
-      {
-        "resource": "WORKER",
-        "max": 100
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.2
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.1
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "BOOK",
-        "max": 100
-      },
-      {
-        "resource": "PRINTED_MATERIAL",
-        "max": 50
-      }
-    ],
     "id": "pgi.printing.plant",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 200000,
+        "max_velocity": 4000
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 3125,
+        "max_velocity": 62.5
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 6250,
+        "max_velocity": 125
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 6,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 100,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "PAPER",
+            "max_velocity": 60,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 10,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 20,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "BOOK",
+            "max_velocity": 100,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PRINTED_MATERIAL",
+            "max_velocity": 50,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -1,114 +1,158 @@
 [
   {
-    "cost": 52500000,
-    "construction": {
-      "duration": 40,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 20
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "FRESH_FOOD",
-        "max": 100
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 20
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 2
-      },
-      {
-        "resource": "WORKER",
-        "max": 95
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.5
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.25
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "PROCESSED_FOOD",
-        "max": 100
-      }
-    ],
     "id": "pgi.food.proc",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 210000,
+        "max_velocity": 5250
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 2625,
+        "max_velocity": 65.625
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 13125,
+        "max_velocity": 328.125
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 95,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.5,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.25,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 100,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 20,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 100,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   },
   {
-    "cost": 12000000,
-    "construction": {
-      "duration": 40,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 20
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "FRESH_FOOD",
-        "max": 32
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 6
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 1
-      },
-      {
-        "resource": "WORKER",
-        "max": 54
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.16
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.08
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "PROCESSED_FOOD",
-        "max": 32
-      }
-    ],
     "id": "pgi.food.proc.small",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 48000,
+        "max_velocity": 1200
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 600,
+        "max_velocity": 15
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 3000,
+        "max_velocity": 75
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 54,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.16,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.08,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 32,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 6,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 32,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

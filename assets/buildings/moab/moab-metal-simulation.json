@@ -1,58 +1,80 @@
 [
   {
-    "cost": 42000000,
-    "construction": {
-      "duration": 45,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 50
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 15
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "ORE",
-        "max": 360
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 27
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 2
-      },
-      {
-        "resource": "WORKER",
-        "max": 135
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.3
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.15
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "METAL",
-        "max": 180
-      }
-    ],
     "id": "moab.metal.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 168000,
+        "max_velocity": 3733.3333333333335
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 2625,
+        "max_velocity": 58.333333333333336
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 7875,
+        "max_velocity": 175
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 135,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.3,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.15,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "ORE",
+            "max_velocity": 360,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 27,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "METAL",
+            "max_velocity": 180,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

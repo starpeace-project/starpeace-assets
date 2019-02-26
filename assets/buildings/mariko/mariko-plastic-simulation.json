@@ -1,58 +1,80 @@
 [
   {
-    "cost": 20000000,
-    "construction": {
-      "duration": 55,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 50
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 10
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "CRUDE_OIL",
-        "max": 600
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 20
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 3
-      },
-      {
-        "resource": "WORKER",
-        "max": 100
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.36
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.18
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "PLASTIC",
-        "max": 216
-      }
-    ],
     "id": "mko.plastic.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 80000,
+        "max_velocity": 1454.5454545454545
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 1250,
+        "max_velocity": 22.727272727272727
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 2500,
+        "max_velocity": 45.45454545454545
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 3,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 100,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.36,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.18,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "CRUDE_OIL",
+            "max_velocity": 600,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 20,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "PLASTIC",
+            "max_velocity": 216,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

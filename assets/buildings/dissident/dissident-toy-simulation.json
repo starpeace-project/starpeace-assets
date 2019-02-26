@@ -1,66 +1,92 @@
 [
   {
-    "cost": 30000000,
-    "construction": {
-      "duration": 35,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 45
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 15
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 6
-      },
-      {
-        "resource": "PLASTIC",
-        "max": 21
-      },
-      {
-        "resource": "ELECTRONIC_COMPONENT",
-        "max": 12
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 2
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 5
-      },
-      {
-        "resource": "WORKER",
-        "max": 120
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 1.44
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.72
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "TOY",
-        "max": 48
-      }
-    ],
     "id": "dis.toy.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 135000,
+        "max_velocity": 3857.1428571428573
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 1500,
+        "max_velocity": 42.857142857142854
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 5625,
+        "max_velocity": 160.71428571428572
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 5,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 120,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 1.44,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.72,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 6,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PLASTIC",
+            "max_velocity": 21,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "ELECTRONIC_COMPONENT",
+            "max_velocity": 12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "TOY",
+            "max_velocity": 48,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

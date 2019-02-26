@@ -1,50 +1,62 @@
 [
   {
-    "cost": 25200000,
-    "construction": {
-      "duration": 30,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 80
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 0
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 20
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "EXECUTIVE",
-        "max": 2
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 6
-      },
-      {
-        "resource": "WORKER",
-        "max": 12
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.7
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 4.5
-      }
-    ],
     "id": "moab.legal.services",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 201600,
+        "max_velocity": 6720
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 6300,
+        "max_velocity": 210
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 6,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.7,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 4.5,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

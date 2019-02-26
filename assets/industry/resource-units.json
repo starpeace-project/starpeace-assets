@@ -1,5 +1,16 @@
 [
   {
+    "id": "CUSTOMER",
+    "label_plural": {
+      "DE": "kunden",
+      "EN": "customers",
+      "ES": "clientes",
+      "FR": "clients",
+      "IT": "clienti",
+      "PT": "clientes"
+    }
+  },
+  {
     "id": "HOUR",
     "label_plural": {
       "DE": "std",

@@ -1,114 +1,158 @@
 [
   {
-    "cost": 33600000,
-    "construction": {
-      "duration": 45,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 50
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 10
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "ORE",
-        "max": 288
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 21
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 2
-      },
-      {
-        "resource": "WORKER",
-        "max": 120
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.2
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.12
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "METAL",
-        "max": 144
-      }
-    ],
     "id": "dis.metal.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 134400,
+        "max_velocity": 2986.6666666666665
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 2100,
+        "max_velocity": 46.666666666666664
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 4200,
+        "max_velocity": 93.33333333333333
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 120,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "ORE",
+            "max_velocity": 288,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 21,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "METAL",
+            "max_velocity": 144,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   },
   {
-    "cost": 8000000,
-    "construction": {
-      "duration": 45,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 50
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 10
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "ORE",
-        "max": 96
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 7
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 1
-      },
-      {
-        "resource": "WORKER",
-        "max": 70
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.08
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.04
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "METAL",
-        "max": 48
-      }
-    ],
     "id": "dis.metal.industry.small",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 32000,
+        "max_velocity": 711.1111111111111
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 500,
+        "max_velocity": 11.11111111111111
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 1000,
+        "max_velocity": 22.22222222222222
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 70,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.08,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.04,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "ORE",
+            "max_velocity": 96,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 7,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "METAL",
+            "max_velocity": 48,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

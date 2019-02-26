@@ -1,62 +1,86 @@
 [
   {
-    "cost": 16800000,
-    "construction": {
-      "duration": 25,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 50
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 10
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "FABRIC",
-        "max": 50
-      },
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 12
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 8
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 1
-      },
-      {
-        "resource": "WORKER",
-        "max": 98
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.6
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.3
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "CLOTHES",
-        "max": 45
-      }
-    ],
     "id": "moab.clothes.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 84000,
+        "max_velocity": 3360
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 840,
+        "max_velocity": 33.6
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 2100,
+        "max_velocity": 84
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 98,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.6,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.3,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "FABRIC",
+            "max_velocity": 50,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 8,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "CLOTHES",
+            "max_velocity": 45,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

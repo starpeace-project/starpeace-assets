@@ -26,6 +26,19 @@
     "price": 7000
   },
   {
+    "id": "BAR_SERVICE",
+    "label_plural": {
+      "DE": "bar-service",
+      "EN": "bar service",
+      "ES": "servicio de bar",
+      "FR": "service de bar",
+      "IT": "servizio bar",
+      "PT": "serviço de bar"
+    },
+    "unit_id": "CUSTOMER",
+    "price": 7
+  },
+  {
     "id": "BOOK",
     "label_plural": {
       "DE": "bücher",
@@ -104,7 +117,7 @@
     "price": 800
   },
   {
-    "id": "COMPUTER_SERVICES",
+    "id": "COMPUTER_SERVICE",
     "label_plural": {
       "DE": "computer service",
       "EN": "computer services",
@@ -195,6 +208,19 @@
     "price": 4
   },
   {
+    "id": "FUNERAL_SERVICE",
+    "label_plural": {
+      "DE": "Bestattungsinstitut",
+      "EN": "Funeral Services",
+      "ES": "Servicios Fúnebres",
+      "FR": "Services Funéraires",
+      "IT": "Servizi Funebri",
+      "PT": "Serviços Funerários"
+    },
+    "unit_id": "CUSTOMER",
+    "price": 5000
+  },
+  {
     "id": "FURNITURE",
     "label_plural": {
       "DE": "möbel",
@@ -221,7 +247,7 @@
     "price": 0.5
   },
   {
-    "id": "LEGAL_SERVICES",
+    "id": "LEGAL_SERVICE",
     "label_plural": {
       "DE": "rechtsberatung",
       "EN": "legal services",
@@ -401,6 +427,19 @@
     },
     "unit_id": "KILOGRAM",
     "price": 1
+  },
+  {
+    "id": "RESTAURANT_SERVICE",
+    "label_plural": {
+      "DE": "restaurant-service",
+      "EN": "restaurant service",
+      "ES": "servicio de restaurante",
+      "FR": "service de restauration",
+      "IT": "servizio ristorante",
+      "PT": "serviço de restaurante"
+    },
+    "unit_id": "CUSTOMER",
+    "price": 20
   },
   {
     "id": "SILICON",

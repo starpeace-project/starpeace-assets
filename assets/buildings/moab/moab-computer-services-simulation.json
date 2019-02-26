@@ -1,54 +1,69 @@
 [
   {
-    "cost": 31500000,
-    "construction": {
-      "duration": 30,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 70
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 0
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 30
-        }
-      ]
-    },
-    "required_inputs": [
+    "id": "moab.computing",
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 220500,
+        "max_velocity": 7350
+      },
       {
         "resource": "COMPUTER",
-        "max": 1
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 2
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 16
-      },
-      {
-        "resource": "WORKER",
-        "max": 12
+        "quantity": 11812.5,
+        "max_velocity": 393.75
       }
     ],
-    "optional_inputs": [
+    "stages": [
       {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.2
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 16,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "COMPUTER",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 7.5,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
       }
-    ],
-    "outputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 7.5
-      }
-    ],
-    "id": "moab.computing",
-    "type": "INDUSTRY"
+    ]
   }
 ]

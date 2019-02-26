@@ -1,13 +1,31 @@
 [
   {
-    "cost": 1000000,
-    "required_inputs": [
+    "id": "generic.warehouse.chemical",
+    "type": "STORAGE",
+    "construction_inputs": [
       {
-        "resource": "WORKER",
-        "max": 10
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 200
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 37.5,
+        "max_velocity": 1.25
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 125,
+        "max_velocity": 4.166666666666667
       }
     ],
-    "optional_inputs": [],
+    "labor": [
+      {
+        "resource": "WORKER",
+        "max_velocity": 10
+      }
+    ],
+    "operations": [],
     "storage": [
       {
         "resource": "CHEMICAL",
@@ -21,19 +39,35 @@
         "resource": "GASOLINE",
         "max": 100000
       }
-    ],
-    "id": "generic.warehouse.chemical",
-    "type": "WAREHOUSE"
+    ]
   },
   {
-    "cost": 10000000,
-    "required_inputs": [
+    "id": "generic.warehouse.cold",
+    "type": "STORAGE",
+    "construction_inputs": [
       {
-        "resource": "WORKER",
-        "max": 10
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 200
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 37.5,
+        "max_velocity": 1.25
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 125,
+        "max_velocity": 4.166666666666667
       }
     ],
-    "optional_inputs": [],
+    "labor": [
+      {
+        "resource": "WORKER",
+        "max_velocity": 10
+      }
+    ],
+    "operations": [],
     "storage": [
       {
         "resource": "FRESH_FOOD",
@@ -47,19 +81,35 @@
         "resource": "LIQUOR",
         "max": 250000
       }
-    ],
-    "id": "generic.warehouse.cold",
-    "type": "WAREHOUSE"
+    ]
   },
   {
-    "cost": 100000000,
-    "required_inputs": [
+    "id": "generic.warehouse.cold.super",
+    "type": "STORAGE",
+    "construction_inputs": [
       {
-        "resource": "WORKER",
-        "max": 12
+        "resource": "CONSTRUCTION",
+        "quantity": 18000,
+        "max_velocity": 600
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 112.5,
+        "max_velocity": 3.75
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 375,
+        "max_velocity": 12.5
       }
     ],
-    "optional_inputs": [],
+    "labor": [
+      {
+        "resource": "WORKER",
+        "max_velocity": 12
+      }
+    ],
+    "operations": [],
     "storage": [
       {
         "resource": "FRESH_FOOD",
@@ -73,32 +123,35 @@
         "resource": "LIQUOR",
         "max": 2500000
       }
-    ],
-    "id": "generic.warehouse.cold.super",
-    "type": "WAREHOUSE"
+    ]
   },
   {
-    "cost": 10000000,
-    "required_inputs": [
+    "id": "generic.warehouse.fabric",
+    "type": "STORAGE",
+    "construction_inputs": [
       {
-        "resource": "WORKER",
-        "max": 10
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 200
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 37.5,
+        "max_velocity": 1.25
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 125,
+        "max_velocity": 4.166666666666667
       }
     ],
-    "optional_inputs": [],
-    "storage": [],
-    "id": "generic.warehouse.export",
-    "type": "WAREHOUSE"
-  },
-  {
-    "cost": 100000000,
-    "required_inputs": [
+    "labor": [
       {
         "resource": "WORKER",
-        "max": 12
+        "max_velocity": 12
       }
     ],
-    "optional_inputs": [],
+    "operations": [],
     "storage": [
       {
         "resource": "ORGANIC_MATERIAL",
@@ -120,32 +173,35 @@
         "resource": "PRINTED_MATERIAL",
         "max": 250000
       }
-    ],
-    "id": "generic.warehouse.fabric",
-    "type": "WAREHOUSE"
+    ]
   },
   {
-    "cost": 10000000,
-    "required_inputs": [
+    "id": "generic.warehouse.ore",
+    "type": "STORAGE",
+    "construction_inputs": [
       {
-        "resource": "WORKER",
-        "max": 10
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 200
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 37.5,
+        "max_velocity": 1.25
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 125,
+        "max_velocity": 4.166666666666667
       }
     ],
-    "optional_inputs": [],
-    "storage": [],
-    "id": "generic.warehouse.import",
-    "type": "WAREHOUSE"
-  },
-  {
-    "cost": 20000000,
-    "required_inputs": [
+    "labor": [
       {
         "resource": "WORKER",
-        "max": 12
+        "max_velocity": 12
       }
     ],
-    "optional_inputs": [],
+    "operations": [],
     "storage": [
       {
         "resource": "ORE",
@@ -163,23 +219,39 @@
         "resource": "TIMBER",
         "max": 500000
       }
-    ],
-    "id": "generic.warehouse.ore",
-    "type": "WAREHOUSE"
+    ]
   },
   {
-    "cost": 20000000,
-    "required_inputs": [
+    "id": "generic.warehouse.univeral",
+    "type": "STORAGE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 200
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 37.5,
+        "max_velocity": 1.25
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 125,
+        "max_velocity": 4.166666666666667
+      }
+    ],
+    "labor": [
       {
         "resource": "PROFESSIONAL",
-        "max": 1
+        "max_velocity": 1
       },
       {
         "resource": "WORKER",
-        "max": 80
+        "max_velocity": 80
       }
     ],
-    "optional_inputs": [],
+    "operations": [],
     "storage": [
       {
         "resource": "ORGANIC_MATERIAL",
@@ -241,8 +313,6 @@
         "resource": "COMPACT_DISC",
         "max": 10000
       }
-    ],
-    "id": "generic.warehouse.univeral",
-    "type": "WAREHOUSE"
+    ]
   }
 ]

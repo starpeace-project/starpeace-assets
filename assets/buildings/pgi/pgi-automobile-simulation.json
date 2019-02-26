@@ -1,74 +1,104 @@
 [
   {
-    "cost": 70000000,
-    "construction": {
-      "duration": 55,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 45
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 15
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "METAL",
-        "max": 500
-      },
-      {
-        "resource": "FABRIC",
-        "max": 45
-      },
-      {
-        "resource": "ELECTRONIC_COMPONENT",
-        "max": 20
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 25
-      },
-      {
-        "resource": "PLASTIC",
-        "max": 25
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 2
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 5
-      },
-      {
-        "resource": "WORKER",
-        "max": 237
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 2.5
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.75
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "AUTOMOBILE",
-        "max": 0.75
-      }
-    ],
     "id": "pgi.car.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 280000,
+        "max_velocity": 5090.909090909091
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 3937.5,
+        "max_velocity": 71.5909090909091
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 13125,
+        "max_velocity": 238.63636363636363
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 5,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 237,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 2.5,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.75,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "METAL",
+            "max_velocity": 500,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "FABRIC",
+            "max_velocity": 45,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "ELECTRONIC_COMPONENT",
+            "max_velocity": 20,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 25,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PLASTIC",
+            "max_velocity": 25,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "AUTOMOBILE",
+            "max_velocity": 0.75,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

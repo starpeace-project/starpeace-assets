@@ -1,62 +1,86 @@
 [
   {
-    "cost": 2500000000,
-    "construction": {
-      "duration": 30,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 20
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 40
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 10
-      },
-      {
-        "resource": "PLASTIC",
-        "max": 15
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 10
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 30
-      },
-      {
-        "resource": "WORKER",
-        "max": 100
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.2
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.1
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "MOVIE",
-        "max": 0.8
-      }
-    ],
     "id": "magna.movie.studios",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 10000000,
+        "max_velocity": 333333.3333333333
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 62500,
+        "max_velocity": 2083.3333333333335
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 1250000,
+        "max_velocity": 41666.666666666664
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 10,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 30,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 100,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 10,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PLASTIC",
+            "max_velocity": 15,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "MOVIE",
+            "max_velocity": 0.8,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

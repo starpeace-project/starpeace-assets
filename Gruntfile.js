@@ -29,9 +29,6 @@ module.exports = function(grunt) {
       options: {
         failOnError: true
       },
-      analyze: {
-        exec: 'node build/analyze.js assets'
-      },
       audit: {
         exec: 'node build/audit.js assets'
       },
@@ -45,7 +42,6 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('build', ['coffee:compile_library', 'coffee:compile_tools']);
-  grunt.registerTask('analyze', ['build', 'run:analyze']);
   grunt.registerTask('audit', ['build', 'run:audit']);
 
   grunt.registerTask('export', ['build', 'run:export_languages']);

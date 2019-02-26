@@ -1,50 +1,62 @@
 [
   {
-    "cost": 25200000,
-    "construction": {
-      "duration": 30,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 70
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 0
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 30
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "EXECUTIVE",
-        "max": 2
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 14
-      },
-      {
-        "resource": "WORKER",
-        "max": 11
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.2
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 6
-      }
-    ],
     "id": "dis.computing",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 176400,
+        "max_velocity": 5880
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 9450,
+        "max_velocity": 315
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 14,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 11,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 6,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

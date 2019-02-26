@@ -1,62 +1,86 @@
 [
   {
-    "cost": 20000000,
-    "construction": {
-      "duration": 50,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 50
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 10
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 50
-      },
-      {
-        "resource": "PLASTIC",
-        "max": 50
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 3
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 50
-      },
-      {
-        "resource": "WORKER",
-        "max": 100
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 1
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.75
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "PHARMACEUTICAL",
-        "max": 100
-      }
-    ],
     "id": "pgi.pharma.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 100000,
+        "max_velocity": 2000
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 1000,
+        "max_velocity": 20
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 2500,
+        "max_velocity": 50
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 3,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 50,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 100,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.75,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 50,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PLASTIC",
+            "max_velocity": 50,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "PHARMACEUTICAL",
+            "max_velocity": 100,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

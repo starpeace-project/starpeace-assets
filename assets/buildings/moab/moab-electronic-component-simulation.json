@@ -1,62 +1,86 @@
 [
   {
-    "cost": 37800000,
-    "construction": {
-      "duration": 35,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 40
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 20
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 18
-      },
-      {
-        "resource": "METAL",
-        "max": 30
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 2
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 7
-      },
-      {
-        "resource": "WORKER",
-        "max": 98
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.375
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.45
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "ELECTRONIC_COMPONENT",
-        "max": 39
-      }
-    ],
     "id": "moab.elect.comp.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 151200,
+        "max_velocity": 4320
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 1890,
+        "max_velocity": 54
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 9450,
+        "max_velocity": 270
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 7,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 98,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.375,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.45,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 18,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "METAL",
+            "max_velocity": 30,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "ELECTRONIC_COMPONENT",
+            "max_velocity": 39,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

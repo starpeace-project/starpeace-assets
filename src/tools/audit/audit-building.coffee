@@ -9,7 +9,7 @@ FileUtils = require('../utils/file-utils')
 {
   BuildingDefinition
   BuildingImageDefinition
-  BuildingSimulationDefinition
+  BuildingSimulationDefinitionParser
 } = require('../../lib')
 
 
@@ -36,7 +36,7 @@ exports = module.exports = class AuditBuilding
 
       process.stdout.write '\n'
 
-      simulation_definitions = FileUtils.parse_files(root_dir, ['-simulation.json'], [], BuildingSimulationDefinition.from_json)
+      simulation_definitions = FileUtils.parse_files(root_dir, ['-simulation.json'], [], BuildingSimulationDefinitionParser.from_json)
       simulation_definitions_by_id = _.keyBy(simulation_definitions, 'id')
       AuditUtils.audit_is_valid('building simulation definition', simulation_definitions)
       AuditUtils.audit_unique_count_by_id('building simulation definition', simulation_definitions, simulation_definitions_by_id, AuditBuilding.EXPECTED_SIMULATION_DEFINITION_COUNT)

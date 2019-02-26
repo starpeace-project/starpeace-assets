@@ -1,106 +1,146 @@
 [
   {
-    "cost": 12600000,
-    "construction": {
-      "duration": 35,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 45
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 15
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 14
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 1
-      },
-      {
-        "resource": "WORKER",
-        "max": 134
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.54
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.18
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "COAL",
-        "max": 720
-      }
-    ],
     "id": "mko.mine.coal",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 56700,
+        "max_velocity": 1620
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 630,
+        "max_velocity": 18
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 2362.5,
+        "max_velocity": 67.5
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 134,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.54,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.18,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 14,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "COAL",
+            "max_velocity": 720,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   },
   {
-    "cost": 3000000,
-    "construction": {
-      "duration": 35,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 45
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 15
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 5
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 1
-      },
-      {
-        "resource": "WORKER",
-        "max": 77
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.18
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.06
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "COAL",
-        "max": 240
-      }
-    ],
     "id": "mko.mine.coal.small",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 13500,
+        "max_velocity": 385.7142857142857
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 150,
+        "max_velocity": 4.285714285714286
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 562.5,
+        "max_velocity": 16.071428571428573
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 77,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.18,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.06,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 5,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "COAL",
+            "max_velocity": 240,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

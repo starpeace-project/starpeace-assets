@@ -1,106 +1,145 @@
 [
   {
-    "cost": 10080000,
-    "construction": {
-      "duration": 40,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 45
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 15
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 18
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 6
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 2
-      },
-      {
-        "resource": "WORKER",
-        "max": 88
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.12
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.1
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "FABRIC",
-        "max": 60
-      }
-    ],
     "id": "dis.textile.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 45360,
+        "max_velocity": 1134
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 504,
+        "max_velocity": 12.6
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 1890,
+        "max_velocity": 47.25
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 88,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 18,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 6,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "FABRIC",
+            "max_velocity": 60,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   },
   {
-    "cost": 2400000,
-    "construction": {
-      "duration": 40,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 45
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 15
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 5.2
-      },
-      {
-        "resource": "CHEMICAL",
-        "max": 2
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 1
-      },
-      {
-        "resource": "WORKER",
-        "max": 50
-      }
-    ],
-    "optional_inputs": [
-    ],
-    "outputs": [
-      {
-        "resource": "FABRIC",
-        "max": 20
-      }
-    ],
     "id": "dis.textile.industry.small",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 10800,
+        "max_velocity": 270
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 120,
+        "max_velocity": 3
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 450,
+        "max_velocity": 11.25
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 50,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [],
+        "inputs": [
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 5.2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "FABRIC",
+            "max_velocity": 20,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

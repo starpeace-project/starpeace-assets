@@ -1,58 +1,80 @@
 [
   {
-    "cost": 42000000,
-    "construction": {
-      "duration": 45,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 50
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 40
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 10
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "RAW_CHEMICAL",
-        "max": 600
-      },
-      {
-        "resource": "EXECUTIVE",
-        "max": 1
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 7
-      },
-      {
-        "resource": "WORKER",
-        "max": 147
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.6
-      },
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 0.45
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 75
-      }
-    ],
     "id": "moab.chemical.industry",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 210000,
+        "max_velocity": 4666.666666666667
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 2100,
+        "max_velocity": 46.666666666666664
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 5250,
+        "max_velocity": 116.66666666666667
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 7,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 147,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.6,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 0.45,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [
+          {
+            "resource": "RAW_CHEMICAL",
+            "max_velocity": 600,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 75,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

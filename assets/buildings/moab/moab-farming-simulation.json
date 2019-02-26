@@ -1,50 +1,67 @@
 [
   {
-    "cost": 10500000,
-    "construction": {
-      "duration": 25,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 80
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 15
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 5
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "PROFESSIONAL",
-        "max": 1
-      },
-      {
-        "resource": "WORKER",
-        "max": 37
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 0.45
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "FRESH_FOOD",
-        "max": 45
-      },
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 7.5
-      }
-    ],
     "id": "moab.farm",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 84000,
+        "max_velocity": 3360
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 196.875,
+        "max_velocity": 7.875
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 656.25,
+        "max_velocity": 26.25
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 37,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 0.45,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 45,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 7.5,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

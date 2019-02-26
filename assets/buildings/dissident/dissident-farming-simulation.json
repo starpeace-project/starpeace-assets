@@ -1,98 +1,127 @@
 [
   {
-    "cost": 8400000,
-    "construction": {
-      "duration": 25,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 80
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 15
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 5
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "PROFESSIONAL",
-        "max": 1
-      },
-      {
-        "resource": "WORKER",
-        "max": 33
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 0.36
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "FRESH_FOOD",
-        "max": 36
-      },
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 6
-      }
-    ],
     "id": "dis.farm",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 67200,
+        "max_velocity": 2688
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 157.5,
+        "max_velocity": 6.3
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 525,
+        "max_velocity": 21
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 33,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 0.36,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 36,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 6,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   },
   {
-    "cost": 2000000,
-    "construction": {
-      "duration": 15,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 80
-        },
-        {
-          "resource": "MACHINERY",
-          "max": 20
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 0
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "PROFESSIONAL",
-        "max": 1
-      },
-      {
-        "resource": "WORKER",
-        "max": 19
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "CHEMICAL",
-        "max": 0.12
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "FRESH_FOOD",
-        "max": 12
-      },
-      {
-        "resource": "ORGANIC_MATERIAL",
-        "max": 2
-      }
-    ],
     "id": "dis.farm.small",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 16000,
+        "max_velocity": 1066.6666666666667
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 50,
+        "max_velocity": 3.3333333333333335
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 19,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 0.12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

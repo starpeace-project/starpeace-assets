@@ -1,46 +1,62 @@
 [
   {
-    "cost": 42000000,
-    "construction": {
-      "duration": 35,
-      "cost": [
-        {
-          "resource": "CONSTRUCTION",
-          "max": 80
-        },
-        {
-          "resource": "COMPUTER",
-          "max": 20
-        }
-      ]
-    },
-    "required_inputs": [
-      {
-        "resource": "EXECUTIVE",
-        "max": 3
-      },
-      {
-        "resource": "PROFESSIONAL",
-        "max": 8
-      },
-      {
-        "resource": "WORKER",
-        "max": 16
-      }
-    ],
-    "optional_inputs": [
-      {
-        "resource": "COMPUTER_SERVICES",
-        "max": 0.7
-      }
-    ],
-    "outputs": [
-      {
-        "resource": "LEGAL_SERVICES",
-        "max": 7.5
-      }
-    ],
     "id": "pgi.legal.services",
-    "type": "INDUSTRY"
+    "type": "FACTORY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 336000,
+        "max_velocity": 9600
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 10500,
+        "max_velocity": 300
+      }
+    ],
+    "stages": [
+      {
+        "index": 1,
+        "duration": 1,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "EXECUTIVE",
+            "max_velocity": 3,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 8,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 16,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "COMPUTER_SERVICE",
+            "max_velocity": 0.7,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "LEGAL_SERVICE",
+            "max_velocity": 7.5,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      }
+    ]
   }
 ]

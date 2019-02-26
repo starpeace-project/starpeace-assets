@@ -1,9 +1,15 @@
 
 BuildingDefinition = require('./building/building-definition')
 BuildingImageDefinition = require('./building/building-image-definition')
-BuildingSimulationDefinition = require('./building/building-simulation-definition')
 CoordinateList = require('./building/coordinate-list')
 Coordinate = require('./building/coordinate')
+
+BuildingSimulationDefinition = require('./building/simulation/simulation-definition')
+BuildingSimulationDefinitionParser = require('./building/simulation/simulation-definition-parser')
+ConstructionQuantity = require('./building/simulation/construction-quantity')
+FactoryDefinition = require('./building/simulation/factory-definition')
+StorageDefinition = require('./building/simulation/storage-definition')
+StoreDefinition = require('./building/simulation/store-definition')
 
 CityZone = require('./industry/city-zone')
 IndustryCategory = require('./industry/industry-category')
@@ -20,9 +26,15 @@ CompanySeal = require('./seal/company-seal')
 exports = module.exports = {
   BuildingDefinition
   BuildingImageDefinition
-  BuildingSimulationDefinition
   CoordinateList
   Coordinate
+
+  BuildingSimulationDefinition
+  BuildingSimulationDefinitionParser
+  ConstructionQuantity
+  FactoryDefinition
+  StorageDefinition
+  StoreDefinition
 
   CityZone
   IndustryCategory

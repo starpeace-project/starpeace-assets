@@ -1,0 +1,93 @@
+[
+  {
+    "id": "dis.bar",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 40000,
+        "max_velocity": 1333.3333333333333
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 1250,
+        "max_velocity": 41.666666666666664
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 2,
+        "weight_efficiency": 20,
+        "weight_quality": 15
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 17
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 120,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 1,
+        "weight_efficiency": 5,
+        "weight_quality": 10
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 1,
+        "weight_efficiency": 5,
+        "weight_quality": 10
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "LIQUOR",
+            "max_velocity": 14,
+            "weight_efficiency": 20,
+            "weight_quality": 150
+          },
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 6,
+            "weight_efficiency": 20,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "BAR_SERVICE",
+            "max_velocity": 20,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 1
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 1
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
