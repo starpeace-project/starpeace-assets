@@ -4,10 +4,12 @@
     "type": "STORE",
     "construction_inputs": [
       {
+        "resource": "CONSTRUCTION",
         "quantity": 18000,
         "max_velocity": 900
       },
       {
+        "resource": "COMPUTER",
         "quantity": 2000,
         "max_velocity": 100
       }
