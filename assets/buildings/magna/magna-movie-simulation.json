@@ -177,7 +177,7 @@
         "outputs": [
           {
             "resource": "MOVIE",
-            "max_velocity": 840,
+            "max_velocity": 1680,
             "weight_efficiency": 0,
             "weight_quality": 0
           }
