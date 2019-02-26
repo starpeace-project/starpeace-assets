@@ -210,12 +210,12 @@
   {
     "id": "FUNERAL_SERVICE",
     "label_plural": {
-      "DE": "Bestattungsinstitut",
-      "EN": "Funeral Services",
-      "ES": "Servicios Fúnebres",
-      "FR": "Services Funéraires",
-      "IT": "Servizi Funebri",
-      "PT": "Serviços Funerários"
+      "DE": "bestattungsinstitut",
+      "EN": "funeral services",
+      "ES": "servicios fúnebres",
+      "FR": "services funéraires",
+      "IT": "servizi funebri",
+      "PT": "serviços funerários"
     },
     "unit_id": "CUSTOMER",
     "price": 5000
