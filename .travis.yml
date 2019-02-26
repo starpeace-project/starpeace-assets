@@ -22,4 +22,3 @@ cache:
 
 script:
   - grunt audit
-  - grunt analyze
