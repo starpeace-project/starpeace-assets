@@ -22,7 +22,7 @@
     "stages": [
       {
         "index": 1,
-        "duration": 1,
+        "duration": 336,
         "stage_inputs": [],
         "labor": [
           {
@@ -46,6 +46,106 @@
             "weight_quality": 0
           }
         ],
+        "inputs": [],
+        "outputs": []
+      },
+      {
+        "index": 2,
+        "duration": 336,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 33,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 0.36,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "duration": 672,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 33,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 0.12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 8,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 2,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "duration": 672,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 64,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [],
         "inputs": [],
         "outputs": [
           {
@@ -82,7 +182,7 @@
     "stages": [
       {
         "index": 1,
-        "duration": 1,
+        "duration": 336,
         "stage_inputs": [],
         "labor": [
           {
@@ -106,6 +206,106 @@
             "weight_quality": 0
           }
         ],
+        "inputs": [],
+        "outputs": []
+      },
+      {
+        "index": 2,
+        "duration": 336,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 19,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 0.12,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "duration": 672,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 19,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [
+          {
+            "resource": "CHEMICAL",
+            "max_velocity": 0.06,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "inputs": [],
+        "outputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 4,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "ORGANIC_MATERIAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "duration": 672,
+        "stage_inputs": [],
+        "labor": [
+          {
+            "resource": "PROFESSIONAL",
+            "max_velocity": 1,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          },
+          {
+            "resource": "WORKER",
+            "max_velocity": 32,
+            "weight_efficiency": 0,
+            "weight_quality": 0
+          }
+        ],
+        "operations": [],
         "inputs": [],
         "outputs": [
           {
