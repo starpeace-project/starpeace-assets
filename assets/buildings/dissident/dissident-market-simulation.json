@@ -10,8 +10,8 @@
       },
       {
         "resource": "COMPUTER",
-        "quantity": 2400,
-        "max_velocity": 80
+        "quantity": 300,
+        "max_velocity": 10
       }
     ],
     "labor": [

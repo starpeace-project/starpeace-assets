@@ -5,13 +5,13 @@
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
-        "quantity": 40000,
-        "max_velocity": 1333.3333333333333
+        "quantity": 1350,
+        "max_velocity": 90
       },
       {
         "resource": "COMPUTER",
-        "quantity": 1250,
-        "max_velocity": 41.666666666666664
+        "quantity": 18.75,
+        "max_velocity": 1.25
       }
     ],
     "labor": [
