@@ -100,5 +100,90 @@
         ]
       }
     ]
+  },
+  {
+    "id": "mko.car.store",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 4500,
+        "max_velocity": 128.5714286
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 62.5,
+        "max_velocity": 1.785714286
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 2,
+        "weight_efficiency": 20,
+        "weight_quality": 15
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 10
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 150,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 0.32,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 0.16,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "AUTOMOBILE",
+            "max_velocity": 1,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "AUTOMOBILE",
+            "max_velocity": 1,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

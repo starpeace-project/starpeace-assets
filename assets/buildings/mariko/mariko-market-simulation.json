@@ -1,0 +1,554 @@
+[
+  {
+    "id": "mko.market.a",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 13500,
+        "max_velocity": 300
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 187.5,
+        "max_velocity": 4.166666667
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 2,
+        "weight_efficiency": 20,
+        "weight_quality": 10
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 20,
+        "weight_efficiency": 20,
+        "weight_quality": 15
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 200,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 0.64,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 0.32,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 30,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 30,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 1
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 32,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 32,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 1
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "CLOTHES",
+            "max_velocity": 18,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "CLOTHES",
+            "max_velocity": 18,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 1
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "APPLIANCE",
+            "max_velocity": 10,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "APPLIANCE",
+            "max_velocity": 10,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 1
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mko.market.b",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 7200,
+        "max_velocity": 180
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 100,
+        "max_velocity": 2.5
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 2,
+        "weight_efficiency": 20,
+        "weight_quality": 10
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 15,
+        "weight_efficiency": 20,
+        "weight_quality": 15
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 200,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 0.36,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 0.18,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 18,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 18,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 20,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 20,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "CLOTHES",
+            "max_velocity": 10,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "CLOTHES",
+            "max_velocity": 10,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "APPLIANCE",
+            "max_velocity": 5,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "APPLIANCE",
+            "max_velocity": 5,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mko.market.c",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 4500,
+        "max_velocity": 128.5714286
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 62.5,
+        "max_velocity": 1.785714286
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 1,
+        "weight_efficiency": 20,
+        "weight_quality": 10
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 12,
+        "weight_efficiency": 20,
+        "weight_quality": 15
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 200,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 0.36,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 0.18,
+        "weight_efficiency": 5,
+        "weight_quality": 5
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 10,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "FRESH_FOOD",
+            "max_velocity": 10,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 10,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 10,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "CLOTHES",
+            "max_velocity": 8,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "CLOTHES",
+            "max_velocity": 8,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "APPLIANCE",
+            "max_velocity": 6,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "APPLIANCE",
+            "max_velocity": 6,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
