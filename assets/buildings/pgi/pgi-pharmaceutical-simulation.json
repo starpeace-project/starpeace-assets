@@ -82,5 +82,90 @@
         ]
       }
     ]
+  },
+  {
+    "id": "pgi.drug.store",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 630,
+        "max_velocity": 18
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 8.75,
+        "max_velocity": 0.25
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 5
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 3,
+        "weight_efficiency": 20,
+        "weight_quality": 5
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 140,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 0.16,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 0.08,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "PHARMACEUTICAL",
+            "max_velocity": 5,
+            "weight_efficiency": 20,
+            "weight_quality": 100
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "PHARMACEUTICAL",
+            "max_velocity": 5,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.8
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

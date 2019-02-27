@@ -1,29 +1,23 @@
 [
   {
-    "id": "moab.funeral",
+    "id": "pgi.bar",
     "type": "STORE",
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
-        "quantity": 90000,
-        "max_velocity": 4500
+        "quantity": 1350,
+        "max_velocity": 67.5
       },
       {
         "resource": "COMPUTER",
-        "quantity": 1250,
-        "max_velocity": 62.5
+        "quantity": 18.75,
+        "max_velocity": 0.9375
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 1,
-        "weight_efficiency": 20,
-        "weight_quality": 15
-      },
-      {
         "resource": "WORKER",
-        "max_velocity": 10,
+        "max_velocity": 15,
         "weight_efficiency": 20,
         "weight_quality": 17
       }
@@ -37,13 +31,13 @@
       },
       {
         "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.08,
+        "max_velocity": 0.16,
         "weight_efficiency": 5,
         "weight_quality": 10
       },
       {
         "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.16,
+        "max_velocity": 0.08,
         "weight_efficiency": 5,
         "weight_quality": 10
       }
@@ -52,34 +46,22 @@
       {
         "inputs": [
           {
+            "resource": "LIQUOR",
+            "max_velocity": 14,
+            "weight_efficiency": 20,
+            "weight_quality": 150
+          },
+          {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 4.1666666666666666666666666666667,
-            "weight_efficiency": 20,
-            "weight_quality": 50
-          },
-          {
-            "resource": "FABRIC",
-            "max_velocity": 0.83333333333333333333333333333333,
-            "weight_efficiency": 20,
-            "weight_quality": 50
-          },
-          {
-            "resource": "TIMBER",
-            "max_velocity": 1.6666666666666666666666666666667,
-            "weight_efficiency": 20,
-            "weight_quality": 50
-          },
-          {
-            "resource": "CHEMICAL",
-            "max_velocity": 0.04166666666666666666666666666667,
+            "max_velocity": 6,
             "weight_efficiency": 20,
             "weight_quality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "FUNERAL_SERVICE",
-            "max_velocity": 1,
+            "resource": "BAR_SERVICE",
+            "max_velocity": 20,
             "customers": [
               {
                 "resource": "EXECUTIVE",
