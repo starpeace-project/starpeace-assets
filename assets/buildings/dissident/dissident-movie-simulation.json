@@ -47,7 +47,7 @@
         "inputs": [
           {
             "resource": "MOVIE",
-            "max_velocity": 1,
+            "max_velocity": 0.5,
             "weight_efficiency": 20,
             "weight_quality": 100
           },
@@ -61,7 +61,7 @@
         "outputs": [
           {
             "resource": "MOVIE",
-            "max_velocity": 100,
+            "max_velocity": 50,
             "customers": [
               {
                 "resource": "EXECUTIVE",

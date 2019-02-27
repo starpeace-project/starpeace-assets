@@ -47,13 +47,13 @@
         "inputs": [
           {
             "resource": "LIQUOR",
-            "max_velocity": 7,
+            "max_velocity": 12.6,
             "weight_efficiency": 20,
             "weight_quality": 150
           },
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 3,
+            "max_velocity": 5.4,
             "weight_efficiency": 20,
             "weight_quality": 50
           }
@@ -61,7 +61,7 @@
         "outputs": [
           {
             "resource": "BAR_SERVICE",
-            "max_velocity": 10,
+            "max_velocity": 18,
             "customers": [
               {
                 "resource": "EXECUTIVE",
