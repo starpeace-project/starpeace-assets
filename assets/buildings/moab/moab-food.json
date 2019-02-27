@@ -4,17 +4,17 @@
     "image_id": "moab.food.store",
     "construction_image_id": "generic.construction.1",
     "name": {
-      "DE": "Fast Food",
-      "EN": "Fast Food",
-      "ES": "Comida rápida",
-      "FR": "Fast food",
-      "IT": "Fast Food",
-      "PT": "Comida rápida"
+      "DE": "Lebensmittelgeschäft",
+      "EN": "Food Store",
+      "ES": "Tienda de Alimentación",
+      "FR": "Magasin d'Alimentation",
+      "IT": "Negozio di Alimentari",
+      "PT": "Loja de Comida"
     },
     "seal_id": "MOAB",
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
-    "industry_type": "FAST_FOOD",
+    "industry_type": "FOOD",
     "required_inventions": [],
     "commerce": {}
   }

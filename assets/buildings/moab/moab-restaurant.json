@@ -1,0 +1,23 @@
+[
+  {
+    "id": "moab.restaurant",
+    "image_id": "moab.restaurant",
+    "construction_image_id": "generic.construction.1",
+    "name": {
+      "DE": "Kuppel der Abendessen",
+      "EN": "Dinner Dome",
+      "ES": "Cúpula de Cena",
+      "FR": "Dôme du Dîner",
+      "IT": "Cupola della Cena",
+      "PT": "Domo da Jantar"
+    },
+    "seal_id": "MOAB",
+    "zone": "COMMERCIAL",
+    "category": "COMMERCE",
+    "industry_type": "RESTAURANT",
+    "required_inventions": [
+      "Bars"
+    ],
+    "commerce": {}
+  }
+]

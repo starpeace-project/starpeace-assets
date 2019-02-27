@@ -1,0 +1,87 @@
+[
+  {
+    "id": "moab.movie",
+    "type": "STORE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 13500,
+        "max_velocity": 675
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 187.5,
+        "max_velocity": 9.375
+      }
+    ],
+    "labor": [
+      {
+        "resource": "WORKER",
+        "max_velocity": 8,
+        "weight_efficiency": 20,
+        "weight_quality": 5
+      }
+    ],
+    "operations": [
+      {
+        "resource": "ADVERTISEMENTS",
+        "max_velocity": 100,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "COMPUTER_SERVICE",
+        "max_velocity": 0.16,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      },
+      {
+        "resource": "LEGAL_SERVICE",
+        "max_velocity": 0.08,
+        "weight_efficiency": 5,
+        "weight_quality": 0
+      }
+    ],
+    "products": [
+      {
+        "inputs": [
+          {
+            "resource": "MOVIE",
+            "max_velocity": 1,
+            "weight_efficiency": 20,
+            "weight_quality": 100
+          },
+          {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 5,
+            "weight_efficiency": 20,
+            "weight_quality": 10
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "MOVIE",
+            "max_velocity": 100,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.5
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.5
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.7
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
