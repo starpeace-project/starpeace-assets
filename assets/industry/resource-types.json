@@ -1,5 +1,18 @@
 [
   {
+    "id": "ADVERTISEMENTS",
+    "label_plural": {
+      "DE": "werbung",
+      "EN": "advertisements",
+      "ES": "anuncios",
+      "FR": "annonces",
+      "IT": "annunci",
+      "PT": "propagandas"
+    },
+    "unit_id": "HOUR",
+    "price": 0.5
+  },
+  {
     "id": "APPLIANCE",
     "label_plural": {
       "DE": "haushaltsgeräte",
