@@ -15,7 +15,9 @@
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MOVIE",
-    "required_inventions": [],
+    "required_inventions": [
+      "BasicCommerce"
+    ],
     "commerce": {}
   },
   {
@@ -34,7 +36,9 @@
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "MOVIE",
-    "required_inventions": [],
+    "required_inventions": [
+      "BasicCommerce"
+    ],
     "commerce": {}
   }
 ]

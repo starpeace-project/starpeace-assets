@@ -15,7 +15,9 @@
     "zone": "COMMERCIAL",
     "category": "COMMERCE",
     "industry_type": "PHARMACEUTICAL",
-    "required_inventions": [],
+    "required_inventions": [
+      "BasicCommerce"
+    ],
     "commerce": {}
   },
   {
