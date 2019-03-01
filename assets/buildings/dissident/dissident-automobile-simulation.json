@@ -155,7 +155,7 @@
         "inputs": [
           {
             "resource": "AUTOMOBILE",
-            "max_velocity": 0.04166666666666666666666666666667,
+            "max_velocity": 1.5,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -163,7 +163,7 @@
         "outputs": [
           {
             "resource": "AUTOMOBILE",
-            "max_velocity": 0.04166666666666666666666666666667,
+            "max_velocity": 1.5,
             "customers": [
               {
                 "resource": "EXECUTIVE",
