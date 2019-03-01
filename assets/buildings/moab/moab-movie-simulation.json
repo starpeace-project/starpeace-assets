@@ -47,13 +47,13 @@
         "inputs": [
           {
             "resource": "MOVIE",
-            "max_velocity": 0.5,
+            "max_velocity": 0.04166666666666666666666666666667,
             "weight_efficiency": 20,
             "weight_quality": 100
           },
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 5,
+            "max_velocity": 0.20833333333333333333333333333333,
             "weight_efficiency": 20,
             "weight_quality": 10
           }
@@ -61,7 +61,7 @@
         "outputs": [
           {
             "resource": "MOVIE",
-            "max_velocity": 50,
+            "max_velocity": 1.6666666666666666666666666666667,
             "customers": [
               {
                 "resource": "EXECUTIVE",

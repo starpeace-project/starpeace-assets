@@ -64,8 +64,8 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "min_velocity": 52.8,
-            "max_velocity": 132,
+            "min_velocity": 34.708333333333333333333333333333,
+            "max_velocity": 34.708333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -98,8 +98,8 @@
         "inputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "min_velocity": 52.8,
-            "max_velocity": 132,
+            "min_velocity": 34.708333333333333333333333333333,
+            "max_velocity": 34.708333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -107,7 +107,7 @@
         "outputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 132,
+            "max_velocity": 34.708333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -132,8 +132,8 @@
         "inputs": [
           {
             "resource": "CLOTHES",
-            "min_velocity": 28.8,
-            "max_velocity": 72,
+            "min_velocity": 17.375,
+            "max_velocity": 17.375,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -141,7 +141,7 @@
         "outputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 72,
+            "max_velocity": 17.375,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -166,8 +166,8 @@
         "inputs": [
           {
             "resource": "TOY",
-            "min_velocity": 28.8,
-            "max_velocity": 72,
+            "min_velocity": 13,
+            "max_velocity": 13,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -175,7 +175,7 @@
         "outputs": [
           {
             "resource": "TOY",
-            "max_velocity": 72,
+            "max_velocity": 13,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -200,8 +200,8 @@
         "inputs": [
           {
             "resource": "PHARMACEUTICAL",
-            "min_velocity": 28.8,
-            "max_velocity": 72,
+            "min_velocity": 4.3333333333333333333333333333333,
+            "max_velocity": 4.3333333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -209,7 +209,7 @@
         "outputs": [
           {
             "resource": "PHARMACEUTICAL",
-            "max_velocity": 72,
+            "max_velocity": 4.3333333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -234,8 +234,8 @@
         "inputs": [
           {
             "resource": "APPLIANCE",
-            "min_velocity": 42,
-            "max_velocity": 16.8,
+            "min_velocity": 7.8333333333333333333333333333333,
+            "max_velocity": 7.8333333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -243,7 +243,7 @@
         "outputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 42,
+            "max_velocity": 7.8333333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -331,8 +331,8 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "min_velocity": 52.8,
-            "max_velocity": 132,
+            "min_velocity": 34.708333333333333333333333333333,
+            "max_velocity": 34.708333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -340,7 +340,7 @@
         "outputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 132,
+            "max_velocity": 34.708333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -365,8 +365,8 @@
         "inputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "min_velocity": 52.8,
-            "max_velocity": 132,
+            "min_velocity": 34.708333333333333333333333333333,
+            "max_velocity": 34.708333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -374,7 +374,7 @@
         "outputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 132,
+            "max_velocity": 34.708333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -399,8 +399,8 @@
         "inputs": [
           {
             "resource": "CLOTHES",
-            "min_velocity": 28.8,
-            "max_velocity": 72,
+            "min_velocity": 17.375,
+            "max_velocity": 17.375,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -408,7 +408,7 @@
         "outputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 72,
+            "max_velocity": 17.375,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -433,8 +433,8 @@
         "inputs": [
           {
             "resource": "TOY",
-            "min_velocity": 28.8,
-            "max_velocity": 72,
+            "min_velocity": 13,
+            "max_velocity": 13,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -442,7 +442,7 @@
         "outputs": [
           {
             "resource": "TOY",
-            "max_velocity": 72,
+            "max_velocity": 13,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -467,8 +467,8 @@
         "inputs": [
           {
             "resource": "PHARMACEUTICAL",
-            "min_velocity": 28.8,
-            "max_velocity": 72,
+            "min_velocity": 4.3333333333333333333333333333333,
+            "max_velocity": 4.3333333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -476,7 +476,7 @@
         "outputs": [
           {
             "resource": "PHARMACEUTICAL",
-            "max_velocity": 72,
+            "max_velocity": 4.3333333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -501,8 +501,8 @@
         "inputs": [
           {
             "resource": "APPLIANCE",
-            "min_velocity": 42,
-            "max_velocity": 16.8,
+            "min_velocity": 7.8333333333333333333333333333333,
+            "max_velocity": 7.8333333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -510,7 +510,7 @@
         "outputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 42,
+            "max_velocity": 7.8333333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",

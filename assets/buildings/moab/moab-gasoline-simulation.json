@@ -131,7 +131,7 @@
         "inputs": [
           {
             "resource": "GASOLINE",
-            "max_velocity": 20,
+            "max_velocity": 4.1666666666666666666666666666667,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -139,7 +139,7 @@
         "outputs": [
           {
             "resource": "GASOLINE",
-            "max_velocity": 20,
+            "max_velocity": 4.1666666666666666666666666666667,
             "customers": [
               {
                 "resource": "EXECUTIVE",

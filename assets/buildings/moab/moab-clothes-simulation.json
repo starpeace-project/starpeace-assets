@@ -131,7 +131,7 @@
         "inputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 10,
+            "max_velocity": 0.83333333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -139,7 +139,7 @@
         "outputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 10,
+            "max_velocity": 0.83333333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",

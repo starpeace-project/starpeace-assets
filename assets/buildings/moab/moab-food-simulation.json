@@ -47,7 +47,7 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 1.0416666666666666666666666666667,
+            "max_velocity": 0.83333333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -55,7 +55,7 @@
         "outputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 1.0416666666666666666666666666667,
+            "max_velocity": 0.83333333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -80,7 +80,7 @@
         "inputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 1.0416666666666666666666666666667,
+            "max_velocity": 0.83333333333333333333333333333333,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -88,7 +88,7 @@
         "outputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 1.0416666666666666666666666666667,
+            "max_velocity": 0.83333333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",

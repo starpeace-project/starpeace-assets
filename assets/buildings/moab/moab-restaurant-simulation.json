@@ -53,19 +53,19 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 5,
+            "max_velocity": 0.41666666666666666666666666666667,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 3,
+            "max_velocity": 0.25,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
             "resource": "LIQUOR",
-            "max_velocity": 2,
+            "max_velocity": 0.16666666666666666666666666666667,
             "weight_efficiency": 20,
             "weight_quality": 50
           }
@@ -73,7 +73,7 @@
         "outputs": [
           {
             "resource": "RESTAURANT_SERVICE",
-            "max_velocity": 10,
+            "max_velocity": 0.83333333333333333333333333333333,
             "customers": [
               {
                 "resource": "EXECUTIVE",
