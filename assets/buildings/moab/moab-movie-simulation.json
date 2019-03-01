@@ -46,7 +46,7 @@
       {
         "inputs": [
           {
-            "resource": "MOVIE",
+            "resource": "FILM",
             "max_velocity": 0.04166666666666666666666666666667,
             "weight_efficiency": 20,
             "weight_quality": 100

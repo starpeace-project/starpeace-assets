@@ -44,6 +44,17 @@
     }
   },
   {
+    "id": "LICENSE",
+    "label_plural": {
+      "DE": "lizenzen",
+      "EN": "licenses",
+      "ES": "licencias",
+      "FR": "licences",
+      "IT": "licenze",
+      "PT": "licenças"
+    }
+  },
+  {
     "id": "LITER",
     "label_plural": {
       "DE": "liters",

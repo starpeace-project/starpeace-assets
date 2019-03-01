@@ -126,14 +126,7 @@
             "weight_quality": 0
           }
         ],
-        "outputs": [
-          {
-            "resource": "MOVIE",
-            "max_velocity": 0.8,
-            "weight_efficiency": 0,
-            "weight_quality": 0
-          }
-        ]
+        "outputs": []
       },
       {
         "index": 3,
@@ -176,7 +169,7 @@
         "inputs": [],
         "outputs": [
           {
-            "resource": "MOVIE",
+            "resource": "FILM",
             "max_velocity": 16800,
             "weight_efficiency": 0,
             "weight_quality": 0

@@ -208,6 +208,19 @@
     "price": 6
   },
   {
+    "id": "FILM",
+    "label_plural": {
+      "DE": "filme",
+      "EN": "films",
+      "ES": "películas",
+      "FR": "films",
+      "IT": "film",
+      "PT": "filmes"
+    },
+    "unit_id": "LICENSE",
+    "price": 50
+  },
+  {
     "id": "FRESH_FOOD",
     "label_plural": {
       "DE": "frisches essen",
@@ -257,7 +270,7 @@
       "PT": "gasolina"
     },
     "unit_id": "LITER",
-    "price": 0.7
+    "price": 2
   },
   {
     "id": "LEGAL_SERVICE",
@@ -322,7 +335,7 @@
       "PT": "filmes"
     },
     "unit_id": "ITEM",
-    "price": 50
+    "price": 5
   },
   {
     "id": "ORE",
