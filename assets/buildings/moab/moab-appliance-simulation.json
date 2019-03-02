@@ -130,18 +130,6 @@
         "max_velocity": 130,
         "weight_efficiency": 5,
         "weight_quality": 0
-      },
-      {
-        "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.16,
-        "weight_efficiency": 5,
-        "weight_quality": 5
-      },
-      {
-        "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.08,
-        "weight_efficiency": 5,
-        "weight_quality": 5
       }
     ],
     "products": [
@@ -149,7 +137,7 @@
         "inputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 0.375,
+            "max_velocity": 12,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -157,7 +145,7 @@
         "outputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 0.375,
+            "max_velocity": 12,
             "customers": [
               {
                 "resource": "EXECUTIVE",

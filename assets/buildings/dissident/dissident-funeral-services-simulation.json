@@ -53,25 +53,25 @@
         "inputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 4.1666666666666666666666666666667,
+            "max_velocity": 90,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
             "resource": "FABRIC",
-            "max_velocity": 0.83333333333333333333333333333333,
+            "max_velocity": 18,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
             "resource": "TIMBER",
-            "max_velocity": 1.6666666666666666666666666666667,
+            "max_velocity": 26,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
             "resource": "CHEMICAL",
-            "max_velocity": 0.04166666666666666666666666666667,
+            "max_velocity": 1,
             "weight_efficiency": 20,
             "weight_quality": 50
           }

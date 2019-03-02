@@ -34,18 +34,6 @@
         "max_velocity": 120,
         "weight_efficiency": 5,
         "weight_quality": 0
-      },
-      {
-        "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.16,
-        "weight_efficiency": 5,
-        "weight_quality": 10
-      },
-      {
-        "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.08,
-        "weight_efficiency": 5,
-        "weight_quality": 10
       }
     ],
     "products": [
@@ -53,13 +41,13 @@
         "inputs": [
           {
             "resource": "LIQUOR",
-            "max_velocity": 14,
+            "max_velocity": 245,
             "weight_efficiency": 20,
             "weight_quality": 150
           },
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 6,
+            "max_velocity": 105,
             "weight_efficiency": 20,
             "weight_quality": 50
           }
@@ -67,7 +55,7 @@
         "outputs": [
           {
             "resource": "BAR_SERVICE",
-            "max_velocity": 20,
+            "max_velocity": 250,
             "customers": [
               {
                 "resource": "EXECUTIVE",

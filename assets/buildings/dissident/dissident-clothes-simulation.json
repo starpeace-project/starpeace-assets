@@ -122,20 +122,7 @@
             "weight_quality": 0
           }
         ],
-        "operations": [
-          {
-            "resource": "COMPUTER_SERVICE",
-            "max_velocity": 0.16,
-            "weight_efficiency": 0,
-            "weight_quality": 0
-          },
-          {
-            "resource": "LEGAL_SERVICE",
-            "max_velocity": 0.08,
-            "weight_efficiency": 0,
-            "weight_quality": 0
-          }
-        ],
+        "operations": [],
         "inputs": [
           {
             "resource": "FABRIC",

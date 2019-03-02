@@ -28,18 +28,6 @@
         "max_velocity": 120,
         "weight_efficiency": 5,
         "weight_quality": 0
-      },
-      {
-        "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.16,
-        "weight_efficiency": 5,
-        "weight_quality": 5
-      },
-      {
-        "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.08,
-        "weight_efficiency": 5,
-        "weight_quality": 5
       }
     ],
     "products": [
@@ -47,7 +35,7 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 0.83333333333333333333333333333333,
+            "max_velocity": 21.5,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -55,7 +43,7 @@
         "outputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 0.83333333333333333333333333333333,
+            "max_velocity": 21.5,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -80,7 +68,7 @@
         "inputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 0.83333333333333333333333333333333,
+            "max_velocity": 22.5,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -88,7 +76,7 @@
         "outputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 0.83333333333333333333333333333333,
+            "max_velocity": 22.5,
             "customers": [
               {
                 "resource": "EXECUTIVE",

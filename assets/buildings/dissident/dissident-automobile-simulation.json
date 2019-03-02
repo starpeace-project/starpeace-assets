@@ -139,13 +139,13 @@
       },
       {
         "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.32,
+        "max_velocity": 0.02,
         "weight_efficiency": 5,
         "weight_quality": 5
       },
       {
         "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.16,
+        "max_velocity": 0.01,
         "weight_efficiency": 5,
         "weight_quality": 5
       }
