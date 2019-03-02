@@ -31,7 +31,7 @@
     "operations": [
       {
         "resource": "ADVERTISEMENTS",
-        "max_velocity": 100,
+        "max_velocity": 8.2142857142857142857142857142857,
         "weight_efficiency": 5,
         "weight_quality": 0
       }
@@ -41,7 +41,7 @@
         "inputs": [
           {
             "resource": "BOOK",
-            "max_velocity": 25,
+            "max_velocity": 16.875,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -49,7 +49,7 @@
         "outputs": [
           {
             "resource": "BOOK",
-            "max_velocity": 25,
+            "max_velocity": 16.875,
             "customers": [
               {
                 "resource": "EXECUTIVE",

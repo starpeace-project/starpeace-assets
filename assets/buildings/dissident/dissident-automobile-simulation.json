@@ -133,19 +133,19 @@
     "operations": [
       {
         "resource": "ADVERTISEMENTS",
-        "max_velocity": 140,
+        "max_velocity": 10.15,
         "weight_efficiency": 5,
         "weight_quality": 0
       },
       {
         "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.02,
+        "max_velocity": 0.02083333333333333333333333333333,
         "weight_efficiency": 5,
         "weight_quality": 5
       },
       {
         "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.01,
+        "max_velocity": 0.04166666666666666666666666666667,
         "weight_efficiency": 5,
         "weight_quality": 5
       }
@@ -155,7 +155,7 @@
         "inputs": [
           {
             "resource": "AUTOMOBILE",
-            "max_velocity": 1.5,
+            "max_velocity": 1,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -163,7 +163,7 @@
         "outputs": [
           {
             "resource": "AUTOMOBILE",
-            "max_velocity": 1.5,
+            "max_velocity": 1,
             "customers": [
               {
                 "resource": "EXECUTIVE",

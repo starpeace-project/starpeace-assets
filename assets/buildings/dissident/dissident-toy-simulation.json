@@ -131,7 +131,7 @@
         "inputs": [
           {
             "resource": "TOY",
-            "max_velocity": 18,
+            "max_velocity": 20,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -139,7 +139,7 @@
         "outputs": [
           {
             "resource": "TOY",
-            "max_velocity": 18,
+            "max_velocity": 20,
             "customers": [
               {
                 "resource": "EXECUTIVE",

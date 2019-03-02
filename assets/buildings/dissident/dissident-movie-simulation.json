@@ -25,19 +25,7 @@
     "operations": [
       {
         "resource": "ADVERTISEMENTS",
-        "max_velocity": 100,
-        "weight_efficiency": 5,
-        "weight_quality": 0
-      },
-      {
-        "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.16,
-        "weight_efficiency": 5,
-        "weight_quality": 0
-      },
-      {
-        "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.08,
+        "max_velocity": 174,
         "weight_efficiency": 5,
         "weight_quality": 0
       }
@@ -46,8 +34,8 @@
       {
         "inputs": [
           {
-            "resource": "MOVIE",
-            "max_velocity": 0.5,
+            "resource": "FILM",
+            "max_velocity": 0.04166666666666666666666666666667,
             "weight_efficiency": 20,
             "weight_quality": 100
           },
@@ -61,21 +49,21 @@
         "outputs": [
           {
             "resource": "MOVIE",
-            "max_velocity": 50,
+            "max_velocity": 100,
             "customers": [
               {
                 "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "max_velocity": 1.3333333333333333333333333333333,
                 "probability": 0.5
               },
               {
                 "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "max_velocity": 35,
                 "probability": 0.5
               },
               {
                 "resource": "WORKER",
-                "max_velocity": 10,
+                "max_velocity": 65,
                 "probability": 0.7
               }
             ]

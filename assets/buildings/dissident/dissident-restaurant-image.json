@@ -13,8 +13,8 @@
   {
     "id": "dis.restaurant.b",
     "image_path": "assets/buildings/dissident/images/dis.restaurant.b.gif",
-    "tile_width": 1,
-    "tile_height": 1,
+    "tile_width": 2,
+    "tile_height": 2,
     "hit_area": [
       [{"x":127,"y":85},{"x":93,"y":66},{"x":34,"y":66},{"x":0,"y":84},{"x":65,"y":114}],
       [{"x":37,"y":41},{"x":34,"y":66},{"x":92,"y":58},{"x":92,"y":49},{"x":72,"y":30},{"x":60,"y":28}],

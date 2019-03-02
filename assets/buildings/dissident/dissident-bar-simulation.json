@@ -31,7 +31,7 @@
     "operations": [
       {
         "resource": "ADVERTISEMENTS",
-        "max_velocity": 120,
+        "max_velocity": 13.714285714285714285714285714286,
         "weight_efficiency": 5,
         "weight_quality": 0
       }
@@ -55,7 +55,7 @@
         "outputs": [
           {
             "resource": "BAR_SERVICE",
-            "max_velocity": 250,
+            "max_velocity": 350,
             "customers": [
               {
                 "resource": "EXECUTIVE",
