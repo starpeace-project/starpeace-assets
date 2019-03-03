@@ -2,6 +2,7 @@
   {
     "id": "dis.restaurant.a",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -87,6 +88,7 @@
   {
     "id": "dis.restaurant.b",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

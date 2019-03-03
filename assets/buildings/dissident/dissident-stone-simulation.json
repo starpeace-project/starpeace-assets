@@ -2,6 +2,7 @@
   {
     "id": "dis.mine.stone",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -74,6 +75,7 @@
   {
     "id": "dis.mine.stone.small",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

@@ -2,6 +2,7 @@
   {
     "id": "generic.warehouse.chemical",
     "type": "STORAGE",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -44,6 +45,7 @@
   {
     "id": "generic.warehouse.cold",
     "type": "STORAGE",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -86,6 +88,7 @@
   {
     "id": "generic.warehouse.cold.super",
     "type": "STORAGE",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -128,6 +131,7 @@
   {
     "id": "generic.warehouse.fabric",
     "type": "STORAGE",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -178,6 +182,7 @@
   {
     "id": "generic.warehouse.ore",
     "type": "STORAGE",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -224,6 +229,7 @@
   {
     "id": "generic.warehouse.univeral",
     "type": "STORAGE",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

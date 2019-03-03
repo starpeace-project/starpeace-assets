@@ -2,6 +2,7 @@
   {
     "id": "dis.food.proc",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -80,6 +81,7 @@
   {
     "id": "dis.food.proc.small",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

@@ -2,6 +2,7 @@
   {
     "id": "dis.toy.industry",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -92,6 +93,7 @@
   {
     "id": "dis.toy.store",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

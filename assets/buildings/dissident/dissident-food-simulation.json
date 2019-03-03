@@ -2,6 +2,7 @@
   {
     "id": "dis.food.store",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

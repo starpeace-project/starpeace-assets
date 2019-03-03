@@ -2,6 +2,7 @@
   {
     "id": "magna.movie.studios",
     "type": "FACTORY",
+    "max_level": 4,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
