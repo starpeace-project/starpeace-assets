@@ -2,6 +2,7 @@
   {
     "id": "moab.food.proc",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

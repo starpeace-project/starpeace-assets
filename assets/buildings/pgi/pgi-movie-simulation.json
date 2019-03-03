@@ -2,6 +2,7 @@
   {
     "id": "pgi.movie.a",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -46,8 +47,8 @@
       {
         "inputs": [
           {
-            "resource": "MOVIE",
-            "max_velocity": 0.5,
+            "resource": "FILM",
+            "max_velocity": 1,
             "weight_efficiency": 20,
             "weight_quality": 100
           },
@@ -87,6 +88,7 @@
   {
     "id": "pgi.movie.b",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -131,8 +133,8 @@
       {
         "inputs": [
           {
-            "resource": "MOVIE",
-            "max_velocity": 0.5,
+            "resource": "FILM",
+            "max_velocity": 1,
             "weight_efficiency": 20,
             "weight_quality": 100
           },

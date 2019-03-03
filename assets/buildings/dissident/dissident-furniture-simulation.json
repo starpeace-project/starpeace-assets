@@ -134,7 +134,7 @@
         "inputs": [
           {
             "resource": "FURNITURE",
-            "max_velocity": 4,
+            "max_velocity": 3,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -142,7 +142,7 @@
         "outputs": [
           {
             "resource": "FURNITURE",
-            "max_velocity": 4,
+            "max_velocity": 3,
             "customers": [
               {
                 "resource": "EXECUTIVE",

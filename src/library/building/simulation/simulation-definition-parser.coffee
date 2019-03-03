@@ -18,6 +18,6 @@ exports = module.exports = class SimulationDefinitionParser
     definition = SimulationDefinitionParser.definition_from_type(json)
     definition.id = json.id
     definition.type = json.type
-    definition.max_level = json.max_level || 1
+    definition.max_level = json.max_level
     definition.construction_inputs = _.map(json.construction_inputs, ConstructionQuantity.from_json)
     definition

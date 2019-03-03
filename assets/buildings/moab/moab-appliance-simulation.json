@@ -2,6 +2,7 @@
   {
     "id": "moab.hha.industry",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -98,6 +99,7 @@
   {
     "id": "moab.hha.store",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -137,7 +139,7 @@
         "inputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 12,
+            "max_velocity": 9,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -145,7 +147,7 @@
         "outputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 12,
+            "max_velocity": 9,
             "customers": [
               {
                 "resource": "EXECUTIVE",

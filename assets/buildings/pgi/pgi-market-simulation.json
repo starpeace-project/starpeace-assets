@@ -2,6 +2,7 @@
   {
     "id": "pgi.market.a",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -53,7 +54,7 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 30,
+            "max_velocity": 160,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -61,7 +62,7 @@
         "outputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 30,
+            "max_velocity": 160,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -86,7 +87,7 @@
         "inputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 32,
+            "max_velocity": 160,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -94,7 +95,7 @@
         "outputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 32,
+            "max_velocity": 160,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -119,7 +120,7 @@
         "inputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 18,
+            "max_velocity": 80,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -127,7 +128,7 @@
         "outputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 18,
+            "max_velocity": 80,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -152,7 +153,7 @@
         "inputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 10,
+            "max_velocity": 36,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -160,7 +161,7 @@
         "outputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 10,
+            "max_velocity": 36,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -186,6 +187,7 @@
   {
     "id": "pgi.market.b",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -237,7 +239,7 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 18,
+            "max_velocity": 90,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -245,7 +247,7 @@
         "outputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 18,
+            "max_velocity": 90,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -270,7 +272,7 @@
         "inputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 20,
+            "max_velocity": 90,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -278,65 +280,65 @@
         "outputs": [
           {
             "resource": "PROCESSED_FOOD",
+            "max_velocity": 90,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "CLOTHES",
+            "max_velocity": 45,
+            "weight_efficiency": 30,
+            "weight_quality": 50
+          }
+        ],
+        "outputs": [
+          {
+            "resource": "CLOTHES",
+            "max_velocity": 45,
+            "customers": [
+              {
+                "resource": "EXECUTIVE",
+                "max_velocity": 3.75,
+                "probability": 0.9
+              },
+              {
+                "resource": "PROFESSIONAL",
+                "max_velocity": 6.25,
+                "probability": 0.9
+              },
+              {
+                "resource": "WORKER",
+                "max_velocity": 10,
+                "probability": 0.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "inputs": [
+          {
+            "resource": "APPLIANCE",
             "max_velocity": 20,
-            "customers": [
-              {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
-                "probability": 0.9
-              },
-              {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
-                "probability": 0.9
-              },
-              {
-                "resource": "WORKER",
-                "max_velocity": 10,
-                "probability": 0.9
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "inputs": [
-          {
-            "resource": "CLOTHES",
-            "max_velocity": 10,
-            "weight_efficiency": 30,
-            "weight_quality": 50
-          }
-        ],
-        "outputs": [
-          {
-            "resource": "CLOTHES",
-            "max_velocity": 10,
-            "customers": [
-              {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
-                "probability": 0.9
-              },
-              {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
-                "probability": 0.9
-              },
-              {
-                "resource": "WORKER",
-                "max_velocity": 10,
-                "probability": 0.9
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "inputs": [
-          {
-            "resource": "APPLIANCE",
-            "max_velocity": 5,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -344,7 +346,7 @@
         "outputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 5,
+            "max_velocity": 20,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -370,6 +372,7 @@
   {
     "id": "pgi.market.c",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -421,7 +424,7 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 10,
+            "max_velocity": 40,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -429,7 +432,7 @@
         "outputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 10,
+            "max_velocity": 40,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -454,7 +457,7 @@
         "inputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 10,
+            "max_velocity": 40,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -462,7 +465,7 @@
         "outputs": [
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 10,
+            "max_velocity": 40,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -487,7 +490,7 @@
         "inputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 8,
+            "max_velocity": 20,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -495,7 +498,7 @@
         "outputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 8,
+            "max_velocity": 20,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -520,7 +523,7 @@
         "inputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 6,
+            "max_velocity": 9,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -528,7 +531,7 @@
         "outputs": [
           {
             "resource": "APPLIANCE",
-            "max_velocity": 6,
+            "max_velocity": 9,
             "customers": [
               {
                 "resource": "EXECUTIVE",

@@ -42,7 +42,7 @@
         "inputs": [
           {
             "resource": "BOOK",
-            "max_velocity": 16.875,
+            "max_velocity": 15,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -50,7 +50,7 @@
         "outputs": [
           {
             "resource": "BOOK",
-            "max_velocity": 16.875,
+            "max_velocity": 15,
             "customers": [
               {
                 "resource": "EXECUTIVE",

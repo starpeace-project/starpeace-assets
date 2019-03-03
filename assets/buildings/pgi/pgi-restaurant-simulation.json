@@ -2,6 +2,7 @@
   {
     "id": "pgi.restaurant",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -53,19 +54,19 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 12.5,
+            "max_velocity": 10,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 7.5,
+            "max_velocity": 6,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
             "resource": "LIQUOR",
-            "max_velocity": 5,
+            "max_velocity": 4,
             "weight_efficiency": 20,
             "weight_quality": 50
           }
@@ -73,7 +74,7 @@
         "outputs": [
           {
             "resource": "RESTAURANT_SERVICE",
-            "max_velocity": 25,
+            "max_velocity": 20,
             "customers": [
               {
                 "resource": "EXECUTIVE",

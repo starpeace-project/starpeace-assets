@@ -2,6 +2,7 @@
   {
     "id": "moab.metal.industry",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

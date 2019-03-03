@@ -2,6 +2,7 @@
   {
     "id": "moab.movie",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -53,7 +54,7 @@
           },
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 0.20833333333333333333333333333333,
+            "max_velocity": 5,
             "weight_efficiency": 20,
             "weight_quality": 10
           }
@@ -61,7 +62,7 @@
         "outputs": [
           {
             "resource": "MOVIE",
-            "max_velocity": 1.6666666666666666666666666666667,
+            "max_velocity": 40,
             "customers": [
               {
                 "resource": "EXECUTIVE",

@@ -2,6 +2,7 @@
   {
     "id": "moab.car.industry",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -104,6 +105,7 @@
   {
     "id": "moab.car.store",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

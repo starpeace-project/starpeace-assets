@@ -2,6 +2,7 @@
   {
     "id": "moab.clothes.industry",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -86,6 +87,7 @@
   {
     "id": "moab.clothes.store",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -112,18 +114,6 @@
         "max_velocity": 130,
         "weight_efficiency": 5,
         "weight_quality": 0
-      },
-      {
-        "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.16,
-        "weight_efficiency": 5,
-        "weight_quality": 5
-      },
-      {
-        "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.08,
-        "weight_efficiency": 5,
-        "weight_quality": 5
       }
     ],
     "products": [
@@ -131,7 +121,7 @@
         "inputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 0.83333333333333333333333333333333,
+            "max_velocity": 20,
             "weight_efficiency": 30,
             "weight_quality": 50
           }
@@ -139,7 +129,7 @@
         "outputs": [
           {
             "resource": "CLOTHES",
-            "max_velocity": 0.83333333333333333333333333333333,
+            "max_velocity": 20,
             "customers": [
               {
                 "resource": "EXECUTIVE",

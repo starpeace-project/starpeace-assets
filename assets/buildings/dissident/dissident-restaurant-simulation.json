@@ -42,19 +42,19 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 15,
+            "max_velocity": 10,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 9,
+            "max_velocity": 6,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
             "resource": "LIQUOR",
-            "max_velocity": 6,
+            "max_velocity": 4,
             "weight_efficiency": 20,
             "weight_quality": 50
           }
@@ -62,7 +62,7 @@
         "outputs": [
           {
             "resource": "RESTAURANT_SERVICE",
-            "max_velocity": 30,
+            "max_velocity": 20,
             "customers": [
               {
                 "resource": "EXECUTIVE",
@@ -128,19 +128,19 @@
         "inputs": [
           {
             "resource": "FRESH_FOOD",
-            "max_velocity": 25,
-            "weight_efficiency": 20,
-            "weight_quality": 50
-          },
-          {
-            "resource": "PROCESSED_FOOD",
             "max_velocity": 15,
             "weight_efficiency": 20,
             "weight_quality": 50
           },
           {
+            "resource": "PROCESSED_FOOD",
+            "max_velocity": 9,
+            "weight_efficiency": 20,
+            "weight_quality": 50
+          },
+          {
             "resource": "LIQUOR",
-            "max_velocity": 10,
+            "max_velocity": 6,
             "weight_efficiency": 20,
             "weight_quality": 50
           }
@@ -148,7 +148,7 @@
         "outputs": [
           {
             "resource": "RESTAURANT_SERVICE",
-            "max_velocity": 50,
+            "max_velocity": 30,
             "customers": [
               {
                 "resource": "EXECUTIVE",

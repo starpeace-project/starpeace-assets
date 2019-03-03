@@ -2,6 +2,7 @@
   {
     "id": "pgi.elect.comp.industry",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -86,6 +87,7 @@
   {
     "id": "pgi.elect.comp.industry.small",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",

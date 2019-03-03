@@ -2,6 +2,7 @@
   {
     "id": "pgi.pharma.industry",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -86,6 +87,7 @@
   {
     "id": "pgi.drug.store",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -118,18 +120,6 @@
         "max_velocity": 140,
         "weight_efficiency": 5,
         "weight_quality": 0
-      },
-      {
-        "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.16,
-        "weight_efficiency": 5,
-        "weight_quality": 0
-      },
-      {
-        "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.08,
-        "weight_efficiency": 5,
-        "weight_quality": 0
       }
     ],
     "products": [
@@ -137,7 +127,7 @@
         "inputs": [
           {
             "resource": "PHARMACEUTICAL",
-            "max_velocity": 5,
+            "max_velocity": 10,
             "weight_efficiency": 20,
             "weight_quality": 100
           }
@@ -145,7 +135,7 @@
         "outputs": [
           {
             "resource": "PHARMACEUTICAL",
-            "max_velocity": 5,
+            "max_velocity": 10,
             "customers": [
               {
                 "resource": "EXECUTIVE",

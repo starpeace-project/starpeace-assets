@@ -2,6 +2,7 @@
   {
     "id": "pgi.bar",
     "type": "STORE",
+    "max_level": 20,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -28,18 +29,6 @@
         "max_velocity": 100,
         "weight_efficiency": 5,
         "weight_quality": 0
-      },
-      {
-        "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.16,
-        "weight_efficiency": 5,
-        "weight_quality": 10
-      },
-      {
-        "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.08,
-        "weight_efficiency": 5,
-        "weight_quality": 10
       }
     ],
     "products": [
@@ -47,13 +36,13 @@
         "inputs": [
           {
             "resource": "LIQUOR",
-            "max_velocity": 14,
+            "max_velocity": 35,
             "weight_efficiency": 20,
             "weight_quality": 150
           },
           {
             "resource": "PROCESSED_FOOD",
-            "max_velocity": 6,
+            "max_velocity": 15,
             "weight_efficiency": 20,
             "weight_quality": 50
           }
@@ -61,7 +50,7 @@
         "outputs": [
           {
             "resource": "BAR_SERVICE",
-            "max_velocity": 20,
+            "max_velocity": 50,
             "customers": [
               {
                 "resource": "EXECUTIVE",

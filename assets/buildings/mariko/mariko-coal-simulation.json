@@ -2,6 +2,7 @@
   {
     "id": "mko.mine.coal",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -74,6 +75,7 @@
   {
     "id": "mko.mine.coal.small",
     "type": "FACTORY",
+    "max_level": 100,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
