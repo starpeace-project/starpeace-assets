@@ -7,9 +7,20 @@ Coordinate = require('./building/coordinate')
 BuildingSimulationDefinition = require('./building/simulation/simulation-definition')
 BuildingSimulationDefinitionParser = require('./building/simulation/simulation-definition-parser')
 ConstructionQuantity = require('./building/simulation/construction-quantity')
-FactoryDefinition = require('./building/simulation/factory-definition')
+
+BankDefinition = require('./building/simulation/bank/bank-definition')
+FactoryDefinition = require('./building/simulation/factory/factory-definition')
+FactoryStage = require('./building/simulation/factory/factory-stage')
+HeadquartersDefinition = require('./building/simulation/headquarters/headquarters-definition')
+AntennaDefinition = require('./building/simulation/media/antenna-definition')
+MediaStationDefinition = require('./building/simulation/media/media-station-definition')
+ParkDefinition = require('./building/simulation/park/park-definition')
+ServiceDefinition = require('./building/simulation/service/service-definition')
 StorageDefinition = require('./building/simulation/storage-definition')
 StoreDefinition = require('./building/simulation/store-definition')
+StoreProductCustomer = require('./building/simulation/store-product-customer')
+StoreProductOutput = require('./building/simulation/store-product-output')
+StoreProduct = require('./building/simulation/store-product')
 
 CityZone = require('./industry/city-zone')
 IndustryCategory = require('./industry/industry-category')
@@ -32,9 +43,20 @@ exports = module.exports = {
   BuildingSimulationDefinition
   BuildingSimulationDefinitionParser
   ConstructionQuantity
+
+  BankDefinition
   FactoryDefinition
+  FactoryStage
+  HeadquartersDefinition
+  AntennaDefinition
+  MediaStationDefinition
+  ParkDefinition
+  ServiceDefinition
   StorageDefinition
   StoreDefinition
+  StoreProductCustomer
+  StoreProductOutput
+  StoreProduct
 
   CityZone
   IndustryCategory
