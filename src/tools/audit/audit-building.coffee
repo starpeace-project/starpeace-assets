@@ -14,9 +14,9 @@ FileUtils = require('../utils/file-utils')
 
 
 exports = module.exports = class AuditBuilding
-  @EXPECTED_DEFINITION_COUNT: 325
-  @EXPECTED_IMAGE_DEFINITION_COUNT: 418
-  @EXPECTED_SIMULATION_DEFINITION_COUNT: 176
+  @EXPECTED_DEFINITION_COUNT: 323
+  @EXPECTED_IMAGE_DEFINITION_COUNT: 417
+  @EXPECTED_SIMULATION_DEFINITION_COUNT: 191
 
   @audit: (root_dir) -> (audit_data) -> new Promise (resolve, reject) ->
     try
@@ -40,6 +40,14 @@ exports = module.exports = class AuditBuilding
       simulation_definitions_by_id = _.keyBy(simulation_definitions, 'id')
       AuditUtils.audit_is_valid('building simulation definition', simulation_definitions)
       AuditUtils.audit_unique_count_by_id('building simulation definition', simulation_definitions, simulation_definitions_by_id, AuditBuilding.EXPECTED_SIMULATION_DEFINITION_COUNT)
+
+      process.stdout.write '\n'
+
+      definitions_with_unknown_simulation_definitions = _.filter(definitions, (definition) -> !simulation_definitions_by_id[definition.id]?)
+      if definitions_with_unknown_simulation_definitions.length
+        console.log " [WARN] building definition #{definition.id} has unknown definition reference" for definition in definitions_with_unknown_simulation_definitions
+      else
+        console.log " [OK] all building definitions have valid simulation definition references"
 
       process.stdout.write '\n'
 

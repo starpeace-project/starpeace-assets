@@ -22,8 +22,8 @@ exports = module.exports = class AuditIndustry
   @EXPECTED_INDUSTRY_CATEGORY_COUNT: 7
   @EXPECTED_INDUSTRY_TYPE_COUNT: 58
   @EXPECTED_LEVEL_COUNT: 6
-  @EXPECTED_RESOURCE_TYPE_COUNT: 41
-  @EXPECTED_RESOURCE_UNIT_COUNT: 8
+  @EXPECTED_RESOURCE_TYPE_COUNT: 53
+  @EXPECTED_RESOURCE_UNIT_COUNT: 10
 
   @audit: (root_dir) -> new Promise (resolve, reject) ->
     try

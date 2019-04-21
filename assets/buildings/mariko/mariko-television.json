@@ -1,5 +1,25 @@
 [
   {
+    "id": "mko.tv.antenna",
+    "image_id": "generic.tv.antenna",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "TV-Antenne",
+      "EN": "TV Antenna",
+      "ES": "Antena de televisión",
+      "FR": "Antenne de télévision",
+      "IT": "Antenna TV",
+      "PT": "Antena de tv"
+    },
+    "seal_id": "MKO",
+    "zone": "COMMERCIAL",
+    "category": "SERVICE",
+    "industry_type": "TELEVISION",
+    "required_inventions": [
+      "BasicTelevision"
+    ]
+  },
+  {
     "id": "mko.tv.station",
     "image_id": "mko.tv.station",
     "construction_image_id": "generic.construction.2",

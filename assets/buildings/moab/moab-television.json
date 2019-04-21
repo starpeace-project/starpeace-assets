@@ -1,5 +1,25 @@
 [
   {
+    "id": "moab.tv.antenna",
+    "image_id": "generic.tv.antenna",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "TV-Antenne",
+      "EN": "TV Antenna",
+      "ES": "Antena de televisión",
+      "FR": "Antenne de télévision",
+      "IT": "Antenna TV",
+      "PT": "Antena de tv"
+    },
+    "seal_id": "MOAB",
+    "zone": "COMMERCIAL",
+    "category": "SERVICE",
+    "industry_type": "TELEVISION",
+    "required_inventions": [
+      "BasicTelevision"
+    ]
+  },
+  {
     "id": "moab.tv.station",
     "image_id": "moab.tv.station",
     "construction_image_id": "generic.construction.3",

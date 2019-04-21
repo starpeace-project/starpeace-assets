@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dis.school",
+    "image_id": "dis.school",
+    "construction_image_id": "generic.construction.3",
+    "name": {
+      "DE": "Schule",
+      "EN": "School",
+      "ES": "Colegio",
+      "FR": "École",
+      "IT": "Scuola",
+      "PT": "Escola"
+    },
+    "seal_id": "DIS",
+    "zone": "CIVICS",
+    "category": "CIVIC",
+    "industry_type": "SCHOOL",
+    "required_inventions": [
+      "CivicFac"
+    ]
+  }
+]

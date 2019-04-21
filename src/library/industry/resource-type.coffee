@@ -14,7 +14,7 @@ exports = module.exports = class ResourceType
     return false unless _.isString(@id) && @id.length > 0
     return false unless @label_plural?
     return false unless _.isString(@unit_id) && @unit_id.length > 0
-    return false unless _.isNumber(@price) && @price > 0
+    return false unless _.isNumber(@price) && @price >= 0
     true
 
 

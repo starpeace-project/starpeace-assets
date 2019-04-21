@@ -1,0 +1,45 @@
+[
+  {
+    "id": "dis.hospital",
+    "type": "SERVICE",
+    "max_level": 5,
+    "beauty": 100,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 90000,
+        "max_velocity": 4500
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 62.5,
+        "max_velocity": 3.125
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 625,
+        "max_velocity": 31.25
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 20,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 45,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 30,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  }
+]

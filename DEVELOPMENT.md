@@ -9,11 +9,11 @@ Local development can be accomplished in a few commands. The following build-tim
 Retrieve copy of repository and navigate to root:
 
 ```
-$ git clone https://github.com/starpeace-project/starpeace-website-client-assets.git
-$ cd starpeace-website-client-assets
+$ git clone https://github.com/starpeace-project/starpeace-assets.git
+$ cd starpeace-assets
 ```
 
-Install starpeace-website-client-assets dependencies:
+Install starpeace-assets dependencies:
 
 ```
 $ npm install

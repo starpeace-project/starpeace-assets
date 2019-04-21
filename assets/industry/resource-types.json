@@ -9,7 +9,7 @@
       "IT": "annunci",
       "PT": "propagandas"
     },
-    "unit_id": "HOUR",
+    "unit_id": "IMPRESSION",
     "price": 0.5
   },
   {
@@ -63,6 +63,19 @@
     },
     "unit_id": "ITEM",
     "price": 15
+  },
+  {
+    "id": "CEMETERY_SERVICE",
+    "label_plural": {
+      "DE": "friedhofsdienste",
+      "EN": "cemetery services",
+      "ES": "servicios de cementerio",
+      "FR": "services de cimetière",
+      "IT": "servizi del cimitero",
+      "PT": "serviços de cemitério"
+    },
+    "unit_id": "HOUR",
+    "price": 0
   },
   {
     "id": "CHEMICAL",
@@ -156,6 +169,19 @@
     "price": 100
   },
   {
+    "id": "CRIME",
+    "label_plural": {
+      "DE": "kriminalität",
+      "EN": "crime",
+      "ES": "crimen",
+      "FR": "criminalité",
+      "IT": "crimine",
+      "PT": "crime"
+    },
+    "unit_id": "OCCURRENCE",
+    "price": 0
+  },
+  {
     "id": "CRUDE_OIL",
     "label_plural": {
       "DE": "rohöl",
@@ -167,6 +193,32 @@
     },
     "unit_id": "LITER",
     "price": 0.2
+  },
+  {
+    "id": "EDUCATION_COLLEGE",
+    "label_plural": {
+      "DE": "universitäre ausbildung",
+      "EN": "college education",
+      "ES": "educación universitaria",
+      "FR": "éducation universitaire",
+      "IT": "istruzione universitaria",
+      "PT": "educação universitária"
+    },
+    "unit_id": "HOUR",
+    "price": 0
+  },
+  {
+    "id": "EDUCATION_PRIMARY",
+    "label_plural": {
+      "DE": "grundschulbildung",
+      "EN": "primary education",
+      "ES": "educación primaria",
+      "FR": "enseignement primaire",
+      "IT": "istruzione elementare",
+      "PT": "educação primária"
+    },
+    "unit_id": "HOUR",
+    "price": 0
   },
   {
     "id": "ELECTRONIC_COMPONENT",
@@ -234,6 +286,19 @@
     "price": 4
   },
   {
+    "id": "FIRE_SERVICE",
+    "label_plural": {
+      "DE": "feuerwehrdienste",
+      "EN": "fire services",
+      "ES": "servicios de bomberos",
+      "FR": "services d'incendie",
+      "IT": "servizi antincendio",
+      "PT": "bombeiros"
+    },
+    "unit_id": "HOUR",
+    "price": 0
+  },
+  {
     "id": "FUNERAL_SERVICE",
     "label_plural": {
       "DE": "bestattungsinstitut",
@@ -258,6 +323,19 @@
     },
     "unit_id": "ITEM",
     "price": 100
+  },
+  {
+    "id": "GARBAGE_SERVICE",
+    "label_plural": {
+      "DE": "mülldienstleistungen",
+      "EN": "garbage services",
+      "ES": "servicios de basura",
+      "FR": "services d'ordures",
+      "IT": "servizi di spazzatura",
+      "PT": "serviços de lixo"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 0
   },
   {
     "id": "GASOLINE",
@@ -312,6 +390,19 @@
     "price": 8000
   },
   {
+    "id": "MEDICAL_SERVICE",
+    "label_plural": {
+      "DE": "medizinischer dienst",
+      "EN": "medical services",
+      "ES": "servicios médicos",
+      "FR": "services médicaux",
+      "IT": "servizi medici",
+      "PT": "serviços médicos"
+    },
+    "unit_id": "HOUR",
+    "price": 0
+  },
+  {
     "id": "METAL",
     "label_plural": {
       "DE": "metalle",
@@ -336,6 +427,19 @@
     },
     "unit_id": "ITEM",
     "price": 5
+  },
+  {
+    "id": "MUSEUM_SERVICE",
+    "label_plural": {
+      "DE": "museumsdienstleistungen",
+      "EN": "museum services",
+      "ES": "servicios de museo",
+      "FR": "services du musée",
+      "IT": "servizi museali",
+      "PT": "serviços de museu"
+    },
+    "unit_id": "HOUR",
+    "price": 0
   },
   {
     "id": "ORE",
@@ -376,19 +480,7 @@
     "unit_id": "KILOGRAM",
     "price": 15
   },
-  {
-    "id": "PRINTED_MATERIAL",
-    "label_plural": {
-      "DE": "gedrucktes material",
-      "EN": "printed material",
-      "ES": "material impreso",
-      "FR": "matériau imprimé",
-      "IT": "materiale stampato",
-      "PT": "material impresso"
-    },
-    "unit_id": "KILOGRAM",
-    "price": 25
-  },
+
   {
     "id": "PHARMACEUTICAL",
     "label_plural": {
@@ -414,6 +506,58 @@
     },
     "unit_id": "KILOGRAM",
     "price": 5
+  },
+  {
+    "id": "POLICE_SERVICE",
+    "label_plural": {
+      "DE": "polizeidienste",
+      "EN": "police services",
+      "ES": "servicios policiales",
+      "FR": "services de police",
+      "IT": "servizi di polizia",
+      "PT": "serviços policiais"
+    },
+    "unit_id": "HOUR",
+    "price": 0
+  },
+  {
+    "id": "POLLUTION",
+    "label_plural": {
+      "DE": "verschmutzung",
+      "EN": "pollution",
+      "ES": "contaminación",
+      "FR": "pollution",
+      "IT": "inquinamento",
+      "PT": "poluição"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 8
+  },
+  {
+    "id": "PRINTED_MATERIAL",
+    "label_plural": {
+      "DE": "gedrucktes material",
+      "EN": "printed material",
+      "ES": "material impreso",
+      "FR": "matériau imprimé",
+      "IT": "materiale stampato",
+      "PT": "material impresso"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 25
+  },
+  {
+    "id": "PRISON_SERVICE",
+    "label_plural": {
+      "DE": "gefängnisdienste",
+      "EN": "prison services",
+      "ES": "servicios penitenciarios",
+      "FR": "services pénitentiaires",
+      "IT": "servizi penitenziari",
+      "PT": "serviços prisionais"
+    },
+    "unit_id": "KILOGRAM",
+    "price": 0
   },
   {
     "id": "PROCESSED_FOOD",
@@ -453,6 +597,19 @@
     },
     "unit_id": "KILOGRAM",
     "price": 1
+  },
+  {
+    "id": "RECREATION_SERVICE",
+    "label_plural": {
+      "DE": "erholungsdienstleistungen",
+      "EN": "recreation services",
+      "ES": "servicios de recreación",
+      "FR": "services de loisirs",
+      "IT": "servizi ricreativi",
+      "PT": "serviços de recreação"
+    },
+    "unit_id": "HOUR",
+    "price": 200
   },
   {
     "id": "RESTAURANT_SERVICE",

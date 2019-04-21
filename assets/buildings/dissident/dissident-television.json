@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.tv.antenna",
-    "image_id": "dis.tv.antenna",
+    "image_id": "generic.tv.antenna",
     "construction_image_id": "generic.construction.2",
     "name": {
       "DE": "TV-Antenne",
@@ -17,8 +17,7 @@
     "industry_type": "TELEVISION",
     "required_inventions": [
       "BasicTelevision"
-    ],
-    "television": {}
+    ]
   },
   {
     "id": "dis.tv.station",
@@ -38,7 +37,6 @@
     "industry_type": "TELEVISION",
     "required_inventions": [
       "BasicTelevision"
-    ],
-    "television": {}
+    ]
   }
 ]

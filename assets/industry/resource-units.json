@@ -22,6 +22,17 @@
     }
   },
   {
+    "id": "IMPRESSION",
+    "label_plural": {
+      "DE": "eindrücke",
+      "EN": "impressions",
+      "ES": "impresiones",
+      "FR": "impressions",
+      "IT": "impressioni",
+      "PT": "impressões"
+    }
+  },
+  {
     "id": "ITEM",
     "label_plural": {
       "DE": "artikel",
@@ -74,6 +85,17 @@
       "FR": "mètres",
       "IT": "metri",
       "PT": "metros"
+    }
+  },
+  {
+    "id": "OCCURRENCE",
+    "label_plural": {
+      "DE": "auftreten",
+      "EN": "occurrence",
+      "ES": "ocurrencia",
+      "FR": "occurrence",
+      "IT": "evento",
+      "PT": "ocorrência"
     }
   },
   {

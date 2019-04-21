@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dis.hospital",
+    "image_id": "dis.hospital",
+    "construction_image_id": "generic.construction.3",
+    "name": {
+      "DE": "Krankenhaus",
+      "EN": "Hospital",
+      "ES": "Hospital",
+      "FR": "Hôpital",
+      "IT": "Ospedale",
+      "PT": "Hospital"
+    },
+    "seal_id": "DIS",
+    "zone": "CIVICS",
+    "category": "CIVIC",
+    "industry_type": "HOSPITAL",
+    "required_inventions": [
+      "CivicFac"
+    ]
+  }
+]

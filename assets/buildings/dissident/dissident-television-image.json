@@ -1,17 +1,5 @@
 [
   {
-    "id": "dis.tv.antenna",
-    "image_path": "assets/buildings/dissident/images/dis.tv.antenna.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
-      [{"x":108,"y":117},{"x":95,"y":102},{"x":77,"y":96},{"x":51,"y":96},{"x":30,"y":134},{"x":55,"y":142},{"x":74,"y":142},{"x":98,"y":135}],
-      [{"x":21,"y":117},{"x":30,"y":134},{"x":51,"y":96}],
-      [{"x":77,"y":96},{"x":67,"y":7},{"x":64,"y":3},{"x":51,"y":96}],
-      [{"x":74,"y":14},{"x":64,"y":3},{"x":67,"y":7}]
-    ]
-  },
-  {
     "id": "dis.tv.station",
     "image_path": "assets/buildings/dissident/images/dis.tv.station.gif",
     "tile_width": 3,

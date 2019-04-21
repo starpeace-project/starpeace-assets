@@ -1,0 +1,67 @@
+[
+  {
+    "id": "moab.tv.antenna",
+    "type": "ANTENNA",
+    "max_level": 5,
+    "beauty": -25,
+    "range": 10,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 4500,
+        "max_velocity": 150
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 62.5,
+        "max_velocity": 2.083333333
+      }
+    ],
+    "labor": [
+      {
+        "resource": "WORKER",
+        "max_velocity": 4,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.tv.station",
+    "type": "MEDIA_STATION",
+    "max_level": 1,
+    "beauty": 200,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 210000,
+        "max_velocity": 7000
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 11250,
+        "max_velocity": 375
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 50,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 35,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  }
+]

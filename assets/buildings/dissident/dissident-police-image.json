@@ -1,0 +1,13 @@
+[
+  {
+    "id": "dis.police",
+    "image_path": "assets/buildings/dissident/images/dis.police.gif",
+    "tile_width": 1,
+    "tile_height": 1,
+    "hit_area": [
+      [{"x":25,"y":1},{"x":23,"y":22},{"x":33,"y":50},{"x":52,"y":26},{"x":52,"y":13}],
+      [{"x":2,"y":31},{"x":33,"y":50},{"x":23,"y":22}],
+      [{"x":63,"y":36},{"x":52,"y":26},{"x":33,"y":50}]
+    ]
+  }
+]

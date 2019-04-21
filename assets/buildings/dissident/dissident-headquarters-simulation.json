@@ -1,0 +1,40 @@
+[
+  {
+    "id": "dis.hq",
+    "type": "HEADQUARTERS",
+    "max_level": 5,
+    "beauty": 100,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 30000,
+        "max_velocity": 3000
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 2500,
+        "max_velocity": 250
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 50,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 25,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  }
+]
