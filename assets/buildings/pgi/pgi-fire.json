@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pgi.fire",
+    "image_id": "pgi.fire",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "Feuerwehr",
+      "EN": "Fire Station",
+      "ES": "Estación de bomberos",
+      "FR": "Caserne de pompiers",
+      "IT": "Caserma dei pompieri",
+      "PT": "Corpo de Bombeiros"
+    },
+    "seal_id": "PGI",
+    "zone": "CIVICS",
+    "category": "CIVIC",
+    "industry_type": "FIRE",
+    "required_inventions": [
+      "CivicFac"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mko.hospital",
+    "image_id": "mko.hospital",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "Krankenhaus",
+      "EN": "Hospital",
+      "ES": "Hospital",
+      "FR": "Hôpital",
+      "IT": "Ospedale",
+      "PT": "Hospital"
+    },
+    "seal_id": "MKO",
+    "zone": "CIVICS",
+    "category": "CIVIC",
+    "industry_type": "HOSPITAL",
+    "required_inventions": [
+      "CivicFac"
+    ],
+    "civic": {}
+  }
+]

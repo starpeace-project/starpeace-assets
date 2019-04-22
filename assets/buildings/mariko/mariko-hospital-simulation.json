@@ -1,6 +1,6 @@
 [
   {
-    "id": "dis.hospital",
+    "id": "mko.hospital",
     "type": "SERVICE",
     "max_level": 1,
     "maintainance": 500,
@@ -30,13 +30,13 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max_velocity": 45,
+        "max_velocity": 50,
         "weight_efficiency": 20,
         "weight_quality": 25
       },
       {
         "resource": "WORKER",
-        "max_velocity": 30,
+        "max_velocity": 10,
         "weight_efficiency": 20,
         "weight_quality": 25
       }

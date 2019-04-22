@@ -9,6 +9,11 @@ BuildingSimulationDefinitionParser = require('./building/simulation/simulation-d
 ConstructionQuantity = require('./building/simulation/construction-quantity')
 
 BankDefinition = require('./building/simulation/bank/bank-definition')
+CapitolDefinition = require('./building/simulation/civic/capitol-definition')
+MausoleumDefinition = require('./building/simulation/civic/mausoleum-definition')
+PortalDefinition = require('./building/simulation/civic/portal-definition')
+TownhallDefinition = require('./building/simulation/civic/townhall-definition')
+TradecenterDefinition = require('./building/simulation/civic/tradecenter-definition')
 FactoryDefinition = require('./building/simulation/factory/factory-definition')
 FactoryStage = require('./building/simulation/factory/factory-stage')
 HeadquartersDefinition = require('./building/simulation/headquarters/headquarters-definition')
@@ -45,6 +50,11 @@ exports = module.exports = {
   ConstructionQuantity
 
   BankDefinition
+  CapitolDefinition
+  MausoleumDefinition
+  PortalDefinition
+  TownhallDefinition
+  TradecenterDefinition
   FactoryDefinition
   FactoryStage
   HeadquartersDefinition

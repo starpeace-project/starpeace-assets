@@ -1,50 +1,62 @@
 [
   {
-    "id": "dis.hospital",
+    "id": "moab.correctional",
     "type": "SERVICE",
     "max_level": 1,
-    "maintainance": 500,
+    "maintainance": 1000,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
-        "quantity": 90000,
-        "max_velocity": 4500
+        "quantity": 112500,
+        "max_velocity": 2250
       },
       {
         "resource": "MACHINERY",
-        "quantity": 62.5,
-        "max_velocity": 3.125
+        "quantity": 78.125,
+        "max_velocity": 3.90625
       },
       {
         "resource": "COMPUTER",
-        "quantity": 625,
-        "max_velocity": 31.25
+        "quantity": 781.25,
+        "max_velocity": 39.0625
       }
     ],
     "labor": [
       {
         "resource": "EXECUTIVE",
-        "max_velocity": 20,
+        "max_velocity": 2,
         "weight_efficiency": 20,
         "weight_quality": 25
       },
       {
         "resource": "PROFESSIONAL",
-        "max_velocity": 45,
+        "max_velocity": 30,
         "weight_efficiency": 20,
         "weight_quality": 25
       },
       {
         "resource": "WORKER",
-        "max_velocity": 30,
+        "max_velocity": 80,
         "weight_efficiency": 20,
         "weight_quality": 25
       }
     ],
     "service": [
       {
+        "resource": "POLICE_SERVICE",
+        "max_velocity": 1250
+      },
+      {
         "resource": "MEDICAL_SERVICE",
-        "max_velocity": 40000
+        "max_velocity": 10000
+      },
+      {
+        "resource": "FIRE_SERVICE",
+        "max_velocity": 2500
+      },
+      {
+        "resource": "EDUCATION_PRIMARY",
+        "max_velocity": 5000
       }
     ]
   }

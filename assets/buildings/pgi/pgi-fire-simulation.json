@@ -1,50 +1,44 @@
 [
   {
-    "id": "dis.hospital",
+    "id": "pgi.fire",
     "type": "SERVICE",
     "max_level": 1,
     "maintainance": 500,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
-        "quantity": 90000,
-        "max_velocity": 4500
+        "quantity": 18000,
+        "max_velocity": 900
       },
       {
         "resource": "MACHINERY",
-        "quantity": 62.5,
-        "max_velocity": 3.125
+        "quantity": 12.5,
+        "max_velocity": 0.625
       },
       {
         "resource": "COMPUTER",
-        "quantity": 625,
-        "max_velocity": 31.25
+        "quantity": 125,
+        "max_velocity": 6.25
       }
     ],
     "labor": [
       {
-        "resource": "EXECUTIVE",
-        "max_velocity": 20,
-        "weight_efficiency": 20,
-        "weight_quality": 25
-      },
-      {
         "resource": "PROFESSIONAL",
-        "max_velocity": 45,
+        "max_velocity": 1,
         "weight_efficiency": 20,
         "weight_quality": 25
       },
       {
         "resource": "WORKER",
-        "max_velocity": 30,
+        "max_velocity": 25,
         "weight_efficiency": 20,
         "weight_quality": 25
       }
     ],
     "service": [
       {
-        "resource": "MEDICAL_SERVICE",
-        "max_velocity": 40000
+        "resource": "FIRE_SERVICE",
+        "max_velocity": 10000
       }
     ]
   }

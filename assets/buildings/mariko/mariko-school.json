@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mko.school",
+    "image_id": "mko.school",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "Schule",
+      "EN": "School",
+      "ES": "Colegio",
+      "FR": "École",
+      "IT": "Scuola",
+      "PT": "Escola"
+    },
+    "seal_id": "MKO",
+    "zone": "CIVICS",
+    "category": "CIVIC",
+    "industry_type": "SCHOOL",
+    "required_inventions": [
+      "CivicFac"
+    ],
+    "civic": {}
+  }
+]

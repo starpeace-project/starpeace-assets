@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mko.hq",
+    "image_id": "mko.hq.1",
+    "construction_image_id": "generic.construction.3",
+    "name": {
+      "DE": "Hauptquartier",
+      "EN": "Headquarters",
+      "ES": "Sede",
+      "FR": "Quartier général",
+      "IT": "Quartier generale",
+      "PT": "Quartel general"
+    },
+    "seal_id": "MKO",
+    "zone": "SERVICE",
+    "category": "SERVICE",
+    "industry_type": "HEADQUARTERS",
+    "required_inventions": []
+  }
+]

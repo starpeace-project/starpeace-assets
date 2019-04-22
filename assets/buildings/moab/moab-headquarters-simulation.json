@@ -1,0 +1,240 @@
+[
+  {
+    "id": "moab.hq",
+    "type": "HEADQUARTERS",
+    "max_level": 5,
+    "beauty": 100,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 30000,
+        "max_velocity": 3000
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 2500,
+        "max_velocity": 250
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 50,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 25,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.cathedral",
+    "type": "HEADQUARTERS",
+    "max_level": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satellite_category": "SERVICE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 600
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 500,
+        "max_velocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.correctional.tower",
+    "type": "HEADQUARTERS",
+    "max_level": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satellite_category": "CIVIC",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 600
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 500,
+        "max_velocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.industry.tower",
+    "type": "HEADQUARTERS",
+    "max_level": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satellite_category": "INDUSTRY",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 600
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 500,
+        "max_velocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.market.tower",
+    "type": "HEADQUARTERS",
+    "max_level": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satellite_category": "COMMERCE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 600
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 500,
+        "max_velocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.residential.tower",
+    "type": "HEADQUARTERS",
+    "max_level": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satellite_category": "REAL_ESTATE",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 600
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 500,
+        "max_velocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  }
+]

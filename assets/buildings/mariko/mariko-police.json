@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mko.police",
+    "image_id": "mko.police",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "Polizeistation",
+      "EN": "Police Station",
+      "ES": "Estación de policía",
+      "FR": "Poste de police",
+      "IT": "Stazione di polizia",
+      "PT": "Delegacia de polícia"
+    },
+    "seal_id": "MKO",
+    "zone": "CIVICS",
+    "category": "CIVIC",
+    "industry_type": "POLICE",
+    "required_inventions": [
+      "CivicFac"
+    ],
+    "civic": {}
+  }
+]

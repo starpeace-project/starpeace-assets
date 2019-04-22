@@ -1,6 +1,11 @@
 _ = require('lodash')
 
 BankDefinition = require('./bank/bank-definition')
+CapitolDefinition = require('./civic/capitol-definition')
+MausoleumDefinition = require('./civic/mausoleum-definition')
+PortalDefinition = require('./civic/portal-definition')
+TownhallDefinition = require('./civic/townhall-definition')
+TradecenterDefinition = require('./civic/tradecenter-definition')
 FactoryDefinition = require('./factory/factory-definition')
 HeadquartersDefinition = require('./headquarters/headquarters-definition')
 AntennaDefinition = require('./media/antenna-definition')
@@ -17,13 +22,18 @@ exports = module.exports = class SimulationDefinitionParser
   @definition_from_type: (json) ->
     return AntennaDefinition.from_json(json) if json.type == 'ANTENNA'
     return BankDefinition.from_json(json) if json.type == 'BANK'
+    return CapitolDefinition.from_json(json) if json.type == 'CAPITOL'
     return FactoryDefinition.from_json(json) if json.type == 'FACTORY'
     return HeadquartersDefinition.from_json(json) if json.type == 'HEADQUARTERS'
     return MediaStationDefinition.from_json(json) if json.type == 'MEDIA_STATION'
+    return MausoleumDefinition.from_json(json) if json.type == 'MAUSOLEUM'
     return ParkDefinition.from_json(json) if json.type == 'PARK'
+    return PortalDefinition.from_json(json) if json.type == 'PORTAL'
     return ServiceDefinition.from_json(json) if json.type == 'SERVICE'
     return StorageDefinition.from_json(json) if json.type == 'STORAGE'
     return StoreDefinition.from_json(json) if json.type == 'STORE'
+    return TownhallDefinition.from_json(json) if json.type == 'TOWNHALL'
+    return TradecenterDefinition.from_json(json) if json.type == 'TRADECENTER'
     throw "unknown simulation type #{json.type}"
 
   @from_json: (json) ->

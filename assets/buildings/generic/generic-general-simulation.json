@@ -1,0 +1,218 @@
+[
+  {
+    "id": "generic.capitol",
+    "type": "CAPITOL",
+    "max_level": 1,
+    "beauty": 100,
+    "construction_inputs": [],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 20
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 30
+      }
+    ]
+  },
+  {
+    "id": "generic.college",
+    "type": "SERVICE",
+    "max_level": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 5600000,
+        "max_velocity": 280000
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 5000,
+        "max_velocity": 250
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 250000,
+        "max_velocity": 12500
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 40,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 300,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 50,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ],
+    "service": [
+      {
+        "resource": "EDUCATION_COLLEGE",
+        "max_velocity": 200000
+      }
+    ]
+  },
+  {
+    "id": "generic.dump",
+    "type": "SERVICE",
+    "max_level": 1,
+    "maintainance": 5000,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 180000,
+        "max_velocity": 9000
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 125,
+        "max_velocity": 6.25
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 1250,
+        "max_velocity": 62.5
+      }
+    ],
+    "labor": [
+      {
+        "resource": "WORKER",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ],
+    "service": [
+      {
+        "resource": "GARBAGE_SERVICE",
+        "max_velocity": 50000
+      }
+    ]
+  },
+  {
+    "id": "generic.jail",
+    "type": "SERVICE",
+    "max_level": 1,
+    "maintainance": 5000,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 900000,
+        "max_velocity": 45000
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 625,
+        "max_velocity": 31.25
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 6250,
+        "max_velocity": 312.5
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 150,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ],
+    "service": [
+      {
+        "resource": "PRISON_SERVICE",
+        "max_velocity": 50000
+      }
+    ]
+  },
+  {
+    "id": "generic.museum",
+    "type": "SERVICE",
+    "max_level": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 2700000,
+        "max_velocity": 135000
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 1875,
+        "max_velocity": 93.75
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 18750,
+        "max_velocity": 937.5
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 20,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 50,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 200,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ],
+    "service": [
+      {
+        "resource": "MUSEUM_SERVICE",
+        "max_velocity": 50000
+      }
+    ]
+  },
+  {
+    "id": "generic.portal",
+    "type": "PORTAL",
+    "max_level": 1,
+    "beauty": 300,
+    "pollution": -300,
+    "maintainance": 100,
+    "construction_inputs": [],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 30,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  }
+]

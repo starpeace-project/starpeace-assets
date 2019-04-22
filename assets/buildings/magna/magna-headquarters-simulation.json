@@ -1,0 +1,85 @@
+[
+  {
+    "id": "magna.research.a",
+    "type": "HEADQUARTERS",
+    "max_level": 5,
+    "beauty": 100,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 7500,
+        "max_velocity": 750
+      },
+      {
+        "resource": "MACHINERY",
+        "quantity": 18.75,
+        "max_velocity": 1.875
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 750,
+        "max_velocity": 75
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 77,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 33,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 12,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  },
+  {
+    "id": "magna.research.b",
+    "type": "HEADQUARTERS",
+    "max_level": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satellite_category": "RESEARCH",
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 600
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 500,
+        "max_velocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resource": "EXECUTIVE",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 10,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 5,
+        "weight_efficiency": 20,
+        "weight_quality": 25
+      }
+    ]
+  }
+]

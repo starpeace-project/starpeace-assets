@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mko.school",
+    "image_path": "assets/buildings/mariko/images/mko.school.gif",
+    "tile_width": 2,
+    "tile_height": 2,
+    "hit_area": [
+      [{"x":4,"y":49},{"x":63,"y":78},{"x":123,"y":48},{"x":99,"y":35},{"x":30,"y":30}],
+      [{"x":32,"y":14},{"x":30,"y":30},{"x":99,"y":35},{"x":99,"y":21},{"x":59,"y":2}]
+    ]
+  }
+]

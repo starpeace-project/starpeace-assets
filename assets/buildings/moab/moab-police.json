@@ -1,0 +1,22 @@
+[
+  {
+    "id": "moab.correctional",
+    "image_id": "moab.correctional",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "Moab Correctional",
+      "EN": "Moab Correctional",
+      "ES": "Moab correccional",
+      "FR": "Moab Correctional",
+      "IT": "Moab Correctional",
+      "PT": "Moab Correcional"
+    },
+    "seal_id": "MOAB",
+    "zone": "CIVICS",
+    "category": "CIVIC",
+    "industry_type": "POLICE",
+    "required_inventions": [
+      "CivicFac"
+    ]
+  }
+]

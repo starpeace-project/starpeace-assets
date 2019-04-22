@@ -1,9 +1,9 @@
 [
   {
-    "id": "dis.hospital",
+    "id": "pgi.hospital",
     "type": "SERVICE",
     "max_level": 1,
-    "maintainance": 500,
+    "maintainance": 1000,
     "construction_inputs": [
       {
         "resource": "CONSTRUCTION",
@@ -30,7 +30,7 @@
       },
       {
         "resource": "PROFESSIONAL",
-        "max_velocity": 45,
+        "max_velocity": 50,
         "weight_efficiency": 20,
         "weight_quality": 25
       },

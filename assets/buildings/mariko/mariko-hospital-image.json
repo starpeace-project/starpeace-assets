@@ -1,0 +1,11 @@
+[
+  {
+    "id": "mko.hospital",
+    "image_path": "assets/buildings/mariko/images/mko.hospital.gif",
+    "tile_width": 2,
+    "tile_height": 2,
+    "hit_area": [
+      [{"x":1,"y":36},{"x":63,"y":66},{"x":123,"y":35},{"x":75,"y":0},{"x":51,"y":0}]
+    ]
+  }
+]

@@ -21,7 +21,7 @@ starpeace-assets is organized by directory:
 
 ## Tools
 
-- ```grunt audit``` - provides a read-only analysis of game image assets, including checking for various land metadata and images consistency problems
+- ```grunt audit``` - provides a read-only analysis of game assets, including checking for gameplay metadata, simulation configuration, and image asset consistency problems
 - ```grunt export --type=bi``` - export assets text languages into translations. type option either ```b``` for buildings and/or ```i``` for inventions
 - ```grunt import --type=bi``` - import translations into assets text languages. type option either ```b``` for buildings and/or ```i``` for inventions
 
