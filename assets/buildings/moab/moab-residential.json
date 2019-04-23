@@ -17,8 +17,7 @@
     "industry_type": "HC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.hi.res.b",
@@ -38,8 +37,7 @@
     "industry_type": "HC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.hi.res.c",
@@ -59,8 +57,7 @@
     "industry_type": "HC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.hi.res.d",
@@ -80,8 +77,7 @@
     "industry_type": "HC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.lo.res.a",
@@ -101,8 +97,7 @@
     "industry_type": "LC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.lo.res.b",
@@ -122,8 +117,7 @@
     "industry_type": "LC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.lo.res.c",
@@ -143,8 +137,7 @@
     "industry_type": "LC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.lo.res.d",
@@ -164,8 +157,7 @@
     "industry_type": "LC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.mi.res.a",
@@ -185,8 +177,7 @@
     "industry_type": "MC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.mi.res.b",
@@ -206,8 +197,7 @@
     "industry_type": "MC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.mi.res.c",
@@ -227,8 +217,7 @@
     "industry_type": "MC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "moab.mi.res.d",
@@ -248,7 +237,6 @@
     "industry_type": "MC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   }
 ]

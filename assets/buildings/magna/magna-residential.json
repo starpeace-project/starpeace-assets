@@ -12,13 +12,12 @@
       "PT": "Cloud City"
     },
     "seal_id": "MAGNA",
-    "zone": "LC_RESIDENTIAL",
+    "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
+    "industry_type": "MC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.heaven",
@@ -33,13 +32,12 @@
       "PT": "Céu do trabalhador"
     },
     "seal_id": "MAGNA",
-    "zone": "MC_RESIDENTIAL",
+    "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
+    "industry_type": "LC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.hive",
@@ -59,8 +57,7 @@
     "industry_type": "LC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.ivory.tower",
@@ -75,13 +72,12 @@
       "PT": "Torre de marfim"
     },
     "seal_id": "MAGNA",
-    "zone": "HC_RESIDENTIAL",
+    "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
+    "industry_type": "MC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.mayflower",
@@ -101,8 +97,7 @@
     "industry_type": "MC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.octopus",
@@ -117,13 +112,12 @@
       "PT": "O polvo"
     },
     "seal_id": "MAGNA",
-    "zone": "MC_RESIDENTIAL",
+    "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
+    "industry_type": "LC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.sky.dome",
@@ -138,13 +132,12 @@
       "PT": "Sky Dome"
     },
     "seal_id": "MAGNA",
-    "zone": "HC_RESIDENTIAL",
+    "zone": "MC_RESIDENTIAL",
     "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
+    "industry_type": "MC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.solarium",
@@ -159,13 +152,12 @@
       "PT": "Solário"
     },
     "seal_id": "MAGNA",
-    "zone": "LC_RESIDENTIAL",
+    "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
+    "industry_type": "HC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.the.spring",
@@ -180,13 +172,12 @@
       "PT": "A primavera"
     },
     "seal_id": "MAGNA",
-    "zone": "HC_RESIDENTIAL",
+    "zone": "LC_RESIDENTIAL",
     "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
+    "industry_type": "LC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.tulip",
@@ -201,13 +192,12 @@
       "PT": "Tulipa"
     },
     "seal_id": "MAGNA",
-    "zone": "MC_RESIDENTIAL",
+    "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
+    "industry_type": "HC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   },
   {
     "id": "magna.whirlpool",
@@ -222,12 +212,11 @@
       "PT": "O Whirlpool"
     },
     "seal_id": "MAGNA",
-    "zone": "LC_RESIDENTIAL",
+    "zone": "HC_RESIDENTIAL",
     "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
+    "industry_type": "HC_RESIDENTIAL",
     "required_inventions": [
       "RealEstate"
-    ],
-    "residential": {}
+    ]
   }
 ]

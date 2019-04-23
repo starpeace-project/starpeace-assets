@@ -1,0 +1,242 @@
+[
+  {
+    "id": "mko.hi.res.a",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 70,
+    "resident_type": "EXECUTIVE",
+    "capacity": 50,
+    "efficiency": 0.75,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 10000,
+        "max_velocity": 400
+      }
+    ]
+  },
+  {
+    "id": "mko.hi.res.b",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 70,
+    "resident_type": "EXECUTIVE",
+    "capacity": 50,
+    "efficiency": 0.75,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 10000,
+        "max_velocity": 250
+      }
+    ]
+  },
+  {
+    "id": "mko.hi.res.c",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 70,
+    "resident_type": "EXECUTIVE",
+    "capacity": 75,
+    "efficiency": 0.75,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 15000,
+        "max_velocity": 500
+      }
+    ]
+  },
+  {
+    "id": "mko.lo.res.a",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 50,
+    "resident_type": "WORKER",
+    "capacity": 450,
+    "efficiency": 0.8,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 50000,
+        "max_velocity": 1250
+      }
+    ]
+  },
+  {
+    "id": "mko.lo.res.b",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 50,
+    "resident_type": "WORKER",
+    "capacity": 800,
+    "efficiency": 0.7,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 80000,
+        "max_velocity": 2000
+      }
+    ]
+  },
+  {
+    "id": "mko.lo.res.c",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 50,
+    "resident_type": "WORKER",
+    "capacity": 400,
+    "efficiency": 0.7,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 50000,
+        "max_velocity": 1428.571429
+      }
+    ]
+  },
+  {
+    "id": "mko.lo.res.d",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 25,
+    "resident_type": "WORKER",
+    "capacity": 750,
+    "efficiency": 0.45,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 70000,
+        "max_velocity": 1750
+      }
+    ]
+  },
+  {
+    "id": "mko.lo.res.e",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 50,
+    "resident_type": "WORKER",
+    "capacity": 450,
+    "efficiency": 0.81,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 50000,
+        "max_velocity": 1250
+      }
+    ]
+  },
+  {
+    "id": "mko.mi.res.a",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 70,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 250,
+    "efficiency": 0.75,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 49000,
+        "max_velocity": 1633.333333
+      }
+    ]
+  },
+  {
+    "id": "mko.mi.res.b",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 70,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 240,
+    "efficiency": 0.8,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 50000,
+        "max_velocity": 1666.666667
+      }
+    ]
+  },
+  {
+    "id": "mko.mi.res.c",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 70,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 200,
+    "efficiency": 0.8,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 40000,
+        "max_velocity": 1333.333333
+      }
+    ]
+  },
+  {
+    "id": "mko.mi.res.d",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 70,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 280,
+    "efficiency": 0.8,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 60000,
+        "max_velocity": 2000
+      }
+    ]
+  },
+  {
+    "id": "mko.mi.res.e",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 75,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 200,
+    "efficiency": 0.81,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 40000,
+        "max_velocity": 1333.333333
+      }
+    ]
+  },
+  {
+    "id": "mko.mi.res.f",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 80,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 300,
+    "efficiency": 0.85,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 65000,
+        "max_velocity": 2166.666667
+      }
+    ]
+  },
+  {
+    "id": "mko.mi.res.g",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 75,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 290,
+    "efficiency": 0.9,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 65000,
+        "max_velocity": 2166.666667
+      }
+    ]
+  }
+]

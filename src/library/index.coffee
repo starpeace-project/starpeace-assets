@@ -19,7 +19,9 @@ FactoryStage = require('./building/simulation/factory/factory-stage')
 HeadquartersDefinition = require('./building/simulation/headquarters/headquarters-definition')
 AntennaDefinition = require('./building/simulation/media/antenna-definition')
 MediaStationDefinition = require('./building/simulation/media/media-station-definition')
+OfficeDefinition = require('./building/simulation/office/office-definition')
 ParkDefinition = require('./building/simulation/park/park-definition')
+ResidenceDefinition = require('./building/simulation/residence/residence-definition')
 ServiceDefinition = require('./building/simulation/service/service-definition')
 StorageDefinition = require('./building/simulation/storage/storage-definition')
 StoreDefinition = require('./building/simulation/store/store-definition')
@@ -60,7 +62,9 @@ exports = module.exports = {
   HeadquartersDefinition
   AntennaDefinition
   MediaStationDefinition
+  OfficeDefinition
   ParkDefinition
+  ResidenceDefinition
   ServiceDefinition
   StorageDefinition
   StoreDefinition

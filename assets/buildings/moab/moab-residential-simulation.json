@@ -1,0 +1,194 @@
+[
+  {
+    "id": "moab.hi.res.a",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 60,
+    "resident_type": "EXECUTIVE",
+    "capacity": 22,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 10000,
+        "max_velocity": 500
+      }
+    ]
+  },
+  {
+    "id": "moab.hi.res.b",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 60,
+    "resident_type": "EXECUTIVE",
+    "capacity": 27,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 12000,
+        "max_velocity": 600
+      }
+    ]
+  },
+  {
+    "id": "moab.hi.res.c",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 60,
+    "resident_type": "EXECUTIVE",
+    "capacity": 77,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 28000,
+        "max_velocity": 1120
+      }
+    ]
+  },
+  {
+    "id": "moab.hi.res.d",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 60,
+    "resident_type": "EXECUTIVE",
+    "capacity": 23,
+    "efficiency": 0.8,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 5000,
+        "max_velocity": 250
+      }
+    ]
+  },
+  {
+    "id": "moab.lo.res.a",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 20,
+    "resident_type": "WORKER",
+    "capacity": 200,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 30000,
+        "max_velocity": 1000
+      }
+    ]
+  },
+  {
+    "id": "moab.lo.res.b",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 20,
+    "resident_type": "WORKER",
+    "capacity": 170,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 25500,
+        "max_velocity": 850
+      }
+    ]
+  },
+  {
+    "id": "moab.lo.res.c",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 20,
+    "resident_type": "WORKER",
+    "capacity": 300,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 40000,
+        "max_velocity": 1142.857143
+      }
+    ]
+  },
+  {
+    "id": "moab.lo.res.d",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 20,
+    "resident_type": "WORKER",
+    "capacity": 350,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 50000,
+        "max_velocity": 1250
+      }
+    ]
+  },
+  {
+    "id": "moab.mi.res.a",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 20,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 133,
+    "efficiency": 0.7,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 30000,
+        "max_velocity": 1500
+      }
+    ]
+  },
+  {
+    "id": "moab.mi.res.b",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 70,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 333,
+    "efficiency": 0.7,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 100000,
+        "max_velocity": 3333.333333
+      }
+    ]
+  },
+  {
+    "id": "moab.mi.res.c",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 60,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 33,
+    "efficiency": 0.6,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 3000,
+        "max_velocity": 300
+      }
+    ]
+  },
+  {
+    "id": "moab.mi.res.d",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 30,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 99,
+    "efficiency": 0.57,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 3500,
+        "max_velocity": 350
+      }
+    ]
+  }
+]

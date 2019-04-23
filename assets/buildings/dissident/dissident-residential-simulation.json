@@ -1,0 +1,226 @@
+[
+  {
+    "id": "dis.hi.res.a",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 100,
+    "resident_type": "EXECUTIVE",
+    "capacity": 30,
+    "efficiency": 0.7,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 3000,
+        "max_velocity": 150
+      }
+    ]
+  },
+  {
+    "id": "dis.hi.res.b",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 120,
+    "resident_type": "EXECUTIVE",
+    "capacity": 15,
+    "efficiency": 0.8,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 1500,
+        "max_velocity": 75
+      }
+    ]
+  },
+  {
+    "id": "dis.hi.res.c",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 110,
+    "resident_type": "EXECUTIVE",
+    "capacity": 50,
+    "efficiency": 0.75,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 5500,
+        "max_velocity": 220
+      }
+    ]
+  },
+  {
+    "id": "dis.hi.res.d",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 100,
+    "resident_type": "EXECUTIVE",
+    "capacity": 25,
+    "efficiency": 0.7,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 2500,
+        "max_velocity": 100
+      }
+    ]
+  },
+  {
+    "id": "dis.lo.res.a",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 50,
+    "resident_type": "WORKER",
+    "capacity": 120,
+    "efficiency": 0.65,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 10000,
+        "max_velocity": 400
+      }
+    ]
+  },
+  {
+    "id": "dis.lo.res.b",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 60,
+    "resident_type": "WORKER",
+    "capacity": 100,
+    "efficiency": 0.65,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 2000,
+        "max_velocity": 100
+      }
+    ]
+  },
+  {
+    "id": "dis.lo.res.c",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 50,
+    "resident_type": "WORKER",
+    "capacity": 150,
+    "efficiency": 0.6,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 5000,
+        "max_velocity": 250
+      }
+    ]
+  },
+  {
+    "id": "dis.lo.res.d",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 50,
+    "resident_type": "WORKER",
+    "capacity": 200,
+    "efficiency": 0.65,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 300
+      }
+    ]
+  },
+  {
+    "id": "dis.mi.res.a",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 120,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 30,
+    "efficiency": 0.85,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 3000,
+        "max_velocity": 150
+      }
+    ]
+  },
+  {
+    "id": "dis.mi.res.b",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 50,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 200,
+    "efficiency": 0.65,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 6000,
+        "max_velocity": 300
+      }
+    ]
+  },
+  {
+    "id": "dis.mi.res.c",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 110,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 110,
+    "efficiency": 0.75,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 11000,
+        "max_velocity": 407.4074074
+      }
+    ]
+  },
+  {
+    "id": "dis.mi.res.d",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 120,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 70,
+    "efficiency": 0.8,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 11000,
+        "max_velocity": 440
+      }
+    ]
+  },
+  {
+    "id": "dis.mi.res.e",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 105,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 120,
+    "efficiency": 0.8,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 11000,
+        "max_velocity": 440
+      }
+    ]
+  },
+  {
+    "id": "dis.mi.res.f",
+    "type": "RESIDENCE",
+    "max_level": 20,
+    "beauty": 105,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 100,
+    "efficiency": 0.8,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 10500,
+        "max_velocity": 420
+      }
+    ]
+  }
+]

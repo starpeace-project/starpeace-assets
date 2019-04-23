@@ -102,40 +102,6 @@
     ]
   },
   {
-    "id": "dis.lo.cost.hi.res",
-    "image_path": "assets/buildings/dissident/images/dis.lo.cost.hi.res.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
-      [{"x":0,"y":40},{"x":63,"y":74},{"x":73,"y":9},{"x":73,"y":1}],
-      [{"x":128,"y":43},{"x":110,"y":25},{"x":93,"y":24},{"x":63,"y":74}],
-      [{"x":93,"y":24},{"x":73,"y":9},{"x":63,"y":74}]
-    ]
-  },
-  {
-    "id": "dis.lo.cost.lo.res",
-    "image_path": "assets/buildings/dissident/images/dis.lo.cost.lo.res.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
-      [{"x":75,"y":1},{"x":65,"y":0},{"x":65,"y":11},{"x":70,"y":11}],
-      [{"x":15,"y":27},{"x":0,"y":46},{"x":64,"y":80},{"x":30,"y":32}],
-      [{"x":64,"y":80},{"x":128,"y":49},{"x":109,"y":33},{"x":80,"y":23},{"x":30,"y":32}],
-      [{"x":34,"y":18},{"x":30,"y":32},{"x":80,"y":23},{"x":70,"y":11},{"x":65,"y":11}]
-    ]
-  },
-  {
-    "id": "dis.lo.cost.mi.res",
-    "image_path": "assets/buildings/dissident/images/dis.lo.cost.mi.res.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
-      [{"x":0,"y":44},{"x":64,"y":76},{"x":126,"y":46},{"x":114,"y":30},{"x":81,"y":19},{"x":53,"y":16}],
-      [{"x":60,"y":1},{"x":51,"y":0},{"x":51,"y":17},{"x":53,"y":16}],
-      [{"x":77,"y":10},{"x":53,"y":16},{"x":81,"y":19}]
-    ]
-  },
-  {
     "id": "dis.lo.res.a.empty",
     "image_path": "assets/buildings/dissident/images/dis.lo.res.a.empty.gif",
     "tile_width": 2,

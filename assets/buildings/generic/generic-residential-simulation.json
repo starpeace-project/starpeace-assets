@@ -1,0 +1,50 @@
+[
+  {
+    "id": "generic.lo.cost.hi.res",
+    "type": "RESIDENCE",
+    "max_level": 1,
+    "beauty": -200,
+    "resident_type": "EXECUTIVE",
+    "capacity": 20,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 400,
+        "max_velocity": 57.14285714
+      }
+    ]
+  },
+  {
+    "id": "generic.lo.cost.lo.res",
+    "type": "RESIDENCE",
+    "max_level": 1,
+    "beauty": -200,
+    "resident_type": "WORKER",
+    "capacity": 50,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 1000,
+        "max_velocity": 100
+      }
+    ]
+  },
+  {
+    "id": "generic.lo.cost.mi.res",
+    "type": "RESIDENCE",
+    "max_level": 1,
+    "beauty": -200,
+    "resident_type": "PROFESSIONAL",
+    "capacity": 20,
+    "efficiency": 1,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 2000,
+        "max_velocity": 285.7142857
+      }
+    ]
+  }
+]

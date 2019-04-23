@@ -1,0 +1,62 @@
+[
+  {
+    "id": "moab.office.a",
+    "type": "OFFICE",
+    "max_level": 1,
+    "beauty": 75,
+    "efficiency": 0.85,
+    "capacity": 100,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 75000,
+        "max_velocity": 2500
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 3125,
+        "max_velocity": 104.1666667
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 5
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 15
+      }
+    ]
+  },
+  {
+    "id": "moab.office.b",
+    "type": "OFFICE",
+    "max_level": 1,
+    "beauty": 80,
+    "efficiency": 0.9,
+    "capacity": 130,
+    "construction_inputs": [
+      {
+        "resource": "CONSTRUCTION",
+        "quantity": 150000,
+        "max_velocity": 5000
+      },
+      {
+        "resource": "COMPUTER",
+        "quantity": 6250,
+        "max_velocity": 208.3333333
+      }
+    ],
+    "labor": [
+      {
+        "resource": "PROFESSIONAL",
+        "max_velocity": 5
+      },
+      {
+        "resource": "WORKER",
+        "max_velocity": 15
+      }
+    ]
+  }
+]

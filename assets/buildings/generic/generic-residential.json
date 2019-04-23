@@ -1,0 +1,62 @@
+[
+  {
+    "id": "generic.lo.cost.hi.res",
+    "image_id": "generic.lo.cost.hi.res",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "Generisches hochwertiges Gebäude",
+      "EN": "Generic high class building",
+      "ES": "Edificio genérico de clase alta.",
+      "FR": "Bâtiment générique de grande classe",
+      "IT": "Edificio di alta classe generico",
+      "PT": "Edifício genérico de alta classe"
+    },
+    "seal_id": "DIS",
+    "zone": "LC_RESIDENTIAL",
+    "category": "REAL_ESTATE",
+    "industry_type": "LC_RESIDENTIAL",
+    "required_inventions": [
+      "RealEstate"
+    ]
+  },
+  {
+    "id": "generic.lo.cost.lo.res",
+    "image_id": "generic.lo.cost.lo.res",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "Generisches niedriges Gebäude",
+      "EN": "Generic low class building",
+      "ES": "Edificio genérico de clase baja.",
+      "FR": "Bâtiment générique de basse classe",
+      "IT": "Generico edificio di bassa classe",
+      "PT": "Edifício genérico de baixa classe"
+    },
+    "seal_id": "DIS",
+    "zone": "LC_RESIDENTIAL",
+    "category": "REAL_ESTATE",
+    "industry_type": "LC_RESIDENTIAL",
+    "required_inventions": [
+      "RealEstate"
+    ]
+  },
+  {
+    "id": "generic.lo.cost.mi.res",
+    "image_id": "generic.lo.cost.mi.res",
+    "construction_image_id": "generic.construction.2",
+    "name": {
+      "DE": "Generisches Mittelklassegebäude",
+      "EN": "Generic middle class building",
+      "ES": "Edificio genérico de clase media.",
+      "FR": "Bâtiment générique de la classe moyenne",
+      "IT": "Generico edificio della classe media",
+      "PT": "Edifício de classe média genérico"
+    },
+    "seal_id": "DIS",
+    "zone": "LC_RESIDENTIAL",
+    "category": "REAL_ESTATE",
+    "industry_type": "LC_RESIDENTIAL",
+    "required_inventions": [
+      "RealEstate"
+    ]
+  }
+]
