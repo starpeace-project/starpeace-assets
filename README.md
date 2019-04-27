@@ -10,10 +10,9 @@ Assets for [STARPEACE](https://www.starpeace.io), including gameplay images, sou
 
 ## Documentation
 
-starpeace-assets is organized by directory:
+starpeace-assets is organized by directory and depends on library types from [starpeace-assets-types](https://github.com/starpeace-project/starpeace-assets-types):
 
 - **/assets/** - raw gameplay assets and simulation configurations
-- **/src/library/** - core library source to load and interact with raw assets and configurations
 - **/src/tools/** - internal analysis and manipulation tools for management of raw assets
 - **/translations/** - internal bulk language translations used with tools to manipulate raw assets
 - **/lib/** - auto-generated javascript version of core library
