@@ -15,7 +15,6 @@ starpeace-assets is organized by directory and depends on library types from [st
 - **/assets/** - raw gameplay assets and simulation configurations
 - **/src/tools/** - internal analysis and manipulation tools for management of raw assets
 - **/translations/** - internal bulk language translations used with tools to manipulate raw assets
-- **/lib/** - auto-generated javascript version of core library
 - **/build/** - auto-generated javascript version of tools logic
 
 ## Tools
