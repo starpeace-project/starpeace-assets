@@ -8,7 +8,7 @@ FileUtils = require('../utils/file-utils')
 
 {
   CompanySeal
-} = require('../../lib')
+} = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditSeal

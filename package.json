@@ -1,6 +1,6 @@
 {
   "name": "@starpeace/starpeace-assets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "STARPEACE assets, gameplay resources, and baseline simulation configurations",
   "keywords": [],
   "author": "starpeace-project",
@@ -11,13 +11,11 @@
   },
   "main": "lib/index.js",
   "scripts": {
-    "prepare": "grunt build",
-    "test": "grunt"
+    "test": "grunt audit"
   },
   "devDependencies": {
-    "cli-table3": "^0.5.1",
+    "@starpeace/starpeace-assets-types": "git://github.com/starpeace-project/starpeace-assets-types.git#v0.1.0",
     "fs-extra": "^7.0.1",
-    "gif-frames": "^1.0.1",
     "grunt": "^1.0.4",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-coffee": "^2.1.0",

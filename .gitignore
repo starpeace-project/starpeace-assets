@@ -1,6 +1,4 @@
 .settings/
 .project
 build
-lib
 node_modules/
-.sass-cache/

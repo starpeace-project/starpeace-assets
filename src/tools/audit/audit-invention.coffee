@@ -8,7 +8,7 @@ FileUtils = require('../utils/file-utils')
 
 {
   InventionDefinition
-} = require('../../lib')
+} = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditInvention

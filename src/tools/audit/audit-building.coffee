@@ -10,7 +10,7 @@ FileUtils = require('../utils/file-utils')
   BuildingDefinition
   BuildingImageDefinition
   BuildingSimulationDefinitionParser
-} = require('../../lib')
+} = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditBuilding

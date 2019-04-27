@@ -14,7 +14,7 @@ FileUtils = require('../utils/file-utils')
   Level
   ResourceType
   ResourceUnit
-} = require('../../lib')
+} = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditIndustry

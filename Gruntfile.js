@@ -9,13 +9,6 @@ module.exports = function(grunt) {
     },
 
     coffee: {
-      compile_library: {
-        expand: true,
-        cwd: "src/library",
-        src: ['**/*.coffee'],
-        dest: 'lib',
-        ext: '.js'
-      },
       compile_tools: {
         expand: true,
         cwd: "src/tools",
@@ -41,7 +34,7 @@ module.exports = function(grunt) {
     }
   });
 
-  grunt.registerTask('build', ['coffee:compile_library', 'coffee:compile_tools']);
+  grunt.registerTask('build', ['coffee:compile_tools']);
   grunt.registerTask('audit', ['build', 'run:audit']);
 
   grunt.registerTask('export', ['build', 'run:export_languages']);
