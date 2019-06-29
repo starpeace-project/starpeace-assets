@@ -115,8 +115,12 @@
       "PT": "Administração do Ministério"
     },
     "description": {
-      "EN": "",
-      "ES": ""
+      "DE": "Ministry Administration",
+      "EN": "Ministry Administration",
+      "ES": "Administracion de ministerios",
+      "FR": "Administration du Ministère",
+      "IT": "Ministry Administration",
+      "PT": "Administração do Ministério"
     },
     "properties": {
       "price": 20000000,

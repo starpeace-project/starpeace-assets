@@ -6,9 +6,7 @@ _ = require('lodash')
 AuditUtils = require('../utils/audit-utils')
 FileUtils = require('../utils/file-utils')
 
-{
-  InventionDefinition
-} = require('@starpeace/starpeace-assets-types')
+STARPEACE = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditInvention
@@ -18,7 +16,7 @@ exports = module.exports = class AuditInvention
     try
       console.log " [OK] starting invention audit...\n"
 
-      definitions = FileUtils.parse_files(root_dir, ['.json'], [], InventionDefinition.from_json)
+      definitions = FileUtils.parse_files(root_dir, ['.json'], [], STARPEACE.invention.InventionDefinition.from_json)
       definitions_by_id = _.keyBy(definitions, 'id')
       AuditUtils.audit_is_valid('invention definition', definitions)
       AuditUtils.audit_unique_count_by_id('invention definition', definitions, definitions_by_id, AuditInvention.EXPECTED_INVENTION_COUNT)

@@ -6,9 +6,7 @@ _ = require('lodash')
 AuditUtils = require('../utils/audit-utils')
 FileUtils = require('../utils/file-utils')
 
-{
-  CompanySeal
-} = require('@starpeace/starpeace-assets-types')
+STARPEACE = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditSeal
@@ -18,7 +16,7 @@ exports = module.exports = class AuditSeal
     try
       console.log " [OK] starting seal audit...\n"
 
-      company_seals = FileUtils.parse_files(root_dir, ['.json'], [], CompanySeal.from_json)
+      company_seals = FileUtils.parse_files(root_dir, ['.json'], [], STARPEACE.seal.CompanySeal.from_json)
       company_seals_by_id = _.keyBy(company_seals, 'id')
       AuditUtils.audit_is_valid('company seal', company_seals)
       AuditUtils.audit_unique_count_by_id('company seal', company_seals, company_seals_by_id, AuditSeal.EXPECTED_COMPANY_SEAL_COUNT)
