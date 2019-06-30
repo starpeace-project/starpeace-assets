@@ -1,12 +1,12 @@
 {
   "name": "@starpeace/starpeace-assets",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
     "@starpeace/starpeace-assets-types": {
-      "version": "git://github.com/starpeace-project/starpeace-assets-types.git#072ff1992f9962acc90ed898d8be6823e45e4153",
-      "from": "git://github.com/starpeace-project/starpeace-assets-types.git#v0.2.3",
+      "version": "git://github.com/starpeace-project/starpeace-assets-types.git#92f6b93f677c01f672fd3dcff262427bbf2d50a1",
+      "from": "git://github.com/starpeace-project/starpeace-assets-types.git#v0.2.4",
       "dev": true,
       "dependencies": {
         "abbrev": {

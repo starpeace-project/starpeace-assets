@@ -91,16 +91,6 @@ exports = module.exports = class AuditBuilding
       else
         console.log " [OK] all building simulation definitions have valid definition references"
 
-      simulation_definitions_with_unknown_resources = _.filter(simulation_definitions, (definition) ->
-        _.find(_.union(definition.required_inputs, definition.optional_inputs, definition.storage, definition.outputs),
-          (quantity) -> !audit_data.industry.resource_types_by_id[quantity.resource]?)?
-      )
-      if simulation_definitions_with_unknown_resources.length
-        console.log " [ERROR] building simulation definition #{definition.id} has unknown resource type references" for definition in simulation_definitions_with_unknown_resources
-        throw "found #{simulation_definitions_with_unknown_resources.length} building simulation definitions with unknown resource type references"
-      else
-        console.log " [OK] all building simulation definitions have valid resource type references"
-
       definitions_with_unknown_inventions = _.filter(definitions, (definition) -> definition.required_invention_ids.length && _.find(definition.required_invention_ids, (id) -> !audit_data.invention.definitions_by_id[id]?)?)
       if definitions_with_unknown_inventions.length
         console.log " [ERROR] building definition #{definition.id} has unknown required invention references" for definition in definitions_with_unknown_inventions
