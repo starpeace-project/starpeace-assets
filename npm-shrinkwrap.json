@@ -5,8 +5,8 @@
   "requires": true,
   "dependencies": {
     "@starpeace/starpeace-assets-types": {
-      "version": "git://github.com/starpeace-project/starpeace-assets-types.git#139c29409565cde63de2367008a5dbad286ae278",
-      "from": "git://github.com/starpeace-project/starpeace-assets-types.git#v0.2.7",
+      "version": "git://github.com/starpeace-project/starpeace-assets-types.git#011b8bae7682188faaaa1638a1e83c4f04b25364",
+      "from": "git://github.com/starpeace-project/starpeace-assets-types.git#v0.2.8",
       "dev": true,
       "dependencies": {
         "@babel/parser": {
@@ -1101,7 +1101,7 @@
           "resolved": "https://registry.npmjs.org/grunt-jsdoc-to-markdown/-/grunt-jsdoc-to-markdown-4.0.0.tgz",
           "integrity": "sha512-af48xh3SvVx4wmaM1wWC3qRjKSwuresfEb6znDbd+tBo60UaHPVuDJ2PSmYlgb/4c8/mcnd40aW4awn8XOf03Q==",
           "requires": {
-            "jsdoc-to-markdown": "^5.0.0"
+            "jsdoc-to-markdown": "^4.0.1"
           },
           "dependencies": {
             "jsdoc-to-markdown": {
