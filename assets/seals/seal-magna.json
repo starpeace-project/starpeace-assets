@@ -1,22 +1,8 @@
 [
   {
     "id": "MAGNA",
-    "name_short": {
-      "DE": "Magna",
-      "EN": "Magna",
-      "ES": "Magna",
-      "FR": "Magna",
-      "IT": "Magna",
-      "PT": "Magna"
-    },
-    "name_long": {
-      "DE": "Magna Corp",
-      "EN": "Magna Corp",
-      "ES": "Magna Corp",
-      "FR": "Magna Corp",
-      "IT": "Magna Corp",
-      "PT": "Magna Corp"
-    },
+    "name_short": "Magna",
+    "name_long": "Magna Corp",
     "buildings": [
       "magna.cloud.city",
       "magna.construction",

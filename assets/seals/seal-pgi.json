@@ -1,22 +1,8 @@
 [
   {
     "id": "PGI",
-    "name_short": {
-      "DE": "PGI",
-      "EN": "PGI",
-      "ES": "PGI",
-      "FR": "PGI",
-      "IT": "PGI",
-      "PT": "PGI"
-    },
-    "name_long": {
-      "DE": "Pure Gaba Initiative",
-      "EN": "Pure Gaba Initiative",
-      "ES": "Pure Gaba Initiative",
-      "FR": "Pure Gaba Initiative",
-      "IT": "Pure Gaba Initiative",
-      "PT": "Pure Gaba Initiative"
-    },
+    "name_short": "PGI",
+    "name_long": "Pure Gaba Initiative",
     "buildings": [
       "generic.college",
       "generic.dump",

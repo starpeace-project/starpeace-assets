@@ -1,22 +1,8 @@
 [
   {
     "id": "GEN",
-    "name_short": {
-      "DE": "Generic",
-      "EN": "Generic",
-      "ES": "Generic",
-      "FR": "Generic",
-      "IT": "Generic",
-      "PT": "Generic"
-    },
-    "name_long": {
-      "DE": "Generic",
-      "EN": "Generic",
-      "ES": "Generic",
-      "FR": "Generic",
-      "IT": "Generic",
-      "PT": "Generic"
-    },
+    "name_short": "Generic",
+    "name_long": "Generic",
     "buildings": [
       "generic.college",
       "generic.dump",

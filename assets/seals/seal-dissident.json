@@ -1,22 +1,8 @@
 [
   {
     "id": "DIS",
-    "name_short": {
-      "DE": "Dissidents",
-      "EN": "Dissidents",
-      "ES": "Dissidents",
-      "FR": "Dissidents",
-      "IT": "Dissidents",
-      "PT": "Dissidents"
-    },
-    "name_long": {
-      "DE": "Dissidents",
-      "EN": "Dissidents",
-      "ES": "Dissidents",
-      "FR": "Dissidents",
-      "IT": "Dissidents",
-      "PT": "Dissidents"
-    },
+    "name_short": "Dissidents",
+    "name_long": "Dissidents",
     "buildings": [
       "dis.bank",
       "dis.bar",

@@ -1,22 +1,8 @@
 [
   {
     "id": "MOAB",
-    "name_short": {
-      "DE": "Moab",
-      "EN": "Moab",
-      "ES": "Moab",
-      "FR": "Moab",
-      "IT": "Moab",
-      "PT": "Moab"
-    },
-    "name_long": {
-      "DE": "The Moab",
-      "EN": "The Moab",
-      "ES": "The Moab",
-      "FR": "The Moab",
-      "IT": "The Moab",
-      "PT": "The Moab"
-    },
+    "name_short": "Moab",
+    "name_long": "The Moab",
     "buildings": [
       "generic.college",
       "generic.dump",
