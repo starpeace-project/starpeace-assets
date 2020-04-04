@@ -1,67 +1,182 @@
 [
   {
     "id": "COMMERCIAL",
+    "label": {
+      "DE": "Kommerziell",
+      "EN": "Commercial",
+      "ES": "Comercial",
+      "FR": "Commercial",
+      "IT": "Commerciale",
+      "PT": "Comercial"
+    },
     "value": 7,
-    "color": "0x4974D8"
+    "color": 4814040,
+    "mini_map_color": 4814040,
+    "included_city_zone_ids": ["SERVICE"]
   },
   {
     "id": "CIVICS",
+    "label": {
+      "DE": "Städtischer",
+      "EN": "Civic",
+      "ES": "Cívico",
+      "FR": "Civique",
+      "IT": "Civico",
+      "PT": "Cívico"
+    },
     "value": 8,
-    "color": "0xFFFFFF"
+    "color": 16777215,
+    "mini_map_color": 1973790,
+    "included_city_zone_ids": []
   },
   {
     "id": "HC_RESIDENTIAL",
+    "label": {
+      "DE": "Hochwertige Immobilien",
+      "EN": "High-class Residential",
+      "ES": "Clase Alta Residencial",
+      "FR": "Résidentiel Haut de Gamme",
+      "IT": "Residenziale di Alta Classe",
+      "PT": "Residencial de Alta Classe"
+    },
     "value": 3,
-    "color": "0xC0FFBB"
+    "color": 12648379,
+    "mini_map_color": 12648379,
+    "included_city_zone_ids": []
   },
   {
     "id": "INDUSTRIAL",
+    "label": {
+      "DE": "Industriell",
+      "EN": "Industrial",
+      "ES": "Industrial",
+      "FR": "Industriel",
+      "IT": "Industriale",
+      "PT": "Industrial"
+    },
     "value": 6,
-    "color": "0xD7D988"
+    "color": 14145928,
+    "mini_map_color": 14145928,
+    "included_city_zone_ids": ["WAREHOUSE"]
   },
   {
     "id": "LC_RESIDENTIAL",
+    "label": {
+      "DE": "Preiswerte Immobilien",
+      "EN": "Low-class Residential",
+      "ES": "Residencial de Clase Baja",
+      "FR": "Résidentiel Bas de Gamme",
+      "IT": "Residenziale di Classe Bassa",
+      "PT": "Residencial de Baixa Classe"
+    },
     "value": 5,
-    "color": "0x23481E"
+    "color": 2312222,
+    "mini_map_color": 2312222,
+    "included_city_zone_ids": []
   },
   {
     "id": "MC_RESIDENTIAL",
+    "label": {
+      "DE": "Bürgerliche Immobilien",
+      "EN": "Middle-class Residential",
+      "ES": "Clase Media Residencial",
+      "FR": "Classe Moyenne Résidentiel",
+      "IT": "Residenziale di Classe Media",
+      "PT": "Residencial de Classe Média"
+    },
     "value": 4,
-    "color": "0x4FA343"
+    "color": 5219139,
+    "mini_map_color": 5219139,
+    "included_city_zone_ids": []
   },
   {
     "id": "MAUSOLEUM",
+    "label": {
+      "DE": "Mausoluem",
+      "EN": "Mausoluem",
+      "ES": "Mausoluem",
+      "FR": "Mausoluem",
+      "IT": "Mausoluem",
+      "PT": "Mausoluem"
+    },
     "value": 12,
-    "color": "0xFFFFFF"
-  },
-  {
-    "id": "NONE",
-    "value": 0,
-    "color": "0x000000"
+    "color": 16777215,
+    "mini_map_color": 16777215,
+    "included_city_zone_ids": []
   },
   {
     "id": "OFFICES",
+    "label": {
+      "DE": "Büros",
+      "EN": "Offices",
+      "ES": "Oficinas",
+      "FR": "Des Bureaux",
+      "IT": "Uffici",
+      "PT": "Escritórios"
+    },
     "value": 9,
-    "color": "0x394488"
+    "color": 3753096,
+    "mini_map_color": 3753096,
+    "included_city_zone_ids": []
   },
   {
     "id": "RESERVED",
+    "label": {
+      "DE": "Reserviert",
+      "EN": "Reserved",
+      "ES": "Reservado",
+      "FR": "Réservé",
+      "IT": "Riservato",
+      "PT": "Reservado"
+    },
     "value": 1,
-    "color": "0x800000"
+    "color": 8388608,
+    "mini_map_color": 8388608,
+    "included_city_zone_ids": []
   },
   {
     "id": "RESIDENTIAL",
+    "label": {
+      "DE": "Wohn",
+      "EN": "Restaurant",
+      "ES": "Residencial",
+      "FR": "Résidentiel",
+      "IT": "Residenziale",
+      "PT": "Residencial"
+    },
     "value": 2,
-    "color": "0x008080"
+    "color": 32896,
+    "mini_map_color": 32896,
+    "included_city_zone_ids": ["HC_RESIDENTIAL","LC_RESIDENTIAL","MC_RESIDENTIAL"]
   },
   {
     "id": "SERVICE",
+    "label": {
+      "DE": "Dienstleistungen",
+      "EN": "Service",
+      "ES": "Servicio",
+      "FR": "Service",
+      "IT": "Servizio",
+      "PT": "Serviço"
+    },
     "value": 10,
-    "color": "0x4974D8"
+    "color": 4814040,
+    "mini_map_color": 4814040,
+    "included_city_zone_ids": []
   },
   {
     "id": "WAREHOUSE",
+    "label": {
+      "DE": "Warenhaus",
+      "EN": "Warehouse",
+      "ES": "Almacén",
+      "FR": "Entrepôt",
+      "IT": "Magazzino",
+      "PT": "Armazém"
+    },
     "value": 11,
-    "color": "0xD7D988"
+    "color": 14145928,
+    "mini_map_color": 14145928,
+    "included_city_zone_ids": []
   }
 ]
