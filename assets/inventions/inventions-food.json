@@ -24,7 +24,7 @@
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "DeliCounter",
@@ -51,7 +51,7 @@
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "ExpiringDatesAlteration",
@@ -78,7 +78,7 @@
       "efficiency": 4,
       "desirability": -2
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "ExtraterrestrialVegetables",
@@ -106,7 +106,7 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "Flowers",
@@ -132,7 +132,7 @@
       "level": "APPRENTICE",
       "desirability": 1
     },
-    "industry_type": "FAST_FOOD",
+    "industry_type": "FOOD",
     "depends_on": [
       "DailyFarmDeliveries"
     ]
@@ -162,7 +162,7 @@
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "HygieneChecks",
@@ -189,7 +189,7 @@
       "efficiency": -3,
       "desirability": 2
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "MonthlyPaymentOption",
@@ -216,7 +216,7 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "NoBrandFood",
@@ -243,7 +243,7 @@
       "efficiency": 3,
       "desirability": -1
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "Oven",
@@ -270,7 +270,7 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "PartyOrders",
@@ -297,7 +297,7 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "SelfServeVegetablesPicking",
@@ -324,7 +324,7 @@
       "efficiency": 2,
       "desirability": -1
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "SeniorCitizenFreeHomeDelivery",
@@ -352,7 +352,7 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "SpecializedStores",
@@ -379,7 +379,7 @@
       "efficiency": 2,
       "desirability": 1
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   },
   {
     "id": "WorkersLunch",
@@ -406,6 +406,6 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "FAST_FOOD"
+    "industry_type": "FOOD"
   }
 ]
