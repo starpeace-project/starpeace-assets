@@ -1,9 +1,9 @@
 [
   {
     "id": "MAGNA",
-    "name_short": "Magna",
-    "name_long": "Magna Corp",
-    "buildings": [
+    "nameShort": "Magna",
+    "nameLong": "Magna Corp",
+    "buildingIds": [
       "magna.cloud.city",
       "magna.construction",
       "magna.heaven",

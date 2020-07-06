@@ -1,0 +1,58 @@
+{
+  "towns": [
+    {
+      "name": "Panthera",
+      "sealId": "MKO",
+      "mapX": 230,
+      "mapY": 204
+    },
+    {
+      "name": "Tigris",
+      "sealId": "PGI",
+      "mapX": 534,
+      "mapY": 123
+    },
+    {
+      "name": "Uncia",
+      "sealId": "MOAB",
+      "mapX": 710,
+      "mapY": 244
+    },
+    {
+      "name": "Lynx",
+      "sealId": "MOAB",
+      "mapX": 512,
+      "mapY": 399
+    },
+    {
+      "name": "Cheetah",
+      "sealId": "DIS",
+      "mapX": 850,
+      "mapY": 362
+    },
+    {
+      "name": "Oncifelia",
+      "sealId": "MKO",
+      "mapX": 140,
+      "mapY": 560
+    },
+    {
+      "name": "Puma",
+      "sealId": "DIS",
+      "mapX": 589,
+      "mapY": 752
+    },
+    {
+      "name": "Leopardus",
+      "sealId": "PGI",
+      "mapX": 857,
+      "mapY": 560
+    },
+    {
+      "name": "Caracal",
+      "sealId": "DIS",
+      "mapX": 304,
+      "mapY": 856
+    }
+  ]
+}

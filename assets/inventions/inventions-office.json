@@ -1,7 +1,7 @@
 [
   {
     "id": "AntiNoiseWallsAndDoors",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Schalldichte Wände und Türen",
       "EN": "Soundproof Walls and Doors",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "privacy": 8,
       "security": -3
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "AutoCleaningConducts",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Selbstreinigende Rohre",
       "EN": "Self-Cleaning Air Shafts",
@@ -50,19 +50,19 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "maintenance": 3,
       "security": 3,
       "environment": 10
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "CommonBathrooms",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Gemeinsame Toiletten",
       "EN": "Unisex Bathrooms",
@@ -81,19 +81,19 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "maintenance": 10,
       "privacy": -3,
       "security": -2
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "DarkeningWindows",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Verdunkelnde Fenster",
       "EN": "Self-Shading Windows",
@@ -112,17 +112,17 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "privacy": 5
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "DayCare",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Tagesstätte",
       "EN": "Day Care",
@@ -142,18 +142,18 @@
     "properties": {
       "price": 20000000,
       "prestige": 20,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "maintenance": -5,
       "security": 5
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "GuardsStand",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Wachposten",
       "EN": "Guard Stand",
@@ -172,20 +172,20 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "beauty": -1,
       "maintenance": -3,
       "privacy": -2,
       "security": 15
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "HallLiveMusic",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Livekonzert",
       "EN": "Live Music",
@@ -205,19 +205,19 @@
     "properties": {
       "price": 10000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "beauty": 3,
       "maintenance": -2,
       "security": 1
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "HandicappedUniversalAccess",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Universeller Zugang für Behinderte",
       "EN": "Universal Access",
@@ -237,16 +237,16 @@
     "properties": {
       "price": 40000000,
       "prestige": 40,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "IndoorGardens",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Innengärten",
       "EN": "Indoor Gardens",
@@ -265,19 +265,19 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "beauty": 10,
       "maintenance": -5,
       "environment": 2
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "LightsAlwaysOn",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Konstantes Licht",
       "EN": "Lights-On Policy",
@@ -296,20 +296,20 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "beauty": 2,
       "maintenance": -3,
       "privacy": 3,
       "security": 5
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "LightTherapyRooms",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Lichttherapieräume",
       "EN": "Light Therapy Rooms",
@@ -329,18 +329,18 @@
     "properties": {
       "price": 15000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "maintenance": -1,
       "security": 3
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "MetalDetectors",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Metalldetektoren",
       "EN": "Metal Detectors",
@@ -359,19 +359,19 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "beauty": -2,
       "privacy": -3,
       "security": 10
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "GuardsStand"
     ]
   },
   {
     "id": "NoSmokingPolicy",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Nichtraucherpolitik",
       "EN": "No Smoking Policy",
@@ -390,19 +390,19 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "beauty": 2,
       "maintenance": 3,
       "environment": 5
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "Offices",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Grundlagen der Bürovermietung",
       "EN": "Office Rental Basics",
@@ -421,16 +421,16 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "OpenSpaces",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Offene Räume",
       "EN": "Open Spaces",
@@ -449,18 +449,18 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "maintenance": -3,
       "security": 2
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "PoliceAlarm",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Polizeialarm",
       "EN": "Police Alarm",
@@ -479,18 +479,18 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "maintenance": -1,
       "security": 10
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "PollutionMeasuringDevice",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Schadstoffmeßgerät",
       "EN": "Pollution Measuring Device",
@@ -509,18 +509,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "maintenance": -1,
       "environment": 5
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "PuppiesRoom",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Welpenraum",
       "EN": "Puppy and Kitten Room",
@@ -540,20 +540,20 @@
     "properties": {
       "price": 10000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "beauty": 4,
       "maintenance": -5,
       "security": 2,
       "environment": -1
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "RoboticFlyingCameras",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Fliegende Roboterkameras",
       "EN": "Robotic Flying Cameras",
@@ -572,19 +572,19 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "maintenance": 3,
       "privacy": -5,
       "security": 10
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "SoftCarpets",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Weiche Teppiche",
       "EN": "Soft Carpets",
@@ -603,19 +603,19 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "beauty": 3,
       "maintenance": -1,
       "security": -1
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   },
   {
     "id": "Usher",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Türsteher",
       "EN": "Official Greeter",
@@ -634,13 +634,13 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "maintenance": -2,
       "privacy": 3,
       "security": 2
     },
-    "industry_type": "OFFICE",
-    "depends_on": [
+    "industryTypeId": "OFFICE",
+    "dependsOnIds": [
       "Offices"
     ]
   }

@@ -1,0 +1,76 @@
+{
+  "towns": [
+    {
+      "name": "Shang Mei",
+      "sealId": "MKO",
+      "mapX": 149,
+      "mapY": 238
+    },
+    {
+      "name": "Hellasia",
+      "sealId": "PGI",
+      "mapX": 410,
+      "mapY": 198
+    },
+    {
+      "name": "Corral",
+      "sealId": "DIS",
+      "mapX": 618,
+      "mapY": 177
+    },
+    {
+      "name": "Krylac",
+      "sealId": "MOAB",
+      "mapX": 768,
+      "mapY": 310
+    },
+    {
+      "name": "Bejhai",
+      "sealId": "MKO",
+      "mapX": 904,
+      "mapY": 138
+    },
+    {
+      "name": "Etruria",
+      "sealId": "PGI",
+      "mapX": 556,
+      "mapY": 425
+    },
+    {
+      "name": "Cueba Grande",
+      "sealId": "DIS",
+      "mapX": 725,
+      "mapY": 653
+    },
+    {
+      "name": "Ismash",
+      "sealId": "MOAB",
+      "mapX": 626,
+      "mapY": 889
+    },
+    {
+      "name": "Sailang",
+      "sealId": "MKO",
+      "mapX": 437,
+      "mapY": 743
+    },
+    {
+      "name": "Latinia",
+      "sealId": "PGI",
+      "mapX": 214,
+      "mapY": 876
+    },
+    {
+      "name": "Saledo",
+      "sealId": "DIS",
+      "mapX": 175,
+      "mapY": 666
+    },
+    {
+      "name": "Tashkan",
+      "sealId": "MOAB",
+      "mapX": 301,
+      "mapY": 481
+    }
+  ]
+}

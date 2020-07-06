@@ -1,7 +1,7 @@
 [
   {
     "id": "BringYourOwnIngredients",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Bringen Sie Ihre eigenen Zutaten",
       "EN": "Bring-Your-Own Ingredients",
@@ -21,18 +21,18 @@
     "properties": {
       "price": 25000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "CompulsoryReservations",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Reservierungspflicht",
       "EN": "Compulsory Reservations",
@@ -51,18 +51,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "EthnicRestaurants",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Ethno-Restaurants",
       "EN": "Ethnic Restaurants",
@@ -81,18 +81,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "desirability": 4
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "ExtraterrestrialRecipes",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Außerirdische Rezepte",
       "EN": "Extraterrestrial Recipes",
@@ -112,18 +112,18 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "KidsPlates",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Kinderteller",
       "EN": "Kid's Meals",
@@ -142,18 +142,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "NonOriginalChefs",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Keine Originalköche",
       "EN": "Non-Authentic Chefs",
@@ -172,18 +172,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "EthnicRestaurants"
     ]
   },
   {
     "id": "ProfessionalWaiters",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Profikellner",
       "EN": "Professional Waiters",
@@ -202,18 +202,18 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 1,
       "desirability": 2
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "RefrigeratedIngredients",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Tiefgefrorene Zutaten",
       "EN": "Refrigerated Ingredients",
@@ -232,18 +232,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "desirability": -4
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "Restaurants",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Grundlagen der Restauration",
       "EN": "Restaurant Basics",
@@ -262,13 +262,13 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "RESTAURANT"
+    "industryTypeId": "RESTAURANT"
   },
   {
     "id": "RomanticLounge",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Romantik-Lounge",
       "EN": "Romantic Lounge",
@@ -287,18 +287,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "Sommelier",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Sommelier",
       "EN": "Sommelier",
@@ -317,18 +317,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "WineCellar"
     ]
   },
   {
     "id": "TableTransmittors",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Tischbestellung",
       "EN": "Table Microphones",
@@ -347,18 +347,18 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": 1
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "TakeOut",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Gourmetservice",
       "EN": "Take-Out",
@@ -377,18 +377,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 1,
       "desirability": 1
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "ViolinPlayers",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Geigenspieler",
       "EN": "Violin Player",
@@ -407,18 +407,18 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "RomanticLounge"
     ]
   },
   {
     "id": "WineCellar",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Weinkeller",
       "EN": "Wine Cellar",
@@ -437,18 +437,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   },
   {
     "id": "YearlySubscription",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Jahresabo",
       "EN": "Restaurant Subscription",
@@ -468,12 +468,12 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": 1
     },
-    "industry_type": "RESTAURANT",
-    "depends_on": [
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
       "Restaurants"
     ]
   }

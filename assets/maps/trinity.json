@@ -1,0 +1,70 @@
+{
+  "towns": [
+    {
+      "name": "Laucida",
+      "sealId": "PGI",
+      "mapX": 127,
+      "mapY": 181
+    },
+    {
+      "name": "Ismelas",
+      "sealId": "DIS",
+      "mapX": 590,
+      "mapY": 125
+    },
+    {
+      "name": "Isival",
+      "sealId": "MOAB",
+      "mapX": 853,
+      "mapY": 177
+    },
+    {
+      "name": "Antizia",
+      "sealId": "PGI",
+      "mapX": 727,
+      "mapY": 456
+    },
+    {
+      "name": "Relnoza",
+      "sealId": "DIS",
+      "mapX": 563,
+      "mapY": 300
+    },
+    {
+      "name": "Amnosi",
+      "sealId": "MOAB",
+      "mapX": 438,
+      "mapY": 493
+    },
+    {
+      "name": "Tyteb",
+      "sealId": "MKO",
+      "mapX": 269,
+      "mapY": 405
+    },
+    {
+      "name": "Ledea",
+      "sealId": "MKO",
+      "mapX": 144,
+      "mapY": 776
+    },
+    {
+      "name": "Roal",
+      "sealId": "MOAB",
+      "mapX": 522,
+      "mapY": 920
+    },
+    {
+      "name": "Barreot",
+      "sealId": "DIS",
+      "mapX": 778,
+      "mapY": 817
+    },
+    {
+      "name": "Banafia",
+      "sealId": "PGI",
+      "mapX": 682,
+      "mapY": 662
+    }
+  ]
+}

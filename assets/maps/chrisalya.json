@@ -1,0 +1,28 @@
+{
+  "towns": [
+    {
+      "name": "Monarch",
+      "sealId": "MOAB",
+      "mapX": 180,
+      "mapY": 195
+    },
+    {
+      "name": "Swallowtail",
+      "sealId": "DIS",
+      "mapX": 716,
+      "mapY": 156
+    },
+    {
+      "name": "Satyr",
+      "sealId": "MKO",
+      "mapX": 205,
+      "mapY": 825
+    },
+    {
+      "name": "Argus",
+      "sealId": "PGI",
+      "mapX": 848,
+      "mapY": 790
+    }
+  ]
+}

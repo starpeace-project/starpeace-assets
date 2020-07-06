@@ -1,7 +1,7 @@
 [
   {
     "id": "AwardShows",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Award Shows",
       "EN": "Award Shows",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 700000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "BasicTelevision",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Fernsehen",
       "EN": "Television",
@@ -51,16 +51,16 @@
     "properties": {
       "price": 10000000,
       "prestige": 10,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "Cartoons",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Cartoons",
       "EN": "Cartoons",
@@ -79,18 +79,18 @@
     },
     "properties": {
       "price": 600000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "CommentatorsForTheBlind",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Commentators For The Blind",
       "EN": "Commentators For the Blind",
@@ -110,18 +110,18 @@
     "properties": {
       "price": 700000000,
       "prestige": 20,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 2
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "DetctiveSeries",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Detective Series",
       "EN": "Detective Series",
@@ -140,18 +140,18 @@
     },
     "properties": {
       "price": 1000000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 7
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "DigitalPlatform",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Digital Platforms",
       "EN": "Digital Platforms",
@@ -170,18 +170,18 @@
     },
     "properties": {
       "price": 1200000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -15,
       "quality": 10
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "Infomercials",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Infomercials",
       "EN": "Infomercials",
@@ -201,18 +201,18 @@
     "properties": {
       "price": 500000000,
       "prestige": -5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -2
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "InvestigativeJournalism",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Investigative Journalism",
       "EN": "Investigative Journalism",
@@ -232,18 +232,18 @@
     "properties": {
       "price": 900000000,
       "prestige": 20,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "LateNightShows",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Late Night Shows",
       "EN": "Late Night Shows",
@@ -262,18 +262,18 @@
     },
     "properties": {
       "price": 800000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 2,
       "quality": 2
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "LaughTracksBan",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Laugh Tracks Ban",
       "EN": "Laugh Track Ban",
@@ -293,18 +293,18 @@
     "properties": {
       "price": 500000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 3
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "SitComInvasion"
     ]
   },
   {
     "id": "LocalNews",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Local News",
       "EN": "Local News",
@@ -324,18 +324,18 @@
     "properties": {
       "price": 500000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 2,
       "quality": 2
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "NewTalents",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "New Talents",
       "EN": "New Talent Scouts",
@@ -355,18 +355,18 @@
     "properties": {
       "price": 400000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "PayPerView",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Pay Per View",
       "EN": "Pay-Per-View",
@@ -386,18 +386,18 @@
     "properties": {
       "price": 900000000,
       "prestige": -10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 15,
       "quality": -5
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "QuizShows",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Quiz Shows",
       "EN": "Quiz Shows",
@@ -416,18 +416,18 @@
     },
     "properties": {
       "price": 1000000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 2,
       "quality": 5
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "RealityShows",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Reality Shows",
       "EN": "Reality Shows",
@@ -447,18 +447,18 @@
     "properties": {
       "price": 1000000000,
       "prestige": -10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3,
       "quality": 5
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "SexyVarietyShows",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Sexy Variety Shows",
       "EN": "Sexy Variety Shows",
@@ -478,18 +478,18 @@
     "properties": {
       "price": 700000000,
       "prestige": -10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "SingleSportChannels",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Single Sport Channels",
       "EN": "Single Sport Channels",
@@ -509,18 +509,18 @@
     "properties": {
       "price": 900000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -2
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "DigitalPlatform"
     ]
   },
   {
     "id": "SitComInvasion",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Sit Com Invasions",
       "EN": "Sitcom Invasion",
@@ -540,18 +540,18 @@
     "properties": {
       "price": 800000000,
       "prestige": -5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 2,
       "quality": 2
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "SoapOperasExcellency",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Soap Operas Excellency",
       "EN": "Soap Opera Excellence",
@@ -570,18 +570,18 @@
     },
     "properties": {
       "price": 800000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 4
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "Subtitles",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Subtitles",
       "EN": "Subtitles",
@@ -601,18 +601,18 @@
     "properties": {
       "price": 600000000,
       "prestige": 30,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 1
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "TrashyTalkshows",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Trashy Talkshows",
       "EN": "Trashy Talkshows",
@@ -632,12 +632,12 @@
     "properties": {
       "price": 800000000,
       "prestige": -20,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": 2
     },
-    "industry_type": "TELEVISION",
-    "depends_on": [
+    "industryTypeId": "TELEVISION",
+    "dependsOnIds": [
       "BasicTelevision"
     ]
   }

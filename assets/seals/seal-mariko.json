@@ -1,9 +1,9 @@
 [
   {
     "id": "MKO",
-    "name_short": "Mariko",
-    "name_long": "Mariko Enterprises",
-    "buildings": [
+    "nameShort": "Mariko",
+    "nameLong": "Mariko Enterprises",
+    "buildingIds": [
       "generic.college",
       "generic.dump",
       "generic.jail",

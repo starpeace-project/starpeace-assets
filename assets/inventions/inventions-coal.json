@@ -1,7 +1,7 @@
 [
   {
     "id": "CoalAdvGeology",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Fortgeschrittene Geologie",
       "EN": "Advanced Geology",
@@ -21,16 +21,16 @@
     "properties": {
       "price": 20000000,
       "prestige": 10,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalAdvMinSec",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Minensicherheit für Fortgeschrittene",
       "EN": "Advanced Mine Security",
@@ -50,18 +50,18 @@
     "properties": {
       "price": 210000000,
       "prestige": 100,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": -1
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalAdvGeology"
     ]
   },
   {
     "id": "CoalAdvOreSensors",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Fortgeschrittene Erzsensoren",
       "EN": "Advanced Coal Sensors",
@@ -80,18 +80,18 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 10
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalAirConducts",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Extra Luftschächte",
       "EN": "Extra Air Shafts",
@@ -110,18 +110,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -10
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalExoscheletons",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außenskelette",
       "EN": "Exoskeletons",
@@ -140,18 +140,18 @@
     },
     "properties": {
       "price": 325000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 40,
       "quality": -10
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalExtMining",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außerirdischer Bergbau",
       "EN": "Extraterrestrial Mining",
@@ -171,18 +171,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 20,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -5
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalAdvGeology"
     ]
   },
   {
     "id": "CoalLSMining",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Große Bergwerke",
       "EN": "Large Scale Mining",
@@ -201,16 +201,16 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "MASTER"
+      "levelId": "MASTER"
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalMagneticElev",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Magnetfahrstühle",
       "EN": "Magnetic Elevators",
@@ -229,17 +229,17 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 2
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalMicroExplosions",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Mikroexplosionen",
       "EN": "Microexplosions",
@@ -259,18 +259,18 @@
     "properties": {
       "price": 145000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -15,
       "quality": 25
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalMinersLocators",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Beeper für Kumpel",
       "EN": "Miner Locator",
@@ -290,17 +290,17 @@
     "properties": {
       "price": 45000000,
       "prestige": 20,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalMining",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bergbaugrundlagen",
       "EN": "Mining Basics",
@@ -319,16 +319,16 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "CoalMiningBacteria",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bergwerksbakterien",
       "EN": "Mining Bacteria",
@@ -348,18 +348,18 @@
     "properties": {
       "price": 365000000,
       "prestige": -10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 40
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalAdvGeology"
     ]
   },
   {
     "id": "CoalMiningDroids",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bergwerksdroiden",
       "EN": "Mining Droids",
@@ -378,18 +378,18 @@
     },
     "properties": {
       "price": 220000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -3
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalOreAdulteration",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Erzverfälschung",
       "EN": "Coal Adulteration",
@@ -409,18 +409,18 @@
     "properties": {
       "price": 10000000,
       "prestige": -150,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 30,
       "quality": -35
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalRemoteControlledCarts",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ferngesteuerte Waggons",
       "EN": "Remote Control Carts",
@@ -439,17 +439,17 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalMining"
     ]
   },
   {
     "id": "CoalSteamDrills",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Dampfbohrer",
       "EN": "Steam Drills",
@@ -468,18 +468,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -5
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalAirConducts"
     ]
   },
   {
     "id": "CoalUndergroundCharting",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Untergrundkarten",
       "EN": "Underground Charting",
@@ -499,12 +499,12 @@
     "properties": {
       "price": 165000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 7,
       "quality": 5
     },
-    "industry_type": "COAL",
-    "depends_on": [
+    "industryTypeId": "COAL",
+    "dependsOnIds": [
       "CoalAdvGeology"
     ]
   }

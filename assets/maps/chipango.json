@@ -1,0 +1,64 @@
+{
+  "towns": [
+    {
+      "name": "Heijo",
+      "sealId": "MKO",
+      "mapX": 205,
+      "mapY": 176
+    },
+    {
+      "name": "Heian Kyo",
+      "sealId": "MKO",
+      "mapX": 600,
+      "mapY": 246
+    },
+    {
+      "name": "Kamakura",
+      "sealId": "MKO",
+      "mapX": 234,
+      "mapY": 385
+    },
+    {
+      "name": "Edo",
+      "sealId": "MKO",
+      "mapX": 598,
+      "mapY": 443
+    },
+    {
+      "name": "Kyushu",
+      "sealId": "MKO",
+      "mapX": 844,
+      "mapY": 351
+    },
+    {
+      "name": "Daifuzu",
+      "sealId": "MKO",
+      "mapX": 888,
+      "mapY": 540
+    },
+    {
+      "name": "Kiso",
+      "sealId": "MKO",
+      "mapX": 142,
+      "mapY": 682
+    },
+    {
+      "name": "Hyogo",
+      "sealId": "MKO",
+      "mapX": 372,
+      "mapY": 700
+    },
+    {
+      "name": "Hamamatsu",
+      "sealId": "MKO",
+      "mapX": 640,
+      "mapY": 787
+    },
+    {
+      "name": "Koriyama",
+      "sealId": "MKO",
+      "mapX": 488,
+      "mapY": 878
+    }
+  ]
+}

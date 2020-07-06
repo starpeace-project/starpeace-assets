@@ -1,0 +1,70 @@
+{
+  "towns": [
+    {
+      "name": "Michael Den",
+      "sealId": "PGI",
+      "mapX": 225,
+      "mapY": 155
+    },
+    {
+      "name": "Cassieltown",
+      "sealId": "MKO",
+      "mapX": 864,
+      "mapY": 767
+    },
+    {
+      "name": "Raphael City",
+      "sealId": "PGI",
+      "mapX": 804,
+      "mapY": 71
+    },
+    {
+      "name": "Zadkielburg",
+      "sealId": "MOAB",
+      "mapX": 677,
+      "mapY": 242
+    },
+    {
+      "name": "Jophielville",
+      "sealId": "DIS",
+      "mapX": 406,
+      "mapY": 313
+    },
+    {
+      "name": "Azrael Haven",
+      "sealId": "MKO",
+      "mapX": 288,
+      "mapY": 523
+    },
+    {
+      "name": "Israfel Cove",
+      "sealId": "MOAB",
+      "mapX": 547,
+      "mapY": 544
+    },
+    {
+      "name": "Gabrielia",
+      "sealId": "DIS",
+      "mapX": 713,
+      "mapY": 501
+    },
+    {
+      "name": "Raziel",
+      "sealId": "PGI",
+      "mapX": 182,
+      "mapY": 788
+    },
+    {
+      "name": "Urieland",
+      "sealId": "MOAB",
+      "mapX": 414,
+      "mapY": 886
+    },
+    {
+      "name": "Camaelonia",
+      "sealId": "DIS",
+      "mapX": 583,
+      "mapY": 762
+    }
+  ]
+}

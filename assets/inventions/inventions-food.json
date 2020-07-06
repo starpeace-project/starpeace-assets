@@ -1,7 +1,7 @@
 [
   {
     "id": "DailyFarmDeliveries",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Tägliche frisch vom Bauernhof",
       "EN": "Daily Farm Deliveries",
@@ -20,15 +20,15 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "DeliCounter",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Delikatessentisch",
       "EN": "Deli Counter",
@@ -47,15 +47,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "ExpiringDatesAlteration",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Änderung der Haltbarkeitsdaten",
       "EN": "Expiry Date Altering",
@@ -74,15 +74,15 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": -2
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "ExtraterrestrialVegetables",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Außerirdisches Gemüse",
       "EN": "Extraterrestrial Vegetables",
@@ -102,15 +102,15 @@
     "properties": {
       "price": 15000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "Flowers",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Blumen",
       "EN": "Flowers",
@@ -129,17 +129,17 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "desirability": 1
     },
-    "industry_type": "FOOD",
-    "depends_on": [
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
       "DailyFarmDeliveries"
     ]
   },
   {
     "id": "FoodIntegrityDailyControls",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Tägliche Verpackungskontrollen",
       "EN": "Food Integrity Daily Controls",
@@ -158,15 +158,15 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "HygieneChecks",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Hygieneüberprüfungen",
       "EN": "Hygiene Checks",
@@ -185,15 +185,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 2
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "MonthlyPaymentOption",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Monatliche Zahlungen",
       "EN": "Monthly Payment Option",
@@ -212,15 +212,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "NoBrandFood",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Billiglebensmittel",
       "EN": "No-Brand Food",
@@ -239,15 +239,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "Oven",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Ofen",
       "EN": "Oven",
@@ -266,15 +266,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "PartyOrders",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Partyaufträge",
       "EN": "Party Orders",
@@ -293,15 +293,15 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "SelfServeVegetablesPicking",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Selbstbedienung bei Obst und Gemüse",
       "EN": "Self-Serve Vegetable Picking",
@@ -320,15 +320,15 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": -1
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "SeniorCitizenFreeHomeDelivery",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Kostenlose Lieferung für Senioren",
       "EN": "Senior Citizen Free Home Delivery",
@@ -348,15 +348,15 @@
     "properties": {
       "price": 25000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "SpecializedStores",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Fachgeschäfte",
       "EN": "Specialized Stores",
@@ -375,15 +375,15 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": 1
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   },
   {
     "id": "WorkersLunch",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Arbeiteressen",
       "EN": "Worker's Quick Lunch",
@@ -402,10 +402,10 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "FOOD"
+    "industryTypeId": "FOOD"
   }
 ]

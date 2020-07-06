@@ -1,7 +1,7 @@
 [
   {
     "id": "AntiEspionageSystem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Anti-Spionage-System",
       "EN": "Anti-Spy System",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -3,
       "quality": 7
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "ChemLic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Chemische Grundlagen",
       "EN": "Chemistry Basics",
@@ -50,16 +50,16 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "ENTREPRENEUR"
+      "levelId": "ENTREPRENEUR"
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "CrisisMonitoringCenter",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Krisencenter",
       "EN": "Crisis Monitoring Center",
@@ -79,17 +79,17 @@
     "properties": {
       "price": 105000000,
       "prestige": 25,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 5
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "DepuratorUpgrading",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Upgrading der Filtermaschinen",
       "EN": "Purifier Upgrading",
@@ -109,17 +109,17 @@
     "properties": {
       "price": 120000000,
       "prestige": 80,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -5
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "DioxinEmissionControl",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kontrolle der Dioxinemission",
       "EN": "Dioxin Emission Control",
@@ -139,18 +139,18 @@
     "properties": {
       "price": 10000000,
       "prestige": 30,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -3,
       "quality": -3
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "EvacuationPlan",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Evakuierungsplan",
       "EN": "Evacuation Plan",
@@ -170,17 +170,17 @@
     "properties": {
       "price": 6500000,
       "prestige": 10,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 2
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "ExtraterrestrialChemistry",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außerirdische Chemie",
       "EN": "Extraterrestrial Chemistry",
@@ -200,18 +200,18 @@
     "properties": {
       "price": 220000000,
       "prestige": 5,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 12,
       "quality": 8
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "ExtraVacuumPumps",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Extra Vakuumpumpen",
       "EN": "Extra Strong Vacuum Pumps",
@@ -230,18 +230,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "FullBodySecurity",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Voller Körperschutz",
       "EN": "Full-Body Protection",
@@ -261,18 +261,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 10,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -3,
       "quality": 4
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "InHouseWasteDisposal",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Hausinterne Müllbeseitigung",
       "EN": "In-House Waste Disposal",
@@ -292,18 +292,18 @@
     "properties": {
       "price": 40000000,
       "prestige": -30,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 15,
       "quality": -5
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "LargeChem"
     ]
   },
   {
     "id": "InternalHospitalAndFireStation",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Interne Krankenstation und Feuerwehr",
       "EN": "Internal Hospital And Fire Station",
@@ -323,18 +323,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3,
       "quality": 4
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "LargeChem"
     ]
   },
   {
     "id": "LargeChem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Große Chemiefabriken",
       "EN": "Large Chemical Factories",
@@ -353,16 +353,16 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "MassiveChemicalStorage",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Massive Chemikalienlagerung",
       "EN": "Massive Chemical Storage",
@@ -382,18 +382,18 @@
     "properties": {
       "price": 120000000,
       "prestige": -15,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 20,
       "quality": -5
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "LargeChem"
     ]
   },
   {
     "id": "PeriodicInstrumentsReplacement",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Periodischer Instrumentenwechsel",
       "EN": "Frequent Instrument Replacement",
@@ -412,18 +412,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "RawMaterialControl",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Rohstoffkontrolle",
       "EN": "Raw Material Control",
@@ -442,18 +442,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -10,
       "quality": 15
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "RecyclingChemicalWaste",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Recycling von Chemieabfällen",
       "EN": "Recycling Chemical Waste",
@@ -473,18 +473,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 10,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 20,
       "quality": -15
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   },
   {
     "id": "TotalPlantAutomation",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Völlige Produktionsautomatisierung",
       "EN": "Total Plant Automation",
@@ -503,12 +503,12 @@
     },
     "properties": {
       "price": 600000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 35,
       "quality": 20
     },
-    "industry_type": "CHEMICAL",
-    "depends_on": [
+    "industryTypeId": "CHEMICAL",
+    "dependsOnIds": [
       "ChemLic"
     ]
   }

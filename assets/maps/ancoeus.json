@@ -1,0 +1,70 @@
+{
+  "towns": [
+    {
+      "name": "Eppe",
+      "sealId": "PGI",
+      "mapX": 409,
+      "mapY": 458
+    },
+    {
+      "name": "Croma",
+      "sealId": "MKO",
+      "mapX": 152,
+      "mapY": 183
+    },
+    {
+      "name": "Perceo",
+      "sealId": "PGI",
+      "mapX": 528,
+      "mapY": 729
+    },
+    {
+      "name": "Treloba",
+      "sealId": "DIS",
+      "mapX": 908,
+      "mapY": 665
+    },
+    {
+      "name": "El Rio",
+      "sealId": "DIS",
+      "mapX": 467,
+      "mapY": 153
+    },
+    {
+      "name": "Ilase",
+      "sealId": "PGI",
+      "mapX": 721,
+      "mapY": 471
+    },
+    {
+      "name": "Loi Mei",
+      "sealId": "MKO",
+      "mapX": 290,
+      "mapY": 595
+    },
+    {
+      "name": "Wo Ka",
+      "sealId": "MKO",
+      "mapX": 574,
+      "mapY": 877
+    },
+    {
+      "name": "Dromeda",
+      "sealId": "MOAB",
+      "mapX": 802,
+      "mapY": 902
+    },
+    {
+      "name": "Zelti",
+      "sealId": "MOAB",
+      "mapX": 865,
+      "mapY": 215
+    },
+    {
+      "name": "Oloc",
+      "sealId": "MOAB",
+      "mapX": 106,
+      "mapY": 410
+    }
+  ]
+}

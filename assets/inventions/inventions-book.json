@@ -1,7 +1,7 @@
 [
   {
     "id": "AlienWriting",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Alien Writing",
       "EN": "Alien Books",
@@ -20,17 +20,17 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 2
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "BigLetters",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Big Letters",
       "EN": "Large Font Books",
@@ -50,18 +50,18 @@
     "properties": {
       "price": 40000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 2,
       "quality": -1
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "bookBedtime",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Beds",
       "EN": "Beds",
@@ -80,15 +80,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 2
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookBestOnly",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Best Sellers Only",
       "EN": "Best-Sellers Only",
@@ -107,15 +107,15 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": -2
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookBookLaunch",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Book Launchings",
       "EN": "Book Launchings",
@@ -135,15 +135,15 @@
     "properties": {
       "price": 75000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 6
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookBookWhore",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Flirting",
       "EN": "Flirting",
@@ -162,15 +162,15 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 6
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookDigitalCatalog",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Digital Catalog",
       "EN": "Digital Catalog",
@@ -189,15 +189,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 1,
       "desirability": 2
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookFinding",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Book Finding",
       "EN": "Book Finding Service",
@@ -216,15 +216,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookHolobooks",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Holo-Books",
       "EN": "Holo-Books",
@@ -243,15 +243,15 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "desirability": -2
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookKids",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Kids Section",
       "EN": "Kid's Section",
@@ -270,15 +270,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookLiveWriting",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Live Writing",
       "EN": "Live Writing",
@@ -298,15 +298,15 @@
     "properties": {
       "price": 75000000,
       "prestige": 40,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 8
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookMisinformation",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Positive Misinformation",
       "EN": "Positive Misinformation",
@@ -325,14 +325,14 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "desirability": 2
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookPoetClub",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Poetry Club",
       "EN": "Poetry Club",
@@ -351,15 +351,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookPoliticallyCorrect",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Big Sizes",
       "EN": "Politically Correct Books",
@@ -379,15 +379,15 @@
     "properties": {
       "price": 55000000,
       "prestige": 70,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "desirability": -30
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "booksBraile",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Braile Section",
       "EN": "Braille Section",
@@ -407,15 +407,15 @@
     "properties": {
       "price": 15000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "desirability": 2
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookTrailers",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Books Trailers",
       "EN": "Books Trailers",
@@ -434,15 +434,15 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -7,
       "desirability": 8
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "bookUsedBooks",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Used Books",
       "EN": "Used Books",
@@ -462,15 +462,15 @@
     "properties": {
       "price": 5000000,
       "prestige": -10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -3
     },
-    "industry_type": "BOOK"
+    "industryTypeId": "BOOK"
   },
   {
     "id": "BrailleBooks",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Braille Books",
       "EN": "Braille Books",
@@ -490,17 +490,17 @@
     "properties": {
       "price": 100000000,
       "prestige": 40,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "FirstEditionScam",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "First Edition Scam",
       "EN": "First Edition Scam",
@@ -520,17 +520,17 @@
     "properties": {
       "price": 80000000,
       "prestige": -5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 4
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "FloweryLetters",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Flowery Letters",
       "EN": "Fancy Font",
@@ -549,18 +549,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "Flyers",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Flyers",
       "EN": "Flyers",
@@ -579,18 +579,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "FontDatabase",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Font Database",
       "EN": "Font Database",
@@ -609,17 +609,17 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "quality": 2
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "HighQualityPictures",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "High Quality Pictures",
       "EN": "High Quality Pictures",
@@ -638,18 +638,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 4
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "HistoryOfPrinting",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "History of Printing",
       "EN": "History of Printing",
@@ -668,17 +668,17 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "quality": 2
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "HandMadePaper"
     ]
   },
   {
     "id": "Holograms",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Holograms",
       "EN": "Holograms",
@@ -697,18 +697,18 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "LuxuryBindings",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Luxury Bindings",
       "EN": "Luxury Binding",
@@ -727,18 +727,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "MintOutsourcing",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Mint Outsourcing",
       "EN": "Banknote Outsourcing",
@@ -758,17 +758,17 @@
     "properties": {
       "price": 150000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "Watermarks"
     ]
   },
   {
     "id": "PlasticizedBooks",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Plasticized Books",
       "EN": "Plastic Books",
@@ -787,18 +787,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   },
   {
     "id": "PrintingInd",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Printing Industry Basics",
       "EN": "Printing Industry Basics",
@@ -817,16 +817,16 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "QualityMagazines",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Quality Magazines",
       "EN": "High Quality Magazines",
@@ -846,18 +846,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3,
       "quality": 5
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "HighQualityPictures"
     ]
   },
   {
     "id": "Watermarks",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Watermarks",
       "EN": "Watermarks",
@@ -876,12 +876,12 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "BOOK",
-    "depends_on": [
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
       "PrintingInd"
     ]
   }

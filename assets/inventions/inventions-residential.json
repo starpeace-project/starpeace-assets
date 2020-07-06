@@ -1,7 +1,7 @@
 [
   {
     "id": "AdoptAFloorCampaign",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Adopt A Floor Campaign",
       "EN": "Adopt-A-Floor Campaign",
@@ -20,19 +20,19 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 3,
       "maintenance": 3,
       "privacy": -1
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "AdvAroma",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Aromatherapie für Fortgeschrittene",
       "EN": "Advanced Aromatherapy",
@@ -51,18 +51,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 4,
       "environment": 1
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "AdvDec",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Dekoration für Fortgeschrittene",
       "EN": "Advanced Decor",
@@ -81,17 +81,17 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 5
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "AIManager",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "AI Manager",
       "EN": "AI Manager",
@@ -110,17 +110,17 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "maintenance": 6
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "AirBorneDeliveries",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Air Borne Deliveries",
       "EN": "Air Deliveries",
@@ -139,20 +139,20 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "maintenance": -2,
       "privacy": 4,
       "security": 3,
       "environment": -2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "AntiPollPaint",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Anti-Schadstoff-Farbe",
       "EN": "Anti-Pollution Paint",
@@ -171,18 +171,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -7,
       "environment": 25
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "AntiRadGlass",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Anti-Strahlungs-Glas",
       "EN": "Anti-Radiation Windows",
@@ -201,19 +201,19 @@
     },
     "properties": {
       "price": 27000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -3,
       "privacy": 2,
       "environment": 10
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "AntiRadWall",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Anti-Strahlungs-Wände",
       "EN": "Anti-Radiation Walls",
@@ -232,18 +232,18 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -1,
       "environment": 10
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "BanjeeJumping",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Banjee Jumping",
       "EN": "Bungee Jumping",
@@ -262,20 +262,20 @@
     },
     "properties": {
       "price": 120000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 3,
       "maintenance": 4,
       "privacy": -2,
       "security": -1
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "CleaningMonitoringSystem",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Cleaning Monitoring System",
       "EN": "Cleaning Monitoring System",
@@ -294,20 +294,20 @@
     },
     "properties": {
       "price": 180000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -2,
       "maintenance": 10,
       "privacy": 2,
       "environment": -3
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "ClosedCircuits",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Innerbetriebliche Fernsehanlage",
       "EN": "Surveillance",
@@ -326,18 +326,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "privacy": -4,
       "security": 9
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "Colossus",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Colossus",
       "EN": "Colossus",
@@ -357,19 +357,19 @@
     "properties": {
       "price": 120000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 5,
       "maintenance": -1,
       "privacy": -1
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "Communities",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Communities",
       "EN": "Communities",
@@ -388,17 +388,17 @@
     },
     "properties": {
       "price": 180000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "privacy": 2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "ComplementaryCars",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Complementary Cars",
       "EN": "Complimentary Cars",
@@ -417,20 +417,20 @@
     },
     "properties": {
       "price": 140000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "maintenance": 3,
       "privacy": -1,
       "security": 1,
       "environment": 2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "ControlledRiots",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Controlled Riots",
       "EN": "Controlled Riots",
@@ -450,19 +450,19 @@
     "properties": {
       "price": 100000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "maintenance": -2,
       "privacy": -1,
       "security": 6
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "DailyCleaners",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Tägliche Putzkolonne",
       "EN": "Daily Cleaners",
@@ -481,21 +481,21 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 2,
       "maintenance": -2,
       "privacy": -1,
       "security": 1,
       "environment": 2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "DigitalPaintings",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Digital Paintings",
       "EN": "Digital Paintings",
@@ -514,19 +514,19 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 3,
       "maintenance": 1,
       "security": 2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "ElecFenc",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Elektrische Zäune",
       "EN": "Electric Fences",
@@ -545,20 +545,20 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -5,
       "maintenance": -3,
       "privacy": 4,
       "security": 20
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "EmergencyParachuting",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Emergency Parachuting",
       "EN": "Emergency Parachuting",
@@ -577,19 +577,19 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "maintenance": 2,
       "security": 2,
       "environment": 2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "EnvMusic",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Hintergrundmusik",
       "EN": "Background Music",
@@ -608,17 +608,17 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 4
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "EscortService",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Escort Service",
       "EN": "Escort Service",
@@ -637,17 +637,17 @@
     },
     "properties": {
       "price": 140000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "security": 5
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "FengShui",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Feng Shui",
       "EN": "Feng Shui",
@@ -666,17 +666,17 @@
     },
     "properties": {
       "price": 180000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 7
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "FishBowls",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Aquarien",
       "EN": "Fish Tanks",
@@ -695,17 +695,17 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "Gardener",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Gärtner",
       "EN": "Gardener",
@@ -724,20 +724,20 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 3,
       "maintenance": -2,
       "security": 2,
       "environment": 1
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "GatedFloors",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Gated Floors",
       "EN": "High Security Floors",
@@ -756,20 +756,20 @@
     },
     "properties": {
       "price": 180000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -2,
       "maintenance": -2,
       "privacy": 5,
       "security": 6
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "GlassCleaningRobots",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Glass Cleaning Robots",
       "EN": "Window Cleaning Robots",
@@ -788,21 +788,21 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 2,
       "maintenance": 2,
       "privacy": -1,
       "security": 1,
       "environment": 4
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "GlobFilters",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Universalfilter",
       "EN": "Global Filters",
@@ -821,19 +821,19 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "maintenance": -10,
       "security": -4,
       "environment": 10
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "GunCompart",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Waffendepots",
       "EN": "Gun Compartments",
@@ -852,18 +852,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -3,
       "security": 7
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "HallMirrors",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Wandspiegel",
       "EN": "Convex Hall Mirrors",
@@ -882,19 +882,19 @@
     },
     "properties": {
       "price": 1000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -2,
       "privacy": -1,
       "security": 2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "HallwayTrees",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Hallway Trees",
       "EN": "Hallway Trees",
@@ -913,19 +913,19 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 4,
       "security": -2,
       "environment": 3
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "HighSpeedElevators",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "High Speed Elevators",
       "EN": "High Speed Elevators",
@@ -944,18 +944,18 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "privacy": 2,
       "environment": 3
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "HoboEnrolling",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Hobo Enrolling",
       "EN": "Hobo Recruiting",
@@ -975,21 +975,21 @@
     "properties": {
       "price": 140000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -4,
       "maintenance": 2,
       "privacy": -1,
       "security": 2,
       "environment": 5
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "HolidayCenters",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Holiday Centers",
       "EN": "Holiday Centers",
@@ -1009,20 +1009,20 @@
     "properties": {
       "price": 140000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 3,
       "maintenance": -3,
       "privacy": 6,
       "environment": -1
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "InternalZoo",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Internal Zoo",
       "EN": "Internal Zoo",
@@ -1041,19 +1041,19 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 6,
       "maintenance": -2,
       "environment": -1
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "IntExt",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Innenraumvergrößerung",
       "EN": "Interior Expansion",
@@ -1072,20 +1072,20 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 3,
       "privacy": -2,
       "security": -3,
       "environment": -2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "MobileApartments",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Mobile Apartments",
       "EN": "Mobile Apartments",
@@ -1104,20 +1104,20 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 5,
       "maintenance": -5,
       "privacy": 5,
       "security": 3
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "OxygenMasks",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Sauerstoffmasken",
       "EN": "Oxygen Masks",
@@ -1136,18 +1136,18 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": -1,
       "environment": 4
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "Painting",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Bilder",
       "EN": "Paintings",
@@ -1166,18 +1166,18 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 4,
       "security": -2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "PatBldgs",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Patrouillensystem",
       "EN": "Patrolled Buildings",
@@ -1196,19 +1196,19 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "maintenance": -4,
       "privacy": -3,
       "security": 10
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "RealEstate",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Grundlagen zur Hausvermietung",
       "EN": "House Rental Basics",
@@ -1227,13 +1227,13 @@
     },
     "properties": {
       "price": 500000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "RESIDENTIAL"
+    "industryTypeId": "RESIDENTIAL"
   },
   {
     "id": "ScentDiffusers",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Scent Diffusers",
       "EN": "Scent Diffusers",
@@ -1253,19 +1253,19 @@
     "properties": {
       "price": 160000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 1,
       "security": -2,
       "environment": 6
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "Sculpt",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Skulpturen",
       "EN": "Sculptures",
@@ -1284,18 +1284,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 4,
       "security": -3
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "SealedEnvironment",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Sealed Environment",
       "EN": "Sealed Environment",
@@ -1314,17 +1314,17 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "environment": 8
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "SelfDef",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Selbstverteidigungskurse",
       "EN": "Self-Defense Training Courses",
@@ -1343,17 +1343,17 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "security": 7
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "SuicideTerrace",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Suicide Terrace",
       "EN": "Suicide Terrace",
@@ -1373,19 +1373,19 @@
     "properties": {
       "price": 160000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "beauty": 2,
       "privacy": 2,
       "security": 2
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   },
   {
     "id": "ZeroToleranceRent",
-    "category": "REAL_ESTATE",
+    "industryCategoryId": "REAL_ESTATE",
     "name": {
       "DE": "Zero Tolerance Rent",
       "EN": "Zero Tolerance Rent",
@@ -1405,13 +1405,13 @@
     "properties": {
       "price": 180000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "maintenance": 2,
       "privacy": 2,
       "security": 3
     },
-    "industry_type": "RESIDENTIAL",
-    "depends_on": [
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
       "RealEstate"
     ]
   }

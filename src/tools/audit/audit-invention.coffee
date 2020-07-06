@@ -23,9 +23,9 @@ exports = module.exports = class AuditInvention
 
       process.stdout.write '\n'
 
-      definitions_with_unknown_categories = _.filter(definitions, (definition) -> !audit_data.industry.industry_categories_by_id[definition.category_id]?)
+      definitions_with_unknown_categories = _.filter(definitions, (definition) -> !audit_data.industry.industry_categories_by_id[definition.industry_category_id]?)
       if definitions_with_unknown_categories.length
-        console.log " [ERROR] invention definition #{definition.id} has unknown category references #{definition.category_id}" for definition in definitions_with_unknown_categories
+        console.log " [ERROR] invention definition #{definition.id} has unknown category references #{definition.industry_category_id}" for definition in definitions_with_unknown_categories
         throw "found #{definitions_with_unknown_categories.length} invention definitions with unknown industry category references"
       else
         console.log " [OK] all invention definitions have valid industry category references"
@@ -44,9 +44,9 @@ exports = module.exports = class AuditInvention
       else
         console.log " [OK] all invention definitions have valid depends_on_ids references"
 
-      definitions_with_unknown_property_level = _.filter(definitions, (definition) -> definition.properties.level? && !audit_data.industry.levels_by_id[definition.properties.level]?)
+      definitions_with_unknown_property_level = _.filter(definitions, (definition) -> definition.properties.levelId? && !audit_data.industry.levels_by_id[definition.properties.levelId]?)
       if definitions_with_unknown_property_level.length
-        console.log " [ERROR] invention definition #{definition.id} has unknown level references #{definition.properties.level}" for definition in definitions_with_unknown_property_level
+        console.log " [ERROR] invention definition #{definition.id} has unknown level references #{definition.properties.levelId}" for definition in definitions_with_unknown_property_level
         throw "found #{definitions_with_unknown_zones.length} invention definitions with unknown level references"
       else
         console.log " [OK] all invention definitions have valid level references"

@@ -1,7 +1,7 @@
 [
   {
     "id": "24HoursTechnicalService",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "24-Stunden-Technikservice",
       "EN": "24 Hour Technical Service",
@@ -21,15 +21,15 @@
     "properties": {
       "price": 60000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "AlienAlarm",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außerirdische-Alarm",
       "EN": "Alien Alarm",
@@ -49,16 +49,16 @@
     "properties": {
       "price": 50000000,
       "prestige": 20,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "ArtificialPets",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Künstliche Haustiere",
       "EN": "Artificial Pets",
@@ -78,18 +78,18 @@
     "properties": {
       "price": 60000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "quality": 10
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "CoinsSlot",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Münzschlitz",
       "EN": "Coin Slots",
@@ -109,18 +109,18 @@
     "properties": {
       "price": 20000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 5
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "DisintegratingBins",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Abfallzerstörender Mülleimer",
       "EN": "Disintegrating Bins",
@@ -140,18 +140,18 @@
     "properties": {
       "price": 20000000,
       "prestige": -2,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "FakeFireplaces",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Falsche Kamine",
       "EN": "Fake Fireplace",
@@ -170,18 +170,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "FinalEntertainmentSystem",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Ultimatives Unterhaltungssystem",
       "EN": "Comprehensive Entertainment System",
@@ -200,15 +200,15 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 1,
       "desirability": 2
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "FullHouseSpecial",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Sonderangebot Kompletteinrichtung",
       "EN": "House Special",
@@ -227,15 +227,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -1
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "GeneralRemote",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Universal-Fernbedienung",
       "EN": "General Remote",
@@ -255,18 +255,18 @@
     "properties": {
       "price": 110000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 12
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "HHALic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Haushaltsgeräteproduktion",
       "EN": "Appliances Production",
@@ -285,16 +285,16 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "HiddenMachines",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Versteckte Maschinen",
       "EN": "Hidden Appliances",
@@ -313,15 +313,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "HiFiDirectionalSpeakers",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "HiFi Direktlautsprecher",
       "EN": "Hi-Fi Directional Speakers",
@@ -341,18 +341,18 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "quality": 8
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "HiFiRoom",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "HiFi Raum",
       "EN": "Hi-Fi Room",
@@ -371,15 +371,15 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "HolographicTV",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Holografisches Fernsehen",
       "EN": "Holographic TV",
@@ -399,18 +399,18 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "HomeTheatres",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Heimkino",
       "EN": "Home Theater",
@@ -429,15 +429,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "LifeWarranties",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Lebenslange Garantien",
       "EN": "Lifetime Warranty",
@@ -457,15 +457,15 @@
     "properties": {
       "price": 60000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "LSAppProd",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Große Haushaltsgeräteindustrien",
       "EN": "Large Scale Appliance Production",
@@ -484,16 +484,16 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "ENTREPRENEUR"
+      "levelId": "ENTREPRENEUR"
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "MachinesRenting",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Geräteverleih",
       "EN": "Machine Rental",
@@ -512,15 +512,15 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "MorphingPet",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Verwandelbares Haustier",
       "EN": "Morphing Pet",
@@ -540,18 +540,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 8
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "ArtificialPets"
     ]
   },
   {
     "id": "OneDayExplanatoryCourse",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Eintageskurs",
       "EN": "One Day Technology Course",
@@ -570,15 +570,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "RepairmentDepartment",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Reparaturabteilung",
       "EN": "Repair Department",
@@ -597,15 +597,15 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 4
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "SalesPeopleAsCustomer",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Verkäufer sind Kunden",
       "EN": "Salespeople-As-Customer",
@@ -624,15 +624,15 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": -1
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "UltrasoundsWashingMachines",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ultraschall-Waschmaschinen",
       "EN": "Ultrasound Washing Machine",
@@ -652,18 +652,18 @@
     "properties": {
       "price": 20000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "UltraThinTv",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ultra-Flachbildfernseher",
       "EN": "Ultra Thin TV",
@@ -682,18 +682,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "UnexperiencedTechnicians",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Unerfahrene Techniker",
       "EN": "Inexperienced Technicians",
@@ -712,15 +712,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "UniversalMachine",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Universalmaschine",
       "EN": "Universal Machine",
@@ -739,18 +739,18 @@
     },
     "properties": {
       "price": 350000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 40,
       "quality": -8
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "UnscreenedComponents",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ungeschützte Komponenten",
       "EN": "Unscreened Components",
@@ -770,18 +770,18 @@
     "properties": {
       "price": 90000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 15,
       "quality": -5
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "UsedMachineMarket",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Gebrauchtmaschinenmarkt",
       "EN": "Used Machine Market",
@@ -800,15 +800,15 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "desirability": 1
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "UsedUnitsRetirement",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Zurückgabe von gebrauchten Teilen",
       "EN": "Used Unit Recycling",
@@ -827,18 +827,18 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 15,
       "quality": -4
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "VerticalStorage",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Vertikale Lagerung",
       "EN": "Vertical Storage",
@@ -857,15 +857,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
-    "industry_type": "APPLIANCE"
+    "industryTypeId": "APPLIANCE"
   },
   {
     "id": "VoiceActivator",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Stimmaktivierung",
       "EN": "Voice Activator",
@@ -884,18 +884,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -7,
       "quality": 10
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "HHALic"
     ]
   },
   {
     "id": "YearlyInspectionAndTuneUp",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Jährliche Inspektion und Tuning",
       "EN": "Annual Inspection and Tune Up",
@@ -914,12 +914,12 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": 1
     },
-    "industry_type": "APPLIANCE",
-    "depends_on": [
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
       "RepairmentDepartment"
     ]
   }

@@ -1,7 +1,7 @@
 [
   {
     "id": "AlienArtifactsAwarenessPlan",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ausgrabungsplan für außerirdische Gegenstände",
       "EN": "Alien Artifacts Awareness Plan",
@@ -21,17 +21,17 @@
     "properties": {
       "price": 85000000,
       "prestige": 10,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -2
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "AntiseismicStructures",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Erdbebensichere Strukturen",
       "EN": "Seismic-proof Structures",
@@ -50,18 +50,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "AutomatizedConstructionSite",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Automatische Baustelle",
       "EN": "Automated Construction Site",
@@ -81,18 +81,18 @@
     "properties": {
       "price": 280000000,
       "prestige": -5,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": 30,
       "quality": -5
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "CaveauFoundations",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Fundamentnische",
       "EN": "Vault Foundation",
@@ -111,18 +111,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -2,
       "quality": 4
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "ConstInd",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Basiswissen Bauwesen",
       "EN": "Construction Basics",
@@ -141,16 +141,16 @@
     },
     "properties": {
       "price": 2000000,
-      "level": "PARADIGM"
+      "levelId": "PARADIGM"
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "CorporateAtrii",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Unternehmensatrien",
       "EN": "Corporate Atriums",
@@ -170,18 +170,18 @@
     "properties": {
       "price": 85000000,
       "prestige": 15,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -2,
       "quality": 8
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "MarbleRefinishing"
     ]
   },
   {
     "id": "DemolitionStrategy",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Abriss-Strategie",
       "EN": "Demolition Strategy",
@@ -200,18 +200,18 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": 10,
       "quality": -5
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "DrawYourOwnHouse",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Zeichnen Sie Ihr eigenes Haus",
       "EN": "Draw Your Own House",
@@ -230,18 +230,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -3,
       "quality": 5
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "ExtraterrestrialGravityStudy",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Studie der außerirdischen Schwerkraft",
       "EN": "Extraterrestrial Gravity Study",
@@ -261,18 +261,18 @@
     "properties": {
       "price": 125000000,
       "prestige": 5,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": 5,
       "quality": 5
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "LandscapingElements",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Landschaftselemente",
       "EN": "Landscaping Elements",
@@ -292,18 +292,18 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -3,
       "quality": 8
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "MarbleRefinishing",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Marmordekor",
       "EN": "Marble Refinishing",
@@ -323,18 +323,18 @@
     "properties": {
       "price": 35000000,
       "prestige": 4,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "ModularFloors",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Modulstockwerke",
       "EN": "Modular Floors",
@@ -353,18 +353,18 @@
     },
     "properties": {
       "price": 175000000,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": 20,
       "quality": -5
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "PortalInspiredDetails",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Portalinspiriertes Design",
       "EN": "Portal Inspired Details",
@@ -383,18 +383,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -1,
       "quality": 5
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "SecretPassages",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Geheimgänge",
       "EN": "Secret Passageways",
@@ -413,18 +413,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -2,
       "quality": 4
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "SecurityWalls",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Sicherheitsmauern",
       "EN": "Security Walls",
@@ -443,18 +443,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": -4,
       "quality": 6
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   },
   {
     "id": "SuspectMounds",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Verdächtige Hügel",
       "EN": "Suspect Mounds",
@@ -474,11 +474,11 @@
     "properties": {
       "price": 65000000,
       "prestige": -5,
-      "level": "PARADIGM",
+      "levelId": "PARADIGM",
       "efficiency": 8
     },
-    "industry_type": "CONSTRUCTION",
-    "depends_on": [
+    "industryTypeId": "CONSTRUCTION",
+    "dependsOnIds": [
       "ConstInd"
     ]
   }

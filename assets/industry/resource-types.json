@@ -1,7 +1,7 @@
 [
   {
     "id": "ADVERTISEMENTS",
-    "label_plural": {
+    "labelPlural": {
       "DE": "werbung",
       "EN": "advertisements",
       "ES": "anuncios",
@@ -9,12 +9,12 @@
       "IT": "annunci",
       "PT": "propagandas"
     },
-    "unit_id": "IMPRESSION",
+    "unitId": "IMPRESSION",
     "price": 0.5
   },
   {
     "id": "APPLIANCE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "haushaltsgeräte",
       "EN": "appliances",
       "ES": "accesorios",
@@ -22,12 +22,12 @@
       "IT": "elettrodomestici",
       "PT": "eletrodomésticos"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 110
   },
   {
     "id": "AUTOMOBILE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "automobile",
       "EN": "automobiles",
       "ES": "automóviles",
@@ -35,12 +35,12 @@
       "IT": "automobili",
       "PT": "automóveis"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 7000
   },
   {
     "id": "BAR_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "bar-service",
       "EN": "bar service",
       "ES": "servicio de bar",
@@ -48,12 +48,12 @@
       "IT": "servizio bar",
       "PT": "serviço de bar"
     },
-    "unit_id": "CUSTOMER",
+    "unitId": "CUSTOMER",
     "price": 7
   },
   {
     "id": "BOOK",
-    "label_plural": {
+    "labelPlural": {
       "DE": "bücher",
       "EN": "books",
       "ES": "libros",
@@ -61,12 +61,12 @@
       "IT": "libri",
       "PT": "livros"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 15
   },
   {
     "id": "CEMETERY_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "friedhofsdienste",
       "EN": "cemetery services",
       "ES": "servicios de cementerio",
@@ -74,12 +74,12 @@
       "IT": "servizi del cimitero",
       "PT": "serviços de cemitério"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 0
   },
   {
     "id": "CHEMICAL",
-    "label_plural": {
+    "labelPlural": {
       "DE": "chemikalien",
       "EN": "chemicals",
       "ES": "productos químicos",
@@ -87,12 +87,12 @@
       "IT": "sostanze chimiche",
       "PT": "produtos quimicos"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 20
   },
   {
     "id": "CLOTHES",
-    "label_plural": {
+    "labelPlural": {
       "DE": "kleidung",
       "EN": "clothing",
       "ES": "ropa",
@@ -100,12 +100,12 @@
       "IT": "capi di abbigliamento",
       "PT": "roupas"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 25
   },
   {
     "id": "COAL",
-    "label_plural": {
+    "labelPlural": {
       "DE": "kohle",
       "EN": "coal",
       "ES": "carbón",
@@ -113,12 +113,12 @@
       "IT": "carbone",
       "PT": "carvão"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 1
   },
   {
     "id": "COMPACT_DISC",
-    "label_plural": {
+    "labelPlural": {
       "DE": "CDs",
       "EN": "compact discs",
       "ES": "discos compactos",
@@ -126,12 +126,12 @@
       "IT": "compact disc",
       "PT": "discos compactos"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 15
   },
   {
     "id": "COMPUTER",
-    "label_plural": {
+    "labelPlural": {
       "DE": "computers",
       "EN": "computers",
       "ES": "ordenadores",
@@ -139,12 +139,12 @@
       "IT": "computer",
       "PT": "computadores"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 800
   },
   {
     "id": "COMPUTER_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "computer service",
       "EN": "computer services",
       "ES": "servicios informaticos",
@@ -152,12 +152,12 @@
       "IT": "servizi informatici",
       "PT": "serviços informáticos"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 200
   },
   {
     "id": "CONSTRUCTION",
-    "label_plural": {
+    "labelPlural": {
       "DE": "baukraft",
       "EN": "construction force",
       "ES": "fuerza de construcción",
@@ -165,12 +165,12 @@
       "IT": "forza di costruzione",
       "PT": "força de construção"
     },
-    "unit_id": "TON",
+    "unitId": "TON",
     "price": 100
   },
   {
     "id": "CRIME",
-    "label_plural": {
+    "labelPlural": {
       "DE": "kriminalität",
       "EN": "crime",
       "ES": "crimen",
@@ -178,12 +178,12 @@
       "IT": "crimine",
       "PT": "crime"
     },
-    "unit_id": "OCCURRENCE",
+    "unitId": "OCCURRENCE",
     "price": 0
   },
   {
     "id": "CRUDE_OIL",
-    "label_plural": {
+    "labelPlural": {
       "DE": "rohöl",
       "EN": "crude oil",
       "ES": "petróleo crudo",
@@ -191,12 +191,12 @@
       "IT": "olio crudo",
       "PT": "óleo cru"
     },
-    "unit_id": "LITER",
+    "unitId": "LITER",
     "price": 0.2
   },
   {
     "id": "EDUCATION_COLLEGE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "universitäre ausbildung",
       "EN": "college education",
       "ES": "educación universitaria",
@@ -204,12 +204,12 @@
       "IT": "istruzione universitaria",
       "PT": "educação universitária"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 0
   },
   {
     "id": "EDUCATION_PRIMARY",
-    "label_plural": {
+    "labelPlural": {
       "DE": "grundschulbildung",
       "EN": "primary education",
       "ES": "educación primaria",
@@ -217,12 +217,12 @@
       "IT": "istruzione elementare",
       "PT": "educação primária"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 0
   },
   {
     "id": "ELECTRONIC_COMPONENT",
-    "label_plural": {
+    "labelPlural": {
       "DE": "elektronische bauteile",
       "EN": "electronic components",
       "ES": "componentes electrónicos",
@@ -230,12 +230,12 @@
       "IT": "componenti elettronici",
       "PT": "componentes eletrônicos"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 50
   },
   {
     "id": "EXECUTIVE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "exekutive arbeit",
       "EN": "executive labor",
       "ES": "trabajo ejecutivo",
@@ -243,12 +243,12 @@
       "IT": "lavoro esecutivo",
       "PT": "trabalho executivo"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 20
   },
   {
     "id": "FABRIC",
-    "label_plural": {
+    "labelPlural": {
       "DE": "stoff",
       "EN": "fabric",
       "ES": "tela",
@@ -256,12 +256,12 @@
       "IT": "tessuto",
       "PT": "tecido"
     },
-    "unit_id": "METER",
+    "unitId": "METER",
     "price": 6
   },
   {
     "id": "FILM",
-    "label_plural": {
+    "labelPlural": {
       "DE": "filme",
       "EN": "films",
       "ES": "películas",
@@ -269,12 +269,12 @@
       "IT": "film",
       "PT": "filmes"
     },
-    "unit_id": "LICENSE",
+    "unitId": "LICENSE",
     "price": 500
   },
   {
     "id": "FRESH_FOOD",
-    "label_plural": {
+    "labelPlural": {
       "DE": "frisches essen",
       "EN": "fresh food",
       "ES": "comida fresca",
@@ -282,12 +282,12 @@
       "IT": "cibo fresco",
       "PT": "comida fresca"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 4
   },
   {
     "id": "FIRE_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "feuerwehrdienste",
       "EN": "fire services",
       "ES": "servicios de bomberos",
@@ -295,12 +295,12 @@
       "IT": "servizi antincendio",
       "PT": "bombeiros"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 0
   },
   {
     "id": "FUNERAL_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "bestattungsinstitut",
       "EN": "funeral services",
       "ES": "servicios fúnebres",
@@ -308,12 +308,12 @@
       "IT": "servizi funebri",
       "PT": "serviços funerários"
     },
-    "unit_id": "CUSTOMER",
+    "unitId": "CUSTOMER",
     "price": 5000
   },
   {
     "id": "FURNITURE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "möbel",
       "EN": "furniture",
       "ES": "mueble",
@@ -321,12 +321,12 @@
       "IT": "mobilia",
       "PT": "mobília"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 100
   },
   {
     "id": "GARBAGE_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "mülldienstleistungen",
       "EN": "garbage services",
       "ES": "servicios de basura",
@@ -334,12 +334,12 @@
       "IT": "servizi di spazzatura",
       "PT": "serviços de lixo"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 0
   },
   {
     "id": "GASOLINE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "benzin",
       "EN": "gasoline",
       "ES": "gasolina",
@@ -347,12 +347,12 @@
       "IT": "gasolio",
       "PT": "gasolina"
     },
-    "unit_id": "LITER",
+    "unitId": "LITER",
     "price": 2
   },
   {
     "id": "LEGAL_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "rechtsberatung",
       "EN": "legal services",
       "ES": "servicios jurídicos",
@@ -360,12 +360,12 @@
       "IT": "servizi legali",
       "PT": "serviços legais"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 250
   },
   {
     "id": "LIQUOR",
-    "label_plural": {
+    "labelPlural": {
       "DE": "alkohol",
       "EN": "liquor",
       "ES": "espíritu",
@@ -373,12 +373,12 @@
       "IT": "liquore",
       "PT": "licor"
     },
-    "unit_id": "LITER",
+    "unitId": "LITER",
     "price": 5
   },
   {
     "id": "MACHINERY",
-    "label_plural": {
+    "labelPlural": {
       "DE": "maschinen",
       "EN": "machinery",
       "ES": "maquinaria",
@@ -386,12 +386,12 @@
       "IT": "macchinario",
       "PT": "máquinas"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 8000
   },
   {
     "id": "MEDICAL_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "medizinischer dienst",
       "EN": "medical services",
       "ES": "servicios médicos",
@@ -399,12 +399,12 @@
       "IT": "servizi medici",
       "PT": "serviços médicos"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 0
   },
   {
     "id": "METAL",
-    "label_plural": {
+    "labelPlural": {
       "DE": "metalle",
       "EN": "metals",
       "ES": "rieles",
@@ -412,12 +412,12 @@
       "IT": "metalli",
       "PT": "metais"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 8
   },
   {
     "id": "MOVIE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "filme",
       "EN": "movies",
       "ES": "películas",
@@ -425,12 +425,12 @@
       "IT": "film",
       "PT": "filmes"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 5
   },
   {
     "id": "MUSEUM_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "museumsdienstleistungen",
       "EN": "museum services",
       "ES": "servicios de museo",
@@ -438,12 +438,12 @@
       "IT": "servizi museali",
       "PT": "serviços de museu"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 0
   },
   {
     "id": "ORE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "erz",
       "EN": "ore",
       "ES": "mineral",
@@ -451,12 +451,12 @@
       "IT": "minerale",
       "PT": "minério"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 1
   },
   {
     "id": "ORGANIC_MATERIAL",
-    "label_plural": {
+    "labelPlural": {
       "DE": "organisches material",
       "EN": "organic material",
       "ES": "material organico",
@@ -464,12 +464,12 @@
       "IT": "materiale organico",
       "PT": "material orgânico"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 10
   },
   {
     "id": "PAPER",
-    "label_plural": {
+    "labelPlural": {
       "DE": "papier",
       "EN": "paper",
       "ES": "papel",
@@ -477,13 +477,13 @@
       "IT": "carta",
       "PT": "papel"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 15
   },
 
   {
     "id": "PHARMACEUTICAL",
-    "label_plural": {
+    "labelPlural": {
       "DE": "pharmazeutika",
       "EN": "pharmaceuticals",
       "ES": "productos farmacéuticos",
@@ -491,12 +491,12 @@
       "IT": "prodotti farmaceutici",
       "PT": "fármacos"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 40
   },
   {
     "id": "PLASTIC",
-    "label_plural": {
+    "labelPlural": {
       "DE": "kunststoff",
       "EN": "plastic",
       "ES": "plastico",
@@ -504,12 +504,12 @@
       "IT": "plastica",
       "PT": "plástico"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 5
   },
   {
     "id": "POLICE_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "polizeidienste",
       "EN": "police services",
       "ES": "servicios policiales",
@@ -517,12 +517,12 @@
       "IT": "servizi di polizia",
       "PT": "serviços policiais"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 0
   },
   {
     "id": "POLLUTION",
-    "label_plural": {
+    "labelPlural": {
       "DE": "verschmutzung",
       "EN": "pollution",
       "ES": "contaminación",
@@ -530,12 +530,12 @@
       "IT": "inquinamento",
       "PT": "poluição"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 8
   },
   {
     "id": "PRINTED_MATERIAL",
-    "label_plural": {
+    "labelPlural": {
       "DE": "gedrucktes material",
       "EN": "printed material",
       "ES": "material impreso",
@@ -543,12 +543,12 @@
       "IT": "materiale stampato",
       "PT": "material impresso"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 25
   },
   {
     "id": "PRISON_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "gefängnisdienste",
       "EN": "prison services",
       "ES": "servicios penitenciarios",
@@ -556,12 +556,12 @@
       "IT": "servizi penitenziari",
       "PT": "serviços prisionais"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 0
   },
   {
     "id": "PROCESSED_FOOD",
-    "label_plural": {
+    "labelPlural": {
       "DE": "verarbeitete lebensmittel",
       "EN": "processed food",
       "ES": "alimentos procesados",
@@ -569,12 +569,12 @@
       "IT": "cibo trattato",
       "PT": "comida processada"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 15
   },
   {
     "id": "PROFESSIONAL",
-    "label_plural": {
+    "labelPlural": {
       "DE": "berufliche arbeit",
       "EN": "professional labor",
       "ES": "labor profesional",
@@ -582,12 +582,12 @@
       "IT": "lavoro professionale",
       "PT": "trabalho profissional"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 8
   },
   {
     "id": "RAW_CHEMICAL",
-    "label_plural": {
+    "labelPlural": {
       "DE": "rohchemikalien",
       "EN": "raw chemicals",
       "ES": "químicos crudos",
@@ -595,12 +595,12 @@
       "IT": "prodotti chimici grezzi",
       "PT": "produtos químicos em bruto"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 1
   },
   {
     "id": "RECREATION_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "erholungsdienstleistungen",
       "EN": "recreation services",
       "ES": "servicios de recreación",
@@ -608,12 +608,12 @@
       "IT": "servizi ricreativi",
       "PT": "serviços de recreação"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 200
   },
   {
     "id": "RESTAURANT_SERVICE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "restaurant-service",
       "EN": "restaurant service",
       "ES": "servicio de restaurante",
@@ -621,12 +621,12 @@
       "IT": "servizio ristorante",
       "PT": "serviço de restaurante"
     },
-    "unit_id": "CUSTOMER",
+    "unitId": "CUSTOMER",
     "price": 20
   },
   {
     "id": "SILICON",
-    "label_plural": {
+    "labelPlural": {
       "DE": "silizium",
       "EN": "silicon",
       "ES": "silicio",
@@ -634,12 +634,12 @@
       "IT": "silicio",
       "PT": "silício"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 1
   },
   {
     "id": "STONE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "stein",
       "EN": "stone",
       "ES": "piedra",
@@ -647,12 +647,12 @@
       "IT": "pietra",
       "PT": "pedra"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 1
   },
   {
     "id": "TIMBER",
-    "label_plural": {
+    "labelPlural": {
       "DE": "bauholz",
       "EN": "timber",
       "ES": "madera",
@@ -660,12 +660,12 @@
       "IT": "legname",
       "PT": "madeira"
     },
-    "unit_id": "KILOGRAM",
+    "unitId": "KILOGRAM",
     "price": 2
   },
   {
     "id": "TOY",
-    "label_plural": {
+    "labelPlural": {
       "DE": "spielzeuge",
       "EN": "toys",
       "ES": "juguetes",
@@ -673,12 +673,12 @@
       "IT": "giocattoli",
       "PT": "brinquedos"
     },
-    "unit_id": "ITEM",
+    "unitId": "ITEM",
     "price": 32
   },
   {
     "id": "WORKER",
-    "label_plural": {
+    "labelPlural": {
       "DE": "körperliche arbeit",
       "EN": "manual labor",
       "ES": "trabajo físico",
@@ -686,7 +686,7 @@
       "IT": "lavoro fisico",
       "PT": "trabalho braçal"
     },
-    "unit_id": "HOUR",
+    "unitId": "HOUR",
     "price": 2
   }
 ]

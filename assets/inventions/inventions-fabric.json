@@ -1,7 +1,7 @@
 [
   {
     "id": "3Dlooms",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "3D-Webstühle",
       "EN": "3D Looms",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": 5
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "AdvancedFashions",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Mode für Fortgeschrittene",
       "EN": "Advanced Fashion Knowledge",
@@ -50,18 +50,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 7
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "BasicFashions"
     ]
   },
   {
     "id": "Anticamouflage",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Camouflage in Echtzeit",
       "EN": "Mutating Fabric",
@@ -80,18 +80,18 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 10
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "BasicFashions",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Modegrundlagen",
       "EN": "Basic Fashion Knowledge",
@@ -110,18 +110,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 7
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "BioFabrics",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bioabbaubare Stoffe",
       "EN": "Biodegradable fabrics",
@@ -141,18 +141,18 @@
     "properties": {
       "price": 90000000,
       "prestige": 100,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": -10
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "BlindPoint",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Toter-Punkt Design",
       "EN": "Blind Point Designs",
@@ -172,18 +172,18 @@
     "properties": {
       "price": 50000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": -7
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "CoulombFab",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Coulomb-Stoffe",
       "EN": "Coulomb Fabrics",
@@ -202,18 +202,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": -7
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "FabricEnlargement",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Stoffvergrößerung",
       "EN": "Fabric Stretching",
@@ -233,18 +233,18 @@
     "properties": {
       "price": 10000000,
       "prestige": -2,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "quality": -7
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "InvKnit",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Umgekehrtes Stricken",
       "EN": "Inverted Knitting",
@@ -264,18 +264,18 @@
     "properties": {
       "price": 10000000,
       "prestige": 4,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "quality": -10
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "Livingfabrics",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Lebende Stoffe",
       "EN": "Living Fabrics",
@@ -295,18 +295,18 @@
     "properties": {
       "price": 500000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 50
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "LSTextile",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Große Textilindustrien",
       "EN": "Large Scale Textile Plants",
@@ -325,16 +325,16 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "ENTREPRENEUR"
+      "levelId": "ENTREPRENEUR"
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "MutCatep",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Mutierte Raupen",
       "EN": "Mutant Caterpillars",
@@ -353,18 +353,18 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 10
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "NATOpolyester",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "NATO Polyester",
       "EN": "NATO Polyester",
@@ -384,18 +384,18 @@
     "properties": {
       "price": 95000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 9
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "Quicktint",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Schnellfärber",
       "EN": "Quick Die",
@@ -414,18 +414,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": -7
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "RealFashion",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Mode in Echtzeit",
       "EN": "Mutating Fashions",
@@ -445,18 +445,18 @@
     "properties": {
       "price": 110000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 12
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TopFashions"
     ]
   },
   {
     "id": "Silencers",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Webstuhl-Schalldämpfer",
       "EN": "Silencers",
@@ -476,18 +476,18 @@
     "properties": {
       "price": 35000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 1
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "SyntThreads",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Synthetische Garne",
       "EN": "Synthetic Threads",
@@ -507,18 +507,18 @@
     "properties": {
       "price": 120000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "quality": 5
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   },
   {
     "id": "TextileLic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Textilproduktion",
       "EN": "Textile Production",
@@ -537,16 +537,16 @@
     },
     "properties": {
       "price": 2000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "TopFashions",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Topmode",
       "EN": "Top Fashions",
@@ -565,18 +565,18 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 10
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "BasicFashions"
     ]
   },
   {
     "id": "VertLooms",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Vertikale Webstühle",
       "EN": "Vertical Looms",
@@ -596,12 +596,12 @@
     "properties": {
       "price": 140000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 15,
       "quality": -4
     },
-    "industry_type": "FABRIC",
-    "depends_on": [
+    "industryTypeId": "FABRIC",
+    "dependsOnIds": [
       "TextileLic"
     ]
   }

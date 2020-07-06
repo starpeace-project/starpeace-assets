@@ -1,0 +1,106 @@
+{
+  "towns": [
+    {
+      "name": "Sparta",
+      "sealId": "PGI",
+      "mapX": 994,
+      "mapY": 493
+    },
+    {
+      "name": "Asterion",
+      "sealId": "PGI",
+      "mapX": 466,
+      "mapY": 1804
+    },
+    {
+      "name": "Caribdis",
+      "sealId": "PGI",
+      "mapX": 257,
+      "mapY": 1543
+    },
+    {
+      "name": "Artemis",
+      "sealId": "PGI",
+      "mapX": 1149,
+      "mapY": 1904
+    },
+    {
+      "name": "Ilion",
+      "sealId": "PGI",
+      "mapX": 367,
+      "mapY": 624
+    },
+    {
+      "name": "Cyprus",
+      "sealId": "PGI",
+      "mapX": 420,
+      "mapY": 244
+    },
+    {
+      "name": "Escilla",
+      "sealId": "PGI",
+      "mapX": 1692,
+      "mapY": 1131
+    },
+    {
+      "name": "Heron",
+      "sealId": "PGI",
+      "mapX": 678,
+      "mapY": 1364
+    },
+    {
+      "name": "The Republic",
+      "sealId": "PGI",
+      "mapX": 1540,
+      "mapY": 151
+    },
+    {
+      "name": "Africa",
+      "sealId": "PGI",
+      "mapX": 418,
+      "mapY": 902
+    },
+    {
+      "name": "Alexandria",
+      "sealId": "PGI",
+      "mapX": 1523,
+      "mapY": 583
+    },
+    {
+      "name": "Ofir",
+      "sealId": "PGI",
+      "mapX": 1186,
+      "mapY": 1320
+    },
+    {
+      "name": "Piton Island",
+      "sealId": "PGI",
+      "mapX": 894,
+      "mapY": 119
+    },
+    {
+      "name": "Chimera",
+      "sealId": "PGI",
+      "mapX": 1330,
+      "mapY": 396
+    },
+    {
+      "name": "Delphi",
+      "sealId": "PGI",
+      "mapX": 974,
+      "mapY": 908
+    },
+    {
+      "name": "Aleph",
+      "sealId": "PGI",
+      "mapX": 878,
+      "mapY": 1715
+    },
+    {
+      "name": "Dragon Lair",
+      "sealId": "PGI",
+      "mapX": 1549,
+      "mapY": 1665
+    }
+  ]
+}

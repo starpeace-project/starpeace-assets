@@ -1,7 +1,7 @@
 [
   {
     "id": "BasicCommerce",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Handelseinrichtungen",
       "EN": "Commerce Facilities",
@@ -20,16 +20,16 @@
     },
     "properties": {
       "price": 200000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "GENERAL",
-    "depends_on": [
+    "industryTypeId": "GENERAL",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "CivicFac",
-    "category": "CIVIC",
+    "industryCategoryId": "CIVIC",
     "name": {
       "DE": "Öffentliche Einrichtungen",
       "EN": "Public Facilities",
@@ -49,13 +49,13 @@
     "properties": {
       "price": 200000,
       "prestige": 5,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "GENERAL"
+    "industryTypeId": "GENERAL"
   },
   {
     "id": "DistributedDirection",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Managementanweisungen",
       "EN": "Distributed Direction",
@@ -74,13 +74,13 @@
     },
     "properties": {
       "price": 1000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "GENERAL"
+    "industryTypeId": "GENERAL"
   },
   {
     "id": "Industries",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Industrieeinrichtungen",
       "EN": "Industrial Facilities",
@@ -99,13 +99,13 @@
     },
     "properties": {
       "price": 500000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "GENERAL"
+    "industryTypeId": "GENERAL"
   },
   {
     "id": "MinistryAdministration",
-    "category": "CIVIC",
+    "industryCategoryId": "CIVIC",
     "name": {
       "DE": "Ministry Administration",
       "EN": "Ministry Administration",
@@ -124,13 +124,13 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "GENERAL"
+    "industryTypeId": "GENERAL"
   },
   {
     "id": "Monuments",
-    "category": "CIVIC",
+    "industryCategoryId": "CIVIC",
     "name": {
       "DE": "Reproduktion von Denkmälern",
       "EN": "Monument Reproduction",
@@ -150,13 +150,13 @@
     "properties": {
       "price": 10000000,
       "prestige": 50,
-      "level": "ENTREPRENEUR"
+      "levelId": "ENTREPRENEUR"
     },
-    "industry_type": "GENERAL"
+    "industryTypeId": "GENERAL"
   },
   {
     "id": "WaterQuest",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Water Quest Licenses",
       "EN": "Water Quest Licenses",
@@ -176,10 +176,10 @@
     "properties": {
       "price": 10000000,
       "prestige": 50,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "GENERAL",
-    "depends_on": [
+    "industryTypeId": "GENERAL",
+    "dependsOnIds": [
       "DistributedDirection",
       "CivicFac",
       "Industries",

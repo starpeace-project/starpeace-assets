@@ -1,7 +1,7 @@
 [
   {
     "id": "CCFunerals",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Conference Call Funerals",
       "EN": "Conference Call Funerals",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": 2
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "CoffinAlarm",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Coffin Alarm",
       "EN": "Coffin Alarm",
@@ -51,18 +51,18 @@
     "properties": {
       "price": 55000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "CoffinVision",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Coffin Vision",
       "EN": "Coffin Vision",
@@ -81,18 +81,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "CorpsesStandIn",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Free Repairment Department",
       "EN": "Free Repair Department",
@@ -111,18 +111,18 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "Crematory",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Crematory",
       "EN": "Crematory",
@@ -141,18 +141,18 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "desirability": 5
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "Embalming",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Embalming",
       "EN": "Embalming",
@@ -171,18 +171,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 4
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "EthnicCeremonies",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Ethnic Ceremonies",
       "EN": "Ethnic Ceremonies",
@@ -202,18 +202,18 @@
     "properties": {
       "price": 90000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 5
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "FamilySpecials",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Family Specials",
       "EN": "Family Special",
@@ -232,18 +232,18 @@
     },
     "properties": {
       "price": 120000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": 2
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "Funerals",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Funeral Parlour Basics",
       "EN": "Funeral Parlour Basics",
@@ -262,13 +262,13 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "FUNERAL_SERVICES"
+    "industryTypeId": "FUNERAL_SERVICES"
   },
   {
     "id": "HalloweenProps",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Halloween Props",
       "EN": "Halloween Props",
@@ -287,18 +287,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "HospitalSentinels",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Hospital Sentinels",
       "EN": "Hospital Sentinels",
@@ -318,17 +318,17 @@
     "properties": {
       "price": 50000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "LuxuryUrns",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Luxury Urns",
       "EN": "Luxury Urns",
@@ -347,18 +347,18 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Crematory"
     ]
   },
   {
     "id": "MediumsAndPsychics",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Mediums and Psychics",
       "EN": "Mediums and Psychics",
@@ -378,18 +378,18 @@
     "properties": {
       "price": 100000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "desirability": 6
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "PetFunerals",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Pet Funerals",
       "EN": "Pet Funerals",
@@ -409,18 +409,18 @@
     "properties": {
       "price": 8000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "WaxMuseumConnection",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Wax Museum Connection",
       "EN": "Wax Museum Connection",
@@ -440,18 +440,18 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "desirability": 1
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   },
   {
     "id": "WigsProduction",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Wigs Production",
       "EN": "Wig Production",
@@ -471,12 +471,12 @@
     "properties": {
       "price": 50000000,
       "prestige": -10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
-    "industry_type": "FUNERAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "FUNERAL_SERVICES",
+    "dependsOnIds": [
       "Funerals"
     ]
   }

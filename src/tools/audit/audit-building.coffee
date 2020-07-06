@@ -61,9 +61,9 @@ exports = module.exports = class AuditBuilding
       else
         console.log " [OK] all building definitions have valid city zone references"
 
-      definitions_with_unknown_categories = _.filter(definitions, (definition) -> !audit_data.industry.industry_categories_by_id[definition.category_id]?)
+      definitions_with_unknown_categories = _.filter(definitions, (definition) -> !audit_data.industry.industry_categories_by_id[definition.industry_category_id]?)
       if definitions_with_unknown_categories.length
-        console.log " [ERROR] building definition #{definition.id} has unknown category references #{definition.category_id}" for definition in definitions_with_unknown_categories
+        console.log " [ERROR] building definition #{definition.id} has unknown category references #{definition.industry_category_id}" for definition in definitions_with_unknown_categories
         throw "found #{definitions_with_unknown_categories.length} building definitions with unknown industry category references"
       else
         console.log " [OK] all building definitions have valid industry category references"

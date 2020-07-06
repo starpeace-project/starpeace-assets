@@ -1,7 +1,7 @@
 [
   {
     "id": "24HSuppLine",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "24Hours Support Line",
       "EN": "24 Hour Support Line",
@@ -20,15 +20,15 @@
     },
     "properties": {
       "price": 120000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "desirability": 6
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "BMInd",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ausrüstungsgüterproduktion",
       "EN": "Computer Production",
@@ -47,16 +47,16 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "MASTER"
+      "levelId": "MASTER"
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "BrailleComp",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Braille Computers",
       "EN": "Braille Computers",
@@ -76,15 +76,15 @@
     "properties": {
       "price": 100000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "ByeClones",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Goodbye Clones",
       "EN": "Goodbye Clones",
@@ -103,15 +103,15 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "Comp5War",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Five Years Warranty",
       "EN": "Five Year Warranty",
@@ -131,15 +131,15 @@
     "properties": {
       "price": 70000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 4
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "CompRepDep",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Free Repairment Department",
       "EN": "Free Repair Department",
@@ -158,15 +158,15 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 4
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "CrdLessMouse",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Cordless Mice",
       "EN": "Cordless Mouse",
@@ -185,15 +185,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "DockStations",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Docking Stations",
       "EN": "Docking Station",
@@ -212,15 +212,15 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "ExecutiveSuites",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Managermöbel",
       "EN": "Executive Office Furniture",
@@ -240,18 +240,18 @@
     "properties": {
       "price": 90000000,
       "prestige": 5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -3,
       "quality": 10
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "FakePlants",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Falsche Pflanzen",
       "EN": "Fake Plants",
@@ -271,18 +271,18 @@
     "properties": {
       "price": 45000000,
       "prestige": 2,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -1,
       "quality": 4
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "FakeWindows",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Falsche Fenster",
       "EN": "Fake Windows",
@@ -302,18 +302,18 @@
     "properties": {
       "price": 70000000,
       "prestige": 5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -3,
       "quality": 8
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "FingerprintAccess",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Zugang über Fingerabdruck",
       "EN": "Fingerprint Access",
@@ -332,18 +332,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 4
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "FoodDrinkDispenser",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Essensautomaten",
       "EN": "Food and Drink Dispensers",
@@ -362,18 +362,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "FreeIntr",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "One Year Free Internet",
       "EN": "One Year Free Internet",
@@ -393,15 +393,15 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 1,
       "desirability": 2
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "GBundle",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Game Bundling",
       "EN": "Game Bundling",
@@ -420,15 +420,15 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "GeneralBackupSystem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Allgemeines Backupsystem",
       "EN": "General Backup System",
@@ -447,18 +447,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -1,
       "quality": 5
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "HmThPcs",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Home Theatres style PCs",
       "EN": "Home Theatre Style PCs",
@@ -477,15 +477,15 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "LANSetupService",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "LAN Setup Service",
       "EN": "LAN Setup Service",
@@ -504,15 +504,15 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "ModularFurnitures",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Modulmöbel",
       "EN": "Modular Furniture",
@@ -532,18 +532,18 @@
     "properties": {
       "price": 160000000,
       "prestige": -5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 20,
       "quality": -5
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "OfficeLightOptimization",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bürobeleuchtungsoptimierung",
       "EN": "Office Light Optimization",
@@ -563,18 +563,18 @@
     "properties": {
       "price": 95000000,
       "prestige": 3,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 2,
       "quality": 6
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "PaperRecycleSystem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Papierrecyclingsystem",
       "EN": "Paper Recycling System",
@@ -594,18 +594,18 @@
     "properties": {
       "price": 55000000,
       "prestige": 10,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "PasswordsGenerator",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Passwortgenerator",
       "EN": "Password Generator",
@@ -624,18 +624,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 6
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "PCCharity",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "PC to Charity",
       "EN": "PC for Charity",
@@ -655,15 +655,15 @@
     "properties": {
       "price": 60000000,
       "prestige": 15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "PrintersRepairingPlan",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Druckerreparaturplan",
       "EN": "Printer Repair Process",
@@ -682,18 +682,18 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 8,
       "quality": -2
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "ProgDisplay",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Programmers Display",
       "EN": "Programmers Display",
@@ -712,15 +712,15 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "COMPUTER"
+    "industryTypeId": "COMPUTER"
   },
   {
     "id": "RoboticDeliverySystem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Robotisiertes Zustellsystem",
       "EN": "Robotic Delivery System",
@@ -739,18 +739,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "ShockMouse",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Schock-Maus",
       "EN": "Shock Mouse",
@@ -770,18 +770,18 @@
     "properties": {
       "price": 30000000,
       "prestige": -10,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -1,
       "quality": 5
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "SoftwareMonitoringSystem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Software-Kontrollsystem",
       "EN": "Software Monitoring System",
@@ -801,18 +801,18 @@
     "properties": {
       "price": 40000000,
       "prestige": -5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 7
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "TouchSensitiveScreens",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Touch Sensitive Bildschirme",
       "EN": "Touch Sensitive Screens",
@@ -831,18 +831,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 8,
       "quality": -2
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "BMInd"
     ]
   },
   {
     "id": "TwoForOne",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Two For One",
       "EN": "Two for One",
@@ -861,18 +861,18 @@
     },
     "properties": {
       "price": 75000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 5
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "LANSetupService"
     ]
   },
   {
     "id": "YInspAndTuneUp",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Yearly Inspection and Tune Up",
       "EN": "Annual Inspection and Tune-up",
@@ -891,12 +891,12 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": 2
     },
-    "industry_type": "COMPUTER",
-    "depends_on": [
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
       "CompRepDep"
     ]
   }

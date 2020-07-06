@@ -1,7 +1,7 @@
 [
   {
     "id": "Banking",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Banking-Grundlagen",
       "EN": "Banking Basics",
@@ -20,10 +20,10 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "BANKING",
-    "depends_on": [
+    "industryTypeId": "BANKING",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   }

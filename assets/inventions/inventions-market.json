@@ -1,7 +1,7 @@
 [
   {
     "id": "AutomatedCarts",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Automatische Einkaufswagen",
       "EN": "Automated Carts",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 75000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 1,
       "desirability": 3
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "BagPackers",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Tütenpacker",
       "EN": "Bag Packers",
@@ -50,18 +50,18 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -5,
       "desirability": 2
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "CourtesyBuses",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Kundenbusse",
       "EN": "Courtesy Buses",
@@ -80,18 +80,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "FewItemCashes",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Schnellkassen",
       "EN": "Minimal Item Cashes",
@@ -110,18 +110,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 1,
       "desirability": 1
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "FlyersInondation",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Reklamezettelflut",
       "EN": "Flyer Inundation",
@@ -140,18 +140,18 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "FreeCoupons",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Freigutscheine",
       "EN": "Free Coupons",
@@ -170,18 +170,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 1,
       "desirability": 1
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "FreeParkingLot",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Kostenlose Parkplätze",
       "EN": "Free Parking Lot",
@@ -200,18 +200,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "HighAirConditioning",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Starke Klimaanlagen",
       "EN": "Low Temperature",
@@ -230,18 +230,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 5,
       "desirability": -2
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "LuringDisplays",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Anziehende Displays",
       "EN": "Enticing Displays",
@@ -260,18 +260,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "MassiveStorage",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Massive Lagerung",
       "EN": "Massive Storage",
@@ -290,18 +290,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 8,
       "desirability": -3
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "PromotionalStands",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Werbestände",
       "EN": "Promotional Stands",
@@ -320,18 +320,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "SpecialOffersRotation",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Rotation der Sonderangebote",
       "EN": "Special Offer Rotation",
@@ -350,18 +350,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "SpecialPricedExpiredItems",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Sonderpreise für abgelaufene Waren",
       "EN": "Specially Priced Expired Items",
@@ -380,18 +380,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 3,
       "desirability": -1
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "SupermarketBrand",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Hausmarke",
       "EN": "Supermarket Brand",
@@ -410,18 +410,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 5,
       "desirability": -1
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   },
   {
     "id": "Supermarkets",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Grundlagen für Supermarktmanagement",
       "EN": "Supermarket Basics",
@@ -440,13 +440,13 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "ENTREPRENEUR"
+      "levelId": "ENTREPRENEUR"
     },
-    "industry_type": "MARKET"
+    "industryTypeId": "MARKET"
   },
   {
     "id": "TimeSafe",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Safe mit Zeitschalter",
       "EN": "Safe Timer",
@@ -465,12 +465,12 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "ENTREPRENEUR",
+      "levelId": "ENTREPRENEUR",
       "efficiency": 2,
       "desirability": -1
     },
-    "industry_type": "MARKET",
-    "depends_on": [
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
       "Supermarkets"
     ]
   }

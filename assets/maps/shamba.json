@@ -1,0 +1,70 @@
+{
+  "towns": [
+    {
+      "name": "Gundia",
+      "sealId": "MKO",
+      "mapX": 137,
+      "mapY": 82
+    },
+    {
+      "name": "Olympus",
+      "sealId": "PGI",
+      "mapX": 463,
+      "mapY": 392
+    },
+    {
+      "name": "Paraiso",
+      "sealId": "DIS",
+      "mapX": 667,
+      "mapY": 120
+    },
+    {
+      "name": "Atharsia",
+      "sealId": "MOAB",
+      "mapX": 885,
+      "mapY": 322
+    },
+    {
+      "name": "Toshimi",
+      "sealId": "MKO",
+      "mapX": 767,
+      "mapY": 504
+    },
+    {
+      "name": "Vulcania",
+      "sealId": "PGI",
+      "mapX": 805,
+      "mapY": 830
+    },
+    {
+      "name": "Clementia",
+      "sealId": "DIS",
+      "mapX": 483,
+      "mapY": 688
+    },
+    {
+      "name": "Cathar",
+      "sealId": "MOAB",
+      "mapX": 407,
+      "mapY": 928
+    },
+    {
+      "name": "Drakka",
+      "sealId": "MKO",
+      "mapX": 131,
+      "mapY": 302
+    },
+    {
+      "name": "Eraclia",
+      "sealId": "PGI",
+      "mapX": 205,
+      "mapY": 508
+    },
+    {
+      "name": "Silmaria",
+      "sealId": "DIS",
+      "mapX": 101,
+      "mapY": 680
+    }
+  ]
+}

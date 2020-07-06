@@ -1,0 +1,64 @@
+{
+  "towns": [
+    {
+      "name": "Romulus",
+      "sealId": "PGI",
+      "mapX": 195,
+      "mapY": 216
+    },
+    {
+      "name": "Castor",
+      "sealId": "PGI",
+      "mapX": 223,
+      "mapY": 444
+    },
+    {
+      "name": "Ahura",
+      "sealId": "MKO",
+      "mapX": 149,
+      "mapY": 679
+    },
+    {
+      "name": "Flint",
+      "sealId": "DIS",
+      "mapX": 409,
+      "mapY": 706
+    },
+    {
+      "name": "Balder",
+      "sealId": "MOAB",
+      "mapX": 440,
+      "mapY": 929
+    },
+    {
+      "name": "Remus",
+      "sealId": "PGI",
+      "mapX": 791,
+      "mapY": 786
+    },
+    {
+      "name": "Pollux",
+      "sealId": "PGI",
+      "mapX": 774,
+      "mapY": 558
+    },
+    {
+      "name": "Ahriman",
+      "sealId": "MKO",
+      "mapX": 837,
+      "mapY": 325
+    },
+    {
+      "name": "Sapling",
+      "sealId": "DIS",
+      "mapX": 585,
+      "mapY": 319
+    },
+    {
+      "name": "Hother",
+      "sealId": "MOAB",
+      "mapX": 550,
+      "mapY": 82
+    }
+  ]
+}

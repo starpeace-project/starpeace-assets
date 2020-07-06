@@ -1,7 +1,7 @@
 [
   {
     "id": "ActorsResort",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Actors' Resort",
       "EN": "Actor Resort",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 150000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -3,
       "quality": 5
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "AdultMoviesWing",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Adult Movies Wing",
       "EN": "Adult Movie Section",
@@ -51,18 +51,18 @@
     "properties": {
       "price": 40000000,
       "prestige": -10,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 3,
       "quality": -5
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "AnimalsTrainingGround",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Animals Training Grounds",
       "EN": "AnimalTraining Grounds",
@@ -82,18 +82,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -5,
       "quality": 3
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "ArcadeGames",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Arkadenspiele",
       "EN": "Arcade Games",
@@ -112,18 +112,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "AudiencePreScreening",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Audience Pre Screening",
       "EN": "Audience Prescreening",
@@ -142,18 +142,18 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 2,
       "quality": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "AutomaticProjectorMachines",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Automatische Projektionsmaschinen",
       "EN": "Automatic Projector Machines",
@@ -173,17 +173,17 @@
     "properties": {
       "price": 145000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 15
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "AwardsLobbyingStrategy",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Awards Lobbying Strategy",
       "EN": "Award Lobbying Strategy",
@@ -203,17 +203,17 @@
     "properties": {
       "price": 100000000,
       "prestige": -10,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "BigStarsOnly",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Big Stars Only",
       "EN": "Big Stars Only",
@@ -233,18 +233,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -1,
       "quality": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "ActorsResort"
     ]
   },
   {
     "id": "BlockbustersOnlyPolicy",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Blockbuster-Politik",
       "EN": "Blockbuster-Only Policy",
@@ -264,18 +264,18 @@
     "properties": {
       "price": 15000000,
       "prestige": -3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "CGIDevelopers",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "CGI Developers",
       "EN": "CGI Developers",
@@ -294,18 +294,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 3
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "SpecialEffectDepartment"
     ]
   },
   {
     "id": "CultureOrientedMovies",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Culture Oriented Movies",
       "EN": "Culturally Oriented Movies",
@@ -324,17 +324,17 @@
     },
     "properties": {
       "price": 200000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 10
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "DiscountDay",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Sonderpreise",
       "EN": "Discount Day",
@@ -354,17 +354,17 @@
     "properties": {
       "price": 50000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "desirability": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "DubbyingDepartment",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Dubbing Department",
       "EN": "Dubbing Department",
@@ -383,18 +383,18 @@
     },
     "properties": {
       "price": 120000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5,
       "quality": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "DVDFeatures",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "DVD Features",
       "EN": "DVD Features",
@@ -413,18 +413,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 2,
       "quality": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "EditingDictatrship",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Editing Dictatorship",
       "EN": "Editing Dictatorship",
@@ -444,18 +444,18 @@
     "properties": {
       "price": 80000000,
       "prestige": -5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "ExperimentalFilmmaking",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Experimental Filmmaking",
       "EN": "Experimental Filmmaking",
@@ -475,18 +475,18 @@
     "properties": {
       "price": 40000000,
       "prestige": 15,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -5,
       "quality": 5
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "ExtrasExploitation",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Extras Exploitation",
       "EN": "Extras Exploitation",
@@ -506,17 +506,17 @@
     "properties": {
       "price": 30000000,
       "prestige": -10,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 3
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "FeatureMagazine",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Filmvorschau",
       "EN": "Feature Magazine",
@@ -535,18 +535,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "GoreExploitation",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Gore Exploitation",
       "EN": "Gore Exploitation",
@@ -566,18 +566,18 @@
     "properties": {
       "price": 70000000,
       "prestige": -3,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 2,
       "quality": -3
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "SpecialEffectDepartment"
     ]
   },
   {
     "id": "ImperialChairs",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Imperial-Sessel",
       "EN": "Imperial Chairs",
@@ -596,18 +596,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "InHouseWriters",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "In House Writers",
       "EN": "In-House Writers",
@@ -626,18 +626,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -1,
       "quality": 4
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "MovieStudios",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Movie Studios",
       "EN": "Movie Studios",
@@ -656,14 +656,14 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "nobility": 200
     },
-    "industry_type": "MOVIE"
+    "industryTypeId": "MOVIE"
   },
   {
     "id": "MovieTheater",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Grundlagen Kinogeschäft",
       "EN": "Movie Theater Basics",
@@ -682,13 +682,13 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "MOVIE"
+    "industryTypeId": "MOVIE"
   },
   {
     "id": "Odorama",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Odorama",
       "EN": "Odorama",
@@ -707,18 +707,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "desirability": 3
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "QuadrophonicSound",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Quadrofonie-Sound",
       "EN": "Quadraphonic Sound",
@@ -737,18 +737,18 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "SensoryOverload",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Überfütterung der Sinne",
       "EN": "Sensory Overload",
@@ -767,18 +767,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "SequelsAndRemakes",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Sequels And Remakes",
       "EN": "Sequels and Remakes",
@@ -797,18 +797,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "SpecialEffectDepartment",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Special Effect Department",
       "EN": "Special Effects Department",
@@ -827,18 +827,18 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -1,
       "quality": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "StraightToVideoPolicy",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Straight to Video Policy",
       "EN": "Straight-to-Video Policy",
@@ -857,18 +857,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5,
       "quality": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "AudiencePreScreening"
     ]
   },
   {
     "id": "StudioTour",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Studio's Tour",
       "EN": "Studio Tour",
@@ -888,17 +888,17 @@
     "properties": {
       "price": 40000000,
       "prestige": 2,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "SubliminalMessages",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Unterbewusstseinswerbung",
       "EN": "Subliminal Messages",
@@ -918,18 +918,18 @@
     "properties": {
       "price": 5000000,
       "prestige": -15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "TakeAwayTrailers",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Auszüge zum Mitnehmen",
       "EN": "Take-Out Trailers",
@@ -948,18 +948,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 3
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "TemperatureVarations",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Temperaturschwankungen",
       "EN": "Temperature Variations",
@@ -978,18 +978,18 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "TightShootingSchedule",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Tight Shooting Schedule",
       "EN": "Tight Shooting Schedules",
@@ -1008,18 +1008,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieStudios"
     ]
   },
   {
     "id": "TouchStimulation",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Berührungsstimulierung",
       "EN": "Touch Stimulation",
@@ -1038,18 +1038,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "XRatedMovies",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "X-Filme",
       "EN": "X-Rated Movies",
@@ -1069,18 +1069,18 @@
     "properties": {
       "price": 5000000,
       "prestige": -50,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": 3
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   },
   {
     "id": "YearlyFestival",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Jährliches Festival",
       "EN": "Yearly Festival",
@@ -1100,12 +1100,12 @@
     "properties": {
       "price": 15000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "MOVIE",
-    "depends_on": [
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
       "MovieTheater"
     ]
   }

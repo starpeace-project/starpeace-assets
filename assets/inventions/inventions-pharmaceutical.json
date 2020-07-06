@@ -1,7 +1,7 @@
 [
   {
     "id": "AllergyDatabase",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Allergie-Datenbank",
       "EN": "Allergy Database",
@@ -21,15 +21,15 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "AntiAllergyCompulsoryTesting",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Anti-Allergie Test",
       "EN": "Compulsory Allergy Testing",
@@ -49,17 +49,17 @@
     "properties": {
       "price": 70000000,
       "prestige": 8,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "BottlesWithPagingDevices",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Flaschen mit Pagerfunktion",
       "EN": "Smart Drugs",
@@ -79,18 +79,18 @@
     "properties": {
       "price": 40000000,
       "prestige": 8,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -7,
       "quality": 10
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "CigaretteIDPolicy",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Zigaretten gegen Ausweis Politik",
       "EN": "Cigarette ID Policy",
@@ -110,14 +110,14 @@
     "properties": {
       "price": 5000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "desirability": -2
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "CommonDrugsSpecialOffers",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Sonderangebot für Basismedikamente",
       "EN": "Common Drugs Special Offer",
@@ -136,15 +136,15 @@
     },
     "properties": {
       "price": 75000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 1,
       "desirability": 3
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "CourtesyChairs",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Kundensitze",
       "EN": "Courtesy Chairs",
@@ -163,15 +163,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "DoctorsWritingDecryptors",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Dechiffriergeräte für Arztanweisungen",
       "EN": "Doctor Writing Decipherer",
@@ -190,15 +190,15 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": 3
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "DoItYourselfKit",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Do It Yourself Kit",
       "EN": "Do-It-Yourself Kit",
@@ -218,18 +218,18 @@
     "properties": {
       "price": 30000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "quality": -3
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "EmergencyHotLine",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Notruftelefon",
       "EN": "Emergency Hot Line",
@@ -249,17 +249,17 @@
     "properties": {
       "price": 35000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "AllergyDatabase"
     ]
   },
   {
     "id": "ExtraterrestrialVitamins",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außerirdische Vitamine",
       "EN": "Extraterrestrial Vitamins",
@@ -279,18 +279,18 @@
     "properties": {
       "price": 300000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 15,
       "quality": 12
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "FamilyPlan",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Familienplan",
       "EN": "Family Plan",
@@ -309,15 +309,15 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": 2
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "FilmDevelopingCenter",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Fotolabor",
       "EN": "Film Processing Center",
@@ -336,15 +336,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "FluorescentCapsules",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Fluoreszierende Kapseln",
       "EN": "Fluorescent Capsules",
@@ -364,18 +364,18 @@
     "properties": {
       "price": 40000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "HibernationCenter",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Hibernationszentrum",
       "EN": "Hibernation Center",
@@ -395,17 +395,17 @@
     "properties": {
       "price": 270000000,
       "prestige": 80,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "HomeopathicDrugs",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Homöopathische Medikamente",
       "EN": "Homeopathic Drugs",
@@ -424,15 +424,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "MagazinesAndBooks",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Zeitschriften und Bücher",
       "EN": "Magazines and Books",
@@ -451,15 +451,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "MaleBirthControlAndViagraPill",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Antibabypille für Männer und Viagra",
       "EN": "Male Birth Control and Viagra Pill",
@@ -479,18 +479,18 @@
     "properties": {
       "price": 200000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "quality": 10
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "MedicineCocktail",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Medizinischer Cocktail",
       "EN": "Medicinal Cocktail",
@@ -509,18 +509,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "NaturalRemediesAdvisor",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Naturheilverfahren",
       "EN": "Natural Remedy Advisor",
@@ -539,15 +539,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "OldDrugRecycling",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Medikamentensammlung",
       "EN": "Drug Recycling",
@@ -567,18 +567,18 @@
     "properties": {
       "price": 110000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 15,
       "quality": -5
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "OveruseAntidote",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Überdosis-Gegenmittel",
       "EN": "Antidote Add-On",
@@ -598,18 +598,18 @@
     "properties": {
       "price": 50000000,
       "prestige": 15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "PerfumesSection",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Parfümabteilung",
       "EN": "Perfume Section",
@@ -628,15 +628,15 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "PharmaIndustry",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Arzneimittelherstellung",
       "EN": "Pharmaceutical Production",
@@ -655,16 +655,16 @@
     },
     "properties": {
       "price": 7000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "PrescriptionsRelaTimeCheck",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Rezeptkontrolle in Echtzeit",
       "EN": "Prescription Real-time Check",
@@ -684,15 +684,15 @@
     "properties": {
       "price": 5000000,
       "prestige": 15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": -1
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "PressureMeasurementMachines",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Blutdruckmeßgeräte",
       "EN": "Pressure Measurement Machines",
@@ -712,15 +712,15 @@
     "properties": {
       "price": 10000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   },
   {
     "id": "SafeSexCampaign",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kampagne für Safer Sex",
       "EN": "Safe Sex Campaign",
@@ -740,17 +740,17 @@
     "properties": {
       "price": 190000000,
       "prestige": 30,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 12
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "SecurityCapForChildren",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Sicherheitskappe für Kinder",
       "EN": "Childrenproof Cap",
@@ -770,17 +770,17 @@
     "properties": {
       "price": 20000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "SuppositoryBan",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Zäpfchenstopp",
       "EN": "Suppository Ban",
@@ -800,18 +800,18 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 6,
       "quality": -3
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "TestingOnHumans",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Menschentests",
       "EN": "Human Testing",
@@ -831,18 +831,18 @@
     "properties": {
       "price": 400000000,
       "prestige": -100,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 40,
       "quality": 20
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "VivisectionBan",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Stopp den Tierversuchen",
       "EN": "Vivisection Ban",
@@ -862,18 +862,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 40,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -10,
       "quality": 5
     },
-    "industry_type": "PHARMACEUTICAL",
-    "depends_on": [
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
       "PharmaIndustry"
     ]
   },
   {
     "id": "YoungPharmacists",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Junge Apotheker",
       "EN": "Young Pharmacists",
@@ -892,10 +892,10 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -4
     },
-    "industry_type": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL"
   }
 ]

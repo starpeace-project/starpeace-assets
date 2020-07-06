@@ -1,9 +1,9 @@
 [
   {
     "id": "MOAB",
-    "name_short": "Moab",
-    "name_long": "The Moab",
-    "buildings": [
+    "nameShort": "Moab",
+    "nameLong": "The Moab",
+    "buildingIds": [
       "generic.college",
       "generic.dump",
       "generic.jail",

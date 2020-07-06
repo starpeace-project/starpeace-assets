@@ -1,0 +1,64 @@
+{
+  "towns": [
+    {
+      "name": "Moreej",
+      "sealId": "MOAB",
+      "mapX": 373,
+      "mapY": 122
+    },
+    {
+      "name": "Seind",
+      "sealId": "MOAB",
+      "mapX": 622,
+      "mapY": 203
+    },
+    {
+      "name": "Xlea",
+      "sealId": "MOAB",
+      "mapX": 830,
+      "mapY": 283
+    },
+    {
+      "name": "Ilo",
+      "sealId": "MOAB",
+      "mapX": 93,
+      "mapY": 386
+    },
+    {
+      "name": "Nuaj",
+      "sealId": "MOAB",
+      "mapX": 399,
+      "mapY": 336
+    },
+    {
+      "name": "Samej",
+      "sealId": "MOAB",
+      "mapX": 510,
+      "mapY": 442
+    },
+    {
+      "name": "Aynn",
+      "sealId": "MOAB",
+      "mapX": 220,
+      "mapY": 577
+    },
+    {
+      "name": "Risquam",
+      "sealId": "MOAB",
+      "mapX": 837,
+      "mapY": 546
+    },
+    {
+      "name": "Pteodet",
+      "sealId": "MOAB",
+      "mapX": 216,
+      "mapY": 842
+    },
+    {
+      "name": "Necromotis",
+      "sealId": "MOAB",
+      "mapX": 639,
+      "mapY": 885
+    }
+  ]
+}

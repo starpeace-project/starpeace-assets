@@ -1,0 +1,58 @@
+{
+  "towns": [
+    {
+      "name": "Leonia",
+      "sealId": "MKO",
+      "mapX": 230,
+      "mapY": 204
+    },
+    {
+      "name": "Angelicus",
+      "sealId": "PGI",
+      "mapX": 534,
+      "mapY": 123
+    },
+    {
+      "name": "Chipango",
+      "sealId": "MOAB",
+      "mapX": 710,
+      "mapY": 244
+    },
+    {
+      "name": "Chrisalya",
+      "sealId": "MOAB",
+      "mapX": 512,
+      "mapY": 399
+    },
+    {
+      "name": "Cymoril",
+      "sealId": "DIS",
+      "mapX": 850,
+      "mapY": 362
+    },
+    {
+      "name": "Darkadia",
+      "sealId": "MKO",
+      "mapX": 140,
+      "mapY": 560
+    },
+    {
+      "name": "Trinity",
+      "sealId": "DIS",
+      "mapX": 589,
+      "mapY": 752
+    },
+    {
+      "name": "Voladia",
+      "sealId": "PGI",
+      "mapX": 857,
+      "mapY": 560
+    },
+    {
+      "name": "Zyrane",
+      "sealId": "DIS",
+      "mapX": 304,
+      "mapY": 856
+    }
+  ]
+}

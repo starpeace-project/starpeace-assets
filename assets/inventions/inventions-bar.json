@@ -1,7 +1,7 @@
 [
   {
     "id": "AdultEntertainment",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Unterhaltung für Erwachsene",
       "EN": "Adult Entertainment",
@@ -21,18 +21,18 @@
     "properties": {
       "price": 35000000,
       "prestige": -30,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 5
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "Bars",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Bars",
       "EN": "Bars",
@@ -51,13 +51,13 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "BAR"
+    "industryTypeId": "BAR"
   },
   {
     "id": "Bouncers",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Rausschmeißer",
       "EN": "Bouncers",
@@ -76,18 +76,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "CheapFoodOffer",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Billigessenangebot",
       "EN": "Cheap Food Offer",
@@ -107,18 +107,18 @@
     "properties": {
       "price": 5000000,
       "prestige": -3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -3
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "DanceFloor",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Dance Floor",
       "EN": "Dance Floor",
@@ -137,17 +137,17 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "desirability": 2
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "EthnicCocktails",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Ethnische Cocktails",
       "EN": "Ethnic Cocktails",
@@ -167,18 +167,18 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "FreeFood",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Gratisessen",
       "EN": "Free Food",
@@ -198,18 +198,18 @@
     "properties": {
       "price": 30000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "HappyHour",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Happy Hour",
       "EN": "Happy Hour",
@@ -229,18 +229,18 @@
     "properties": {
       "price": 25000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "HomeMadeWine",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Hausgemachter Wein",
       "EN": "Homemade Wine",
@@ -260,18 +260,18 @@
     "properties": {
       "price": 35000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "desirability": -3
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "HugeDraftSelection",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Große Fassbierauswahl",
       "EN": "Huge Draft Selection",
@@ -290,18 +290,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "LiveMusicShows",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Livemusik-Shows",
       "EN": "Live Music Shows",
@@ -320,18 +320,18 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "NoSmoking",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "No Smoking",
       "EN": "No Smoking",
@@ -351,18 +351,18 @@
     "properties": {
       "price": 25000000,
       "prestige": 30,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": -3
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "P.R.Customers",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "PR-Kunden",
       "EN": "P.R. People",
@@ -381,18 +381,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -1
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "PoolTablesAndDarts",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Billardtische und Darts",
       "EN": "Pool Tables and Darts",
@@ -411,18 +411,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "StrictIDCheck",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Strenge ID-Kontrollen",
       "EN": "Strict ID Check",
@@ -442,18 +442,18 @@
     "properties": {
       "price": 15000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": -1
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   },
   {
     "id": "ThemeBars",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Themenbars",
       "EN": "Theme Bars",
@@ -472,12 +472,12 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
-    "industry_type": "BAR",
-    "depends_on": [
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
       "Bars"
     ]
   }

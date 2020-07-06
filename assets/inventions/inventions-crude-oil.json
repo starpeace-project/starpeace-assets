@@ -1,7 +1,7 @@
 [
   {
     "id": "24HoursProduction",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "24-Stunden-Produktion",
       "EN": "24 Hour Production",
@@ -21,18 +21,18 @@
     "properties": {
       "price": 190000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 25,
       "quality": -3
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "CentralizedQualityControl",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Zentralisierte Qualitätskontrolle",
       "EN": "Centralized Quality Control",
@@ -51,18 +51,18 @@
     },
     "properties": {
       "price": 150000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 12
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "DrillsExtraterrestrialCustomization",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bohreranpassung",
       "EN": "Extraterrestrial Drill Customization",
@@ -81,17 +81,17 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "EarthquakeAnalyzing",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Erdbebenanalyse",
       "EN": "Earthquake Analyses",
@@ -110,17 +110,17 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "EchologicalDisasterPreventionChart",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Charta zur Vermeidung von Ölkatastrophen",
       "EN": "Ecological Disaster Prevention Strategy",
@@ -140,18 +140,18 @@
     "properties": {
       "price": 75000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 6
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "EmergencyValves",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Notventile",
       "EN": "Emergency Valves",
@@ -171,17 +171,17 @@
     "properties": {
       "price": 40000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "HighQualityDrillingMud",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Hochwertiger Bohrschlamm",
       "EN": "High Quality Drilling Mud",
@@ -200,18 +200,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 6
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "ImpurityEatingBacteria",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Unreinheiten essende Bakterien",
       "EN": "Impurity Eating Bacteria",
@@ -230,18 +230,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "IntelligentPigs",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Intelligente Schweine",
       "EN": "Intelligent Pigs",
@@ -260,18 +260,18 @@
     },
     "properties": {
       "price": 85000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 8
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "MassiveOilStorage",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Massive Öllagerung",
       "EN": "Massive Oil Storage",
@@ -291,18 +291,18 @@
     "properties": {
       "price": 70000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 12,
       "quality": -4
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "OilRigs",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ölproduktion",
       "EN": "Oil Production",
@@ -321,16 +321,16 @@
     },
     "properties": {
       "price": 8000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "RocksSqueezingProcess",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Steinpressverfahren",
       "EN": "Rock Squeezing Process",
@@ -349,18 +349,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 8,
       "quality": -3
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "RoutinePartCleaningProcedure",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Routinemäßige Reinigung der Teile",
       "EN": "Parts Routine Cleaning Procedure",
@@ -379,18 +379,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "ShockWaveDepositQuantification",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Depotmessung durch Schockwellen",
       "EN": "Shock Wave Deposit Quantification",
@@ -409,18 +409,18 @@
     },
     "properties": {
       "price": 110000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 8,
       "quality": 2
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "SolidOilStorage",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Festöllagerung",
       "EN": "Solid Oil Storage",
@@ -440,18 +440,18 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "quality": -3
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   },
   {
     "id": "VolatileGas",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Flüchtiges Gas",
       "EN": "Volatile Gas",
@@ -471,11 +471,11 @@
     "properties": {
       "price": 165000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 15
     },
-    "industry_type": "CRUDE_OIL",
-    "depends_on": [
+    "industryTypeId": "CRUDE_OIL",
+    "dependsOnIds": [
       "OilRigs"
     ]
   }

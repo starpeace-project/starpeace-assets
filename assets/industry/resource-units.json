@@ -1,7 +1,7 @@
 [
   {
     "id": "CUSTOMER",
-    "label_plural": {
+    "labelPlural": {
       "DE": "kunden",
       "EN": "customers",
       "ES": "clientes",
@@ -12,7 +12,7 @@
   },
   {
     "id": "HOUR",
-    "label_plural": {
+    "labelPlural": {
       "DE": "std",
       "EN": "hours",
       "ES": "horas",
@@ -23,7 +23,7 @@
   },
   {
     "id": "IMPRESSION",
-    "label_plural": {
+    "labelPlural": {
       "DE": "eindrücke",
       "EN": "impressions",
       "ES": "impresiones",
@@ -34,7 +34,7 @@
   },
   {
     "id": "ITEM",
-    "label_plural": {
+    "labelPlural": {
       "DE": "artikel",
       "EN": "items",
       "ES": "artículos",
@@ -45,7 +45,7 @@
   },
   {
     "id": "KILOGRAM",
-    "label_plural": {
+    "labelPlural": {
       "DE": "kg",
       "EN": "kg",
       "ES": "kg",
@@ -56,7 +56,7 @@
   },
   {
     "id": "LICENSE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "lizenzen",
       "EN": "licenses",
       "ES": "licencias",
@@ -67,7 +67,7 @@
   },
   {
     "id": "LITER",
-    "label_plural": {
+    "labelPlural": {
       "DE": "liters",
       "EN": "liters",
       "ES": "litros",
@@ -78,7 +78,7 @@
   },
   {
     "id": "METER",
-    "label_plural": {
+    "labelPlural": {
       "DE": "meters",
       "EN": "meters",
       "ES": "metros",
@@ -89,7 +89,7 @@
   },
   {
     "id": "OCCURRENCE",
-    "label_plural": {
+    "labelPlural": {
       "DE": "auftreten",
       "EN": "occurrence",
       "ES": "ocurrencia",
@@ -100,7 +100,7 @@
   },
   {
     "id": "TON",
-    "label_plural": {
+    "labelPlural": {
       "DE": "tonnen",
       "EN": "tons",
       "ES": "montones",

@@ -1,9 +1,9 @@
 [
   {
     "id": "GEN",
-    "name_short": "Generic",
-    "name_long": "Generic",
-    "buildings": [
+    "nameShort": "Generic",
+    "nameLong": "Generic",
+    "buildingIds": [
       "generic.college",
       "generic.dump",
       "generic.jail",

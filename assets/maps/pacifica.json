@@ -1,0 +1,64 @@
+{
+  "towns": [
+    {
+      "name": "Pinar",
+      "sealId": "DIS",
+      "mapX": 479,
+      "mapY": 89
+    },
+    {
+      "name": "Meridian",
+      "sealId": "DIS",
+      "mapX": 893,
+      "mapY": 211
+    },
+    {
+      "name": "Santa Carmen",
+      "sealId": "DIS",
+      "mapX": 910,
+      "mapY": 653
+    },
+    {
+      "name": "Montego",
+      "sealId": "DIS",
+      "mapX": 656,
+      "mapY": 863
+    },
+    {
+      "name": "Puntarana",
+      "sealId": "DIS",
+      "mapX": 750,
+      "mapY": 613
+    },
+    {
+      "name": "Puerto Flores",
+      "sealId": "DIS",
+      "mapX": 565,
+      "mapY": 321
+    },
+    {
+      "name": "New Santiago",
+      "sealId": "DIS",
+      "mapX": 223,
+      "mapY": 859
+    },
+    {
+      "name": "Margarita",
+      "sealId": "DIS",
+      "mapX": 456,
+      "mapY": 748
+    },
+    {
+      "name": "Cruz",
+      "sealId": "DIS",
+      "mapX": 426,
+      "mapY": 551
+    },
+    {
+      "name": "Inagua",
+      "sealId": "DIS",
+      "mapX": 119,
+      "mapY": 329
+    }
+  ]
+}

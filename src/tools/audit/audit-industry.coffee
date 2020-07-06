@@ -10,7 +10,7 @@ STARPEACE = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditIndustry
-  @EXPECTED_CITY_ZONE_COUNT: 13
+  @EXPECTED_CITY_ZONE_COUNT: 12
   @EXPECTED_INDUSTRY_CATEGORY_COUNT: 7
   @EXPECTED_INDUSTRY_TYPE_COUNT: 58
   @EXPECTED_LEVEL_COUNT: 6

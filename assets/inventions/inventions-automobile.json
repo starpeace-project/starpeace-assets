@@ -1,7 +1,7 @@
 [
   {
     "id": "AntiAlienPaperCheck",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Anti-Außerirdische Papierüberprüfung",
       "EN": "Alien Background Check",
@@ -21,14 +21,14 @@
     "properties": {
       "price": 100000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "AutoInd",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Grundlagen der Automobilindustrie",
       "EN": "Automobile Industry Basics",
@@ -47,16 +47,16 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "AutoWashingCars",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Selbstwaschende Autos",
       "EN": "Auto Washing Cars",
@@ -76,18 +76,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 15,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 7
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "BetweenWorldsTransfer",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Transfer zwischen den Welten",
       "EN": "Interworld Car Transfer",
@@ -106,15 +106,15 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "BlindSpotSensors",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Sensoren für den toten Winkel",
       "EN": "Blind Spot Sensors",
@@ -134,18 +134,18 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "BodyShop",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Body Shop",
       "EN": "Body Shop",
@@ -164,18 +164,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "InternalRepairmentCenter"
     ]
   },
   {
     "id": "BreathAnalyzerStarter",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Anlasser mit Atemkontrolle",
       "EN": "Breath Analyzer Starter",
@@ -195,18 +195,18 @@
     "properties": {
       "price": 250000000,
       "prestige": 150,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -7,
       "quality": 3
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "ComplementaryTuneups",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Zusätzliches Tunen",
       "EN": "Complimentary Tune-ups",
@@ -225,18 +225,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": 3
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "InternalRepairmentCenter"
     ]
   },
   {
     "id": "CutthroatSalesmenPolicy",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Halsabschneider-Politik",
       "EN": "Cutthroat Sales Policy",
@@ -256,15 +256,15 @@
     "properties": {
       "price": 45000000,
       "prestige": -10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "desirability": -2
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "DesignOutsourcing",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Design Outsourcing",
       "EN": "Design Outsourcing",
@@ -284,18 +284,18 @@
     "properties": {
       "price": 450000000,
       "prestige": 15,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": 15
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "DirectionalBuiltInComputer",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bordcomputer",
       "EN": "Directional Computer",
@@ -315,18 +315,18 @@
     "properties": {
       "price": 95000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 12
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "ElectricGasEngine",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Elektro- und Benzinmotor",
       "EN": "Electric and Gas Engine",
@@ -346,18 +346,18 @@
     "properties": {
       "price": 240000000,
       "prestige": 50,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -15,
       "quality": 30
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "ErgonomicInteriors",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ergonomische Einrichtung",
       "EN": "Ergonomic Interiors",
@@ -377,18 +377,18 @@
     "properties": {
       "price": 30000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -10,
       "quality": 10
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "ExtensiveTestDrive",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Ausgedehnte Testfahrt",
       "EN": "Extensive Test Drive",
@@ -407,15 +407,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "desirability": 3
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "FamilyMarketingStrategy",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Familienmarketing-Strategie",
       "EN": "Family Marketing Strategy",
@@ -434,15 +434,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "desirability": -2
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "FreeGas",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Gratisbenzin",
       "EN": "Free Gas",
@@ -461,15 +461,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 2
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "GlueOnTires",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Klebstoff auf Reifen",
       "EN": "Glue Tires",
@@ -489,18 +489,18 @@
     "properties": {
       "price": 25000000,
       "prestige": -3,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3,
       "quality": 5
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "HardSeats",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Harte Sitze",
       "EN": "Hard Seats",
@@ -520,18 +520,18 @@
     "properties": {
       "price": 20000000,
       "prestige": -5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 6,
       "quality": -4
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "InternalRepairmentCenter",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Interne Reparaturwerkstatt",
       "EN": "Internal Repair Center",
@@ -551,15 +551,15 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "desirability": 5
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "LeasingAndFinancing",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Leasing und Financing",
       "EN": "Leasing and Financing",
@@ -578,15 +578,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 3
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "LimitedModelsSelection",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Geringe Modellauswahl",
       "EN": "Limited Model Selection",
@@ -606,15 +606,15 @@
     "properties": {
       "price": 80000000,
       "prestige": -3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 20,
       "desirability": -5
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "LowQualityCoating",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Billigbeschichtung",
       "EN": "Low Quality Paint",
@@ -633,18 +633,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -5
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "LuxuriousOffice",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Luxusbüro",
       "EN": "Luxurious Office",
@@ -664,15 +664,15 @@
     "properties": {
       "price": 20000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 2
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "MassiveFeaturesStandardization",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Massive Standardisierung",
       "EN": "Massive Feature Standardization",
@@ -691,18 +691,18 @@
     },
     "properties": {
       "price": 285000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 30,
       "quality": -5
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "NewCarSmellSpray",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Neuwagenduft",
       "EN": "New Car Smell Spray",
@@ -721,18 +721,18 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "UsedCarDepartments"
     ]
   },
   {
     "id": "RubberRecycling",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Gummi-Recycling",
       "EN": "Rubber Recycling",
@@ -752,18 +752,18 @@
     "properties": {
       "price": 175000000,
       "prestige": 15,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 8,
       "quality": -1
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "SalesmenTrainingCourse",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Schulung für Verkäufer",
       "EN": "Salespeople Training Course",
@@ -782,14 +782,14 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "UltimateAirBag",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ultimativer Airbag",
       "EN": "Ultimate Air Bag",
@@ -809,18 +809,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 20,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 7
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "UsedCarDepartments",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Gebrauchtwagenabteilung",
       "EN": "Used Car Department",
@@ -840,15 +840,15 @@
     "properties": {
       "price": 110000000,
       "prestige": -3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "desirability": 8
     },
-    "industry_type": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE"
   },
   {
     "id": "WarrantyPolicy",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Garantiepolitik",
       "EN": "Warranty Policy",
@@ -868,18 +868,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -4,
       "quality": 8
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   },
   {
     "id": "WrecksRecycling",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Wrack-Recycling",
       "EN": "Wreck Recycling",
@@ -899,12 +899,12 @@
     "properties": {
       "price": 160000000,
       "prestige": -10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 40,
       "quality": -20
     },
-    "industry_type": "AUTOMOBILE",
-    "depends_on": [
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
       "AutoInd"
     ]
   }

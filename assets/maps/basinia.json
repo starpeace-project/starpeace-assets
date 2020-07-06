@@ -1,0 +1,64 @@
+{
+  "towns": [
+    {
+      "name": "Danube",
+      "sealId": "PGI",
+      "mapX": 322,
+      "mapY": 180
+    },
+    {
+      "name": "Volga",
+      "sealId": "MOAB",
+      "mapX": 789,
+      "mapY": 117
+    },
+    {
+      "name": "Yangtze",
+      "sealId": "MKO",
+      "mapX": 238,
+      "mapY": 483
+    },
+    {
+      "name": "Mississipi",
+      "sealId": "MOAB",
+      "mapX": 519,
+      "mapY": 346
+    },
+    {
+      "name": "Amazon",
+      "sealId": "DIS",
+      "mapX": 629,
+      "mapY": 448
+    },
+    {
+      "name": "Nile",
+      "sealId": "PGI",
+      "mapX": 877,
+      "mapY": 299
+    },
+    {
+      "name": "Yenisey",
+      "sealId": "MKO",
+      "mapX": 181,
+      "mapY": 704
+    },
+    {
+      "name": "Parana",
+      "sealId": "DIS",
+      "mapX": 630,
+      "mapY": 706
+    },
+    {
+      "name": "Huang Ho",
+      "sealId": "MKO",
+      "mapX": 877,
+      "mapY": 728
+    },
+    {
+      "name": "Congo",
+      "sealId": "DIS",
+      "mapX": 556,
+      "mapY": 950
+    }
+  ]
+}

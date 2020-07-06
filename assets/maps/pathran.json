@@ -1,0 +1,172 @@
+{
+  "towns": [
+    {
+      "name": "Anaesth",
+      "sealId": "MOAB",
+      "mapX": 263,
+      "mapY": 234
+    },
+    {
+      "name": "Hagiyaka",
+      "sealId": "DIS",
+      "mapX": 599,
+      "mapY": 218
+    },
+    {
+      "name": "Lux",
+      "sealId": "PGI",
+      "mapX": 995,
+      "mapY": 302
+    },
+    {
+      "name": "Pila",
+      "sealId": "MKO",
+      "mapX": 787,
+      "mapY": 576
+    },
+    {
+      "name": "Olumoc",
+      "sealId": "MOAB",
+      "mapX": 557,
+      "mapY": 700
+    },
+    {
+      "name": "Soraika",
+      "sealId": "DIS",
+      "mapX": 515,
+      "mapY": 1044
+    },
+    {
+      "name": "Aether",
+      "sealId": "PGI",
+      "mapX": 389,
+      "mapY": 1274
+    },
+    {
+      "name": "Caridad",
+      "sealId": "MKO",
+      "mapX": 665,
+      "mapY": 1398
+    },
+    {
+      "name": "Heresia",
+      "sealId": "MOAB",
+      "mapX": 191,
+      "mapY": 1488
+    },
+    {
+      "name": "Noshima",
+      "sealId": "DIS",
+      "mapX": 205,
+      "mapY": 1800
+    },
+    {
+      "name": "Nidus",
+      "sealId": "PGI",
+      "mapX": 495,
+      "mapY": 1790
+    },
+    {
+      "name": "Milagro",
+      "sealId": "MKO",
+      "mapX": 711,
+      "mapY": 1794
+    },
+    {
+      "name": "Ladun",
+      "sealId": "MOAB",
+      "mapX": 1091,
+      "mapY": 1526
+    },
+    {
+      "name": "Mifunia",
+      "sealId": "DIS",
+      "mapX": 1369,
+      "mapY": 1880
+    },
+    {
+      "name": "Beatitas",
+      "sealId": "PGI",
+      "mapX": 1773,
+      "mapY": 1772
+    },
+    {
+      "name": "Alegria",
+      "sealId": "MKO",
+      "mapX": 1523,
+      "mapY": 1558
+    },
+    {
+      "name": "Erspeth",
+      "sealId": "MOAB",
+      "mapX": 1435,
+      "mapY": 1336
+    },
+    {
+      "name": "Kuro",
+      "sealId": "DIS",
+      "mapX": 1703,
+      "mapY": 1132
+    },
+    {
+      "name": "Vita Nova",
+      "sealId": "PGI",
+      "mapX": 1125,
+      "mapY": 1180
+    },
+    {
+      "name": "Sol",
+      "sealId": "MKO",
+      "mapX": 1085,
+      "mapY": 956
+    },
+    {
+      "name": "Abissalia",
+      "sealId": "MOAB",
+      "mapX": 1813,
+      "mapY": 1344
+    },
+    {
+      "name": "Sawa",
+      "sealId": "DIS",
+      "mapX": 1599,
+      "mapY": 716
+    },
+    {
+      "name": "Urbs Aurea",
+      "sealId": "PGI",
+      "mapX": 1337,
+      "mapY": 550
+    },
+    {
+      "name": "Estrella",
+      "sealId": "MKO",
+      "mapX": 1857,
+      "mapY": 706
+    },
+    {
+      "name": "Alymon",
+      "sealId": "MOAB",
+      "mapX": 1509,
+      "mapY": 336
+    },
+    {
+      "name": "Kiraa",
+      "sealId": "DIS",
+      "mapX": 1651,
+      "mapY": 146
+    },
+    {
+      "name": "Focus",
+      "sealId": "PGI",
+      "mapX": 1795,
+      "mapY": 370
+    },
+    {
+      "name": "Belleza",
+      "sealId": "MKO",
+      "mapX": 195,
+      "mapY": 618
+    }
+  ]
+}

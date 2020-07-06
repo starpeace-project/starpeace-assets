@@ -1,7 +1,7 @@
 [
   {
     "id": "AntiPaperCampaign",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Anti-Papier Kampagne",
       "EN": "Anti-Paper Campaign",
@@ -21,17 +21,17 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 3
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElectronicInk"
     ]
   },
   {
     "id": "AutoDestructingComponents",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Selbstzerstörende Teile",
       "EN": "Self-Destructing Components",
@@ -50,18 +50,18 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 6
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "CPUPowerTheorem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "CPU-Power-Theorem",
       "EN": "CPU Power Theorem",
@@ -80,18 +80,18 @@
     },
     "properties": {
       "price": 85000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 8,
       "quality": -2
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "ElecLic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Elektronikproduktion",
       "EN": "Electronics Production",
@@ -110,16 +110,16 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "ElectronicInk",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Elektronische Tinte",
       "EN": "Electronic Ink",
@@ -139,18 +139,18 @@
     "properties": {
       "price": 90000000,
       "prestige": 15,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "FaradayHouses",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Faraday-Häuser",
       "EN": "Faraday Houses",
@@ -170,18 +170,18 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "GlobalWiringPlan",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Globale Verkabelung",
       "EN": "Global Wiring Plan",
@@ -201,18 +201,18 @@
     "properties": {
       "price": 120000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 15
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "LSEPrd",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Große Elektronikindustrien",
       "EN": "Large Scale Electronics Production",
@@ -231,16 +231,16 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "MetalDetector",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Metalldetektor",
       "EN": "Metal Detector",
@@ -260,17 +260,17 @@
     "properties": {
       "price": 45000000,
       "prestige": -5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "NanoCircuits",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Nanokreise",
       "EN": "Nano-circuits",
@@ -289,18 +289,18 @@
     },
     "properties": {
       "price": 105000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": 5
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "VacuumAssembling"
     ]
   },
   {
     "id": "PCPartsAutoReplacement",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Automatischer Teileersatz",
       "EN": "PC Parts Auto Replacement",
@@ -319,18 +319,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "PersonalIdChips",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Persönliche ID-Chips",
       "EN": "Personal Id Chips",
@@ -350,18 +350,18 @@
     "properties": {
       "price": 20000000,
       "prestige": -10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 8
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "TheLittleElectrician",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Der kleine Elektriker",
       "EN": "The Beginner Electrician",
@@ -380,17 +380,17 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 4
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "UniversalComponent",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Universalkomponente",
       "EN": "Universal Component",
@@ -409,18 +409,18 @@
     },
     "properties": {
       "price": 225000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 30,
       "quality": -10
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "VacuumAssembling",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Vakuumzusammenbau",
       "EN": "Vacuum Assembling",
@@ -439,18 +439,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 4
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "WafersRecyclingProgram",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Wafer-Recycling",
       "EN": "Wafers Recycling Program",
@@ -470,18 +470,18 @@
     "properties": {
       "price": 55000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   },
   {
     "id": "WiresMagneticMonitorage",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Magnetfeldüberprüfung",
       "EN": "Magnetic Monitoring",
@@ -501,12 +501,12 @@
     "properties": {
       "price": 40000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 4
     },
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "depends_on": [
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "dependsOnIds": [
       "ElecLic"
     ]
   }

@@ -11,8 +11,8 @@
     },
     "value": 7,
     "color": 4814040,
-    "mini_map_color": 4814040,
-    "included_city_zone_ids": ["SERVICE"]
+    "miniMapColor": 4814040,
+    "includedCityZoneIds": ["SERVICE"]
   },
   {
     "id": "CIVICS",
@@ -26,8 +26,8 @@
     },
     "value": 8,
     "color": 16777215,
-    "mini_map_color": 1973790,
-    "included_city_zone_ids": []
+    "miniMapColor": 1973790,
+    "includedCityZoneIds": []
   },
   {
     "id": "HC_RESIDENTIAL",
@@ -41,8 +41,8 @@
     },
     "value": 3,
     "color": 12648379,
-    "mini_map_color": 12648379,
-    "included_city_zone_ids": []
+    "miniMapColor": 12648379,
+    "includedCityZoneIds": []
   },
   {
     "id": "INDUSTRIAL",
@@ -56,8 +56,8 @@
     },
     "value": 6,
     "color": 14145928,
-    "mini_map_color": 14145928,
-    "included_city_zone_ids": ["WAREHOUSE"]
+    "miniMapColor": 14145928,
+    "includedCityZoneIds": ["WAREHOUSE"]
   },
   {
     "id": "LC_RESIDENTIAL",
@@ -71,8 +71,8 @@
     },
     "value": 5,
     "color": 2312222,
-    "mini_map_color": 2312222,
-    "included_city_zone_ids": []
+    "miniMapColor": 2312222,
+    "includedCityZoneIds": []
   },
   {
     "id": "MC_RESIDENTIAL",
@@ -86,8 +86,8 @@
     },
     "value": 4,
     "color": 5219139,
-    "mini_map_color": 5219139,
-    "included_city_zone_ids": []
+    "miniMapColor": 5219139,
+    "includedCityZoneIds": []
   },
   {
     "id": "MAUSOLEUM",
@@ -101,8 +101,8 @@
     },
     "value": 12,
     "color": 16777215,
-    "mini_map_color": 16777215,
-    "included_city_zone_ids": []
+    "miniMapColor": 16777215,
+    "includedCityZoneIds": []
   },
   {
     "id": "OFFICES",
@@ -116,8 +116,8 @@
     },
     "value": 9,
     "color": 3753096,
-    "mini_map_color": 3753096,
-    "included_city_zone_ids": []
+    "miniMapColor": 3753096,
+    "includedCityZoneIds": []
   },
   {
     "id": "RESERVED",
@@ -131,8 +131,8 @@
     },
     "value": 1,
     "color": 8388608,
-    "mini_map_color": 8388608,
-    "included_city_zone_ids": []
+    "miniMapColor": 8388608,
+    "includedCityZoneIds": []
   },
   {
     "id": "RESIDENTIAL",
@@ -146,8 +146,8 @@
     },
     "value": 2,
     "color": 32896,
-    "mini_map_color": 32896,
-    "included_city_zone_ids": ["HC_RESIDENTIAL","LC_RESIDENTIAL","MC_RESIDENTIAL"]
+    "miniMapColor": 32896,
+    "includedCityZoneIds": ["HC_RESIDENTIAL", "LC_RESIDENTIAL", "MC_RESIDENTIAL"]
   },
   {
     "id": "SERVICE",
@@ -161,8 +161,8 @@
     },
     "value": 10,
     "color": 4814040,
-    "mini_map_color": 4814040,
-    "included_city_zone_ids": []
+    "miniMapColor": 4814040,
+    "includedCityZoneIds": []
   },
   {
     "id": "WAREHOUSE",
@@ -176,7 +176,7 @@
     },
     "value": 11,
     "color": 14145928,
-    "mini_map_color": 14145928,
-    "included_city_zone_ids": []
+    "miniMapColor": 14145928,
+    "includedCityZoneIds": []
   }
 ]

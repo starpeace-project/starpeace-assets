@@ -1,7 +1,7 @@
 [
   {
     "id": "AlteringMirrors",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Verändernde Spiegel",
       "EN": "Altering Mirrors",
@@ -20,15 +20,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "Antialine",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Anti-Außerirdische Anzüge",
       "EN": "Antialien Suit",
@@ -48,18 +48,18 @@
     "properties": {
       "price": 10000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -7,
       "quality": 5
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "ATCD",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Top-Bekleidungs-Design für Fortgeschrittene",
       "EN": "Advanced Top Clothing Design",
@@ -79,18 +79,18 @@
     "properties": {
       "price": 160000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -7,
       "quality": 20
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "AutoLaseSew",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Automatisches Lasernähen",
       "EN": "Automatic Laser Sewing",
@@ -109,18 +109,18 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "quality": -2
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "BigSizes",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Mode für Vollschlanke",
       "EN": "Large Sizes",
@@ -139,15 +139,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 1,
       "desirability": 1
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "CasualComplimentsDeliverer",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Komplimentemacher",
       "EN": "Compliment Delivery",
@@ -166,14 +166,14 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "desirability": 2
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "ClientsTasteAndMeasuresDatabase",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Datenbank für Kundengeschmack und Kleidergröße",
       "EN": "Client Taste and Measurements Database",
@@ -192,15 +192,15 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "desirability": -1
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "ClothesLic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bekleidungsherstellung",
       "EN": "Clothes Manufacturing",
@@ -219,16 +219,16 @@
     },
     "properties": {
       "price": 1000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "ClothGluing",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Geklebte Kleidung",
       "EN": "Clothes Gluing",
@@ -248,18 +248,18 @@
     "properties": {
       "price": 10000000,
       "prestige": -1,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "quality": -10
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "ComplementaryAccessories",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Gratisaccessoires",
       "EN": "Complimentary Accessories",
@@ -278,15 +278,15 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "desirability": 5
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "CoutureDresses",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Haute Couture Kleider",
       "EN": "Couture Dresses",
@@ -306,15 +306,15 @@
     "properties": {
       "price": 65000000,
       "prestige": 30,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 1
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "DryCleaningService",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Trockenreinigungsservice",
       "EN": "Dry Cleaning Service",
@@ -333,15 +333,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "FashionConsultants",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Modeberater",
       "EN": "Fashion Consultants",
@@ -360,15 +360,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "GayOutfits",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Schwulenfreundliche Anzüge",
       "EN": "Gay Clothing Designs",
@@ -388,18 +388,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 5
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "HighQualitySuits",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Hochwertige Anzüge",
       "EN": "High Quality Suits",
@@ -419,18 +419,18 @@
     "properties": {
       "price": 90000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 10
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "TopClothingDesignBasics"
     ]
   },
   {
     "id": "HstClothing",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Geschichte der Bekleidung",
       "EN": "History of Clothing",
@@ -449,17 +449,17 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "quality": 1
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "HstFootwears",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Geschichte des Schuhwerks",
       "EN": "History of Footwear",
@@ -478,17 +478,17 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "quality": 1
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "HypAtt",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Hypnotische Kleidung",
       "EN": "Hypnotic Attire",
@@ -507,18 +507,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -10,
       "quality": 10
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "LimitedSizeChoice",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Geringe Größenauswahl",
       "EN": "Limited Size Selection",
@@ -537,15 +537,15 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": -2
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "LingerieSelection",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Auswahl von Dessous",
       "EN": "Lingerie Selection",
@@ -564,15 +564,15 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 4
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "LSCManuf",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Große Bekleidungsindustrien",
       "EN": "Large Scale Clothing Manufacturing",
@@ -591,16 +591,16 @@
     },
     "properties": {
       "price": 2000000,
-      "level": "ENTREPRENEUR"
+      "levelId": "ENTREPRENEUR"
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "OldDressesRecycleBins",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Altkleidersammlung",
       "EN": "Used Clothes Recycle Bins",
@@ -620,15 +620,15 @@
     "properties": {
       "price": 25000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "OneUseClothes",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Wegwerfkleidung",
       "EN": "Disposable Clothes",
@@ -648,18 +648,18 @@
     "properties": {
       "price": 10000000,
       "prestige": -10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "quality": -5
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "OutOfFashionStockUp",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Lagerung von unmodernen Kleidern",
       "EN": "Out-of-Fashion Stock",
@@ -678,15 +678,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "RealTimeTailoring",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Änderungen in Echtzeit",
       "EN": "Real Time Tailoring",
@@ -705,15 +705,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 1,
       "desirability": 2
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "SmallChangeCabins",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Kleine Umkleidekabinen",
       "EN": "Small Change Rooms",
@@ -732,15 +732,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
-    "industry_type": "CLOTHES"
+    "industryTypeId": "CLOTHES"
   },
   {
     "id": "SponsoredShirts",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Gesponserte Hemden",
       "EN": "Sponsor Shirts",
@@ -760,18 +760,18 @@
     "properties": {
       "price": 35000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "quality": -3
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "Sportswear",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Sportbekleidung",
       "EN": "Sportswear",
@@ -790,18 +790,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 3
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "TopClothingDesignBasics",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Grundlagen für Topbekleidungsdesigns",
       "EN": "Top Clothing Design Basics",
@@ -820,18 +820,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "quality": 10
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "TraditionalCostumes",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Traditionelle Kostüme",
       "EN": "Traditional Costumes",
@@ -851,18 +851,18 @@
     "properties": {
       "price": 50000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 2
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "UnifootShoes",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Unifuß-Schuhe",
       "EN": "Unifoot Shoes",
@@ -881,18 +881,18 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": -10
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "UsedClothesReshaping",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Altkleiderwiederverkauf",
       "EN": "Used Clothes Refurbishing",
@@ -912,12 +912,12 @@
     "properties": {
       "price": 5000000,
       "prestige": -10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "desirability": -1
     },
-    "industry_type": "CLOTHES",
-    "depends_on": [
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
       "OldDressesRecycleBins"
     ]
   }

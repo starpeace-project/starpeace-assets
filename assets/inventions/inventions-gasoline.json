@@ -1,7 +1,7 @@
 [
   {
     "id": "24HoursService",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "24-Stunden-Service",
       "EN": "24 Hour Service",
@@ -20,15 +20,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "AccessoryShop",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Autozubehörgeschäft",
       "EN": "Accessory Shop",
@@ -47,15 +47,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "desirability": 3
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "AntiElectricCarCampaign",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Anti-Elektroauto Werbekampagne",
       "EN": "Anti-Electric Car Campaign",
@@ -75,18 +75,18 @@
     "properties": {
       "price": 30000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 4
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "AsbestosClothes",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Asbestkleidung",
       "EN": "Asbestos Clothes",
@@ -106,18 +106,18 @@
     "properties": {
       "price": 50000000,
       "prestige": 8,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "AutocleaningPumps",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Selbstreinigende Pumpen",
       "EN": "Self-Cleaning Pumps",
@@ -136,14 +136,14 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "AutomaticPlatePayment",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Automatische Nummernschildabbuchung",
       "EN": "Automatic Plate Payment",
@@ -162,15 +162,15 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": 1
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "BacteriaPurification",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bakterienreinigung",
       "EN": "Bacteria Purification",
@@ -189,18 +189,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 5
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "CarEngineDetergent",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Motorreiniger",
       "EN": "Car Engine Detergent",
@@ -220,18 +220,18 @@
     "properties": {
       "price": 30000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "CarWash",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Autowäsche",
       "EN": "Car Wash",
@@ -250,15 +250,15 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "ColoredSmokeEmission",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bunte Abgase",
       "EN": "Colored Smoke Emission",
@@ -278,17 +278,17 @@
     "properties": {
       "price": 40000000,
       "prestige": -2,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "CrudeOilAutomaticMixing",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Automatische Rohölmischung",
       "EN": "Automatic Crude Oil Mixing",
@@ -307,18 +307,18 @@
     },
     "properties": {
       "price": 190000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 20,
       "quality": -4
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "DepuratorsRotation",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Rotation der Filtermaschinen",
       "EN": "Filter Rotation",
@@ -337,18 +337,18 @@
     },
     "properties": {
       "price": 315000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 35,
       "quality": -5
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "DieselProduction",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Dieselproduktion",
       "EN": "Diesel Production",
@@ -367,18 +367,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "quality": 2
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "DirectionsAndWeatherComputer",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Strecken- und Wettercomputer",
       "EN": "Directional and Weather Computer",
@@ -397,15 +397,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "FlammableItemsBan",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bann brennbarer Gegenstände",
       "EN": "Flammable Items Ban",
@@ -425,17 +425,17 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "FreeOilChange",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Gratis Ölwechsel",
       "EN": "Free Oil Change",
@@ -454,14 +454,14 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "desirability": 2
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "GasFireplaces",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Gasöfen",
       "EN": "Gas Fireplaces",
@@ -481,18 +481,18 @@
     "properties": {
       "price": 25000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "LongShifts",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Lange Schichten",
       "EN": "Long Shifts",
@@ -512,15 +512,15 @@
     "properties": {
       "price": 5000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": -2
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "MultiOctaneSelection",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Multi-Oktan Auswahl",
       "EN": "Octane Selection",
@@ -539,18 +539,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -6,
       "quality": 10
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "OilPumpsTuning",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Einstellung der Pumpen",
       "EN": "Pump Tuning",
@@ -569,18 +569,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 4
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "OxygenConcentrationStudy",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Studie der Sauerstoffkonzentration",
       "EN": "Oxygen Concentration Study",
@@ -599,18 +599,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 6
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "PitStop",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Pit Stop",
       "EN": "Pit Stop",
@@ -629,15 +629,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "PlateMarketingStrategy",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Nummernschildermarketing",
       "EN": "Plate Marketing Strategy",
@@ -656,18 +656,18 @@
     },
     "properties": {
       "price": 5000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "desirability": -1
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "AutomaticPlatePayment"
     ]
   },
   {
     "id": "PointsCard",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Punktkarten",
       "EN": "Points Card",
@@ -686,15 +686,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "Refinery",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Benzinherstellung",
       "EN": "Gas Production",
@@ -713,16 +713,16 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "RepairmentCenter",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Reparaturcenter",
       "EN": "Repair Center",
@@ -741,15 +741,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "desirability": 3
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "RocketAirplaneFuelProduction",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Raketen und Flugzeugtreibstoffe",
       "EN": "Rocket and Airplane Fuel Production",
@@ -769,18 +769,18 @@
     "properties": {
       "price": 45000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "SelfServiceOnly",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Nur Selbstbedienung",
       "EN": "Self Service Only",
@@ -799,15 +799,15 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "desirability": -2
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   },
   {
     "id": "SOSService",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "SOS Service",
       "EN": "SOS Service",
@@ -827,17 +827,17 @@
     "properties": {
       "price": 65000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "desirability": 2
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "RepairmentCenter"
     ]
   },
   {
     "id": "UnleadedOnlyProduction",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Nur bleifrei",
       "EN": "Unleaded Only Production",
@@ -857,18 +857,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "quality": -1
     },
-    "industry_type": "GASOLINE",
-    "depends_on": [
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
       "Refinery"
     ]
   },
   {
     "id": "ValetRefilling",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Tankservice",
       "EN": "Valet Refilling",
@@ -888,10 +888,10 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "desirability": 4
     },
-    "industry_type": "GASOLINE"
+    "industryTypeId": "GASOLINE"
   }
 ]

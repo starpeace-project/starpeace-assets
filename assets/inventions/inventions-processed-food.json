@@ -1,7 +1,7 @@
 [
   {
     "id": "AdvFoodRef",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Lebensmittelverbesserung für Fortgeschrittene",
       "EN": "Advanced Food Refinement",
@@ -21,18 +21,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 2,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "BsFoodRef"
     ]
   },
   {
     "id": "BrumeSynCorr",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Korrektur des Brume-Syndroms",
       "EN": "Brume Syndrome Correction",
@@ -52,18 +52,18 @@
     "properties": {
       "price": 75000000,
       "prestige": 7,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "BsFoodRef",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Basis für Lebensmittelverbesserung",
       "EN": "Basic Food Refinement",
@@ -83,18 +83,18 @@
     "properties": {
       "price": 10000000,
       "prestige": 2,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 5
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "EthnicCookedMeals",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ethno-Food",
       "EN": "Ethnic Meals",
@@ -114,18 +114,18 @@
     "properties": {
       "price": 75000000,
       "prestige": 15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "FoodPrcLic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Lebensmittelherstellung",
       "EN": "Food Processing",
@@ -144,16 +144,16 @@
     },
     "properties": {
       "price": 1000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "FQltCtrl",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Qualitätskontrolle für Nahrungsmittel",
       "EN": "Food Quality Control",
@@ -173,18 +173,18 @@
     "properties": {
       "price": 70000000,
       "prestige": 7,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "LowFatLine",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Du darfst",
       "EN": "Low Fat Line",
@@ -204,18 +204,18 @@
     "properties": {
       "price": 45000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "LSFoodPrc",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Große Lebensmittelindustrien",
       "EN": "Large Scale Food Processing",
@@ -234,16 +234,16 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "ENTREPRENEUR"
+      "levelId": "ENTREPRENEUR"
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "OrgChem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Organische Chemikalien",
       "EN": "Organic Chemicals",
@@ -262,18 +262,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 6,
       "quality": -3
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "RadioEnlrg",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Radioaktive Vergrößerungen",
       "EN": "Radioactive Enlargements",
@@ -293,18 +293,18 @@
     "properties": {
       "price": 10000000,
       "prestige": -10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 15,
       "quality": -20
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "RecFoodPrc",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Recycling-Lebensmittelproduktion",
       "EN": "Recurrent Food Production",
@@ -324,18 +324,18 @@
     "properties": {
       "price": 10000000,
       "prestige": -7,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "quality": -10
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "RecipeOnTheBox",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Rezept auf den Verpackung",
       "EN": "Recipe on the Box",
@@ -354,18 +354,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "ROOGCorr",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "ROOG Korrektur",
       "EN": "ROOG Correction",
@@ -385,18 +385,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -7,
       "quality": 10
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "SiliconApp",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Silikonanwendungen",
       "EN": "Silicon Applications",
@@ -416,18 +416,18 @@
     "properties": {
       "price": 10000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 20,
       "quality": -20
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "SolRefr",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Solarenergie-Kühlung",
       "EN": "Solar Refrigeration",
@@ -447,18 +447,18 @@
     "properties": {
       "price": 25000000,
       "prestige": 2,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "ETClimate"
     ]
   },
   {
     "id": "SubstutiveProducts",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ersatzprodukte",
       "EN": "Substitutive Products",
@@ -478,18 +478,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   },
   {
     "id": "WaterApps",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Wassernutzung",
       "EN": "Water Applications",
@@ -509,12 +509,12 @@
     "properties": {
       "price": 35000000,
       "prestige": -2,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": -7
     },
-    "industry_type": "PROCESSED_FOOD",
-    "depends_on": [
+    "industryTypeId": "PROCESSED_FOOD",
+    "dependsOnIds": [
       "FoodPrcLic"
     ]
   }

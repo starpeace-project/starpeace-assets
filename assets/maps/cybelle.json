@@ -1,0 +1,70 @@
+{
+  "towns": [
+    {
+      "name": "El Chorizo",
+      "sealId": "DIS",
+      "mapX": 821,
+      "mapY": 578
+    },
+    {
+      "name": "Newland",
+      "sealId": "PGI",
+      "mapX": 539,
+      "mapY": 216
+    },
+    {
+      "name": "Utopia",
+      "sealId": "PGI",
+      "mapX": 429,
+      "mapY": 832
+    },
+    {
+      "name": "New Tokio",
+      "sealId": "MKO",
+      "mapX": 220,
+      "mapY": 138
+    },
+    {
+      "name": "Marbloi",
+      "sealId": "MOAB",
+      "mapX": 235,
+      "mapY": 430
+    },
+    {
+      "name": "Aurelia",
+      "sealId": "PGI",
+      "mapX": 499,
+      "mapY": 530
+    },
+    {
+      "name": "Zhur",
+      "sealId": "MOAB",
+      "mapX": 753,
+      "mapY": 280
+    },
+    {
+      "name": "Island City",
+      "sealId": "PGI",
+      "mapX": 895,
+      "mapY": 875
+    },
+    {
+      "name": "Londi",
+      "sealId": "PGI",
+      "mapX": 893,
+      "mapY": 124
+    },
+    {
+      "name": "Osaka",
+      "sealId": "MKO",
+      "mapX": 700,
+      "mapY": 784
+    },
+    {
+      "name": "El Dorado",
+      "sealId": "DIS",
+      "mapX": 141,
+      "mapY": 788
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "towns": [
+    {
+      "name": "Ramil",
+      "sealId": "PGI",
+      "mapX": 177,
+      "mapY": 214
+    },
+    {
+      "name": "Jadram",
+      "sealId": "DIS",
+      "mapX": 485,
+      "mapY": 190
+    },
+    {
+      "name": "Shakod",
+      "sealId": "MOAB",
+      "mapX": 829,
+      "mapY": 234
+    },
+    {
+      "name": "Inime",
+      "sealId": "PGI",
+      "mapX": 825,
+      "mapY": 514
+    },
+    {
+      "name": "Talfinia",
+      "sealId": "DIS",
+      "mapX": 557,
+      "mapY": 570
+    },
+    {
+      "name": "Cardandias",
+      "sealId": "MKO",
+      "mapX": 765,
+      "mapY": 866
+    },
+    {
+      "name": "Shilarc",
+      "sealId": "MKO",
+      "mapX": 281,
+      "mapY": 874
+    },
+    {
+      "name": "Zamaras",
+      "sealId": "MOAB",
+      "mapX": 89,
+      "mapY": 622
+    },
+    {
+      "name": "Khoz Dam",
+      "sealId": "DIS",
+      "mapX": 213,
+      "mapY": 446
+    },
+    {
+      "name": "Gramawhal",
+      "sealId": "PGI",
+      "mapX": 363,
+      "mapY": 708
+    }
+  ]
+}

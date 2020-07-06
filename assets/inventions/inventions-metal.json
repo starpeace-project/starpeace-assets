@@ -1,7 +1,7 @@
 [
   {
     "id": "AtomicSizeMetalSheets",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Atomdünne Metallplatten",
       "EN": "Atom Size Metal Sheets",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "NoGravityShapingM"
     ]
   },
   {
     "id": "AtomicSizeMetalSheetsM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Atomdünne Metallplatten",
       "EN": "Atom Size Metal Sheets",
@@ -50,18 +50,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "NoGravityShapingM"
     ]
   },
   {
     "id": "AutoCoolingSuites",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Selbstkühlende Anzüge",
       "EN": "Auto-Cooling Suits",
@@ -81,18 +81,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 8,
       "quality": -3
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "AutoCoolingSuitesM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Selbstkühlende Anzüge",
       "EN": "Auto-Cooling Suits",
@@ -112,18 +112,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 8,
       "quality": -3
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "BuiltInTrasmittors",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Eingebaute Sender",
       "EN": "Built-In Transmitters",
@@ -142,18 +142,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "BuiltInTrasmittorsM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Eingebaute Sender",
       "EN": "Built-In Transmitters",
@@ -172,18 +172,18 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "DeepCryogenicSteelCooling",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kryogene Stahlabkühlung",
       "EN": "Cryogenic Steel Cooling",
@@ -202,18 +202,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "DeepCryogenicSteelCoolingM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kryogene Stahlabkühlung",
       "EN": "Cryogenic Steel Cooling",
@@ -232,18 +232,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "ExtraterrestrialAlloys",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außerirdische Legierungen",
       "EN": "Extraterrestrial Alloys",
@@ -262,18 +262,18 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "ExtraterrestrialAlloysM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außerirdische Legierungen",
       "EN": "Extraterrestrial Alloys",
@@ -292,18 +292,18 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "InternalBusSystem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Internes Bussystem",
       "EN": "Internal Bus System",
@@ -323,17 +323,17 @@
     "properties": {
       "price": 90000000,
       "prestige": 2,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 7
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "LSMetal"
     ]
   },
   {
     "id": "InternalBusSystemM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Internes Bussystem",
       "EN": "Internal Bus System",
@@ -353,17 +353,17 @@
     "properties": {
       "price": 90000000,
       "prestige": 2,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 7
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "LSMetal",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Große Metallindustrien",
       "EN": "Large Scale Metallurgy Production",
@@ -382,16 +382,16 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "MASTER"
+      "levelId": "MASTER"
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "Metallic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Metallurgie",
       "EN": "Metallurgy",
@@ -410,16 +410,16 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "MetallicArt",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Metallkunst",
       "EN": "Metallic Art",
@@ -439,18 +439,18 @@
     "properties": {
       "price": 65000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "MetallicArtM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Metallkunst",
       "EN": "Metallic Art",
@@ -470,18 +470,18 @@
     "properties": {
       "price": 65000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "MetallurgyMuseum",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Metallmuseum",
       "EN": "Metallurgy Museum",
@@ -501,17 +501,17 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 3
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "MetallurgyMuseumM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Metallmuseum",
       "EN": "Metallurgy Museum",
@@ -531,17 +531,17 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 3
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "NanotechnologyDevelopment",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Nanotechnologie-Entwicklungen",
       "EN": "Nanotechnology Developments",
@@ -560,18 +560,18 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 10
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "NanotechnologyDevelopmentM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Nanotechnologie-Entwicklungen",
       "EN": "Nanotechnology Developments",
@@ -590,18 +590,18 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 10
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "NoGravityShaping",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Schwereloses Formen",
       "EN": "Zero Gravity Shaping",
@@ -620,18 +620,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -8,
       "quality": 10
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "NoGravityShapingM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Schwereloses Formen",
       "EN": "Zero Gravity Shaping",
@@ -650,18 +650,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -8,
       "quality": 10
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "OreScreening",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Erzüberprüfung",
       "EN": "Ore Screening",
@@ -680,18 +680,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3,
       "quality": 6
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "OreScreeningM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Erzüberprüfung",
       "EN": "Ore Screening",
@@ -710,18 +710,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3,
       "quality": 6
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "PreciousMetalTreatment",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Behandlung von Edelmetallen",
       "EN": "Precious Metal Treatment",
@@ -741,17 +741,17 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "PreciousMetalTreatmentM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Behandlung von Edelmetallen",
       "EN": "Precious Metal Treatment",
@@ -771,17 +771,17 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "SecurityCollapsingMechanism",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Sicherheitssystem für Hochöfen",
       "EN": "Security Collapsing Mechanism",
@@ -801,17 +801,17 @@
     "properties": {
       "price": 120000000,
       "prestige": 30,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "LSMetal"
     ]
   },
   {
     "id": "SecurityCollapsingMechanismM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Sicherheitssystem für Hochöfen",
       "EN": "Security Collapsing Mechanism",
@@ -831,17 +831,17 @@
     "properties": {
       "price": 120000000,
       "prestige": 30,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "SuperconductorsProduction",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Produktion von Superleitern",
       "EN": "Superconductor Production",
@@ -860,18 +860,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "SuperconductorsProductionM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Produktion von Superleitern",
       "EN": "Superconductor Production",
@@ -890,18 +890,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "UltimateTitaniumAlloy",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ultimative Titanlegierung",
       "EN": "Ultimate Titanium Alloy",
@@ -921,18 +921,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   },
   {
     "id": "UltimateTitaniumAlloyM",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Ultimative Titanlegierung",
       "EN": "Ultimate Titanium Alloy",
@@ -952,12 +952,12 @@
     "properties": {
       "price": 80000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
-    "industry_type": "METAL",
-    "depends_on": [
+    "industryTypeId": "METAL",
+    "dependsOnIds": [
       "Metallic"
     ]
   }

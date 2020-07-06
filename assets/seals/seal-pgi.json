@@ -1,9 +1,9 @@
 [
   {
     "id": "PGI",
-    "name_short": "PGI",
-    "name_long": "Pure Gaba Initiative",
-    "buildings": [
+    "nameShort": "PGI",
+    "nameLong": "Pure Gaba Initiative",
+    "buildingIds": [
       "generic.college",
       "generic.dump",
       "generic.jail",

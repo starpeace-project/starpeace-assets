@@ -1,7 +1,7 @@
 [
   {
     "id": "AlternativeSources",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Alternative Sources",
       "EN": "Alternative Sources",
@@ -21,18 +21,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 50,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -2
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "ColorChangingPaper",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Color Changing Paper",
       "EN": "Chameleon Paper",
@@ -51,18 +51,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "ExtraterrestrialFibers",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Extraterrestrial Fibers",
       "EN": "Extraterrestrial Fibers",
@@ -81,18 +81,18 @@
     },
     "properties": {
       "price": 100000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 7
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "FoodContainers",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Food Containers",
       "EN": "Food Containers",
@@ -111,18 +111,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "HandMadePaper",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Hand Made Paper",
       "EN": "Handmade Paper",
@@ -141,18 +141,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 5
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "MakeYourOwnPaperKit",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Make Your Own Paper Kit",
       "EN": "Do-It-Yourself Paper Kit",
@@ -171,18 +171,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 3,
       "quality": 1
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "HandMadePaper"
     ]
   },
   {
     "id": "MintContract",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Mint Contract",
       "EN": "Banknote Contract",
@@ -202,18 +202,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 20,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3,
       "quality": 2
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "PackagingMaterials",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Packaging Materials",
       "EN": "Packaging",
@@ -232,18 +232,18 @@
     },
     "properties": {
       "price": 150000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -2
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "PaperBagCampaign",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Paper Bag Campaign",
       "EN": "Paper Bag Campaign",
@@ -263,17 +263,17 @@
     "properties": {
       "price": 30000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 3
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "PaperClothes",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Paper Clothes",
       "EN": "Paper Clothes",
@@ -293,18 +293,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3,
       "quality": 5
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "PaperHistory",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Paper History",
       "EN": "Paper History",
@@ -323,17 +323,17 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "quality": 4
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "PaperInd",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Paper Industry Basics",
       "EN": "Paper Industry Basics",
@@ -352,16 +352,16 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "PaperKnives",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Paper Knives",
       "EN": "Paper Knives",
@@ -380,17 +380,17 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 3
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "Parchment",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Parchment",
       "EN": "Parchment",
@@ -409,18 +409,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 3
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "RecyclingFacility",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Recycling Facility",
       "EN": "Recycling Facility",
@@ -440,18 +440,18 @@
     "properties": {
       "price": 400000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 15,
       "quality": -2
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   },
   {
     "id": "TissueProduction",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Tissue Production",
       "EN": "Tissue Production",
@@ -470,12 +470,12 @@
     },
     "properties": {
       "price": 150000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": 5
     },
-    "industry_type": "PAPER",
-    "depends_on": [
+    "industryTypeId": "PAPER",
+    "dependsOnIds": [
       "PaperInd"
     ]
   }

@@ -1,7 +1,7 @@
 [
   {
     "id": "AssociateGoal",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Teilhaber-Fernziel",
       "EN": "Associate Goal",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 3,
       "quality": 2
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LongHoursPolicy"
     ]
   },
   {
     "id": "CharityWork",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Wohlfahrtsarbeit",
       "EN": "Charity Work",
@@ -51,17 +51,17 @@
     "properties": {
       "price": 40000000,
       "prestige": 30,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "CompulsoryQuota",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Pflichtrate",
       "EN": "Compulsory Quota",
@@ -81,18 +81,18 @@
     "properties": {
       "price": 60000000,
       "prestige": -5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "CorporateCars",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Dienstwagen",
       "EN": "Corporate Cars",
@@ -112,18 +112,18 @@
     "properties": {
       "price": 25000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 1
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "DigitalLibraryOnly",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Digitale Bibliothek",
       "EN": "Digital Library Only",
@@ -143,18 +143,18 @@
     "properties": {
       "price": 50000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 2,
       "quality": -2
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "ExtraterrestrialLaw",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Außerirdisches Gesetz",
       "EN": "Extraterrestrial Law",
@@ -174,18 +174,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 1,
       "quality": 4
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "HospitalVultures",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Krankenhausgeier",
       "EN": "Hospital Vultures",
@@ -205,18 +205,18 @@
     "properties": {
       "price": 20000000,
       "prestige": -10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "JudgeConsultants",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Beratende Richter",
       "EN": "Judge Consultants",
@@ -236,18 +236,18 @@
     "properties": {
       "price": 40000000,
       "prestige": 10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "LawSchoolsRecruitment",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Einstellung von Studienabgängern",
       "EN": "Law School Recruiting",
@@ -266,18 +266,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -1
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "LawyerFirms",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Grundwissen für Rechtsdienstleistungen",
       "EN": "Legal Services Basics",
@@ -296,16 +296,16 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "LongHoursPolicy",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Politik der langen Stunden",
       "EN": "Long Hours Policy",
@@ -324,18 +324,18 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 15,
       "quality": -4
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "OnEarthStage",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Praktikum auf der Erde",
       "EN": "Earth Internship",
@@ -354,18 +354,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 5
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "ParalegalsExploitation",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Anwärterausbeutung",
       "EN": "Paralegal Exploitation",
@@ -385,18 +385,18 @@
     "properties": {
       "price": 25000000,
       "prestige": -5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "ProLawyersCampaign",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Pro-Anwaltskampagne",
       "EN": "Pro-Lawyer Campaign",
@@ -415,18 +415,18 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 2
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "SecurityCodes",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Sicherheitscodes",
       "EN": "Security Codes",
@@ -446,18 +446,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -1,
       "quality": 5
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   },
   {
     "id": "WorldsLawyerNetwork",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Weltweites Anwaltsnetz",
       "EN": "Worlds Lawyer Network",
@@ -477,12 +477,12 @@
     "properties": {
       "price": 40000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "LEGAL_SERVICES",
-    "depends_on": [
+    "industryTypeId": "LEGAL_SERVICES",
+    "dependsOnIds": [
       "LawyerFirms"
     ]
   }

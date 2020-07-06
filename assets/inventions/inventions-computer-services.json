@@ -1,7 +1,7 @@
 [
   {
     "id": "CDMeltingSecurity",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "CD-Sicherung durch Schmelzen",
       "EN": "CD Melting Security",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 4
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "CellPhonesTechnology",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Handytechnologie",
       "EN": "Cell Phone Technology",
@@ -51,18 +51,18 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -1,
       "quality": 4
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "CheapHardware",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Billige Hardware",
       "EN": "Cheap Hardware",
@@ -81,18 +81,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 15,
       "quality": -5
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "ConvolutedCode",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Verwickelter Code",
       "EN": "Convoluted Code",
@@ -111,18 +111,18 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -5,
       "quality": 3
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "DigitalMovies",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Digitale Filme",
       "EN": "Digital Movies",
@@ -141,18 +141,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "HackersRecruiting",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Hackersuche",
       "EN": "Hacker Recruiting",
@@ -172,18 +172,18 @@
     "properties": {
       "price": 40000000,
       "prestige": -5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 2,
       "quality": 3
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "HologramGraphic",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Hologramm-Grafik",
       "EN": "Hologram Graphics",
@@ -202,18 +202,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "IntraworldsECommerce",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Zwischenweltlicher E-Commerce",
       "EN": "Intraworld E-Commerce",
@@ -233,18 +233,18 @@
     "properties": {
       "price": 140000000,
       "prestige": 30,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "ThroughPortalsDataTransfer"
     ]
   },
   {
     "id": "LaptopsAndDockingStations",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Laptops und Andockstationen",
       "EN": "Laptops and Docking Stations",
@@ -263,18 +263,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "OceanusHistory",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Die Geschichte von Oceanus",
       "EN": "Oceanus History",
@@ -294,18 +294,18 @@
     "properties": {
       "price": 65000000,
       "prestige": 3,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -3,
       "quality": 7
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "VideogamesDevelopment"
     ]
   },
   {
     "id": "RelaxedWorkEnvironment",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Entspannte Arbeitsatmosphäre",
       "EN": "Relaxed Work Environment",
@@ -324,18 +324,18 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "SoftwareFirms",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Grundlagen der Computerdienste",
       "EN": "Computer Services Basics",
@@ -354,16 +354,16 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "MASTER"
+      "levelId": "MASTER"
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "ThroughPortalsDataTransfer",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Datenübertragung durch Portale",
       "EN": "Portal Data Transfer",
@@ -383,18 +383,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 20,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 2,
       "quality": 2
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "VideogamesDevelopment",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Entwicklung von Videospielen",
       "EN": "Videogame Development",
@@ -413,18 +413,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 2,
       "quality": 5
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "VirusAntivirusBusiness",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Antivirusgeschäft",
       "EN": "Virus and Antivirus Business",
@@ -444,18 +444,18 @@
     "properties": {
       "price": 50000000,
       "prestige": 5,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   },
   {
     "id": "WorkingFromHome",
-    "category": "SERVICE",
+    "industryCategoryId": "SERVICE",
     "name": {
       "DE": "Heimarbeit",
       "EN": "Telework",
@@ -474,12 +474,12 @@
     },
     "properties": {
       "price": 95000000,
-      "level": "MASTER",
+      "levelId": "MASTER",
       "efficiency": 5,
       "quality": 2
     },
-    "industry_type": "COMPUTER_SERVICES",
-    "depends_on": [
+    "industryTypeId": "COMPUTER_SERVICES",
+    "dependsOnIds": [
       "SoftwareFirms"
     ]
   }

@@ -1,7 +1,7 @@
 [
   {
     "id": "EtTimber",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Extraterrestrial Timber",
       "EN": "Extraterrestrial Timber",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 280000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbAlienBactCtrl",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Mad Tree Disease control",
       "EN": "Mad Tree Disease Control",
@@ -51,17 +51,17 @@
     "properties": {
       "price": 280000000,
       "prestige": 30,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "EtTimber"
     ]
   },
   {
     "id": "TimbAromaticWood",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Aromatic Wood",
       "EN": "Aromatic Wood",
@@ -81,18 +81,18 @@
     "properties": {
       "price": 180000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 8
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbASMSheets",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Atomic Size Metal Sheets",
       "EN": "Atom Size Wood Sheets",
@@ -111,18 +111,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbCatRepel",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Cat Repelent",
       "EN": "Cat Repellent",
@@ -141,18 +141,18 @@
     },
     "properties": {
       "price": 85000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbColoredTrees",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Colored Trees",
       "EN": "Colored Trees",
@@ -171,18 +171,18 @@
     },
     "properties": {
       "price": 325000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -8,
       "quality": 10
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "Timber",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Timber Production",
       "EN": "Timber Production",
@@ -201,16 +201,16 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "TYCOON"
+      "levelId": "TYCOON"
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "TimbGreenMusic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Green Music",
       "EN": "Green Music",
@@ -230,17 +230,17 @@
     "properties": {
       "price": 160000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbHiDensity",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Hi Density Wood",
       "EN": "High Density Wood",
@@ -260,18 +260,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -8,
       "quality": 3
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbInternalBusSystem",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Internes Bussystem",
       "EN": "Internal Bus System",
@@ -291,17 +291,17 @@
     "properties": {
       "price": 90000000,
       "prestige": 2,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 7
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbMuseum",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Timber Museum",
       "EN": "Timber Museum",
@@ -321,17 +321,17 @@
     "properties": {
       "price": 45000000,
       "prestige": 5,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 3
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbNanoDev",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Nanotechnologie-Entwicklungen",
       "EN": "Nanotechnology Developments",
@@ -350,18 +350,18 @@
     },
     "properties": {
       "price": 80000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -2,
       "quality": 10
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbSpecFert",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Sensible Fertilizing",
       "EN": "Sensible Fertilizing",
@@ -380,18 +380,18 @@
     },
     "properties": {
       "price": 160000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -3,
       "quality": 6
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbSupercondProd",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Produktion von Superleitern",
       "EN": "Superconductor Production",
@@ -410,18 +410,18 @@
     },
     "properties": {
       "price": 60000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": -5,
       "quality": 10
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbTwinTrees",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Siamese Trees",
       "EN": "Siamese Trees",
@@ -441,18 +441,18 @@
     "properties": {
       "price": 165000000,
       "prestige": -10,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   },
   {
     "id": "TimbWoodBubbles",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Wood Bubbles",
       "EN": "Wood Bubbles",
@@ -471,12 +471,12 @@
     },
     "properties": {
       "price": 70000000,
-      "level": "TYCOON",
+      "levelId": "TYCOON",
       "efficiency": 10,
       "quality": -3
     },
-    "industry_type": "TIMBER",
-    "depends_on": [
+    "industryTypeId": "TIMBER",
+    "dependsOnIds": [
       "Timber"
     ]
   }

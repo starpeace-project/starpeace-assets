@@ -1,7 +1,7 @@
 [
   {
     "id": "AntiChockingPlasticBags",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Anti-Erstickungs-Plastiktüten",
       "EN": "Child Friendly Plastic Bags",
@@ -21,18 +21,18 @@
     "properties": {
       "price": 45000000,
       "prestige": 25,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 2
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "BiodegradablePlasticLikeMaterial"
     ]
   },
   {
     "id": "BiodegradablePlasticLikeMaterial",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bioabbaubares plastikähnliches Material",
       "EN": "Biodegradable Plastic-Like Material",
@@ -52,18 +52,18 @@
     "properties": {
       "price": 85000000,
       "prestige": 15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 8
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   },
   {
     "id": "EchologicalAwarenessCampaign",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kampagne zum Umweltschutz",
       "EN": "Ecological Awareness Campaign",
@@ -83,17 +83,17 @@
     "properties": {
       "price": 110000000,
       "prestige": 35,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "PlasticRecyclingCenters"
     ]
   },
   {
     "id": "ExtraStrongPlastic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Extrafester Kunststoff",
       "EN": "Extra Strong Plastic",
@@ -112,18 +112,18 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 8
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "SoundWaveMolder"
     ]
   },
   {
     "id": "ExtraterrestrialOilImpurityRemoving",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Reinigung außerirdischen Öls",
       "EN": "Impure Extraterrestrial Oil Removal",
@@ -142,18 +142,18 @@
     },
     "properties": {
       "price": 110000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 12
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   },
   {
     "id": "GrowYourOwnPlasticPlant",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Lassen Sie Ihre eigene Plastikfabrik wachsen",
       "EN": "Grow Your Own Plastic Plant",
@@ -173,18 +173,18 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   },
   {
     "id": "LaserPlasticCutter",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Laserkunsstoffschneider",
       "EN": "Laser Plastic Cutter",
@@ -203,18 +203,18 @@
     },
     "properties": {
       "price": 135000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "quality": 4
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   },
   {
     "id": "PlasticDressLine",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kunststoffbekleidungskollektion",
       "EN": "Plastic Clothes Line",
@@ -233,18 +233,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   },
   {
     "id": "PlasticRecyclingCenters",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kunststoffrecyclingzentren",
       "EN": "Plastic Recycling Centers",
@@ -264,18 +264,18 @@
     "properties": {
       "price": 70000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": -5
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   },
   {
     "id": "Plastics",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kunststoffproduktion",
       "EN": "Plastic Production",
@@ -294,16 +294,16 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "ProPlasticCampaign",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Pro-Kunststoffkampagne",
       "EN": "Pro-Plastic Campaign",
@@ -323,17 +323,17 @@
     "properties": {
       "price": 70000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   },
   {
     "id": "RecyclingDepurators",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Recycling in Filtern",
       "EN": "Recycling Filters",
@@ -353,18 +353,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 7,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": -2
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   },
   {
     "id": "SoundWaveMolder",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Schallwellenformer",
       "EN": "Sound Wave Molder",
@@ -383,18 +383,18 @@
     },
     "properties": {
       "price": 330000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 35,
       "quality": -2
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   },
   {
     "id": "SpaceApplications",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Raumfahrtanwendungen",
       "EN": "Space Applications",
@@ -414,18 +414,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 8
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "ExtraStrongPlastic"
     ]
   },
   {
     "id": "UltrathinPlastic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Superdünner Kunststoff",
       "EN": "Ultra Thin Plastic",
@@ -445,18 +445,18 @@
     "properties": {
       "price": 40000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 6
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "LaserPlasticCutter"
     ]
   },
   {
     "id": "WoodLookingPlasticSheets",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Holzimitation",
       "EN": "Imitation Plastic Wood",
@@ -475,12 +475,12 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 6
     },
-    "industry_type": "PLASTIC",
-    "depends_on": [
+    "industryTypeId": "PLASTIC",
+    "dependsOnIds": [
       "Plastics"
     ]
   }

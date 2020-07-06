@@ -1,0 +1,70 @@
+{
+  "towns": [
+    {
+      "name": "Libra",
+      "sealId": "PGI",
+      "mapX": 178,
+      "mapY": 220
+    },
+    {
+      "name": "Taurus",
+      "sealId": "MOAB",
+      "mapX": 510,
+      "mapY": 207
+    },
+    {
+      "name": "Gemini",
+      "sealId": "MKO",
+      "mapX": 851,
+      "mapY": 354
+    },
+    {
+      "name": "Scorpius",
+      "sealId": "MOAB",
+      "mapX": 710,
+      "mapY": 345
+    },
+    {
+      "name": "Pisces",
+      "sealId": "DIS",
+      "mapX": 420,
+      "mapY": 385
+    },
+    {
+      "name": "Leo",
+      "sealId": "PGI",
+      "mapX": 110,
+      "mapY": 482
+    },
+    {
+      "name": "Cancer",
+      "sealId": "MKO",
+      "mapX": 547,
+      "mapY": 508
+    },
+    {
+      "name": "Virgo",
+      "sealId": "DIS",
+      "mapX": 836,
+      "mapY": 792
+    },
+    {
+      "name": "Sagittarius",
+      "sealId": "MKO",
+      "mapX": 436,
+      "mapY": 683
+    },
+    {
+      "name": "Capricorn",
+      "sealId": "PGI",
+      "mapX": 131,
+      "mapY": 766
+    },
+    {
+      "name": "Aquarius",
+      "sealId": "DIS",
+      "mapX": 548,
+      "mapY": 865
+    }
+  ]
+}

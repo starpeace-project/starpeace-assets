@@ -1,7 +1,7 @@
 [
   {
     "id": "ActionFigures",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Action-Figuren",
       "EN": "Action Figures",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "VideogameConsole"
     ]
   },
   {
     "id": "AdultGameLine",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Spiele für Erwachsene",
       "EN": "Adult Game Line",
@@ -51,18 +51,18 @@
     "properties": {
       "price": 65000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 6
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "AggressiveMarketingCampaign",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Aggressive Werbekampagne",
       "EN": "Aggressive Marketing Campaign",
@@ -81,15 +81,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "desirability": -2
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "Animators",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Animateure",
       "EN": "Entertainer Service",
@@ -108,15 +108,15 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 3
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "AntiAliensSurveillance",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Anti-Außerirdische Überwachung",
       "EN": "Kid Surveillance",
@@ -136,15 +136,15 @@
     "properties": {
       "price": 45000000,
       "prestige": 15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "AntiChockingToys",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Anti-Erstickungs-Spielwaren",
       "EN": "Anti-Choking Toys",
@@ -164,18 +164,18 @@
     "properties": {
       "price": 70000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 6,
       "quality": -2
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "Assembling Specialists",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Spezialisten im Zusammensetzen",
       "EN": "Assembly Specialists",
@@ -194,15 +194,15 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 3
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "CharityDonations",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Spende an die Wohlfahrt",
       "EN": "Charity Donations",
@@ -222,17 +222,17 @@
     "properties": {
       "price": 40000000,
       "prestige": 30,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "TradeInUsedToys"
     ]
   },
   {
     "id": "ChildrenBooksCollection",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kinderbuchreihe",
       "EN": "Children's Book Collection",
@@ -251,18 +251,18 @@
     },
     "properties": {
       "price": 20000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "ChristmasWishlist",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Weihnachtswunschliste",
       "EN": "Christmas Wish List",
@@ -282,15 +282,15 @@
     "properties": {
       "price": 25000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "CoolToysOnly",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Coole Spielwaren",
       "EN": "Cool Toys Only",
@@ -309,15 +309,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "desirability": -1
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "EducationalToys",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Bildendes Spielzeug",
       "EN": "Educational Toys",
@@ -337,18 +337,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 25,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "quality": -2
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "ElectronicOwnershipDevice",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Elektronischer Spielzeugfinder",
       "EN": "Electronic Homing Device",
@@ -368,17 +368,17 @@
     "properties": {
       "price": 70000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "FunnyEmployeesUniform",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Kostüme für die Angestellten",
       "EN": "Costume Uniforms",
@@ -397,15 +397,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "HalloweenCostumes",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Halloween-Kostüme",
       "EN": "Halloween Costumes",
@@ -424,18 +424,18 @@
     },
     "properties": {
       "price": 30000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 7
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "LifeToySupply",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Lebenslange Versorgung",
       "EN": "Lifetime Toy Supply",
@@ -455,18 +455,18 @@
     "properties": {
       "price": 75000000,
       "prestige": -10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": -3
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "NewbornToys",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Spielwaren für Neugeborene",
       "EN": "Pre-Tot Toys",
@@ -485,15 +485,15 @@
     },
     "properties": {
       "price": 35000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 2
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "NoBrandReproductions",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Billige Reproduktionen",
       "EN": "No Name Toy Reproduction",
@@ -512,15 +512,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 8,
       "desirability": -3
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "NonTraditionalGenderRelatedToys",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Nicht traditionelle, geschlechtsorientierte Spielzeuge",
       "EN": "Untraditional Gender Toys",
@@ -540,18 +540,18 @@
     "properties": {
       "price": 130000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 15
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "OldFashionedToys",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Altmodisches Spielzeug",
       "EN": "Old Fashioned Toys",
@@ -570,18 +570,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "quality": -3
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "OutdoorPlayingAreas",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Spielplätze",
       "EN": "Outdoor Play Structures",
@@ -601,18 +601,18 @@
     "properties": {
       "price": 180000000,
       "prestige": 15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 20,
       "quality": -5
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "PeriodicSchoolPolls",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Regelmäßige Schulumfragen",
       "EN": "School Polls",
@@ -631,18 +631,18 @@
     },
     "properties": {
       "price": 55000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 8
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "PoliceAlertingDoll",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Puppe mit Polizeiruf",
       "EN": "Police Alerting Doll",
@@ -662,18 +662,18 @@
     "properties": {
       "price": 270000000,
       "prestige": 120,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 3
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "SantaClausCircuit",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Weihnachtsmannbesuch",
       "EN": "Santa Claus Delivery",
@@ -693,18 +693,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 30,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "quality": 8
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "ShopsNetwork",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Geschäftsnetzwerk",
       "EN": "Shop Shipping Network",
@@ -723,15 +723,15 @@
     },
     "properties": {
       "price": 65000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "desirability": 1
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "SpecialAdvisors",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Fachberater",
       "EN": "Special Toy Advisors",
@@ -750,15 +750,15 @@
     },
     "properties": {
       "price": 75000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 1,
       "desirability": 3
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "SterilizationDevice",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Sterilisiergerät",
       "EN": "Toy Sterilization Device",
@@ -778,17 +778,17 @@
     "properties": {
       "price": 35000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "desirability": 1
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "NewbornToys"
     ]
   },
   {
     "id": "ToyIndustry",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Spielwarenproduktion",
       "EN": "Toy Production",
@@ -807,16 +807,16 @@
     },
     "properties": {
       "price": 6000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "ToysTestingAreas",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Spiezeugtestbereich",
       "EN": "Toys Testing Areas",
@@ -835,15 +835,15 @@
     },
     "properties": {
       "price": 25000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "desirability": 2
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "TradeInUsedToys",
-    "category": "COMMERCE",
+    "industryCategoryId": "COMMERCE",
     "name": {
       "DE": "Spielwarenbörse",
       "EN": "Trade-In Used Toys",
@@ -862,15 +862,15 @@
     },
     "properties": {
       "price": 15000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "desirability": 1
     },
-    "industry_type": "TOY"
+    "industryTypeId": "TOY"
   },
   {
     "id": "VideogameConsole",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Konsole für Videospiele",
       "EN": "Videogame Console",
@@ -889,12 +889,12 @@
     },
     "properties": {
       "price": 95000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -4,
       "quality": 12
     },
-    "industry_type": "TOY",
-    "depends_on": [
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
       "ToyIndustry"
     ]
   }

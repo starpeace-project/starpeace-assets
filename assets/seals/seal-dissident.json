@@ -1,9 +1,9 @@
 [
   {
     "id": "DIS",
-    "name_short": "Dissidents",
-    "name_long": "Dissidents",
-    "buildings": [
+    "nameShort": "Dissidents",
+    "nameLong": "Dissidents",
+    "buildingIds": [
       "dis.bank",
       "dis.bar",
       "dis.bm.industry",

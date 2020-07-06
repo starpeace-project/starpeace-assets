@@ -1,7 +1,7 @@
 [
   {
     "id": "AdvGen",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Genetik für Fortgeschrittene",
       "EN": "Advanced Genetics",
@@ -20,18 +20,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "quality": 1
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "ArtLight",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Künstliches Sonnenlicht",
       "EN": "Artificial Sunlight",
@@ -51,18 +51,18 @@
     "properties": {
       "price": 80000000,
       "prestige": 7,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "quality": 4
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "ETClimate"
     ]
   },
   {
     "id": "AutoIrr",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Automatische Bewässerung",
       "EN": "Automatic Irrigation",
@@ -82,18 +82,18 @@
     "properties": {
       "price": 60000000,
       "prestige": 3,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 2,
       "quality": 1
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "BioFeed",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Biogenetisches Füttern",
       "EN": "Biogenic Feeding",
@@ -113,18 +113,18 @@
     "properties": {
       "price": 50000000,
       "prestige": -100,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 20,
       "quality": 3
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "ColMutPl",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Mutierte Pflanzen aus den Kolonien",
       "EN": "Mutant Colonial Plants",
@@ -144,18 +144,18 @@
     "properties": {
       "price": 170000000,
       "prestige": -20,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 40,
       "quality": -20
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "ETClimate"
     ]
   },
   {
     "id": "ETClimate",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außerirdisches Klima",
       "EN": "Extraterrestrial Climate",
@@ -175,18 +175,18 @@
     "properties": {
       "price": 100000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "quality": 3
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "ETGen",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außerirdische Genetik",
       "EN": "Extraterrestrial Genetics",
@@ -206,16 +206,16 @@
     "properties": {
       "price": 40000000,
       "prestige": 20,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "WaterPumps"
     ]
   },
   {
     "id": "FarmLic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Landwirtschaft",
       "EN": "Farming",
@@ -234,16 +234,16 @@
     },
     "properties": {
       "price": 1000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "IndPhtsynt",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Induzierte Photosynthese",
       "EN": "Induced Photosynthesis",
@@ -263,18 +263,18 @@
     "properties": {
       "price": 20000000,
       "prestige": -10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 6,
       "quality": -3
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "LargeFarms",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Große Bauernhöfe",
       "EN": "Large Farms",
@@ -293,16 +293,16 @@
     },
     "properties": {
       "price": 4000000,
-      "level": "ENTREPRENEUR"
+      "levelId": "ENTREPRENEUR"
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "MiceRcycl",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Mäuserecycling",
       "EN": "Mice Recycling",
@@ -322,18 +322,18 @@
     "properties": {
       "price": 10000000,
       "prestige": -40,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "quality": -7
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "PHyCtrl",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kontrolle der persönlichen Hygiene",
       "EN": "Personal Hygiene Control",
@@ -352,18 +352,18 @@
     },
     "properties": {
       "price": 45000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 8
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "PlgCtrlSys",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Seuchenkontrollsystem",
       "EN": "Plague Control System",
@@ -382,18 +382,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "quality": -3
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "ETClimate"
     ]
   },
   {
     "id": "SklessPigs",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Hautlose Schweine",
       "EN": "Skinless Pigs",
@@ -413,18 +413,18 @@
     "properties": {
       "price": 30000000,
       "prestige": -100,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": 2
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "AdvGen"
     ]
   },
   {
     "id": "SynAnFood",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Synthetisches Tierfutter",
       "EN": "Synthetic Animal Food",
@@ -444,18 +444,18 @@
     "properties": {
       "price": 15000000,
       "prestige": -7,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 4,
       "quality": -2
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "SyntGround",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Synthetischer Boden",
       "EN": "Synthetic Soil",
@@ -475,18 +475,18 @@
     "properties": {
       "price": 20000000,
       "prestige": -7,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 7,
       "quality": -3
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "VegMusic",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Pflanzenmusik",
       "EN": "Vegetable Music",
@@ -506,18 +506,18 @@
     "properties": {
       "price": 90000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "quality": 2
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   },
   {
     "id": "WaterCtrl",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Wasserkontrolle",
       "EN": "Water Control",
@@ -537,18 +537,18 @@
     "properties": {
       "price": 55000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -1,
       "quality": 4
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "ETClimate"
     ]
   },
   {
     "id": "WaterPumps",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Wasserpumpen",
       "EN": "Water Pumps",
@@ -568,12 +568,12 @@
     "properties": {
       "price": 65000000,
       "prestige": 2,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "quality": 2
     },
-    "industry_type": "FARMING",
-    "depends_on": [
+    "industryTypeId": "FARMING",
+    "dependsOnIds": [
       "FarmLic"
     ]
   }

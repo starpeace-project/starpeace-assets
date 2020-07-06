@@ -1,0 +1,64 @@
+{
+  "towns": [
+    {
+      "name": "Blue",
+      "sealId": "MOAB",
+      "mapX": 170,
+      "mapY": 215
+    },
+    {
+      "name": "Line",
+      "sealId": "MKO",
+      "mapX": 401,
+      "mapY": 283
+    },
+    {
+      "name": "Red",
+      "sealId": "DIS",
+      "mapX": 768,
+      "mapY": 178
+    },
+    {
+      "name": "Grid",
+      "sealId": "MKO",
+      "mapX": 595,
+      "mapY": 399
+    },
+    {
+      "name": "Brown",
+      "sealId": "PGI",
+      "mapX": 796,
+      "mapY": 505
+    },
+    {
+      "name": "Lozenge",
+      "sealId": "MKO",
+      "mapX": 511,
+      "mapY": 595
+    },
+    {
+      "name": "Yellow",
+      "sealId": "MOAB",
+      "mapX": 632,
+      "mapY": 711
+    },
+    {
+      "name": "Oval",
+      "sealId": "PGI",
+      "mapX": 380,
+      "mapY": 669
+    },
+    {
+      "name": "Grey",
+      "sealId": "DIS",
+      "mapX": 287,
+      "mapY": 803
+    },
+    {
+      "name": "Plate",
+      "sealId": "PGI",
+      "mapX": 204,
+      "mapY": 558
+    }
+  ]
+}

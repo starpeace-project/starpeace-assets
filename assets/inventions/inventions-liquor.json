@@ -1,7 +1,7 @@
 [
   {
     "id": "AnhalcolicProducts",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Produkte ohne Alkohol",
       "EN": "Alcohol Free Products",
@@ -21,18 +21,18 @@
     "properties": {
       "price": 90000000,
       "prestige": 30,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 3
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "AntiBreakingGlassBottle",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Scherbenschutzflasche",
       "EN": "Unbreakable Glass Bottle",
@@ -52,17 +52,17 @@
     "properties": {
       "price": 75000000,
       "prestige": 50,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "BreathControlSeal",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Atemkontrollsiegel",
       "EN": "Breathalyzer Seal",
@@ -82,16 +82,16 @@
     "properties": {
       "price": 140000000,
       "prestige": 70,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "CheapStrongLiquors",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Billiger hochprozentiger Alkohol",
       "EN": "Cheap and Strong Liquor",
@@ -111,18 +111,18 @@
     "properties": {
       "price": 90000000,
       "prestige": -10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 15,
       "quality": -5
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "Cocktails",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Cocktails",
       "EN": "Cocktails",
@@ -142,18 +142,18 @@
     "properties": {
       "price": 85000000,
       "prestige": 10,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 10
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "EthnicDrinksSelection",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Auswahl von Ethno-Drinks",
       "EN": "Ethnic Drink Selection",
@@ -173,18 +173,18 @@
     "properties": {
       "price": 40000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 5
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "EvaporatedAlcoholRecycling",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Recycling von Alkoholdünsten",
       "EN": "Alcohol Recycling",
@@ -203,17 +203,17 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 8
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "ExtraStrongVolatileLiquor",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Extrastarker flüchtiger Schnaps",
       "EN": "Extra Strong Volatile Liquor",
@@ -232,18 +232,18 @@
     },
     "properties": {
       "price": 50000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -3,
       "quality": 7
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "ExtraterrestrialFlavours",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Außerirdische Geschmacksrichtungen",
       "EN": "Extraterrestrial Flavors",
@@ -263,18 +263,18 @@
     "properties": {
       "price": 150000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 5,
       "quality": 8
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "HeadacheAndStomachDrug",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Kopfschmerz- und Magenmedikament",
       "EN": "Headache and Stomach Drug",
@@ -294,18 +294,18 @@
     "properties": {
       "price": 50000000,
       "prestige": -5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 10,
       "quality": -5
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "HistoryOfAlcoholicDrinks",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Geschichte der alkoholischen Getränke",
       "EN": "History of Liquor Production",
@@ -324,18 +324,18 @@
     },
     "properties": {
       "price": 90000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 3,
       "quality": 5
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "LightProducts",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Leichte Produkte",
       "EN": "Light Products",
@@ -355,18 +355,18 @@
     "properties": {
       "price": 30000000,
       "prestige": 5,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 2
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "Liquors",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Spirituosenproduktion",
       "EN": "Liquor Production",
@@ -385,16 +385,16 @@
     },
     "properties": {
       "price": 10000000,
-      "level": "APPRENTICE"
+      "levelId": "APPRENTICE"
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "DistributedDirection"
     ]
   },
   {
     "id": "PurifyWater",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Wasserreinigung",
       "EN": "Purified Water",
@@ -413,18 +413,18 @@
     },
     "properties": {
       "price": 40000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -2,
       "quality": 4
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "TastersBattery",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Verkosterphalanx",
       "EN": "Taster Team",
@@ -443,18 +443,18 @@
     },
     "properties": {
       "price": 105000000,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": -5,
       "quality": 15
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   },
   {
     "id": "UniversalOrganicDistillation",
-    "category": "INDUSTRY",
+    "industryCategoryId": "INDUSTRY",
     "name": {
       "DE": "Universalalkoholbrenner",
       "EN": "Universal Organic Distillation",
@@ -474,12 +474,12 @@
     "properties": {
       "price": 365000000,
       "prestige": -15,
-      "level": "APPRENTICE",
+      "levelId": "APPRENTICE",
       "efficiency": 50,
       "quality": -10
     },
-    "industry_type": "LIQUOR",
-    "depends_on": [
+    "industryTypeId": "LIQUOR",
+    "dependsOnIds": [
       "Liquors"
     ]
   }
