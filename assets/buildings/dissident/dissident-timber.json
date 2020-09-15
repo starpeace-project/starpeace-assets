@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.lumber",
-    "image_id": "dis.lumber.1",
-    "construction_image_id": "dis.lumber.construction",
+    "imageId": "dis.lumber.1",
+    "constructionImageId": "dis.lumber.construction",
     "name": {
       "DE": "Sägewerk",
       "EN": "Lumber Mill",
@@ -11,11 +11,11 @@
       "IT": "Segheria",
       "PT": "Serraria"
     },
-    "seal_id": "DIS",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "TIMBER",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "TIMBER",
+    "requiredInventionIds": [
       "Timber"
     ]
   }

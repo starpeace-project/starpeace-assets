@@ -2,83 +2,82 @@
   {
     "id": "dis.clothes.industry",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 67200,
-        "max_velocity": 2688
+        "maxVelocity": 2688
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 672,
-        "max_velocity": 26.88
+        "maxVelocity": 26.88
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 1680,
-        "max_velocity": 67.2
+        "maxVelocity": 67.2
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 1,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 1,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 88,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 88,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "COMPUTER_SERVICE",
-            "max_velocity": 0.48,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "COMPUTER_SERVICE",
+            "maxVelocity": 0.48,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "LEGAL_SERVICE",
-            "max_velocity": 0.24,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "LEGAL_SERVICE",
+            "maxVelocity": 0.24,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [
           {
-            "resource": "FABRIC",
-            "max_velocity": 40,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "FABRIC",
+            "maxVelocity": 40,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "ORGANIC_MATERIAL",
-            "max_velocity": 10,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ORGANIC_MATERIAL",
+            "maxVelocity": 10,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 6,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 6,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "outputs": [
           {
-            "resource": "CLOTHES",
-            "max_velocity": 36,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CLOTHES",
+            "maxVelocity": 36,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }
@@ -87,70 +86,69 @@
   {
     "id": "dis.clothes.industry.small",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 16000,
-        "max_velocity": 640
+        "maxVelocity": 640
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 160,
-        "max_velocity": 6.4
+        "maxVelocity": 6.4
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 400,
-        "max_velocity": 16
+        "maxVelocity": 16
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 1,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 1,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 51,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 51,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [],
         "inputs": [
           {
-            "resource": "FABRIC",
-            "max_velocity": 13,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "FABRIC",
+            "maxVelocity": 13,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "ORGANIC_MATERIAL",
-            "max_velocity": 3,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ORGANIC_MATERIAL",
+            "maxVelocity": 3,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 2,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 2,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "outputs": [
           {
-            "resource": "CLOTHES",
-            "max_velocity": 12,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CLOTHES",
+            "maxVelocity": 12,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }
@@ -159,63 +157,63 @@
   {
     "id": "dis.clothes.store",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 450,
-        "max_velocity": 30
+        "maxVelocity": 30
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 6.25,
-        "max_velocity": 0.41666666666666666666666666666667
+        "maxVelocity": 0.41666666666666666666666666666667
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 10,
-        "weight_efficiency": 20,
-        "weight_quality": 10
+        "resourceId": "WORKER",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 10
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 6.5,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 6.5,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "CLOTHES",
-            "max_velocity": 20,
-            "weight_efficiency": 30,
-            "weight_quality": 50
+            "resourceId": "CLOTHES",
+            "maxVelocity": 20,
+            "weightEfficiency": 30,
+            "weightQuality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "CLOTHES",
-            "max_velocity": 20,
+            "resourceId": "CLOTHES",
+            "maxVelocity": 20,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 3.75,
                 "probability": 0.6
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 6.25,
                 "probability": 0.6
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 10,
+                "resourceId": "WORKER",
+                "maxVelocity": 10,
                 "probability": 0.7
               }
             ]

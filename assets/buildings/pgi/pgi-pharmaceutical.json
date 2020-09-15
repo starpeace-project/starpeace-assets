@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.drug.store",
-    "image_id": "pgi.drug.store",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.drug.store",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Drogerie",
       "EN": "Drug Store",
@@ -11,19 +11,19 @@
       "IT": "Farmacia",
       "PT": "Farmácia"
     },
-    "seal_id": "PGI",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "PHARMACEUTICAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "PHARMACEUTICAL",
+    "requiredInventionIds": [
       "BasicCommerce"
     ],
     "commerce": {}
   },
   {
     "id": "pgi.pharma.industry",
-    "image_id": "pgi.pharma.industry",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "pgi.pharma.industry",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Pharmazeutische Fabrik",
       "EN": "Pharmaceutical Factory",
@@ -32,11 +32,11 @@
       "IT": "Fabbrica farmaceutica",
       "PT": "Fábrica Farmacêutica"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "PHARMACEUTICAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "PHARMACEUTICAL",
+    "requiredInventionIds": [
       "PharmaIndustry"
     ]
   }

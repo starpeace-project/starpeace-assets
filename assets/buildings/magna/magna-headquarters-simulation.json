@@ -2,83 +2,83 @@
   {
     "id": "magna.research.a",
     "type": "HEADQUARTERS",
-    "max_level": 5,
+    "maxLevel": 5,
     "beauty": 100,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 7500,
-        "max_velocity": 750
+        "maxVelocity": 750
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 18.75,
-        "max_velocity": 1.875
+        "maxVelocity": 1.875
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 750,
-        "max_velocity": 75
+        "maxVelocity": 75
       }
     ],
     "labor": [
       {
-        "resource": "EXECUTIVE",
-        "max_velocity": 77,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 77,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 33,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 33,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 12,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 12,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "magna.research.b",
     "type": "HEADQUARTERS",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 25,
     "satellite": true,
-    "satellite_category": "RESEARCH",
-    "construction_inputs": [
+    "satelliteCategory": "RESEARCH",
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 6000,
-        "max_velocity": 600
+        "maxVelocity": 600
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 500,
-        "max_velocity": 50
+        "maxVelocity": 50
       }
     ],
     "labor": [
       {
-        "resource": "EXECUTIVE",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 10,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   }

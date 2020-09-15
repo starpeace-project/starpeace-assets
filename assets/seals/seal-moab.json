@@ -3,6 +3,57 @@
     "id": "MOAB",
     "nameShort": "Moab",
     "nameLong": "The Moab",
+    "descriptions": [
+      {
+        "DE": "Die Moab sind ein religiöser Orden. Er wurde im letzten Jahrhundert von einem reichen deutschen Einwanderer in Texas gegründet. Moab ist ein Geisteszustand, der nur durch ein SM-Ritual erreicht werden kann. Nur die Mitglieder des Ordens sind eingeweiht.",
+        "EN": "The Moab is A religious order founded in Texas by a wealthy German immigrant. The Moab is a state of mind that can only be achieved by a sadomasochist ritual revealed only to those who embrace the cult.",
+        "ES": "El Moab es una orden religiosa. Fue fundado en el pasado siglo en Texas por un Inmigrante Alemán rico. El Moab es un estado mental que solo puede ser alcanzado por un ritual sado-masoquista revelado solo a aquellos que practican el culto.",
+        "FR": "Le Moab est un ordre religieux. Il fut fondée au siècle dernier, au Texas, par un riche immigrant allemand. Sa culture, fondée sur un rite sadomasochiste, est exclusivement transmise à ses adeptes.",
+        "IT": "Moab è un ordine religioso. Fu fondato nel secolo scorso in Texas da un ricco immigrato tedesco. Moab è uno stato mentale da raggiungere attraverso un rituale sado-masochistico svelato solo a chi diventa discepolo dell'ordine.",
+        "PT": "O Moab é uma ordem religiosa fundada no Texas por um rico imigrante alemão. O Moabe é um estado de espírito que só pode ser alcançado por um ritual sadomasoquista revelado apenas para aqueles que abraçam o culto."
+      },
+      {
+        "DE": "Dank bürgerliche Gebäude Zentralisierung dieser Dichtung ist die beste Verbrechen und Feuer zu bekämpfen. Moab hat die Exklusivität der Öl- und Gasproduktionskette: Bohrinseln, Raffinerien und Tankstellen.",
+        "EN": "Thanks to civic building centralization, this seal is the best in fighting crime and fire. Moab has the exclusivity of the oil-gas production chain: oil rigs, refineries and gas stations.",
+        "ES": "Gracias a la centralización edificio civil, este sello es el mejor en la lucha contra la delincuencia y el fuego. Moab tiene la exclusividad de la cadena de producción de aceite y gas: plataformas petrolíferas, refinerías y estaciones de servicio.",
+        "FR": "Merci à la centralisation de la construction civile, ce sceau est le meilleur dans la lutte contre la criminalité et le feu. Moab a l'exclusivité de la chaîne de production de gaz de pétrole: plates-formes pétrolières, les raffineries et les stations-service.",
+        "IT": "Grazie al civico costruzione accentramento, questo sigillo è il migliore nella lotta contro il crimine e il fuoco. Moab ha l'esclusività della filiera olio-gas: piattaforme petrolifere, raffinerie e stazioni di servizio.",
+        "PT": "Graças a centralização edifício cívico, este selo é o melhor no combate ao crime e fogo. Moab tem a exclusividade da cadeia de produção de petróleo e gás: plataformas petrolíferas, refinarias e postos de gasolina."
+      }
+    ],
+    "pros": {
+      "DE": "Stark in der Verbrechens- und Brandbekämpfung. Sehr effiziente Industrien. Moderate Preise.",
+      "EN": "Great crime and fire fighting. Very efficient industries. Moderate prices.",
+      "ES": "Bueno como Bomberos y Policías. Industrias muy eficientes. Precios Moderados.",
+      "FR": "Efficacité dans la lutte contre la criminalité et les incendies. Prix modérés.",
+      "IT": "Ottimo contro il crimine e gli incendi. Industrie molto efficienti. Prezzi moderati.",
+      "PT": "Bom crime e combate a incêndios. Indústrias muito eficientes. Preços moderados."
+    },
+    "cons": {
+      "DE": "Dunkle, fast beängstigende Designs. Es gibt Leute, die nicht gerne in Moab-Industrien arbeiten. In ihren Wohnhäusern sollen seltsame Morde stattfinden.",
+      "EN": "Dark and sometimes frighting designs. Some people don't like to work in Moab industries. It has been told that strange murders occur in their residential buildings.",
+      "ES": "Diseños oscuros y algunas veces atemorizantes. A algunas personas no les gusta trabajar en las Industrias Moab. Se ha dicho que los asesinatos extraños ocurren en sus residenciales.",
+      "FR": "Architectures sombres et parfois effrayantes. Certaines personnes n'aiment pas travailler dans les industries Moab. On dit que des meurtres inexpliqués ont eu lieu dans leurs immeubles résidentiels.",
+      "IT": "Architettura cupa e talvolta intimidatoria. Non tutti vogliono lavorare nelle industrie Moab. Si mormora che strani omicidi avvengono nei loro edifici residenziali.",
+      "PT": "Desenhos escuros e às vezes assustadores. Algumas pessoas não gostam de trabalhar nas indústrias de Moabe. Foi dito que estranhos assassinatos ocorreram em seus prédios residenciais."
+    },
+    "strengths": {
+      "DE": "Die besten Bergwerke und Chemikalien der Welt. Ober- und Unterschichtwohnhäuser",
+      "EN": "The best mining and chemicals in the world. High class and low class residentials",
+      "ES": "Las mejores minerías y químicos del mundo. Residenciales de Clase alta y baja",
+      "FR": "Les mines et les industries chimiques les plus performantes du monde. Immeubles résidentiels de classe supérieure et inférieure",
+      "IT": "Le migliori miniere e impianti chimici esistenti. Edifici residenziali di classe bassa e alta",
+      "PT": "A melhor mineração e produtos químicos do mundo. Residenciais de alta e baixa classe"
+    },
+    "weaknesses": {
+      "DE": "Mittelschichtwohnhäuser und Medien. Landwirtschaft und Lebensmittelherstellung sind zweifelhaft",
+      "EN": "Middle class residentials and media. Farming and food processing methods are suspicious",
+      "ES": "Residenciales de Clase Media y medios de comunicación. Los métodos en las Granjas y Procesadoras de Alimentos son sospechosos",
+      "FR": "Immeubles résidentiels de classe moyenne et médias. Les techniques utilisées dans les fermes et les industries agro-alimentaires sont suspectes",
+      "IT": "Edifici residenziali di classe media. Metodi di coltivazione e trattamento di alimentari dubbi. Media",
+      "PT": "Residenciais e mídia de classe média. Métodos de cultivo e processamento de alimentos são suspeitos"
+    },
+    "playable": true,
     "buildingIds": [
       "generic.college",
       "generic.dump",

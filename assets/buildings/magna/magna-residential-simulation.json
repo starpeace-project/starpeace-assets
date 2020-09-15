@@ -2,264 +2,264 @@
   {
     "id": "magna.cloud.city",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "PROFESSIONAL",
+    "residentType": "PROFESSIONAL",
     "capacity": 2200,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.heaven",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 2500,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.hive",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 4000,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.ivory.tower",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "PROFESSIONAL",
+    "residentType": "PROFESSIONAL",
     "capacity": 1700,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.mayflower",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "PROFESSIONAL",
+    "residentType": "PROFESSIONAL",
     "capacity": 2000,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.octopus",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 3000,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.sky.dome",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "PROFESSIONAL",
+    "residentType": "PROFESSIONAL",
     "capacity": 2800,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.solarium",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 1000,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.the.spring",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 3500,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.tulip",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 1500,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   },
   {
     "id": "magna.whirlpool",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "prestige": 100,
     "beauty": 1000,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 1500,
     "efficiency": 4.00,
-    "crime_resistence": 1.00,
-    "pollution_resistence": 1.00,
-    "construction_inputs": [
+    "crimeResistence": 1.00,
+    "pollutionResistence": 1.00,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 400,
-        "max_velocity": 4
+        "maxVelocity": 4
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1.25,
-        "max_velocity": 0.0125
+        "maxVelocity": 0.0125
       }
     ]
   }

@@ -1,10 +1,10 @@
 [
   {
     "id": "moab.construction.industry",
-    "image_path": "assets/buildings/moab/images/moab.construction.industry.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.construction.industry.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":56,"y":56},{"x":56,"y":81},{"x":237,"y":101},{"x":98,"y":42},{"x":85,"y":40}],
       [{"x":127,"y":169},{"x":252,"y":108},{"x":237,"y":101},{"x":56,"y":81},{"x":20,"y":113}],
       [{"x":94,"y":20},{"x":98,"y":42},{"x":237,"y":101},{"x":239,"y":55},{"x":175,"y":17},{"x":127,"y":0}],

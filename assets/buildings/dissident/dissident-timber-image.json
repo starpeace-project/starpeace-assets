@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.lumber.construction",
-    "image_path": "assets/buildings/dissident/images/dis.lumber.construction.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.lumber.construction.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":84,"y":85},{"x":73,"y":89},{"x":1,"y":124},{"x":0,"y":134},{"x":87,"y":92}],
       [{"x":250,"y":264},{"x":512,"y":139},{"x":512,"y":127},{"x":106,"y":84},{"x":87,"y":92},{"x":0,"y":134}],
       [{"x":261,"y":0},{"x":183,"y":36},{"x":169,"y":53},{"x":512,"y":127}],
@@ -13,10 +13,10 @@
   },
   {
     "id": "dis.lumber.1",
-    "image_path": "assets/buildings/dissident/images/dis.lumber.1.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.lumber.1.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":248,"y":264},{"x":512,"y":141},{"x":138,"y":68},{"x":87,"y":91},{"x":4,"y":141}],
       [{"x":263,"y":0},{"x":174,"y":40},{"x":172,"y":51},{"x":512,"y":141},{"x":512,"y":126}],
       [{"x":0,"y":124},{"x":4,"y":141},{"x":87,"y":91},{"x":82,"y":84}],
@@ -25,10 +25,10 @@
   },
   {
     "id": "dis.lumber.2",
-    "image_path": "assets/buildings/dissident/images/dis.lumber.2.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.lumber.2.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":248,"y":264},{"x":512,"y":141},{"x":106,"y":83},{"x":91,"y":90},{"x":4,"y":141}],
       [{"x":263,"y":0},{"x":174,"y":40},{"x":168,"y":53},{"x":512,"y":141},{"x":512,"y":126}],
       [{"x":0,"y":124},{"x":4,"y":141},{"x":91,"y":90},{"x":82,"y":84}],
@@ -37,10 +37,10 @@
   },
   {
     "id": "dis.lumber.3",
-    "image_path": "assets/buildings/dissident/images/dis.lumber.3.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.lumber.3.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":250,"y":264},{"x":512,"y":139},{"x":512,"y":128},{"x":354,"y":48},{"x":109,"y":83},{"x":87,"y":92},{"x":0,"y":134}],
       [{"x":1,"y":125},{"x":0,"y":134},{"x":87,"y":92},{"x":84,"y":84},{"x":16,"y":117}],
       [{"x":258,"y":1},{"x":200,"y":24},{"x":174,"y":41},{"x":168,"y":54},{"x":350,"y":40}],
@@ -49,10 +49,10 @@
   },
   {
     "id": "dis.lumber.4",
-    "image_path": "assets/buildings/dissident/images/dis.lumber.4.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.lumber.4.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":320,"y":34},{"x":311,"y":52},{"x":324,"y":72},{"x":329,"y":57}],
       [{"x":266,"y":14},{"x":262,"y":25},{"x":256,"y":44},{"x":274,"y":38},{"x":276,"y":19}],
       [{"x":391,"y":94},{"x":375,"y":102},{"x":387,"y":106}],
@@ -96,10 +96,10 @@
   },
   {
     "id": "dis.lumber.5",
-    "image_path": "assets/buildings/dissident/images/dis.lumber.5.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.lumber.5.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":351,"y":36},{"x":338,"y":57},{"x":350,"y":69},{"x":356,"y":53}],
       [{"x":287,"y":33},{"x":282,"y":49},{"x":297,"y":55}],
       [{"x":377,"y":87},{"x":368,"y":91},{"x":381,"y":98}],
@@ -139,10 +139,10 @@
   },
   {
     "id": "dis.lumber.6",
-    "image_path": "assets/buildings/dissident/images/dis.lumber.6.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.lumber.6.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":172,"y":15},{"x":162,"y":18},{"x":159,"y":52},{"x":172,"y":28}],
       [{"x":201,"y":11},{"x":198,"y":38},{"x":217,"y":33}],
       [{"x":86,"y":95},{"x":80,"y":97},{"x":0,"y":136},{"x":4,"y":152},{"x":87,"y":103}],
@@ -170,10 +170,10 @@
   },
   {
     "id": "dis.lumber.7",
-    "image_path": "assets/buildings/dissident/images/dis.lumber.7.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.lumber.7.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":208,"y":17},{"x":193,"y":43},{"x":210,"y":33}],
       [{"x":246,"y":0},{"x":233,"y":24},{"x":247,"y":15}],
       [{"x":248,"y":275},{"x":512,"y":152},{"x":168,"y":65},{"x":0,"y":136},{"x":2,"y":151}],

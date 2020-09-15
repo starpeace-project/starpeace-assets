@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.textile.industry",
-    "image_id": "moab.textile.industry",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "moab.textile.industry",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Kuppel der Fäden",
       "EN": "Dome of Threads",
@@ -11,11 +11,11 @@
       "IT": "Cupola di fili",
       "PT": "Domo de Roscas"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "FABRIC",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "FABRIC",
+    "requiredInventionIds": [
       "TextileLic"
     ]
   }

@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.legal.services",
-    "image_id": "pgi.legal.services",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.legal.services",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Anwaltskanzlei",
       "EN": "Law Firm",
@@ -11,11 +11,11 @@
       "IT": "Studio legale",
       "PT": "Escritório de advocacia"
     },
-    "seal_id": "PGI",
-    "zone": "SERVICE",
-    "category": "SERVICE",
-    "industry_type": "LEGAL_SERVICES",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "LEGAL_SERVICES",
+    "requiredInventionIds": [
       "LawyerFirms"
     ]
   }

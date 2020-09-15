@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.office.a",
-    "image_id": "dis.office.a",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "dis.office.a",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Rippen",
       "EN": "Ribs",
@@ -11,19 +11,19 @@
       "IT": "Costolette",
       "PT": "Costelas"
     },
-    "seal_id": "DIS",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "dis.office.b",
-    "image_id": "dis.office.b",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "dis.office.b",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Roter Ball",
       "EN": "Red Ball",
@@ -32,19 +32,19 @@
       "IT": "Palla rossa",
       "PT": "Bola vermelha"
     },
-    "seal_id": "DIS",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "dis.office.c",
-    "image_id": "dis.office.c",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "dis.office.c",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Duango",
       "EN": "Duango",
@@ -53,11 +53,11 @@
       "IT": "Duango",
       "PT": "Duango"
     },
-    "seal_id": "DIS",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}

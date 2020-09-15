@@ -2,77 +2,76 @@
   {
     "id": "moab.refinery",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 140000,
-        "max_velocity": 3111.1111111111113
+        "maxVelocity": 3111.1111111111113
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 2187.5,
-        "max_velocity": 48.611111111111114
+        "maxVelocity": 48.611111111111114
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 4375,
-        "max_velocity": 97.22222222222223
+        "maxVelocity": 97.22222222222223
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 2,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 2,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 100,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 100,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "COMPUTER_SERVICE",
-            "max_velocity": 0.3,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "COMPUTER_SERVICE",
+            "maxVelocity": 0.3,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "LEGAL_SERVICE",
-            "max_velocity": 0.15,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "LEGAL_SERVICE",
+            "maxVelocity": 0.15,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 10,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 10,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "CRUDE_OIL",
-            "max_velocity": 3000,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CRUDE_OIL",
+            "maxVelocity": 3000,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "outputs": [
           {
-            "resource": "GASOLINE",
-            "max_velocity": 3000,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "GASOLINE",
+            "maxVelocity": 3000,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }
@@ -81,69 +80,69 @@
   {
     "id": "moab.gas.station",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 1800,
-        "max_velocity": 180
+        "maxVelocity": 180
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 25,
-        "max_velocity": 2.5
+        "maxVelocity": 2.5
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 1,
-        "weight_efficiency": 20,
-        "weight_quality": 15
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 20,
+        "weightQuality": 15
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 10
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 10
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 130,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 130,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "GASOLINE",
-            "max_velocity": 100,
-            "weight_efficiency": 30,
-            "weight_quality": 50
+            "resourceId": "GASOLINE",
+            "maxVelocity": 100,
+            "weightEfficiency": 30,
+            "weightQuality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "GASOLINE",
-            "max_velocity": 140,
+            "resourceId": "GASOLINE",
+            "maxVelocity": 140,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 3.75,
                 "probability": 1
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 6.25,
                 "probability": 1
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 10,
+                "resourceId": "WORKER",
+                "maxVelocity": 10,
                 "probability": 1
               }
             ]

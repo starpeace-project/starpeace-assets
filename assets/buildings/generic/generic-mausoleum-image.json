@@ -1,20 +1,20 @@
 [
   {
     "id": "generic.mausoleum.construction",
-    "image_path": "assets/buildings/generic/images/generic.mausoleum.construction.gif",
-    "tile_width": 9,
-    "tile_height": 9,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.mausoleum.construction.gif",
+    "tileWidth": 9,
+    "tileHeight": 9,
+    "hitArea": [
       [{"x":290,"y":10},{"x":21,"y":141},{"x":19,"y":258},{"x":554,"y":254},{"x":554,"y":147}],
       [{"x":283,"y":391},{"x":557,"y":261},{"x":554,"y":254},{"x":19,"y":258}]
     ]
   },
   {
     "id": "generic.mausoleum.legend",
-    "image_path": "assets/buildings/generic/images/generic.mausoleum.legend.gif",
-    "tile_width": 9,
-    "tile_height": 9,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.mausoleum.legend.gif",
+    "tileWidth": 9,
+    "tileHeight": 9,
+    "hitArea": [
       [{"x":23,"y":166},{"x":12,"y":178},{"x":25,"y":194},{"x":33,"y":179}],
       [{"x":292,"y":11},{"x":265,"y":20},{"x":260,"y":30},{"x":268,"y":58},{"x":301,"y":55},{"x":309,"y":34}],
       [{"x":282,"y":363},{"x":559,"y":231},{"x":547,"y":221},{"x":416,"y":155},{"x":26,"y":219},{"x":17,"y":227}],
@@ -31,10 +31,10 @@
   },
   {
     "id": "generic.mausoleum.paradigm",
-    "image_path": "assets/buildings/generic/images/generic.mausoleum.paradigm.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.mausoleum.paradigm.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":151,"y":247},{"x":152,"y":258},{"x":166,"y":267},{"x":160,"y":243}],
       [{"x":19,"y":256},{"x":8,"y":283},{"x":37,"y":261}],
       [{"x":78,"y":9},{"x":81,"y":20},{"x":110,"y":41},{"x":93,"y":0}],

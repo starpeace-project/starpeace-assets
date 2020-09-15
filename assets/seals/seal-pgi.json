@@ -3,6 +3,57 @@
     "id": "PGI",
     "nameShort": "PGI",
     "nameLong": "Pure Gaba Initiative",
+    "descriptions": [
+      {
+        "DE": "Die PGI, die von den reichsten Organisationen der Erde gegründet wurde, liefert einige der besten Technologien, die heute zur Verfügung stehen.",
+        "EN": "Founded by the wealthiest organizations in Europe, PGI provides some of the best technologies available today.",
+        "ES": "Fundada por la organización más adinerada de Europa, the PGI consta con algunas de las mejores tecnologías disponibles hoy en día.",
+        "FR": "Fondé par les entreprises les plus riches d'Europe, PGI met à votre disposition les technologies actuelles les plus évoluées.",
+        "IT": "Fondato dalle più ricche organizzazioni Europee, PGI fornisce le migliori tecnologie disponibili sul mercato.",
+        "PT": "Fundada pelas organizações mais ricas da Europa, a PGI fornece algumas das melhores tecnologias disponíveis hoje."
+      },
+      {
+        "DE": "Diejenigen, die Effizienz und Qualität suchen, werden zufrieden sein. Ihre Designs sind allerdings manchmal sehr teuer.",
+        "EN": "PGI industries are efficient and showcase the best production quality available, but its facilities are very expensive. PGI is the only Seal allowed to produce Paper and Printing Materials.",
+        "ES": "Aquellos que buscan eficiencia y calida serón complacidos. Aunque sus diseños a veces son caros.",
+        "FR": "Les industries PGI sont efficaces et présentent la meilleure qualité de production disponible. Cependant, leur conception est coûteuse.",
+        "IT": "Eccellente per chi cerca efficienza e qualità. La loro architettura può però risultare molto costosa.",
+        "PT": "As indústrias PGI são eficientes e exibem a melhor qualidade de produção disponível, mas suas instalações são muito caras."
+      }
+    ],
+    "pros": {
+      "DE": "Sehr effiziente Industrie, mit der besten verfügbaren Produktionsqualität.",
+      "EN": "Very efficient industries, with the best production quality available.",
+      "ES": "Industrias muy eficientes, con las mejor producción de calidad disponible.",
+      "FR": "Industries extrêmement performantes, fournissant la meilleure qualité possible.",
+      "IT": "Industrie molto efficienti, con la migliore qualità di produzione disponibile.",
+      "PT": "Indústrias muito eficientes, com a melhor qualidade de produção disponível."
+    },
+    "cons": {
+      "DE": "Hohe Preise. Manchmal sind Industrien zu groß.",
+      "EN": "High prices. Industries are too big sometimes.",
+      "ES": "Precios elevados. Las Industrias tienden a ser grandes.",
+      "FR": "Prix élevés. Les industries sont parfois trop importantes.",
+      "IT": "Prezzi elevati. Le industrie possono essere estremamente grosse.",
+      "PT": "Altos preços. Indústrias são muito grandes às vezes."
+    },
+    "strengths": {
+      "DE": "Chemikalien, Bekleidung, Wohnhäuser, Geschäfte und andere Handelszentren",
+      "EN": "Chemicals, clothing, residential buildings, stores and other commerce centers",
+      "ES": "Químicos, ropas, residenciales, tiendas y otros centros comerciales",
+      "FR": "Industries chimiques, textiles, constructions immobilières, magasins et Centres de commerce",
+      "IT": "Chimica, vestiti, edifici residenziali, negozi e altri centri commerciali",
+      "PT": "Produtos químicos, roupas, edifícios residenciais, lojas e outros centros de comércio"
+    },
+    "weaknesses": {
+      "DE": "Keine bekannt",
+      "EN": "None known",
+      "ES": "Ninguno conocido",
+      "FR": "Aucun connu",
+      "IT": "Nessuno conosciuto",
+      "PT": "Nenhum conhecido"
+    },
+    "playable": true,
     "buildingIds": [
       "generic.college",
       "generic.dump",

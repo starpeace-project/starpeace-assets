@@ -2,240 +2,240 @@
   {
     "id": "generic.park.alien.a",
     "type": "PARK",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
     "maintainance": 200,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 10000,
-        "max_velocity": 500
+        "maxVelocity": 500
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "generic.park.alien.b",
     "type": "PARK",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
     "maintainance": 200,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 10000,
-        "max_velocity": 500
+        "maxVelocity": 500
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "generic.park.alien.c",
     "type": "PARK",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
     "maintainance": 200,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 10000,
-        "max_velocity": 500
+        "maxVelocity": 500
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "generic.park.alien.d",
     "type": "PARK",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
     "maintainance": 200,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 10000,
-        "max_velocity": 500
+        "maxVelocity": 500
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "generic.park.small",
     "type": "PARK",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
     "maintainance": 200,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 10000,
-        "max_velocity": 500
+        "maxVelocity": 500
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "generic.park.medium",
     "type": "PARK",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 400,
     "pollution": -400,
     "maintainance": 250,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 20000,
-        "max_velocity": 910
+        "maxVelocity": 910
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 10,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "generic.park.central",
     "type": "PARK",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 500,
     "pollution": -500,
     "maintainance": 600,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 1364
+        "maxVelocity": 1364
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 15,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 15,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "generic.tennis",
     "type": "PARK",
-    "max_level": 20,
+    "maxLevel": 20,
     "sport": 7000,
     "maintainance": 100,
     "prestige": 5,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 700,
-        "max_velocity": 35
+        "maxVelocity": 35
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 0.625,
-        "max_velocity": 0.03125
+        "maxVelocity": 0.03125
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 31.25,
-        "max_velocity": 1.5625
+        "maxVelocity": 1.5625
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "generic.statue",
     "type": "PARK",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 500,
     "maintainance": 2000,
     "prestige": 1000,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 10000000,
-        "max_velocity": 200000
+        "maxVelocity": 200000
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   },
   {
     "id": "generic.tower",
     "type": "PARK",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 500,
     "maintainance": 2000,
     "prestige": 1000,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 10000000,
-        "max_velocity": 200000
+        "maxVelocity": 200000
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   }

@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.hha.industry",
-    "image_id": "moab.hha.industry",
-    "construction_image_id": "generic.construction.6",
+    "imageId": "moab.hha.industry",
+    "constructionImageId": "generic.construction.6",
     "name": {
       "DE": "Gerätekuppel",
       "EN": "Appliances Dome",
@@ -11,18 +11,18 @@
       "IT": "Cupola per elettrodomestici",
       "PT": "Cúpula de Eletrodomésticos"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "APPLIANCE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "APPLIANCE",
+    "requiredInventionIds": [
       "HHALic"
     ]
   },
   {
     "id": "moab.hha.store",
-    "image_id": "moab.hha.store",
-    "construction_image_id": "generic.construction.1",
+    "imageId": "moab.hha.store",
+    "constructionImageId": "generic.construction.1",
     "name": {
       "DE": "Appliances Store",
       "EN": "Appliances Store",
@@ -31,11 +31,11 @@
       "IT": "Negozio di elettrodomestici",
       "PT": "Loja de Eletrodomésticos"
     },
-    "seal_id": "MOAB",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "APPLIANCE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "APPLIANCE",
+    "requiredInventionIds": [
       "BasicCommerce"
     ],
     "commerce": {}

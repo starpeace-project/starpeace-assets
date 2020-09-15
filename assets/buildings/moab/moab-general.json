@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.townhall",
-    "image_id": "moab.townhall",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "moab.townhall",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Rathaus",
       "EN": "Townhall",
@@ -11,17 +11,17 @@
       "IT": "Municipio",
       "PT": "Prefeitura"
     },
-    "seal_id": "MOAB",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "GOVERNMENT",
+    "sealId": "MOAB",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "GOVERNMENT",
     "restricted": true,
-    "required_inventions": []
+    "requiredInventionIds": []
   },
   {
     "id": "moab.tradecenter",
-    "image_id": "moab.tradecenter",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "moab.tradecenter",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Handelszentrum",
       "EN": "Tradecenter",
@@ -30,11 +30,11 @@
       "IT": "Tradecenter",
       "PT": "Centro comercial"
     },
-    "seal_id": "MOAB",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "GOVERNMENT",
+    "sealId": "MOAB",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "GOVERNMENT",
     "restricted": true,
-    "required_inventions": []
+    "requiredInventionIds": []
   }
 ]

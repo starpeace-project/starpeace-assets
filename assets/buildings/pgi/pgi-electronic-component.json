@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.elect.comp.industry",
-    "image_id": "pgi.elect.comp.industry",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "pgi.elect.comp.industry",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Elektronische Komponentenfabrik",
       "EN": "Electronic Component Factory",
@@ -11,18 +11,18 @@
       "IT": "Fabbrica di componenti elettronici",
       "PT": "Fábrica de Componentes Eletrônicos"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "requiredInventionIds": [
       "LSEPrd"
     ]
   },
   {
     "id": "pgi.elect.comp.industry.small",
-    "image_id": "pgi.elect.comp.industry.small",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "pgi.elect.comp.industry.small",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine elektronische Komponentenfabrik",
       "EN": "Small Electronic Component Factory",
@@ -31,11 +31,11 @@
       "IT": "Piccola fabbrica di componenti elettronici",
       "PT": "Fábrica de Pequenos Componentes Eletrônicos"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "requiredInventionIds": [
       "ElecLic"
     ]
   }

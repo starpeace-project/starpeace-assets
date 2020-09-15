@@ -1,8 +1,8 @@
 [
   {
     "id": "generic.mausoleum.legend",
-    "image_id": "generic.mausoleum.legend",
-    "construction_image_id": "generic.mausoleum.construction",
+    "imageId": "generic.mausoleum.legend",
+    "constructionImageId": "generic.mausoleum.construction",
     "name": {
       "DE": "Legende Mausoleum",
       "EN": "Legend Mausoleum",
@@ -11,17 +11,17 @@
       "IT": "Mausoleo della leggenda",
       "PT": "Mausoléu lendário"
     },
-    "seal_id": "GEN",
-    "zone": "MAUSOLEUM",
-    "category": "SERVICE",
-    "industry_type": "MAUSOLEUM",
-    "required_inventions": [],
+    "sealId": "GEN",
+    "zoneId": "MAUSOLEUM",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "MAUSOLEUM",
+    "requiredInventionIds": [],
     "mausoleum": {}
   },
   {
     "id": "generic.mausoleum.paradigm",
-    "image_id": "generic.mausoleum.paradigm",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "generic.mausoleum.paradigm",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Paradigma Mausoleum",
       "EN": "Paradigm Mausoleum",
@@ -30,11 +30,11 @@
       "IT": "Mausoleo del Paradigma",
       "PT": "Paradigma Mausoléu"
     },
-    "seal_id": "GEN",
-    "zone": "MAUSOLEUM",
-    "category": "SERVICE",
-    "industry_type": "MAUSOLEUM",
-    "required_inventions": [],
+    "sealId": "GEN",
+    "zoneId": "MAUSOLEUM",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "MAUSOLEUM",
+    "requiredInventionIds": [],
     "mausoleum": {}
   }
 ]

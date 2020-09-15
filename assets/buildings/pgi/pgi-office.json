@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.office.a",
-    "image_id": "pgi.office.a",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.office.a",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Stachel",
       "EN": "Sting",
@@ -11,19 +11,19 @@
       "IT": "Puntura",
       "PT": "Picada"
     },
-    "seal_id": "PGI",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "pgi.office.b",
-    "image_id": "pgi.office.b",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.office.b",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Davis Bow",
       "EN": "Davis Bow",
@@ -32,19 +32,19 @@
       "IT": "Davis Bow",
       "PT": "Davis Bow"
     },
-    "seal_id": "PGI",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "pgi.office.c",
-    "image_id": "pgi.office.c",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.office.c",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Mc Neon Tower",
       "EN": "Mc Neon Tower",
@@ -53,19 +53,19 @@
       "IT": "Mc Neon Tower",
       "PT": "Mc Neon Tower"
     },
-    "seal_id": "PGI",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "pgi.office.d",
-    "image_id": "pgi.office.d",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.office.d",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Der Turm",
       "EN": "The Spire",
@@ -74,11 +74,11 @@
       "IT": "The Spire",
       "PT": "O Pináculo"
     },
-    "seal_id": "PGI",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}

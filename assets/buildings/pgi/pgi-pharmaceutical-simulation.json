@@ -2,83 +2,82 @@
   {
     "id": "pgi.pharma.industry",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 100000,
-        "max_velocity": 2000
+        "maxVelocity": 2000
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1000,
-        "max_velocity": 20
+        "maxVelocity": 20
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 2500,
-        "max_velocity": 50
+        "maxVelocity": 50
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "EXECUTIVE",
-            "max_velocity": 3,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 50,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 50,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 100,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 100,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "COMPUTER_SERVICE",
-            "max_velocity": 1,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "COMPUTER_SERVICE",
+            "maxVelocity": 1,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "LEGAL_SERVICE",
-            "max_velocity": 0.75,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "LEGAL_SERVICE",
+            "maxVelocity": 0.75,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 50,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 50,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "PLASTIC",
-            "max_velocity": 50,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PLASTIC",
+            "maxVelocity": 50,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "outputs": [
           {
-            "resource": "PHARMACEUTICAL",
-            "max_velocity": 100,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PHARMACEUTICAL",
+            "maxVelocity": 100,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }
@@ -87,69 +86,69 @@
   {
     "id": "pgi.drug.store",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 630,
-        "max_velocity": 18
+        "maxVelocity": 18
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 8.75,
-        "max_velocity": 0.25
+        "maxVelocity": 0.25
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 3,
-        "weight_efficiency": 20,
-        "weight_quality": 5
+        "resourceId": "WORKER",
+        "maxVelocity": 3,
+        "weightEfficiency": 20,
+        "weightQuality": 5
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 140,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 140,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "PHARMACEUTICAL",
-            "max_velocity": 10,
-            "weight_efficiency": 20,
-            "weight_quality": 100
+            "resourceId": "PHARMACEUTICAL",
+            "maxVelocity": 10,
+            "weightEfficiency": 20,
+            "weightQuality": 100
           }
         ],
         "outputs": [
           {
-            "resource": "PHARMACEUTICAL",
-            "max_velocity": 10,
+            "resourceId": "PHARMACEUTICAL",
+            "maxVelocity": 10,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 3.75,
                 "probability": 0.8
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 6.25,
                 "probability": 0.9
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 10,
+                "resourceId": "WORKER",
+                "maxVelocity": 10,
                 "probability": 1
               }
             ]

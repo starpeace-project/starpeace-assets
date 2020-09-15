@@ -1,8 +1,8 @@
 [
   {
     "id": "generic.warehouse.chemical",
-    "image_id": "generic.warehouse.chemical",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "generic.warehouse.chemical",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Chemielager",
       "EN": "Chemical Storage",
@@ -11,16 +11,16 @@
       "IT": "Stoccaggio chimico",
       "PT": "Armazenamento de produtos químicos"
     },
-    "seal_id": "GEN",
-    "zone": "WAREHOUSE",
-    "category": "LOGISTICS",
-    "industry_type": "WAREHOUSE",
-    "required_inventions": []
+    "sealId": "GEN",
+    "zoneId": "WAREHOUSE",
+    "industryCategoryId": "LOGISTICS",
+    "industryTypeId": "WAREHOUSE",
+    "requiredInventionIds": []
   },
   {
     "id": "generic.warehouse.cold",
-    "image_id": "generic.warehouse.cold",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "generic.warehouse.cold",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kühlhaus",
       "EN": "Cold Storage",
@@ -29,16 +29,16 @@
       "IT": "Celle frigorifere",
       "PT": "Armazém frio"
     },
-    "seal_id": "GEN",
-    "zone": "WAREHOUSE",
-    "category": "LOGISTICS",
-    "industry_type": "WAREHOUSE",
-    "required_inventions": []
+    "sealId": "GEN",
+    "zoneId": "WAREHOUSE",
+    "industryCategoryId": "LOGISTICS",
+    "industryTypeId": "WAREHOUSE",
+    "requiredInventionIds": []
   },
   {
     "id": "generic.warehouse.cold.super",
-    "image_id": "generic.warehouse.cold.super",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "generic.warehouse.cold.super",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Super Cold Storage",
       "EN": "Super Cold Storage",
@@ -47,16 +47,16 @@
       "IT": "Super Cold Storage",
       "PT": "Super armazenamento a frio"
     },
-    "seal_id": "GEN",
-    "zone": "WAREHOUSE",
-    "category": "LOGISTICS",
-    "industry_type": "WAREHOUSE",
-    "required_inventions": []
+    "sealId": "GEN",
+    "zoneId": "WAREHOUSE",
+    "industryCategoryId": "LOGISTICS",
+    "industryTypeId": "WAREHOUSE",
+    "requiredInventionIds": []
   },
   {
     "id": "generic.warehouse.export",
-    "image_id": "generic.warehouse.export",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "generic.warehouse.export",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Speicher Exportieren",
       "EN": "Export Storage",
@@ -65,16 +65,16 @@
       "IT": "Esporta spazio di archiviazione",
       "PT": "Armazenamento de Exportação"
     },
-    "seal_id": "GEN",
-    "zone": "WAREHOUSE",
-    "category": "LOGISTICS",
-    "industry_type": "WAREHOUSE",
-    "required_inventions": []
+    "sealId": "GEN",
+    "zoneId": "WAREHOUSE",
+    "industryCategoryId": "LOGISTICS",
+    "industryTypeId": "WAREHOUSE",
+    "requiredInventionIds": []
   },
   {
     "id": "generic.warehouse.fabric",
-    "image_id": "generic.warehouse.fabric",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "generic.warehouse.fabric",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Aufbewahrung von Stoffen",
       "EN": "Fabrics Storage",
@@ -83,16 +83,16 @@
       "IT": "Stoccaggio di tessuti",
       "PT": "Armazenamento de Tecidos"
     },
-    "seal_id": "GEN",
-    "zone": "WAREHOUSE",
-    "category": "LOGISTICS",
-    "industry_type": "WAREHOUSE",
-    "required_inventions": []
+    "sealId": "GEN",
+    "zoneId": "WAREHOUSE",
+    "industryCategoryId": "LOGISTICS",
+    "industryTypeId": "WAREHOUSE",
+    "requiredInventionIds": []
   },
   {
     "id": "generic.warehouse.import",
-    "image_id": "generic.warehouse.import",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "generic.warehouse.import",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Speicher importieren",
       "EN": "Import Storage",
@@ -101,16 +101,16 @@
       "IT": "Importa memoria",
       "PT": "Importar Armazenamento"
     },
-    "seal_id": "GEN",
-    "zone": "WAREHOUSE",
-    "category": "LOGISTICS",
-    "industry_type": "WAREHOUSE",
-    "required_inventions": []
+    "sealId": "GEN",
+    "zoneId": "WAREHOUSE",
+    "industryCategoryId": "LOGISTICS",
+    "industryTypeId": "WAREHOUSE",
+    "requiredInventionIds": []
   },
   {
     "id": "generic.warehouse.ore",
-    "image_id": "generic.warehouse.ore",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "generic.warehouse.ore",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Erzlagerung",
       "EN": "Ore Storage",
@@ -119,16 +119,16 @@
       "IT": "Deposito minerale",
       "PT": "Armazenamento De Minério"
     },
-    "seal_id": "GEN",
-    "zone": "WAREHOUSE",
-    "category": "LOGISTICS",
-    "industry_type": "WAREHOUSE",
-    "required_inventions": []
+    "sealId": "GEN",
+    "zoneId": "WAREHOUSE",
+    "industryCategoryId": "LOGISTICS",
+    "industryTypeId": "WAREHOUSE",
+    "requiredInventionIds": []
   },
   {
     "id": "generic.warehouse.univeral",
-    "image_id": "generic.warehouse.univeral",
-    "construction_image_id": "generic.construction.6",
+    "imageId": "generic.warehouse.univeral",
+    "constructionImageId": "generic.construction.6",
     "name": {
       "DE": "Allgemeine Lagerung",
       "EN": "General Storage",
@@ -137,10 +137,10 @@
       "IT": "Archiviazione generale",
       "PT": "Armazenamento Geral"
     },
-    "seal_id": "GEN",
-    "zone": "WAREHOUSE",
-    "category": "LOGISTICS",
-    "industry_type": "WAREHOUSE",
-    "required_inventions": []
+    "sealId": "GEN",
+    "zoneId": "WAREHOUSE",
+    "industryCategoryId": "LOGISTICS",
+    "industryTypeId": "WAREHOUSE",
+    "requiredInventionIds": []
   }
 ]

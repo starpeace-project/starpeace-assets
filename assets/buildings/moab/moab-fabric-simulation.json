@@ -2,77 +2,76 @@
   {
     "id": "moab.textile.industry",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 56700,
-        "max_velocity": 1417.5
+        "maxVelocity": 1417.5
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 630,
-        "max_velocity": 15.75
+        "maxVelocity": 15.75
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 2362.5,
-        "max_velocity": 59.0625
+        "maxVelocity": 59.0625
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 2,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 2,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 98,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 98,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "COMPUTER_SERVICE",
-            "max_velocity": 0.12,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "COMPUTER_SERVICE",
+            "maxVelocity": 0.12,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "LEGAL_SERVICE",
-            "max_velocity": 0.1,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "LEGAL_SERVICE",
+            "maxVelocity": 0.1,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [
           {
-            "resource": "ORGANIC_MATERIAL",
-            "max_velocity": 22,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ORGANIC_MATERIAL",
+            "maxVelocity": 22,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 8,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 8,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "outputs": [
           {
-            "resource": "FABRIC",
-            "max_velocity": 75,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "FABRIC",
+            "maxVelocity": 75,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }

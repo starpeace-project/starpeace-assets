@@ -1,10 +1,10 @@
 [
   {
     "id": "pgi.food.store",
-    "image_path": "assets/buildings/pgi/images/pgi.food.store.gif",
-    "tile_width": 1,
-    "tile_height": 1,
-    "hit_area": [
+    "imagePath": "assets/buildings/pgi/images/pgi.food.store.gif",
+    "tileWidth": 1,
+    "tileHeight": 1,
+    "hitArea": [
       [{"x":53,"y":29},{"x":37,"y":3},{"x":31,"y":3},{"x":11,"y":21},{"x":22,"y":35}]
     ]
   }

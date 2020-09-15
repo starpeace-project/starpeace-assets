@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.gas.station",
-    "image_id": "moab.gas.station",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "moab.gas.station",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Tankstelle",
       "EN": "Gas Station",
@@ -11,19 +11,19 @@
       "IT": "Stazione di servizio",
       "PT": "Posto de gasolina"
     },
-    "seal_id": "MOAB",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "GASOLINE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "GASOLINE",
+    "requiredInventionIds": [
       "BasicCommerce"
     ],
     "commerce": {}
   },
   {
     "id": "moab.refinery",
-    "image_id": "moab.refinery",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "moab.refinery",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Raffineriekuppel",
       "EN": "Refinery Dome",
@@ -32,11 +32,11 @@
       "IT": "Refinery Dome",
       "PT": "Abóbada da refinaria"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "GASOLINE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "GASOLINE",
+    "requiredInventionIds": [
       "Refinery"
     ]
   }

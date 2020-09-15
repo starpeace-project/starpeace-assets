@@ -2,77 +2,76 @@
   {
     "id": "moab.metal.industry",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 168000,
-        "max_velocity": 3733.3333333333335
+        "maxVelocity": 3733.3333333333335
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 2625,
-        "max_velocity": 58.333333333333336
+        "maxVelocity": 58.333333333333336
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 7875,
-        "max_velocity": 175
+        "maxVelocity": 175
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 2,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 2,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 135,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 135,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "COMPUTER_SERVICE",
-            "max_velocity": 0.3,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "COMPUTER_SERVICE",
+            "maxVelocity": 0.3,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "LEGAL_SERVICE",
-            "max_velocity": 0.15,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "LEGAL_SERVICE",
+            "maxVelocity": 0.15,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [
           {
-            "resource": "ORE",
-            "max_velocity": 360,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ORE",
+            "maxVelocity": 360,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 27,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 27,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "outputs": [
           {
-            "resource": "METAL",
-            "max_velocity": 180,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "METAL",
+            "maxVelocity": 180,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }

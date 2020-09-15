@@ -1,10 +1,10 @@
 [
   {
     "id": "mko.townhall",
-    "image_path": "assets/buildings/mariko/images/mko.townhall.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.townhall.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":124,"y":17},{"x":142,"y":24},{"x":152,"y":19},{"x":155,"y":7},{"x":137,"y":6}],
       [{"x":58,"y":59},{"x":74,"y":57},{"x":82,"y":53},{"x":80,"y":38},{"x":64,"y":41}],
       [{"x":233,"y":12},{"x":220,"y":5},{"x":192,"y":0},{"x":152,"y":19},{"x":226,"y":26}],
@@ -16,10 +16,10 @@
   },
   {
     "id": "mko.tradecenter",
-    "image_path": "assets/buildings/mariko/images/mko.tradecenter.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.tradecenter.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":186,"y":48},{"x":130,"y":20},{"x":34,"y":31},{"x":0,"y":49},{"x":80,"y":90},{"x":106,"y":90}],
       [{"x":76,"y":1},{"x":35,"y":20},{"x":34,"y":31},{"x":130,"y":20},{"x":117,"y":5}]
     ]

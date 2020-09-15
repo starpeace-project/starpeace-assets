@@ -2,69 +2,69 @@
   {
     "id": "dis.book.store",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 18000,
-        "max_velocity": 900
+        "maxVelocity": 900
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 250,
-        "max_velocity": 12.5
+        "maxVelocity": 12.5
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 2,
-        "weight_efficiency": 20,
-        "weight_quality": 10
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 2,
+        "weightEfficiency": 20,
+        "weightQuality": 10
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 15
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 15
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 8.2142857142857142857142857142857,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 8.2142857142857142857142857142857,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "BOOK",
-            "max_velocity": 15,
-            "weight_efficiency": 30,
-            "weight_quality": 50
+            "resourceId": "BOOK",
+            "maxVelocity": 15,
+            "weightEfficiency": 30,
+            "weightQuality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "BOOK",
-            "max_velocity": 15,
+            "resourceId": "BOOK",
+            "maxVelocity": 15,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 3.75,
                 "probability": 0.7
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 6.25,
                 "probability": 0.95
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 10,
+                "resourceId": "WORKER",
+                "maxVelocity": 10,
                 "probability": 0.5
               }
             ]

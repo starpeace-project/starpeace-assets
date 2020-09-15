@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.police",
-    "image_id": "pgi.police",
-    "construction_image_id": "generic.construction.1",
+    "imageId": "pgi.police",
+    "constructionImageId": "generic.construction.1",
     "name": {
       "DE": "Polizeistation",
       "EN": "Police Station",
@@ -11,11 +11,11 @@
       "IT": "Stazione di polizia",
       "PT": "Delegacia de polícia"
     },
-    "seal_id": "PGI",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "POLICE",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "POLICE",
+    "requiredInventionIds": [
       "CivicFac"
     ]
   }

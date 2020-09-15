@@ -2,43 +2,43 @@
   {
     "id": "pgi.fire",
     "type": "SERVICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "maintainance": 500,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 18000,
-        "max_velocity": 900
+        "maxVelocity": 900
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 12.5,
-        "max_velocity": 0.625
+        "maxVelocity": 0.625
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 125,
-        "max_velocity": 6.25
+        "maxVelocity": 6.25
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 1,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 25,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 25,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ],
     "service": [
       {
-        "resource": "FIRE_SERVICE",
-        "max_velocity": 10000
+        "resourceId": "FIRE_SERVICE",
+        "maxVelocity": 10000
       }
     ]
   }

@@ -1,10 +1,10 @@
 [
   {
     "id": "magna.construction",
-    "image_path": "assets/buildings/magna/images/magna.construction.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/magna/images/magna.construction.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":96,"y":318},{"x":190,"y":272},{"x":176,"y":264},{"x":11,"y":264},{"x":2,"y":269}],
       [{"x":95,"y":1},{"x":13,"y":42},{"x":11,"y":264},{"x":176,"y":264},{"x":176,"y":40}]
     ]

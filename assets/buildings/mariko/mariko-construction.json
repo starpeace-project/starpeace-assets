@@ -1,8 +1,8 @@
 [
   {
     "id": "mko.construction.industry",
-    "image_id": "mko.construction.industry",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "mko.construction.industry",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Bauarbeitsplatz",
       "EN": "Construction Workyard",
@@ -11,11 +11,11 @@
       "IT": "Cantiere di costruzione",
       "PT": "Estaleiro de construção"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "CONSTRUCTION",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "CONSTRUCTION",
+    "requiredInventionIds": [
       "ConstInd"
     ]
   }

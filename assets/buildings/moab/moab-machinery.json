@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.heavy.industry",
-    "image_id": "moab.heavy.industry",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "moab.heavy.industry",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Maschinenhaube",
       "EN": "Machinery Dome",
@@ -11,11 +11,11 @@
       "IT": "Cupola del macchinario",
       "PT": "Cúpula de Máquinas"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "MACHINERY",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "MACHINERY",
+    "requiredInventionIds": [
       "MachInd"
     ]
   }

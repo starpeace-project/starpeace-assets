@@ -21,7 +21,7 @@ exports = module.exports = class AuditUtils
       console.log " [OK] found #{items.length} unique #{type_name} (expected #{expected_count})"
 
   @audit_is_valid: (type_name, items) ->
-    grouped_items = _.groupBy(items, (item) -> item.is_valid())
+    grouped_items = _.groupBy(items, (item) -> item.isValid())
     valid_items = grouped_items[true] || []
     invalid_items = grouped_items[false] || []
     if valid_items.length < items.length || invalid_items.length > 0

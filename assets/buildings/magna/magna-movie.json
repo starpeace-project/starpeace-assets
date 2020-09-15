@@ -1,8 +1,8 @@
 [
   {
     "id": "magna.movie.studios",
-    "image_id": "magna.movie.studios",
-    "construction_image_id": "magna.movie.studios.construction",
+    "imageId": "magna.movie.studios",
+    "constructionImageId": "magna.movie.studios.construction",
     "name": {
       "DE": "Filmstudios",
       "EN": "Movie Studios",
@@ -11,11 +11,11 @@
       "IT": "Studi cinematografici",
       "PT": "Estúdios de cinema"
     },
-    "seal_id": "MAGNA",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "MOVIE",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "MOVIE",
+    "requiredInventionIds": [
       "MovieStudios"
     ]
   }

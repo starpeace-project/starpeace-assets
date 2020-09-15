@@ -1,10 +1,10 @@
 [
   {
     "id": "moab.market",
-    "image_path": "assets/buildings/moab/images/moab.market.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.market.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":128,"y":17},{"x":119,"y":26},{"x":151,"y":41},{"x":140,"y":29}],
       [{"x":94,"y":125},{"x":188,"y":78},{"x":165,"y":64},{"x":20,"y":68},{"x":0,"y":78}],
       [{"x":146,"y":25},{"x":140,"y":29},{"x":151,"y":41}],

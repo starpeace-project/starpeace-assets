@@ -1,8 +1,8 @@
 [
   {
     "id": "mko.clothes.industry",
-    "image_id": "mko.clothes.industry",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "mko.clothes.industry",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Bekleidungsfabrik",
       "EN": "Clothing Factory",
@@ -11,18 +11,18 @@
       "IT": "Fabbrica di abbigliamento",
       "PT": "Fábrica de Roupas"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "CLOTHES",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "CLOTHES",
+    "requiredInventionIds": [
       "LSCManuf"
     ]
   },
   {
     "id": "mko.clothes.industry.small",
-    "image_id": "mko.clothes.industry.small",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "mko.clothes.industry.small",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kleine Bekleidungsfabrik",
       "EN": "Small Clothing Factory",
@@ -31,18 +31,18 @@
       "IT": "Piccola fabbrica di abbigliamento",
       "PT": "Fábrica de Roupas Pequenas"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "CLOTHES",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "CLOTHES",
+    "requiredInventionIds": [
       "ClothesLic"
     ]
   },
   {
     "id": "mko.clothes.store",
-    "image_id": "mko.clothes.store",
-    "construction_image_id": "generic.construction.1",
+    "imageId": "mko.clothes.store",
+    "constructionImageId": "generic.construction.1",
     "name": {
       "DE": "Bekleidungsgeschäft",
       "EN": "Clothes Store",
@@ -51,11 +51,11 @@
       "IT": "Negozio di abbigliamento",
       "PT": "Loja de roupas"
     },
-    "seal_id": "MKO",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "CLOTHES",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "CLOTHES",
+    "requiredInventionIds": [
       "BasicCommerce"
     ],
     "commerce": {}

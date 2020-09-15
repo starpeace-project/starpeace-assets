@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.toy.industry",
-    "image_path": "assets/buildings/dissident/images/dis.toy.industry.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.toy.industry.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":114,"y":6},{"x":87,"y":26},{"x":74,"y":56},{"x":87,"y":74},{"x":103,"y":72},{"x":114,"y":67},{"x":120,"y":47},{"x":120,"y":25}],
       [{"x":43,"y":79},{"x":41,"y":94},{"x":61,"y":109},{"x":63,"y":103},{"x":56,"y":76}],
       [{"x":71,"y":27},{"x":74,"y":56},{"x":87,"y":26}],
@@ -20,10 +20,10 @@
   },
   {
     "id": "dis.toy.store",
-    "image_path": "assets/buildings/dissident/images/dis.toy.store.gif",
-    "tile_width": 1,
-    "tile_height": 1,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.toy.store.gif",
+    "tileWidth": 1,
+    "tileHeight": 1,
+    "hitArea": [
       [{"x":61,"y":49},{"x":38,"y":27},{"x":30,"y":31},{"x":27,"y":57},{"x":35,"y":57}],
       [{"x":42,"y":0},{"x":27,"y":6},{"x":30,"y":31},{"x":38,"y":27}],
       [{"x":13,"y":54},{"x":27,"y":57},{"x":30,"y":31},{"x":12,"y":38}]

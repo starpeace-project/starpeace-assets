@@ -2,90 +2,90 @@
   {
     "id": "dis.office.a",
     "type": "OFFICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 75,
     "efficiency": 0.6,
     "capacity": 30,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 7500,
-        "max_velocity": 250
+        "maxVelocity": 250
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 312.5,
-        "max_velocity": 10.41666667
+        "maxVelocity": 10.41666667
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 10
+        "resourceId": "WORKER",
+        "maxVelocity": 10
       }
     ]
   },
   {
     "id": "dis.office.b",
     "type": "OFFICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 80,
     "efficiency": 0.65,
     "capacity": 20,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 7500,
-        "max_velocity": 250
+        "maxVelocity": 250
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 312.5,
-        "max_velocity": 10.41666667
+        "maxVelocity": 10.41666667
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 10
+        "resourceId": "WORKER",
+        "maxVelocity": 10
       }
     ]
   },
   {
     "id": "dis.office.c",
     "type": "OFFICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 80,
     "efficiency": 0.6,
     "capacity": 50,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 15000,
-        "max_velocity": 500
+        "maxVelocity": 500
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 625,
-        "max_velocity": 20.83333333
+        "maxVelocity": 20.83333333
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 15
+        "resourceId": "WORKER",
+        "maxVelocity": 15
       }
     ]
   }

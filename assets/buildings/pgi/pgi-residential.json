@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.hi.res.a",
-    "image_id": "pgi.hi.res.a",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "pgi.hi.res.a",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Xanadu-Palast",
       "EN": "Xanadu Palace",
@@ -11,19 +11,19 @@
       "IT": "Palazzo Xanadu",
       "PT": "Palácio Xanadu"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.hi.res.b",
-    "image_id": "pgi.hi.res.b",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.hi.res.b",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Atrium",
       "EN": "Atrium",
@@ -32,19 +32,19 @@
       "IT": "Atrio",
       "PT": "Átrio"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.hi.res.c",
-    "image_id": "pgi.hi.res.c",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.hi.res.c",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Der Willington",
       "EN": "The Willington",
@@ -53,19 +53,19 @@
       "IT": "The Willington",
       "PT": "The Willington"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.hi.res.d",
-    "image_id": "pgi.hi.res.d",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.hi.res.d",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Goldene Mütze",
       "EN": "Golden Cap",
@@ -74,19 +74,19 @@
       "IT": "Golden Cap",
       "PT": "Boné de ouro"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.hi.res.e",
-    "image_id": "pgi.hi.res.e",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.hi.res.e",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Kent Square",
       "EN": "Kent Square",
@@ -95,19 +95,19 @@
       "IT": "Kent Square",
       "PT": "Kent Square"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.hi.res.f",
-    "image_id": "pgi.hi.res.f",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.hi.res.f",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Lisgar Towers",
       "EN": "Lisgar Towers",
@@ -116,19 +116,19 @@
       "IT": "Torri di Lisgar",
       "PT": "Torres de Lisgar"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.hi.res.g",
-    "image_id": "pgi.hi.res.g",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.hi.res.g",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Weiße Hütte",
       "EN": "White Hut",
@@ -137,19 +137,19 @@
       "IT": "Capanna bianca",
       "PT": "Cabana branca"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.hi.res.h",
-    "image_id": "pgi.hi.res.h",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.hi.res.h",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Lyon Zimmer",
       "EN": "Lyon Rooms",
@@ -158,19 +158,19 @@
       "IT": "Camere di Lione",
       "PT": "Quartos em Lyon"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.hi.res.i",
-    "image_id": "pgi.hi.res.i",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.hi.res.i",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Blaue Villa",
       "EN": "Blue Mansion",
@@ -179,19 +179,19 @@
       "IT": "Blue Mansion",
       "PT": "Mansão azul"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.hi.res.j",
-    "image_id": "pgi.hi.res.j",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.hi.res.j",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Rosa Villa",
       "EN": "Pink Mansion",
@@ -200,19 +200,19 @@
       "IT": "Mansion rosa",
       "PT": "Mansão Rosa"
     },
-    "seal_id": "PGI",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.lo.res.a",
-    "image_id": "pgi.lo.res.a",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.lo.res.a",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Spieltürme",
       "EN": "Playfair Towers",
@@ -221,19 +221,19 @@
       "IT": "Playfair Towers",
       "PT": "Torres Playfair"
     },
-    "seal_id": "PGI",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.lo.res.b",
-    "image_id": "pgi.lo.res.b",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "pgi.lo.res.b",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Arlington Zimmer",
       "EN": "Arlington Rooms",
@@ -242,19 +242,19 @@
       "IT": "Arlington Rooms",
       "PT": "Arlington Quartos"
     },
-    "seal_id": "PGI",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.lo.res.c",
-    "image_id": "pgi.lo.res.c",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.lo.res.c",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Caesars Atrium",
       "EN": "Caesar's Atrium",
@@ -263,19 +263,19 @@
       "IT": "Atrio di Cesare",
       "PT": "Átrio de César"
     },
-    "seal_id": "PGI",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.lo.res.d",
-    "image_id": "pgi.lo.res.d",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.lo.res.d",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Sizilien",
       "EN": "The Sicily",
@@ -284,19 +284,19 @@
       "IT": "La Sicilia",
       "PT": "A Sicília"
     },
-    "seal_id": "PGI",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.lo.res.e",
-    "image_id": "pgi.lo.res.e",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.lo.res.e",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Mountbatten Rooms",
       "EN": "Mountbatten Rooms",
@@ -305,19 +305,19 @@
       "IT": "Mountbatten Rooms",
       "PT": "Quartos em Mountbatten"
     },
-    "seal_id": "PGI",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.lo.res.f",
-    "image_id": "pgi.lo.res.f",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.lo.res.f",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Der Botschafter",
       "EN": "The Ambassador",
@@ -326,19 +326,19 @@
       "IT": "L'Ambasciatore",
       "PT": "O embaixador"
     },
-    "seal_id": "PGI",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.mi.res.a",
-    "image_id": "pgi.mi.res.a",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.mi.res.a",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Gladston Apts.",
       "EN": "Gladston Apts.",
@@ -347,19 +347,19 @@
       "IT": "Gladston Apts.",
       "PT": "Gladston Apts."
     },
-    "seal_id": "PGI",
-    "zone": "MC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "MC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "MC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.mi.res.b",
-    "image_id": "pgi.mi.res.b",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.mi.res.b",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Quincy",
       "EN": "Quincy",
@@ -368,19 +368,19 @@
       "IT": "Quincy",
       "PT": "Quincy"
     },
-    "seal_id": "PGI",
-    "zone": "MC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "MC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "MC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.mi.res.c",
-    "image_id": "pgi.mi.res.c",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.mi.res.c",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Metcalfe-Türme",
       "EN": "Metcalfe Towers",
@@ -389,19 +389,19 @@
       "IT": "Metcalfe Towers",
       "PT": "Torres Metcalfe"
     },
-    "seal_id": "PGI",
-    "zone": "MC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "MC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "MC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.mi.res.d",
-    "image_id": "pgi.mi.res.d",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.mi.res.d",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Delmar Apts.",
       "EN": "Delmar Apts.",
@@ -410,19 +410,19 @@
       "IT": "Delmar Apts.",
       "PT": "Delmar Apts."
     },
-    "seal_id": "PGI",
-    "zone": "MC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "MC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "MC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}
   },
   {
     "id": "pgi.mi.res.e",
-    "image_id": "pgi.mi.res.e",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.mi.res.e",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Sunset Apts.",
       "EN": "Sunset Apts.",
@@ -431,11 +431,11 @@
       "IT": "Sunset Apts.",
       "PT": "Apts do por do sol."
     },
-    "seal_id": "PGI",
-    "zone": "MC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "MC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "MC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ],
     "residential": {}

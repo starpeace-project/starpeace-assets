@@ -2,89 +2,88 @@
   {
     "id": "pgi.const.industry",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 330750,
-        "max_velocity": 8268.75
+        "maxVelocity": 8268.75
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 3675,
-        "max_velocity": 91.875
+        "maxVelocity": 91.875
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 13781.25,
-        "max_velocity": 344.53125
+        "maxVelocity": 344.53125
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 6,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 237,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 237,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "COMPUTER_SERVICE",
-            "max_velocity": 1,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "COMPUTER_SERVICE",
+            "maxVelocity": 1,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "LEGAL_SERVICE",
-            "max_velocity": 0.25,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "LEGAL_SERVICE",
+            "maxVelocity": 0.25,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [
           {
-            "resource": "ORE",
-            "max_velocity": 300,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ORE",
+            "maxVelocity": 300,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "METAL",
-            "max_velocity": 62,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "METAL",
+            "maxVelocity": 62,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 62,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 62,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "TIMBER",
-            "max_velocity": 200,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "TIMBER",
+            "maxVelocity": 200,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "outputs": [
           {
-            "resource": "CONSTRUCTION",
-            "max_velocity": 50,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CONSTRUCTION",
+            "maxVelocity": 50,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }

@@ -1,10 +1,10 @@
 [
   {
     "id": "pgi.bm.industry",
-    "image_path": "assets/buildings/pgi/images/pgi.bm.industry.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/pgi/images/pgi.bm.industry.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":21,"y":78},{"x":87,"y":118},{"x":121,"y":128},{"x":205,"y":96},{"x":77,"y":49},{"x":42,"y":60}],
       [{"x":196,"y":25},{"x":147,"y":4},{"x":135,"y":4},{"x":205,"y":96},{"x":200,"y":50}],
       [{"x":90,"y":23},{"x":77,"y":49},{"x":205,"y":96},{"x":135,"y":4}],

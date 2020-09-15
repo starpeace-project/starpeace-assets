@@ -2,180 +2,180 @@
   {
     "id": "mko.office.a",
     "type": "OFFICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 70,
     "efficiency": 0.75,
     "capacity": 40,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 45000,
-        "max_velocity": 1500
+        "maxVelocity": 1500
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 1875,
-        "max_velocity": 62.5
+        "maxVelocity": 62.5
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 10
+        "resourceId": "WORKER",
+        "maxVelocity": 10
       }
     ]
   },
   {
     "id": "mko.office.b",
     "type": "OFFICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 80,
     "efficiency": 0.9,
     "capacity": 70,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 75000,
-        "max_velocity": 2500
+        "maxVelocity": 2500
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 3125,
-        "max_velocity": 104.1666667
+        "maxVelocity": 104.1666667
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 15
+        "resourceId": "WORKER",
+        "maxVelocity": 15
       }
     ]
   },
   {
     "id": "mko.office.c",
     "type": "OFFICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 45,
     "efficiency": 0.6,
     "capacity": 150,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 225000,
-        "max_velocity": 7500
+        "maxVelocity": 7500
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 9375,
-        "max_velocity": 312.5
+        "maxVelocity": 312.5
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 20
+        "resourceId": "WORKER",
+        "maxVelocity": 20
       }
     ]
   },
   {
     "id": "mko.office.d",
     "type": "OFFICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 45,
     "efficiency": 0.5,
     "capacity": 120,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 150000,
-        "max_velocity": 5000
+        "maxVelocity": 5000
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 6250,
-        "max_velocity": 208.3333333
+        "maxVelocity": 208.3333333
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 15
+        "resourceId": "WORKER",
+        "maxVelocity": 15
       }
     ]
   },
   {
     "id": "mko.office.e",
     "type": "OFFICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 70,
     "efficiency": 0.75,
     "capacity": 80,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 75000,
-        "max_velocity": 2500
+        "maxVelocity": 2500
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 3125,
-        "max_velocity": 104.1666667
+        "maxVelocity": 104.1666667
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 10
+        "resourceId": "WORKER",
+        "maxVelocity": 10
       }
     ]
   },
   {
     "id": "mko.office.f",
     "type": "OFFICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 60,
     "efficiency": 0.75,
     "capacity": 50,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 37500,
-        "max_velocity": 1250
+        "maxVelocity": 1250
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 1562.5,
-        "max_velocity": 52.08333333
+        "maxVelocity": 52.08333333
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 5
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 10
+        "resourceId": "WORKER",
+        "maxVelocity": 10
       }
     ]
   }

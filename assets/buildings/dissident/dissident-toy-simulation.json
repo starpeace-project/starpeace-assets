@@ -2,89 +2,88 @@
   {
     "id": "dis.toy.industry",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 135000,
-        "max_velocity": 3857.1428571428573
+        "maxVelocity": 3857.1428571428573
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 1500,
-        "max_velocity": 42.857142857142854
+        "maxVelocity": 42.857142857142854
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 5625,
-        "max_velocity": 160.71428571428572
+        "maxVelocity": 160.71428571428572
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "EXECUTIVE",
-            "max_velocity": 2,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 2,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 5,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 5,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 120,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 120,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "COMPUTER_SERVICE",
-            "max_velocity": 1.44,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "COMPUTER_SERVICE",
+            "maxVelocity": 1.44,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "LEGAL_SERVICE",
-            "max_velocity": 0.72,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "LEGAL_SERVICE",
+            "maxVelocity": 0.72,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 6,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 6,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "PLASTIC",
-            "max_velocity": 21,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PLASTIC",
+            "maxVelocity": 21,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "ELECTRONIC_COMPONENT",
-            "max_velocity": 12,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ELECTRONIC_COMPONENT",
+            "maxVelocity": 12,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "outputs": [
           {
-            "resource": "TOY",
-            "max_velocity": 48,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "TOY",
+            "maxVelocity": 48,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }
@@ -93,69 +92,69 @@
   {
     "id": "dis.toy.store",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 270,
-        "max_velocity": 13.5
+        "maxVelocity": 13.5
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 3.75,
-        "max_velocity": 0.1875
+        "maxVelocity": 0.1875
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 1,
-        "weight_efficiency": 20,
-        "weight_quality": 15
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 20,
+        "weightQuality": 15
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 10,
-        "weight_efficiency": 20,
-        "weight_quality": 10
+        "resourceId": "WORKER",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 10
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 100,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 100,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "TOY",
-            "max_velocity": 15,
-            "weight_efficiency": 30,
-            "weight_quality": 50
+            "resourceId": "TOY",
+            "maxVelocity": 15,
+            "weightEfficiency": 30,
+            "weightQuality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "TOY",
-            "max_velocity": 15,
+            "resourceId": "TOY",
+            "maxVelocity": 15,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 3.75,
                 "probability": 0.8
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 6.25,
                 "probability": 0.8
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 10,
+                "resourceId": "WORKER",
+                "maxVelocity": 10,
                 "probability": 0.9
               }
             ]

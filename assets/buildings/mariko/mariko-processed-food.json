@@ -1,8 +1,8 @@
 [
   {
     "id": "mko.food.proc",
-    "image_id": "mko.food.proc",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "mko.food.proc",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Küchenmaschine",
       "EN": "Food Processor",
@@ -11,18 +11,18 @@
       "IT": "Robot da cucina",
       "PT": "Processador de alimentos"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "PROCESSED_FOOD",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "PROCESSED_FOOD",
+    "requiredInventionIds": [
       "LSFoodPrc"
     ]
   },
   {
     "id": "mko.food.proc.small",
-    "image_id": "mko.food.proc.small",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "mko.food.proc.small",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kleine Küchenmaschine",
       "EN": "Small Food Processor",
@@ -31,11 +31,11 @@
       "IT": "Piccolo robot da cucina",
       "PT": "Processador de Alimentos Pequenos"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "PROCESSED_FOOD",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "PROCESSED_FOOD",
+    "requiredInventionIds": [
       "FoodPrcLic"
     ]
   }

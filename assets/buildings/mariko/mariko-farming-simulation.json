@@ -2,64 +2,63 @@
   {
     "id": "mko.farm",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 100800,
-        "max_velocity": 3360
+        "maxVelocity": 3360
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 236.25,
-        "max_velocity": 7.875
+        "maxVelocity": 7.875
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 787.5,
-        "max_velocity": 26.25
+        "maxVelocity": 26.25
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 1,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 1,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 40,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 40,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 0.54,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 0.54,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [],
         "outputs": [
           {
-            "resource": "FRESH_FOOD",
-            "max_velocity": 54,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "FRESH_FOOD",
+            "maxVelocity": 54,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "ORGANIC_MATERIAL",
-            "max_velocity": 9,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ORGANIC_MATERIAL",
+            "maxVelocity": 9,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }
@@ -68,59 +67,58 @@
   {
     "id": "mko.farm.small",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 24000,
-        "max_velocity": 1600
+        "maxVelocity": 1600
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 75,
-        "max_velocity": 5
+        "maxVelocity": 5
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 1,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 1,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 23,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 23,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 0.18,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 0.18,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [],
         "outputs": [
           {
-            "resource": "FRESH_FOOD",
-            "max_velocity": 18,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "FRESH_FOOD",
+            "maxVelocity": 18,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "ORGANIC_MATERIAL",
-            "max_velocity": 3,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ORGANIC_MATERIAL",
+            "maxVelocity": 3,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }

@@ -1,10 +1,10 @@
 [
   {
     "id": "mko.construction.industry",
-    "image_path": "assets/buildings/mariko/images/mko.construction.industry.gif",
-    "tile_width": 5,
-    "tile_height": 5,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.construction.industry.gif",
+    "tileWidth": 5,
+    "tileHeight": 5,
+    "hitArea": [
       [{"x":129,"y":136},{"x":123,"y":143},{"x":151,"y":155},{"x":137,"y":142}],
       [{"x":10,"y":88},{"x":63,"y":116},{"x":122,"y":124},{"x":55,"y":60},{"x":33,"y":55}],
       [{"x":311,"y":88},{"x":238,"y":50},{"x":137,"y":142},{"x":151,"y":155},{"x":183,"y":151}],

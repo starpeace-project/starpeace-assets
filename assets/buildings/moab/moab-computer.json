@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.bm.industry",
-    "image_id": "moab.bm.industry",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "moab.bm.industry",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Computerhaube",
       "EN": "Computer Dome",
@@ -11,11 +11,11 @@
       "IT": "Cupola del computer",
       "PT": "Cúpula de computador"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "COMPUTER",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "COMPUTER",
+    "requiredInventionIds": [
       "BMInd"
     ]
   }

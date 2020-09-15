@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.restaurant",
-    "image_id": "pgi.restaurant",
-    "construction_image_id": "generic.construction.1",
+    "imageId": "pgi.restaurant",
+    "constructionImageId": "generic.construction.1",
     "name": {
       "DE": "Restaurant",
       "EN": "Restaurant",
@@ -11,11 +11,11 @@
       "IT": "Ristorante",
       "PT": "Restaurante"
     },
-    "seal_id": "PGI",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "RESTAURANT",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "RESTAURANT",
+    "requiredInventionIds": [
       "Restaurants"
     ],
     "commerce": {}

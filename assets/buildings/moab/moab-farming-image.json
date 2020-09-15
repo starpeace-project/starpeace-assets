@@ -1,10 +1,10 @@
 [
   {
     "id": "moab.farm",
-    "image_path": "assets/buildings/moab/images/moab.farm.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.farm.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":4,"y":62},{"x":64,"y":105},{"x":48,"y":42}],
       [{"x":132,"y":127},{"x":176,"y":104},{"x":208,"y":40},{"x":81,"y":105}],
       [{"x":132,"y":0},{"x":48,"y":42},{"x":64,"y":105},{"x":81,"y":105},{"x":208,"y":40},{"x":182,"y":22}],

@@ -3,6 +3,57 @@
     "id": "DIS",
     "nameShort": "Dissidents",
     "nameLong": "Dissidents",
+    "descriptions": [
+      {
+        "DE": "Dieser Siegelinhaber wurde von Markus Blomke, dem Gründer der IFEL, speziell eingeführt, um die politische Landschaft der Kolonien ins Gleichgewicht zu bringen. Der größte Teil der Technologie der Dissidenten ist funktionell und ideal für Anfänger",
+        "EN": "Introduced by Markus Blomke, founder of the IFEL, to balance the colonies' political landscape, most of the Dissident technology was designed to be ideal for beginners.",
+        "ES": "Esta tecnología fue introducida por Markus Blomke, fundador de la IFEL, para balancear el panorama político de las colonias. La mayoría de las tecnología Disidentes se hicieron con una alta funcionalidad e ideal para principiantes.",
+        "FR": "Cette corporation a été spécialement créée par le fondateur de la IFEL, Markus Blomke, pour équilibrer le paysage politique des colonies. La grande majorité des technologies Dissidentes a été conçue dans un souci de fonctionnalité et de simplicité pour les débutants.",
+        "IT": "Questo Seal fu introdotto da Markus Blomke, fondatore dell'IFEL, per bilanciare il panorama politico delle colonie. La maggior parte della tecnologia Dissidents mira alla elevata funzionalità ed è ideale per principianti.",
+        "PT": "Introduzido por Markus Blömke, fundador da IFEL, para equilibrar cenário político das colônias, a maior parte da tecnologia Dissident foi projetado para ser ideal para iniciantes."
+      },
+      {
+        "DE": "Dissidents' Gebäude haben eine sehr niedrige Preise, aber die Qualität der Produktion ist gering und der Wirkungsgrad ist nicht die beste zur Verfügung. Dissidents hat die Exklusivität auf der Produktion von Likören, Spielzeug und Holz. Die beste Leistung ist in der Landwirtschaft, Software, Bars und Medien.",
+        "EN": "Dissidents' buildings sport very low prices, however the production quality is low and the efficiency level is not the best available. Dissidents have the exclusivity on the production of Liquors, Toys and Wood. Best performance is in farming, software, bars and media.",
+        "ES": "Edificios disidentes tienen precios muy bajos, sin embargo, la calidad de la producción es baja y el nivel de eficiencia no es la mejor disponible. Disidentes tienen la exclusividad en la producción de licores, Juguetes y madera. El mejor rendimiento consiste en el cultivo, software, bares y medios de comunicación.",
+        "FR": "Les bâtiments ont Dissidents des prix très bas, mais la qualité de la production est faible et le niveau d'efficacité est pas le meilleur disponible. Dissidents ont l'exclusivité sur la production de boissons, jouets et bois. La meilleure performance est dans l'agriculture, des logiciels, des bars et des médias.",
+        "IT": "Edifici dissidenti hanno prezzi molto bassi, tuttavia la qualità della produzione è bassa e il livello di efficienza non è il migliore disponibile. I dissidenti hanno l'esclusiva sulla produzione di liquori, giocattoli e Wood. Le migliori prestazioni sia in agricoltura, software, bar e mezzi di comunicazione.",
+        "PT": "Edifícios dos dissidentes têm preços muito baixos, no entanto, a qualidade da produção é baixa e o nível de eficiência não é a melhor disponível. Dissidentes têm a exclusividade na produção de licores, Brinquedos e Wood. Melhor desempenho é na agricultura, software, bares e mídia."
+      }
+    ],
+    "pros": {
+      "DE": "Sehr niedrige Preise. Niedrige Schadstoffniveaus. Kleine Designs, ideal für Unterschichtgebiete.",
+      "EN": "Very low prices. Low levels of pollution. Small designs ideal for low populated areas.",
+      "ES": "Muy bajos precios. Bajos niveles de contaminación. Pequeños diseños ideales para áreas de baja población.",
+      "FR": "Prix très faibles. Faibles niveaux de pollution. Constructions de faible hauteur, idéales dans les zones à faible densité.",
+      "IT": "Prezzi molto bassi. Bassi livelli di inquinamento. Architettura ridotta, ideale per aree poco popolate.",
+      "PT": "Preços muito baixos. Baixos níveis de poluição. Projetos pequenos, ideais para áreas pouco povoadas."
+    },
+    "cons": {
+      "DE": "Niedrige Produktionsqualität. Niedrige Effizienz. Architektur gelegentlich unbeholfen.",
+      "EN": "Low quality of production. Low efficiency. Architecture is sometimes awkward.",
+      "ES": "Baja calidad de producción. Baja eficiencia. Algunas veces las Arquitectura son raras.",
+      "FR": "Qualité de production réduite. Efficacité limitée. Architecture parfois ingrate.",
+      "IT": "Bassa qualità produttiva. Bassa efficienza. L'architettura può sembrare strana.",
+      "PT": "Baixa qualidade de produção. Baixa eficiencia. A arquitetura às vezes é estranha."
+    },
+    "strengths": {
+      "DE": "Landwirtschaft, Software, Bars und Medien",
+      "EN": "Farming, software, bars and media",
+      "ES": "Granja, software, bares y medios de comunicación",
+      "FR": "Fermes, SSII, bars et sociétés de communication",
+      "IT": "Fattorie, software, bar e media",
+      "PT": "Agricultura, software, bares e mídia"
+    },
+    "weaknesses": {
+      "DE": "Wohnhäuser, Bergwerke, Metall und Schwerindustrie",
+      "EN": "Residentials buildings, mining, metalurgic and heavy industries",
+      "ES": "Residenciaes, minería, metalurgia y indrustrias pesadas",
+      "FR": "Immobilier résidentiel, mines, industries lourdes et métallurgie",
+      "IT": "Edifici residenziali, miniere, metallurgia e industrie pesanti",
+      "PT": "Edifícios residenciais, mineração, metalurgia e indústrias pesadas"
+    },
+    "playable": true,
     "buildingIds": [
       "dis.bank",
       "dis.bar",

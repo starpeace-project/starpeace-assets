@@ -1,8 +1,8 @@
 [
   {
     "id": "mko.market.a",
-    "image_id": "mko.market.a",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "mko.market.a",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Takuri-Markt",
       "EN": "Takuri Market",
@@ -11,19 +11,19 @@
       "IT": "Mercato di Takuri",
       "PT": "Mercado Takuri"
     },
-    "seal_id": "MKO",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "MARKET",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "MARKET",
+    "requiredInventionIds": [
       "Supermarkets"
     ],
     "commerce": {}
   },
   {
     "id": "mko.market.b",
-    "image_id": "mko.market.b",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "mko.market.b",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Tamakura-Markt",
       "EN": "Tamakura Market",
@@ -32,19 +32,19 @@
       "IT": "Mercato Tamakura",
       "PT": "Tamakura Market"
     },
-    "seal_id": "MKO",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "MARKET",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "MARKET",
+    "requiredInventionIds": [
       "Supermarkets"
     ],
     "commerce": {}
   },
   {
     "id": "mko.market.c",
-    "image_id": "mko.market.c",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "mko.market.c",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Satoi-Markt",
       "EN": "Satoi Market",
@@ -53,11 +53,11 @@
       "IT": "Mercato di Satoi",
       "PT": "Satoi Market"
     },
-    "seal_id": "MKO",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "MARKET",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "MARKET",
+    "requiredInventionIds": [
       "Supermarkets"
     ],
     "commerce": {}

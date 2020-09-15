@@ -1,10 +1,10 @@
 [
   {
     "id": "generic.park.alien.a",
-    "image_path": "assets/buildings/generic/images/generic.park.alien.a.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.park.alien.a.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":91,"y":1},{"x":93,"y":14},{"x":102,"y":35},{"x":112,"y":24},{"x":113,"y":14},{"x":106,"y":1}],
       [{"x":56,"y":87},{"x":84,"y":92},{"x":74,"y":76}],
       [{"x":137,"y":86},{"x":111,"y":67},{"x":108,"y":86}],
@@ -25,10 +25,10 @@
   },
   {
     "id": "generic.park.alien.b",
-    "image_path": "assets/buildings/generic/images/generic.park.alien.b.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.park.alien.b.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":188,"y":64},{"x":159,"y":34},{"x":139,"y":37},{"x":129,"y":47},{"x":114,"y":68},{"x":145,"y":83}],
       [{"x":56,"y":32},{"x":66,"y":39},{"x":79,"y":39},{"x":71,"y":25}],
       [{"x":59,"y":56},{"x":75,"y":78},{"x":114,"y":75},{"x":114,"y":68},{"x":79,"y":39}],
@@ -42,10 +42,10 @@
   },
   {
     "id": "generic.park.alien.c",
-    "image_path": "assets/buildings/generic/images/generic.park.alien.c.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.park.alien.c.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":55,"y":29},{"x":82,"y":39},{"x":95,"y":1},{"x":79,"y":6}],
       [{"x":143,"y":32},{"x":108,"y":2},{"x":95,"y":1},{"x":112,"y":36}],
       [{"x":67,"y":56},{"x":96,"y":74},{"x":82,"y":39}],
@@ -64,10 +64,10 @@
   },
   {
     "id": "generic.park.alien.d",
-    "image_path": "assets/buildings/generic/images/generic.park.alien.d.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.park.alien.d.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":56,"y":28},{"x":71,"y":35},{"x":90,"y":32},{"x":96,"y":7},{"x":73,"y":16}],
       [{"x":79,"y":1},{"x":73,"y":16},{"x":96,"y":7}],
       [{"x":65,"y":49},{"x":79,"y":67},{"x":95,"y":73},{"x":120,"y":65},{"x":137,"y":47},{"x":109,"y":35},{"x":90,"y":32}],
@@ -86,10 +86,10 @@
   },
   {
     "id": "generic.park.central",
-    "image_path": "assets/buildings/generic/images/generic.park.central.gif",
-    "tile_width": 7,
-    "tile_height": 7,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.park.central.gif",
+    "tileWidth": 7,
+    "tileHeight": 7,
+    "hitArea": [
       [{"x":369,"y":61},{"x":343,"y":68},{"x":378,"y":83}],
       [{"x":289,"y":26},{"x":284,"y":20},{"x":264,"y":25},{"x":75,"y":80},{"x":282,"y":33}],
       [{"x":219,"y":226},{"x":444,"y":115},{"x":378,"y":83},{"x":343,"y":68},{"x":75,"y":80},{"x":42,"y":88},{"x":0,"y":114}],
@@ -101,10 +101,10 @@
   },
   {
     "id": "generic.park.medium",
-    "image_path": "assets/buildings/generic/images/generic.park.medium.gif",
-    "tile_width": 5,
-    "tile_height": 5,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.park.medium.gif",
+    "tileWidth": 5,
+    "tileHeight": 5,
+    "hitArea": [
       [{"x":112,"y":24},{"x":105,"y":32},{"x":118,"y":32}],
       [{"x":316,"y":89},{"x":218,"y":39},{"x":118,"y":32},{"x":68,"y":56},{"x":5,"y":89},{"x":156,"y":167}],
       [{"x":167,"y":2},{"x":146,"y":7},{"x":144,"y":17},{"x":180,"y":19}],
@@ -116,10 +116,10 @@
   },
   {
     "id": "generic.park.small",
-    "image_path": "assets/buildings/generic/images/generic.park.small.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.park.small.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":180,"y":47},{"x":169,"y":37},{"x":156,"y":42},{"x":166,"y":52}],
       [{"x":115,"y":14},{"x":107,"y":7},{"x":86,"y":6},{"x":79,"y":26},{"x":109,"y":23}],
       [{"x":94,"y":108},{"x":187,"y":62},{"x":166,"y":52},{"x":43,"y":43},{"x":4,"y":63}],
@@ -130,10 +130,10 @@
   },
   {
     "id": "generic.statue",
-    "image_path": "assets/buildings/generic/images/generic.statue.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.statue.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":245,"y":291},{"x":173,"y":235},{"x":10,"y":288},{"x":125,"y":345}],
       [{"x":38,"y":246},{"x":33,"y":274},{"x":53,"y":255}],
       [{"x":97,"y":6},{"x":94,"y":18},{"x":106,"y":58},{"x":112,"y":47},{"x":107,"y":2}],
@@ -150,19 +150,19 @@
   },
   {
     "id": "generic.tennis",
-    "image_path": "assets/buildings/generic/images/generic.tennis.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.tennis.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":93,"y":107},{"x":191,"y":59},{"x":191,"y":47},{"x":99,"y":1},{"x":0,"y":47},{"x":0,"y":60}]
     ]
   },
   {
     "id": "generic.tower",
-    "image_path": "assets/buildings/generic/images/generic.tower.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/generic/images/generic.tower.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":198,"y":215},{"x":190,"y":223},{"x":209,"y":241},{"x":205,"y":222}],
       [{"x":133,"y":0},{"x":123,"y":5},{"x":119,"y":91},{"x":142,"y":31},{"x":142,"y":12}],
       [{"x":125,"y":324},{"x":253,"y":264},{"x":209,"y":241},{"x":69,"y":231},{"x":33,"y":244},{"x":5,"y":265}],

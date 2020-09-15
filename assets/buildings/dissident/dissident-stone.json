@@ -1,9 +1,9 @@
 [
   {
     "id": "dis.mine.stone",
-    "image_id": "dis.mine",
+    "imageId": "dis.mine",
     "sign_id": "stone",
-    "construction_image_id": "generic.construction.5",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Steinbergwerk",
       "EN": "Stone Mine",
@@ -12,19 +12,19 @@
       "IT": "Miniera di Pietra",
       "PT": "Mina de Pedra"
     },
-    "seal_id": "DIS",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "STONE",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "STONE",
+    "requiredInventionIds": [
       "StoneLSMining"
     ]
   },
   {
     "id": "dis.mine.stone.small",
-    "image_id": "dis.mine.small",
+    "imageId": "dis.mine.small",
     "sign_id": "stone",
-    "construction_image_id": "generic.construction.5",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kleine Steinmine",
       "EN": "Small Stone Mine",
@@ -33,11 +33,11 @@
       "IT": "Piccola Miniera di Pietra",
       "PT": "Mina de Pedra Pequena"
     },
-    "seal_id": "DIS",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "STONE",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "STONE",
+    "requiredInventionIds": [
       "StoneMining"
     ]
   }

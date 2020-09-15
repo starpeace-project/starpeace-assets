@@ -1,10 +1,10 @@
 [
   {
     "id": "moab.chemical.industry",
-    "image_path": "assets/buildings/moab/images/moab.chemical.industry.gif",
-    "tile_width": 5,
-    "tile_height": 5,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.chemical.industry.gif",
+    "tileWidth": 5,
+    "tileHeight": 5,
+    "hitArea": [
       [{"x":142,"y":152},{"x":151,"y":149},{"x":164,"y":144},{"x":140,"y":143}],
       [{"x":118,"y":143},{"x":140,"y":143},{"x":126,"y":128}],
       [{"x":165,"y":155},{"x":164,"y":144},{"x":151,"y":149}],

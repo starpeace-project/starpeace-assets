@@ -1,8 +1,8 @@
 [
   {
     "id": "magna.cloud.city",
-    "image_id": "magna.cloud.city",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.cloud.city",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Wolkenstadt",
       "EN": "Cloud City",
@@ -11,18 +11,18 @@
       "IT": "Cloud City",
       "PT": "Cloud City"
     },
-    "seal_id": "MAGNA",
-    "zone": "MC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "MC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "MC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.heaven",
-    "image_id": "magna.heaven",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.heaven",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Der Himmel der Arbeiter",
       "EN": "Worker's Heaven",
@@ -31,18 +31,18 @@
       "IT": "Il cielo del lavoratore",
       "PT": "Céu do trabalhador"
     },
-    "seal_id": "MAGNA",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.hive",
-    "image_id": "magna.hive",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.hive",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Der Bienenstock",
       "EN": "The Hive",
@@ -51,18 +51,18 @@
       "IT": "L'alveare",
       "PT": "A colméia"
     },
-    "seal_id": "MAGNA",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.ivory.tower",
-    "image_id": "magna.ivory.tower",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.ivory.tower",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Elfenbeinturm",
       "EN": "Ivory Tower",
@@ -71,18 +71,18 @@
       "IT": "Torre d'avorio",
       "PT": "Torre de marfim"
     },
-    "seal_id": "MAGNA",
-    "zone": "MC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "MC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "MC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.mayflower",
-    "image_id": "magna.mayflower",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.mayflower",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Mai blühen",
       "EN": "May Flower",
@@ -91,18 +91,18 @@
       "IT": "Maggio Fiore",
       "PT": "Pode flor"
     },
-    "seal_id": "MAGNA",
-    "zone": "MC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "MC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "MC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.octopus",
-    "image_id": "magna.octopus",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.octopus",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Der Oktopus",
       "EN": "The Octopus",
@@ -111,18 +111,18 @@
       "IT": "Il polpo",
       "PT": "O polvo"
     },
-    "seal_id": "MAGNA",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.sky.dome",
-    "image_id": "magna.sky.dome",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.sky.dome",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Himmelskuppel",
       "EN": "Sky Dome",
@@ -131,18 +131,18 @@
       "IT": "Sky Dome",
       "PT": "Sky Dome"
     },
-    "seal_id": "MAGNA",
-    "zone": "MC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "MC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "MC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "MC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.solarium",
-    "image_id": "magna.solarium",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.solarium",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Solarium",
       "EN": "Solarium",
@@ -151,18 +151,18 @@
       "IT": "solario",
       "PT": "Solário"
     },
-    "seal_id": "MAGNA",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.the.spring",
-    "image_id": "magna.the.spring",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.the.spring",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Der Frühling",
       "EN": "The Spring",
@@ -171,18 +171,18 @@
       "IT": "La primavera",
       "PT": "A primavera"
     },
-    "seal_id": "MAGNA",
-    "zone": "LC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "LC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "LC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "LC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.tulip",
-    "image_id": "magna.tulip",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.tulip",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Tulpe",
       "EN": "Tulip",
@@ -191,18 +191,18 @@
       "IT": "Tulipano",
       "PT": "Tulipa"
     },
-    "seal_id": "MAGNA",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   },
   {
     "id": "magna.whirlpool",
-    "image_id": "magna.whirlpool",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.whirlpool",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Der Whirlpool",
       "EN": "The Whirlpool",
@@ -211,11 +211,11 @@
       "IT": "The Whirlpool",
       "PT": "O Whirlpool"
     },
-    "seal_id": "MAGNA",
-    "zone": "HC_RESIDENTIAL",
-    "category": "REAL_ESTATE",
-    "industry_type": "HC_RESIDENTIAL",
-    "required_inventions": [
+    "sealId": "MAGNA",
+    "zoneId": "HC_RESIDENTIAL",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "HC_RESIDENTIAL",
+    "requiredInventionIds": [
       "RealEstate"
     ]
   }

@@ -1,9 +1,9 @@
 [
   {
     "id": "pgi.mine.silicon",
-    "image_id": "pgi.mine",
+    "imageId": "pgi.mine",
     "sign_id": "silicon",
-    "construction_image_id": "generic.construction.3",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Siliziummine",
       "EN": "Silicon Mine",
@@ -12,19 +12,19 @@
       "IT": "Miniera di Silicio",
       "PT": "Mina De Silício"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "SILICON",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "SILICON",
+    "requiredInventionIds": [
       "SiliconLSMining"
     ]
   },
   {
     "id": "pgi.mine.silicon.small",
-    "image_id": "pgi.mine.small",
+    "imageId": "pgi.mine.small",
     "sign_id": "silicon",
-    "construction_image_id": "generic.construction.3",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine Siliziummine",
       "EN": "Small Silicon Mine",
@@ -33,11 +33,11 @@
       "IT": "Piccola Miniera di Silicio",
       "PT": "Mina de Silício Pequena"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "SILICON",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "SILICON",
+    "requiredInventionIds": [
       "SiliconMining"
     ]
   }

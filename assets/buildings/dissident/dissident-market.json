@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.market.a",
-    "image_id": "dis.market.a",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "dis.market.a",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Großer Markt",
       "EN": "Big Market",
@@ -11,19 +11,19 @@
       "IT": "Grande mercato",
       "PT": "Grande mercado"
     },
-    "seal_id": "DIS",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "MARKET",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "MARKET",
+    "requiredInventionIds": [
       "Supermarkets"
     ],
     "commerce": {}
   },
   {
     "id": "dis.market.b",
-    "image_id": "dis.market.b",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "dis.market.b",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Flohmarkt",
       "EN": "Flea Market",
@@ -32,11 +32,11 @@
       "IT": "Mercato delle pulci",
       "PT": "Mercado de pulgas"
     },
-    "seal_id": "DIS",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "MARKET",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "MARKET",
+    "requiredInventionIds": [
       "Supermarkets"
     ],
     "commerce": {}

@@ -1,10 +1,10 @@
 [
   {
     "id": "mko.chemical.industry",
-    "image_path": "assets/buildings/mariko/images/mko.chemical.industry.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.chemical.industry.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":17,"y":76},{"x":39,"y":96},{"x":81,"y":110},{"x":74,"y":42},{"x":62,"y":43}],
       [{"x":213,"y":34},{"x":203,"y":38},{"x":232,"y":69},{"x":221,"y":40}],
       [{"x":157,"y":6},{"x":122,"y":2},{"x":74,"y":30},{"x":171,"y":22}],
@@ -15,10 +15,10 @@
   },
   {
     "id": "mko.chemical.industry.small",
-    "image_path": "assets/buildings/mariko/images/mko.chemical.industry.small.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.chemical.industry.small.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":17,"y":76},{"x":39,"y":96},{"x":81,"y":110},{"x":74,"y":42},{"x":62,"y":43}],
       [{"x":213,"y":34},{"x":203,"y":38},{"x":232,"y":69},{"x":221,"y":40}],
       [{"x":157,"y":6},{"x":122,"y":2},{"x":74,"y":30},{"x":171,"y":22}],

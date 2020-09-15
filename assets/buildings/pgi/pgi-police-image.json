@@ -1,10 +1,10 @@
 [
   {
     "id": "pgi.police",
-    "image_path": "assets/buildings/pgi/images/pgi.police.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/pgi/images/pgi.police.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":116,"y":47},{"x":103,"y":20},{"x":82,"y":20},{"x":51,"y":69},{"x":74,"y":69}],
       [{"x":66,"y":2},{"x":34,"y":25},{"x":51,"y":69},{"x":82,"y":20}],
       [{"x":14,"y":26},{"x":2,"y":43},{"x":51,"y":69},{"x":34,"y":25}]

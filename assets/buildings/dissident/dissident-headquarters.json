@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.hq",
-    "image_id": "dis.hq.1",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "dis.hq.1",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Hauptquartier",
       "EN": "Headquarters",
@@ -11,10 +11,10 @@
       "IT": "Quartier generale",
       "PT": "Quartel general"
     },
-    "seal_id": "DIS",
-    "zone": "SERVICE",
-    "category": "SERVICE",
-    "industry_type": "HEADQUARTERS",
-    "required_inventions": []
+    "sealId": "DIS",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
   }
 ]

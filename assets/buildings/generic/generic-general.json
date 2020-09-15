@@ -1,8 +1,8 @@
 [
   {
     "id": "generic.capitol",
-    "image_id": "generic.capitol",
-    "construction_image_id": "generic.construction.7",
+    "imageId": "generic.capitol",
+    "constructionImageId": "generic.construction.7",
     "name": {
       "DE": "Kapitol",
       "EN": "Capitol",
@@ -11,17 +11,17 @@
       "IT": "Campidoglio",
       "PT": "Capitólio"
     },
-    "seal_id": "GEN",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "GOVERNMENT",
+    "sealId": "GEN",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "GOVERNMENT",
     "restricted": true,
-    "required_inventions": []
+    "requiredInventionIds": []
   },
   {
     "id": "generic.college",
-    "image_id": "generic.college",
-    "construction_image_id": "generic.construction.8",
+    "imageId": "generic.college",
+    "constructionImageId": "generic.construction.8",
     "name": {
       "DE": "Hochschule",
       "EN": "College",
@@ -30,19 +30,19 @@
       "IT": "Università",
       "PT": "Faculdade"
     },
-    "seal_id": "GEN",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "COLLEGE",
-    "required_inventions": [
+    "sealId": "GEN",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "COLLEGE",
+    "requiredInventionIds": [
       "CivicFac"
     ],
     "civic": {}
   },
   {
     "id": "generic.dump",
-    "image_id": "generic.dump",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "generic.dump",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Dump",
       "EN": "Dump",
@@ -51,19 +51,19 @@
       "IT": "Cumulo di rifiuti",
       "PT": "Despejo"
     },
-    "seal_id": "GEN",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "GARBAGE",
-    "required_inventions": [
+    "sealId": "GEN",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "GARBAGE",
+    "requiredInventionIds": [
       "CivicFac"
     ],
     "civic": {}
   },
   {
     "id": "generic.jail",
-    "image_id": "generic.jail",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "generic.jail",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Gefängnis",
       "EN": "Jail",
@@ -72,19 +72,19 @@
       "IT": "Prigione",
       "PT": "Cadeia"
     },
-    "seal_id": "GEN",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "PRISON",
-    "required_inventions": [
+    "sealId": "GEN",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "PRISON",
+    "requiredInventionIds": [
       "CivicFac"
     ],
     "civic": {}
   },
   {
     "id": "generic.museum",
-    "image_id": "generic.museum",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "generic.museum",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Museum",
       "EN": "Museum",
@@ -93,19 +93,19 @@
       "IT": "Museo",
       "PT": "Museu"
     },
-    "seal_id": "GEN",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "MUSEUM",
-    "required_inventions": [
+    "sealId": "GEN",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "MUSEUM",
+    "requiredInventionIds": [
       "CivicFac"
     ],
     "civic": {}
   },
   {
     "id": "generic.portal",
-    "image_id": "generic.portal.in",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "generic.portal.in",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Portal",
       "EN": "Portal",
@@ -114,11 +114,11 @@
       "IT": "Portale",
       "PT": "Portal"
     },
-    "seal_id": "GEN",
-    "zone": "RESERVED",
-    "category": "CIVIC",
-    "industry_type": "GOVERNMENT",
+    "sealId": "GEN",
+    "zoneId": "RESERVED",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "GOVERNMENT",
     "restricted": true,
-    "required_inventions": []
+    "requiredInventionIds": []
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
     "id": "pgi.mine.ore",
-    "image_id": "pgi.mine",
+    "imageId": "pgi.mine",
     "sign_id": "iron",
-    "construction_image_id": "generic.construction.3",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Erzmine",
       "EN": "Ore Mine",
@@ -12,19 +12,19 @@
       "IT": "Minerale",
       "PT": "Mina de Minério"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "ORE",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "ORE",
+    "requiredInventionIds": [
       "LSMining"
     ]
   },
   {
     "id": "pgi.mine.ore.small",
-    "image_id": "pgi.mine.small",
+    "imageId": "pgi.mine.small",
     "sign_id": "iron",
-    "construction_image_id": "generic.construction.3",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine Erzmine",
       "EN": "Small Ore Mine",
@@ -33,11 +33,11 @@
       "IT": "Piccola Miniera di Minerali",
       "PT": "Mina de Minério Pequena"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "ORE",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "ORE",
+    "requiredInventionIds": [
       "Mining"
     ]
   }

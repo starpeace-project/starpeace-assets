@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.food.proc",
-    "image_id": "pgi.food.proc",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "pgi.food.proc",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Große Küchenmaschine",
       "EN": "Large Food Processor",
@@ -11,18 +11,18 @@
       "IT": "Grande robot da cucina",
       "PT": "Grande processador de alimentos"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "PROCESSED_FOOD",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "PROCESSED_FOOD",
+    "requiredInventionIds": [
       "LSFoodPrc"
     ]
   },
   {
     "id": "pgi.food.proc.small",
-    "image_id": "pgi.food.proc.small",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "pgi.food.proc.small",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Küchenmaschine",
       "EN": "Food Processor",
@@ -31,11 +31,11 @@
       "IT": "Robot da cucina",
       "PT": "Processador de alimentos"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "PROCESSED_FOOD",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "PROCESSED_FOOD",
+    "requiredInventionIds": [
       "FoodPrcLic"
     ]
   }

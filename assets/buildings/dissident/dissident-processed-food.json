@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.food.proc",
-    "image_id": "dis.food.proc",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "dis.food.proc",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Küchenmaschine",
       "EN": "Food Processor",
@@ -11,18 +11,18 @@
       "IT": "Robot da cucina",
       "PT": "Processador de alimentos"
     },
-    "seal_id": "DIS",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "PROCESSED_FOOD",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "PROCESSED_FOOD",
+    "requiredInventionIds": [
       "LSFoodPrc"
     ]
   },
   {
     "id": "dis.food.proc.small",
-    "image_id": "dis.food.proc.small",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "dis.food.proc.small",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Kleine Küchenmaschine",
       "EN": "Small Food Processor",
@@ -31,11 +31,11 @@
       "IT": "Piccolo robot da cucina",
       "PT": "Processador de Alimentos Pequenos"
     },
-    "seal_id": "DIS",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "PROCESSED_FOOD",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "PROCESSED_FOOD",
+    "requiredInventionIds": [
       "FoodPrcLic"
     ]
   }

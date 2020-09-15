@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.oil.rig",
-    "image_id": "moab.oil.rig",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "moab.oil.rig",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Ölbohrinsel",
       "EN": "Oil Rig",
@@ -11,11 +11,11 @@
       "IT": "Piattaforma petrolifera",
       "PT": "Plataforma de petróleo"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "CRUDE_OIL",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "CRUDE_OIL",
+    "requiredInventionIds": [
       "OilRigs"
     ]
   }

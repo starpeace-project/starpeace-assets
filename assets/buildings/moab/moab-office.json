@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.office.a",
-    "image_id": "moab.office.a",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "moab.office.a",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Moab Basilika",
       "EN": "Moab Basilica",
@@ -11,19 +11,19 @@
       "IT": "Basilica di Moab",
       "PT": "Basílica de Moabe"
     },
-    "seal_id": "MOAB",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "moab.office.b",
-    "image_id": "moab.office.b",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "moab.office.b",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Dunkler Crysler",
       "EN": "Dark Crysler",
@@ -32,11 +32,11 @@
       "IT": "Dark Crysler",
       "PT": "Dark Crysler"
     },
-    "seal_id": "MOAB",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}

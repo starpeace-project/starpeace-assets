@@ -1,8 +1,8 @@
 [
   {
     "id": "mko.chemical.industry",
-    "image_id": "mko.chemical.industry",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "mko.chemical.industry",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Chemiefabrik",
       "EN": "Chemical Plant",
@@ -11,18 +11,18 @@
       "IT": "Impianto chimico",
       "PT": "Planta química"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "CHEMICAL",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "CHEMICAL",
+    "requiredInventionIds": [
       "LargeChem"
     ]
   },
   {
     "id": "mko.chemical.industry.small",
-    "image_id": "mko.chemical.industry.small",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "mko.chemical.industry.small",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Kleine Chemiefabrik",
       "EN": "Small Chemical Plant",
@@ -31,11 +31,11 @@
       "IT": "Piccolo stabilimento chimico",
       "PT": "Planta Química Pequena"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "CHEMICAL",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "CHEMICAL",
+    "requiredInventionIds": [
       "ChemLic"
     ]
   }

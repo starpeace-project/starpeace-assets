@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.movie",
-    "image_id": "moab.movie",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "moab.movie",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kino",
       "EN": "Movie Theater",
@@ -11,11 +11,11 @@
       "IT": "Cinema",
       "PT": "Cinema"
     },
-    "seal_id": "MOAB",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "MOVIE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "MOVIE",
+    "requiredInventionIds": [
       "BasicCommerce"
     ],
     "commerce": {}

@@ -1,8 +1,8 @@
 [
   {
     "id": "mko.office.a",
-    "image_id": "mko.office.a",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "mko.office.a",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Yamamoto",
       "EN": "Yamamoto",
@@ -11,19 +11,19 @@
       "IT": "Yamamoto",
       "PT": "Yamamoto"
     },
-    "seal_id": "MKO",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "mko.office.b",
-    "image_id": "mko.office.b",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "mko.office.b",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Tanakuta",
       "EN": "Tanakuta",
@@ -32,19 +32,19 @@
       "IT": "Tanakuta",
       "PT": "Tanakuta"
     },
-    "seal_id": "MKO",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "mko.office.c",
-    "image_id": "mko.office.c",
-    "construction_image_id": "generic.construction.1",
+    "imageId": "mko.office.c",
+    "constructionImageId": "generic.construction.1",
     "name": {
       "DE": "Sato-Schaber",
       "EN": "Sato Scraper",
@@ -53,19 +53,19 @@
       "IT": "Sato Scraper",
       "PT": "Raspador Sato"
     },
-    "seal_id": "MKO",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "mko.office.d",
-    "image_id": "mko.office.d",
-    "construction_image_id": "generic.construction.1",
+    "imageId": "mko.office.d",
+    "constructionImageId": "generic.construction.1",
     "name": {
       "DE": "Kunawa Schaber",
       "EN": "Kunawa Scraper",
@@ -74,19 +74,19 @@
       "IT": "Kunawa Scraper",
       "PT": "Raspador Kunawa"
     },
-    "seal_id": "MKO",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "mko.office.e",
-    "image_id": "mko.office.e",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "mko.office.e",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Koto-ku",
       "EN": "Koto-ku",
@@ -95,19 +95,19 @@
       "IT": "Koto-ku",
       "PT": "Koto-ku"
     },
-    "seal_id": "MKO",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}
   },
   {
     "id": "mko.office.f",
-    "image_id": "mko.office.f",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "mko.office.f",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Kleines Koto",
       "EN": "Small Koto",
@@ -116,11 +116,11 @@
       "IT": "Piccolo Koto",
       "PT": "Koto Pequeno"
     },
-    "seal_id": "MKO",
-    "zone": "OFFICES",
-    "category": "REAL_ESTATE",
-    "industry_type": "OFFICE",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "OFFICES",
+    "industryCategoryId": "REAL_ESTATE",
+    "industryTypeId": "OFFICE",
+    "requiredInventionIds": [
       "Offices"
     ],
     "office": {}

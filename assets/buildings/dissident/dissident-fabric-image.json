@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.textile.industry",
-    "image_path": "assets/buildings/dissident/images/dis.textile.industry.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.textile.industry.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":187,"y":146},{"x":194,"y":139},{"x":119,"y":28},{"x":112,"y":29},{"x":179,"y":140}],
       [{"x":86,"y":24},{"x":86,"y":39},{"x":139,"y":148},{"x":149,"y":142},{"x":112,"y":29},{"x":108,"y":19}],
       [{"x":262,"y":37},{"x":254,"y":49},{"x":276,"y":64},{"x":274,"y":38}],
@@ -19,10 +19,10 @@
   },
   {
     "id": "dis.textile.industry.small",
-    "image_path": "assets/buildings/dissident/images/dis.textile.industry.small.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.textile.industry.small.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":187,"y":146},{"x":194,"y":139},{"x":119,"y":28},{"x":112,"y":29},{"x":179,"y":140}],
       [{"x":86,"y":24},{"x":86,"y":39},{"x":139,"y":148},{"x":149,"y":142},{"x":112,"y":29},{"x":108,"y":19}],
       [{"x":262,"y":37},{"x":254,"y":49},{"x":276,"y":64},{"x":274,"y":38}],

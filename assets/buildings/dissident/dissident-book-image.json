@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.book.store",
-    "image_path": "assets/buildings/dissident/images/dis.book.store.gif",
-    "tile_width": 1,
-    "tile_height": 1,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.book.store.gif",
+    "tileWidth": 1,
+    "tileHeight": 1,
+    "hitArea": [
       [{"x":0,"y":39},{"x":34,"y":54},{"x":63,"y":37},{"x":46,"y":25},{"x":23,"y":27}],
       [{"x":24,"y":3},{"x":24,"y":12},{"x":46,"y":25},{"x":37,"y":2}],
       [{"x":24,"y":12},{"x":23,"y":27},{"x":46,"y":25}]

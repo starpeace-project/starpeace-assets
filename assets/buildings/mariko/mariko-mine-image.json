@@ -1,10 +1,10 @@
 [
   {
     "id": "mko.mine",
-    "image_path": "assets/buildings/mariko/images/mko.mine.gif",
-    "tile_width": 5,
-    "tile_height": 5,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.mine.gif",
+    "tileWidth": 5,
+    "tileHeight": 5,
+    "hitArea": [
       [{"x":164,"y":2},{"x":138,"y":5},{"x":142,"y":15},{"x":167,"y":26}],
       [{"x":299,"y":98},{"x":290,"y":86},{"x":213,"y":52},{"x":279,"y":115},{"x":289,"y":111}],
       [{"x":8,"y":94},{"x":12,"y":103},{"x":44,"y":120},{"x":102,"y":47},{"x":18,"y":87}],
@@ -18,10 +18,10 @@
   },
   {
     "id": "mko.mine.small",
-    "image_path": "assets/buildings/mariko/images/mko.mine.small.gif",
-    "tile_width": 5,
-    "tile_height": 5,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.mine.small.gif",
+    "tileWidth": 5,
+    "tileHeight": 5,
+    "hitArea": [
       [{"x":164,"y":2},{"x":138,"y":5},{"x":142,"y":15},{"x":167,"y":26}],
       [{"x":299,"y":98},{"x":290,"y":86},{"x":213,"y":52},{"x":279,"y":115},{"x":289,"y":111}],
       [{"x":8,"y":94},{"x":12,"y":103},{"x":44,"y":120},{"x":102,"y":47},{"x":18,"y":87}],

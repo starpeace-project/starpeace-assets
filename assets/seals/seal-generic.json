@@ -1,8 +1,19 @@
 [
   {
     "id": "GEN",
-    "nameShort": "Generic",
-    "nameLong": "Generic",
+    "nameShort": "Public Domain",
+    "nameLong": "Public Domain",
+    "descriptions": [
+      {
+        "DE": "Technologie in der Public Domain.",
+        "EN": "Technology in the Public Domain.",
+        "ES": "La tecnología en el dominio público.",
+        "FR": "Technologie dans le domaine public.",
+        "IT": "La tecnologia nel pubblico dominio.",
+        "PT": "Tecnologia no Domínio Público."
+      }
+    ],
+    "playable": false,
     "buildingIds": [
       "generic.college",
       "generic.dump",

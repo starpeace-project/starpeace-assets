@@ -2,81 +2,81 @@
   {
     "id": "dis.restaurant.a",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 2700,
-        "max_velocity": 135
+        "maxVelocity": 135
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 37.5,
-        "max_velocity": 1.875
+        "maxVelocity": 1.875
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 1,
-        "weight_efficiency": 20,
-        "weight_quality": 15
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 20,
+        "weightQuality": 15
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 20,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 20,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 150,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 150,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "FRESH_FOOD",
-            "max_velocity": 10,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "FRESH_FOOD",
+            "maxVelocity": 10,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           },
           {
-            "resource": "PROCESSED_FOOD",
-            "max_velocity": 6,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "PROCESSED_FOOD",
+            "maxVelocity": 6,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           },
           {
-            "resource": "LIQUOR",
-            "max_velocity": 4,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "LIQUOR",
+            "maxVelocity": 4,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "RESTAURANT_SERVICE",
-            "max_velocity": 20,
+            "resourceId": "RESTAURANT_SERVICE",
+            "maxVelocity": 20,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 20.833333333333333333333333333333,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 20.833333333333333333333333333333,
                 "probability": 0.7
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 41.666666666666666666666666666667,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 41.666666666666666666666666666667,
                 "probability": 0.8
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 125,
+                "resourceId": "WORKER",
+                "maxVelocity": 125,
                 "probability": 0.8
               }
             ]
@@ -88,81 +88,81 @@
   {
     "id": "dis.restaurant.b",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 9000,
-        "max_velocity": 300
+        "maxVelocity": 300
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 125,
-        "max_velocity": 4.1666666666666666666666666666667
+        "maxVelocity": 4.1666666666666666666666666666667
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 2,
-        "weight_efficiency": 20,
-        "weight_quality": 15
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 2,
+        "weightEfficiency": 20,
+        "weightQuality": 15
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 35,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 35,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 250,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 250,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "FRESH_FOOD",
-            "max_velocity": 15,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "FRESH_FOOD",
+            "maxVelocity": 15,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           },
           {
-            "resource": "PROCESSED_FOOD",
-            "max_velocity": 9,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "PROCESSED_FOOD",
+            "maxVelocity": 9,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           },
           {
-            "resource": "LIQUOR",
-            "max_velocity": 6,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "LIQUOR",
+            "maxVelocity": 6,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "RESTAURANT_SERVICE",
-            "max_velocity": 30,
+            "resourceId": "RESTAURANT_SERVICE",
+            "maxVelocity": 30,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 20.833333333333333333333333333333,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 20.833333333333333333333333333333,
                 "probability": 0.7
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 41.666666666666666666666666666667,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 41.666666666666666666666666666667,
                 "probability": 0.8
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 125,
+                "resourceId": "WORKER",
+                "maxVelocity": 125,
                 "probability": 0.8
               }
             ]

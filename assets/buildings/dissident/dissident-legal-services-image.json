@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.legal.services",
-    "image_path": "assets/buildings/dissident/images/dis.legal.services.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.legal.services.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":105,"y":53},{"x":88,"y":15},{"x":70,"y":3},{"x":49,"y":7},{"x":23,"y":48},{"x":34,"y":66},{"x":54,"y":71},{"x":76,"y":71}]
     ]
   }

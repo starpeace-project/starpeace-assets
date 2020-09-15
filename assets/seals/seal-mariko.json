@@ -3,6 +3,57 @@
     "id": "MKO",
     "nameShort": "Mariko",
     "nameLong": "Mariko Enterprises",
+    "descriptions": [
+      {
+        "DE": "Mariko Enterprises bietet wettbewerbsfähige Lösungen, die auf den Kenntnissen basieren, die im letzten Jahrhundert von den Japanern entwickelt wurden.",
+        "EN": "Mariko Enterprises offers highly competitive solutions based on the knowledge developed by the Japanese in the last century.",
+        "ES": "Empresas Mariko oferta soluciones de elevada competitividad basadas en los conocimientos desarrollados por los japoneses en el siglo pasado.",
+        "FR": "Mariko Enterprises vous offre des solutions ultra compétitives héritées des connaissances développées par les japonais au siècle dernier.",
+        "IT": "Mariko Enterprises offre soluzioni estremamente competitive basate sulla conoscenza sviluppata dai Giapponesi nel secolo scorso.",
+        "PT": "A Mariko Enterprises oferece soluções altamente competitivas baseadas no conhecimento desenvolvido pelos japoneses no século passado."
+      },
+      {
+        "DE": "Ihre Designs sind dafür bekannt, nur wenige Arbeiter zu benötigen.",
+        "EN": "Since Mariko Industries are highly automated, they need fewer workers and are very efficient. Their smaller structures are relatively low priced and guarantee less pollution. Plastic production and CDs are reserved to the Mariko Seal. Its strongest business areas are electronic components, lawyers, offices, household appliances and business machines.",
+        "ES": "Sus diseños son famosos debido al bajo número de trabajadores que se requieren.",
+        "FR": "Leurs schémas de production sont renommés pour les faibles taux d'effectif qu'ils requièrent.",
+        "IT": "Caratteristica fondamentale è il basso numero di lavoratori necessari.",
+        "PT": "Como as Indústrias Mariko são altamente automatizadas, elas precisam de menos trabalhadores e são muito eficientes. Suas estruturas menores têm preços relativamente baixos e garantem menos poluição. A produção de plásticos e CDs estão reservados ao Selo Mariko. Suas áreas de negócios mais fortes são componentes eletrônicos, advogados, escritórios, eletrodomésticos e máquinas comerciais."
+      }
+    ],
+    "pros": {
+      "DE": "Niedrige Schadstoffwerte. Hoher Automatisierungsgrad der Industrie. Hohe Effizienz. Relativ niedrige Preise.",
+      "EN": "Low levels of pollution. Industies highly automated. High levels of efficency. Relatively low prices.",
+      "ES": "Bajos niveles de contaminación. Industrias altamente automatizadas. Altos niveles de eficiencia. Precios relativamente bajos.",
+      "FR": "Faibles niveaux de pollution. Industries largement automatisées. Niveaux d'efficacité élevés. Prix relativement bas.",
+      "IT": "Basso inquinamento. Industrie altamente automatizzate. Alti livelli di efficienza. Prezzi relativamente bassi.",
+      "PT": "Baixos níveis de poluição. Indústrias altamente automatizadas. Altos níveis de eficiência. Preços relativamente baixos."
+    },
+    "cons": {
+      "DE": "Wenig resistent gegenüber Kriminalität und Umweltverschmutzung. Hohe Automatisierung kann zu Arbeitslosigkeit führen.",
+      "EN": "Low resistance to crime and pollution. High automation can increase unemployment.",
+      "ES": "Baja resistencia al Crimen y la contaminación. Elevada automatización puede incrementar el desempleo.",
+      "FR": "Peu d'emprise sur la criminalité et la pollution. Automatisation élevée génératrice de chômage.",
+      "IT": "Bassa resistenza al crimine e all'inquinamento. L'estesa automatizzazione può aumentare la disoccupazione.",
+      "PT": "Baixa resistência ao crime e poluição. Alta automação pode aumentar o desemprego."
+    },
+    "strengths": {
+      "DE": "Elektronische Komponenten, Anwälte, Bürogebäude, Haushaltsgeräte und Ausrüstungsgüter",
+      "EN": "Electronic components, lawyers, office buildings, household appliances and business machines",
+      "ES": "Componentes electrónicos, abogados, oficinas, electrodomésticos e implementos de oficina",
+      "FR": "Composants électronique, avocats, bureaux, électroménager et biens d'équipement",
+      "IT": "Componenti elettronici, studi legali, uffici, elettrodomestici e macchine per ufficio",
+      "PT": "Componentes eletrônicos, advogados, prédios de escritórios, eletrodomésticos e máquinas comerciais"
+    },
+    "weaknesses": {
+      "DE": "Lebensmittelherstellung, Wohnhäuser und Medien",
+      "EN": "Food processing, residentials buildings and media",
+      "ES": "Procesadoras de Alimentos, residenciales y medios de comunicación",
+      "FR": "Agro-alimentaire, immeubles résidentiels et sociétés de communication",
+      "IT": "Impianti alimentari, edifici residenziali e media",
+      "PT": "Processamento de alimentos, edifícios residenciais e mídia"
+    },
+    "playable": true,
     "buildingIds": [
       "generic.college",
       "generic.dump",

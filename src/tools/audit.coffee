@@ -43,5 +43,6 @@ Promise.resolve AuditIndustry.audit(industry_root_dir)
 
   .catch (err) ->
     console.log "\n-------------------------------------------------------------------------------\n"
+    console.log err
     console.log " [ERROR] encountered problems during STARPEACE audit: #{err}\n"
     process.exit(1)

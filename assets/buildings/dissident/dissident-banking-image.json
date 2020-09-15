@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.bank",
-    "image_path": "assets/buildings/dissident/images/dis.bank.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.bank.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":49,"y":1},{"x":45,"y":2},{"x":47,"y":14},{"x":49,"y":14}],
       [{"x":0,"y":55},{"x":61,"y":86},{"x":127,"y":56},{"x":128,"y":54},{"x":110,"y":46},{"x":32,"y":38}],
       [{"x":31,"y":32},{"x":32,"y":38},{"x":110,"y":46},{"x":101,"y":38},{"x":83,"y":27},{"x":57,"y":23},{"x":39,"y":29}],

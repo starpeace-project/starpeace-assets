@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.food.proc",
-    "image_path": "assets/buildings/dissident/images/dis.food.proc.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.food.proc.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":71,"y":35},{"x":71,"y":46},{"x":78,"y":47},{"x":116,"y":36}],
       [{"x":165,"y":74},{"x":154,"y":94},{"x":179,"y":86}],
       [{"x":118,"y":262},{"x":120,"y":251},{"x":73,"y":184},{"x":109,"y":248}],
@@ -36,10 +36,10 @@
   },
   {
     "id": "dis.food.proc.small",
-    "image_path": "assets/buildings/dissident/images/dis.food.proc.small.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.food.proc.small.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":79,"y":47},{"x":94,"y":52},{"x":139,"y":62},{"x":103,"y":2},{"x":87,"y":9},{"x":77,"y":27}],
       [{"x":158,"y":60},{"x":155,"y":66},{"x":169,"y":71}],
       [{"x":28,"y":121},{"x":48,"y":150},{"x":91,"y":166},{"x":169,"y":71},{"x":155,"y":66},{"x":139,"y":62},{"x":92,"y":77},{"x":40,"y":103}],

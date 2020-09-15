@@ -1,10 +1,10 @@
 [
   {
     "id": "mko.hq.1",
-    "image_path": "assets/buildings/mariko/images/mko.hq.1.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.hq.1.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":97,"y":1},{"x":70,"y":65},{"x":129,"y":69}],
       [{"x":172,"y":72},{"x":158,"y":84},{"x":175,"y":93},{"x":175,"y":84}],
       [{"x":38,"y":65},{"x":27,"y":81},{"x":50,"y":73}],
@@ -15,10 +15,10 @@
   },
   {
     "id": "mko.hq.2",
-    "image_path": "assets/buildings/mariko/images/mko.hq.2.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.hq.2.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":170,"y":173},{"x":160,"y":188},{"x":175,"y":196},{"x":175,"y":187}],
       [{"x":3,"y":191},{"x":2,"y":208},{"x":25,"y":184}],
       [{"x":38,"y":168},{"x":25,"y":184},{"x":52,"y":171}],
@@ -30,10 +30,10 @@
   },
   {
     "id": "mko.hq.3",
-    "image_path": "assets/buildings/mariko/images/mko.hq.3.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.hq.3.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":171,"y":378},{"x":156,"y":393},{"x":175,"y":401}],
       [{"x":91,"y":458},{"x":188,"y":413},{"x":175,"y":401},{"x":156,"y":393},{"x":28,"y":389},{"x":0,"y":407}],
       [{"x":38,"y":373},{"x":28,"y":389},{"x":47,"y":376}],
@@ -46,10 +46,10 @@
   },
   {
     "id": "mko.hq.4",
-    "image_path": "assets/buildings/mariko/images/mko.hq.4.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.hq.4.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":171,"y":482},{"x":154,"y":493},{"x":175,"y":505}],
       [{"x":91,"y":562},{"x":188,"y":517},{"x":28,"y":493},{"x":0,"y":511}],
       [{"x":3,"y":500},{"x":0,"y":511},{"x":28,"y":493},{"x":22,"y":489}],
@@ -62,10 +62,10 @@
   },
   {
     "id": "mko.hq.5",
-    "image_path": "assets/buildings/mariko/images/mko.hq.5.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/mariko/images/mko.hq.5.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":171,"y":584},{"x":155,"y":596},{"x":175,"y":607}],
       [{"x":91,"y":664},{"x":188,"y":619},{"x":43,"y":579},{"x":3,"y":602},{"x":0,"y":613}],
       [{"x":43,"y":579},{"x":188,"y":619},{"x":175,"y":607},{"x":155,"y":596},{"x":47,"y":559}],

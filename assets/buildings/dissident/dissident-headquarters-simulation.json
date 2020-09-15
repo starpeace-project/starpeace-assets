@@ -2,38 +2,38 @@
   {
     "id": "dis.hq",
     "type": "HEADQUARTERS",
-    "max_level": 5,
+    "maxLevel": 5,
     "beauty": 100,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 3000
+        "maxVelocity": 3000
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 2500,
-        "max_velocity": 250
+        "maxVelocity": 250
       }
     ],
     "labor": [
       {
-        "resource": "EXECUTIVE",
-        "max_velocity": 50,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 50,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 25,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 25,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 10,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ]
   }

@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.bank",
-    "image_id": "dis.bank",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "dis.bank",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Bank",
       "EN": "Bank",
@@ -11,11 +11,11 @@
       "IT": "Banca",
       "PT": "Banco"
     },
-    "seal_id": "DIS",
-    "zone": "COMMERCIAL",
-    "category": "SERVICE",
-    "industry_type": "BANKING",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "BANKING",
+    "requiredInventionIds": [
       "Banking"
     ]
   }

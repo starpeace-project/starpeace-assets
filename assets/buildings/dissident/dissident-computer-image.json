@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.bm.industry",
-    "image_path": "assets/buildings/dissident/images/dis.bm.industry.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.bm.industry.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":44,"y":48},{"x":31,"y":129},{"x":81,"y":164},{"x":98,"y":162},{"x":174,"y":39},{"x":157,"y":35},{"x":121,"y":32}],
       [{"x":179,"y":23},{"x":174,"y":39},{"x":152,"y":174},{"x":204,"y":91},{"x":204,"y":50},{"x":197,"y":21}],
       [{"x":242,"y":125},{"x":225,"y":115},{"x":211,"y":148}],

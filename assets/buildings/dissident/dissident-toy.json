@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.toy.industry",
-    "image_id": "dis.toy.industry",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "dis.toy.industry",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Spielzeugfabrik",
       "EN": "Toy Factory",
@@ -11,18 +11,18 @@
       "IT": "Fabbrica di giocattoli",
       "PT": "Fábrica de brinquedos"
     },
-    "seal_id": "DIS",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "TOY",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "TOY",
+    "requiredInventionIds": [
       "ToyIndustry"
     ]
   },
   {
     "id": "dis.toy.store",
-    "image_id": "dis.toy.store",
-    "construction_image_id": "generic.construction.1",
+    "imageId": "dis.toy.store",
+    "constructionImageId": "generic.construction.1",
     "name": {
       "DE": "Spielzeugladen",
       "EN": "Toy Store",
@@ -31,11 +31,11 @@
       "IT": "Negozio di giocattoli",
       "PT": "Loja de brinquedos"
     },
-    "seal_id": "DIS",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "TOY",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "TOY",
+    "requiredInventionIds": [
       "BasicCommerce"
     ],
     "commerce": {}

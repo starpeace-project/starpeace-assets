@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.hha.industry",
-    "image_id": "pgi.hha.industry",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "pgi.hha.industry",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Große Gerätefabrik",
       "EN": "Large Appliances Factory",
@@ -11,18 +11,18 @@
       "IT": "Grande fabbrica di elettrodomestici",
       "PT": "Fábrica de Grandes Eletrodomésticos"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "APPLIANCE",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "APPLIANCE",
+    "requiredInventionIds": [
       "LSAppProd"
     ]
   },
   {
     "id": "pgi.hha.industry.small",
-    "image_id": "pgi.hha.industry.small",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "pgi.hha.industry.small",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Gerätefabrik",
       "EN": "Appliances Factory",
@@ -31,11 +31,11 @@
       "IT": "Fabbrica di elettrodomestici",
       "PT": "Fábrica de Eletrodomésticos"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "APPLIANCE",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "APPLIANCE",
+    "requiredInventionIds": [
       "HHALic"
     ]
   }

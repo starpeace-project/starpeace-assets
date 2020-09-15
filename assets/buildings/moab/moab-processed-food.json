@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.food.proc",
-    "image_id": "moab.food.proc",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "moab.food.proc",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Food Dome",
       "EN": "Food Dome",
@@ -11,11 +11,11 @@
       "IT": "Cupola alimentare",
       "PT": "Cúpula Alimentar"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "PROCESSED_FOOD",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "PROCESSED_FOOD",
+    "requiredInventionIds": [
       "FoodPrcLic"
     ]
   }

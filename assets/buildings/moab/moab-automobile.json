@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.car.industry",
-    "image_id": "moab.car.industry",
-    "construction_image_id": "generic.construction.6",
+    "imageId": "moab.car.industry",
+    "constructionImageId": "generic.construction.6",
     "name": {
       "DE": "Automobile Dome",
       "EN": "Automobile Dome",
@@ -11,18 +11,18 @@
       "IT": "Cupola dell'automobile",
       "PT": "Cúpula Automóvel"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "AUTOMOBILE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "AUTOMOBILE",
+    "requiredInventionIds": [
       "AutoInd"
     ]
   },
   {
     "id": "moab.car.store",
-    "image_id": "moab.car.store",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "moab.car.store",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Autohändler",
       "EN": "Automobile Dealership",
@@ -31,11 +31,11 @@
       "IT": "Concessionaria automobilistica",
       "PT": "Concessionária de Automóveis"
     },
-    "seal_id": "MOAB",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "AUTOMOBILE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "AUTOMOBILE",
+    "requiredInventionIds": [
       "BasicCommerce"
     ],
     "commerce": {}

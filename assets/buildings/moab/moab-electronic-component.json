@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.elect.comp.industry",
-    "image_id": "moab.elect.comp.industry",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "moab.elect.comp.industry",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Haube von Chips",
       "EN": "Dome of Chips",
@@ -11,11 +11,11 @@
       "IT": "Cupola di patatine",
       "PT": "Cúpula de batatas fritas"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "ELECTRONIC_COMPONENT",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "ELECTRONIC_COMPONENT",
+    "requiredInventionIds": [
       "ElecLic"
     ]
   }

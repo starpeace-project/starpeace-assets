@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.clothes.industry",
-    "image_id": "pgi.clothes.industry",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "pgi.clothes.industry",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Bekleidungsfabrik",
       "EN": "Clothing Factory",
@@ -11,18 +11,18 @@
       "IT": "Fabbrica di abbigliamento",
       "PT": "Fábrica de Roupas"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "CLOTHES",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "CLOTHES",
+    "requiredInventionIds": [
       "LSCManuf"
     ]
   },
   {
     "id": "pgi.clothes.industry.small",
-    "image_id": "pgi.clothes.industry.small",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "pgi.clothes.industry.small",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine Bekleidungsfabrik",
       "EN": "Small Clothing Factory",
@@ -31,11 +31,11 @@
       "IT": "Piccola fabbrica di abbigliamento",
       "PT": "Fábrica de Roupas Pequenas"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "CLOTHES",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "CLOTHES",
+    "requiredInventionIds": [
       "ClothesLic"
     ]
   }

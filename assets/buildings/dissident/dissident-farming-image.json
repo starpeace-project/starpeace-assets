@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.farm",
-    "image_path": "assets/buildings/dissident/images/dis.farm.gif",
-    "tile_width": 5,
-    "tile_height": 5,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.farm.gif",
+    "tileWidth": 5,
+    "tileHeight": 5,
+    "hitArea": [
       [{"x":4,"y":93},{"x":27,"y":112},{"x":59,"y":121},{"x":31,"y":80}],
       [{"x":320,"y":100},{"x":319,"y":91},{"x":258,"y":56},{"x":307,"y":103}],
       [{"x":40,"y":33},{"x":29,"y":42},{"x":31,"y":57},{"x":54,"y":62},{"x":54,"y":39}],
@@ -23,10 +23,10 @@
   },
   {
     "id": "dis.farm.small",
-    "image_path": "assets/buildings/dissident/images/dis.farm.small.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.farm.small.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":142,"y":10},{"x":138,"y":20},{"x":153,"y":32},{"x":153,"y":25}],
       [{"x":132,"y":12},{"x":117,"y":18},{"x":138,"y":20}],
       [{"x":97,"y":106},{"x":192,"y":58},{"x":153,"y":32},{"x":117,"y":18},{"x":31,"y":35},{"x":4,"y":60}],

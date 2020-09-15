@@ -2,47 +2,47 @@
   {
     "id": "dis.police",
     "type": "SERVICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "maintainance": 500,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 45000,
-        "max_velocity": 2250
+        "maxVelocity": 2250
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 31.25,
-        "max_velocity": 1.5625
+        "maxVelocity": 1.5625
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 312.5,
-        "max_velocity": 15.625
+        "maxVelocity": 15.625
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 2,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 2,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 80,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 80,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ],
     "service": [
       {
-        "resource": "POLICE_SERVICE",
-        "max_velocity": 5000
+        "resourceId": "POLICE_SERVICE",
+        "maxVelocity": 5000
       },
       {
-        "resource": "FIRE_SERVICE",
-        "max_velocity": 10000
+        "resourceId": "FIRE_SERVICE",
+        "maxVelocity": 10000
       }
     ]
   }

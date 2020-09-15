@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.computing",
-    "image_id": "dis.computing",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "dis.computing",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Computer Service",
       "EN": "Computer Services",
@@ -11,11 +11,11 @@
       "IT": "Servizi informatici",
       "PT": "Serviços informáticos"
     },
-    "seal_id": "DIS",
-    "zone": "SERVICE",
-    "category": "SERVICE",
-    "industry_type": "COMPUTER_SERVICES",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "COMPUTER_SERVICES",
+    "requiredInventionIds": [
       "SoftwareFirms"
     ]
   }

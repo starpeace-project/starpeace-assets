@@ -1,8 +1,8 @@
 [
   {
     "id": "mko.textile.industry",
-    "image_id": "mko.textile.industry",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "mko.textile.industry",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Textilfabrik",
       "EN": "Textile Factory",
@@ -11,19 +11,19 @@
       "IT": "Fabbrica tessile",
       "PT": "Fábrica têxtil"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "FABRIC",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "FABRIC",
+    "requiredInventionIds": [
       "LSTextile"
     ]
   },
   {
     "id": "mko.textile.industry.small",
-    "image_id": "mko.textile.industry.small",
-    "image_path": "assets/buildings/mariko/images/mko.textile.industry.small.gif",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "mko.textile.industry.small",
+    "imagePath": "assets/buildings/mariko/images/mko.textile.industry.small.gif",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kleine Textilfabrik",
       "EN": "Small Textile Factory",
@@ -32,11 +32,11 @@
       "IT": "Piccola fabbrica tessile",
       "PT": "Fábrica de Pequenos Têxteis"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "FABRIC",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "FABRIC",
+    "requiredInventionIds": [
       "TextileLic"
     ]
   }

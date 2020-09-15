@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.school",
-    "image_path": "assets/buildings/dissident/images/dis.school.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.school.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":161,"y":62},{"x":148,"y":40},{"x":122,"y":32},{"x":63,"y":30},{"x":39,"y":79},{"x":81,"y":95},{"x":113,"y":95},{"x":144,"y":86}],
       [{"x":32,"y":56},{"x":39,"y":79},{"x":63,"y":30}],
       [{"x":122,"y":26},{"x":105,"y":26},{"x":122,"y":32}],

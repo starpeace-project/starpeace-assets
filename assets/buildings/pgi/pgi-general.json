@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.townhall",
-    "image_id": "pgi.townhall",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "pgi.townhall",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Rathaus",
       "EN": "Townhall",
@@ -11,17 +11,17 @@
       "IT": "Municipio",
       "PT": "Prefeitura"
     },
-    "seal_id": "PGI",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "GOVERNMENT",
+    "sealId": "PGI",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "GOVERNMENT",
     "restricted": true,
-    "required_inventions": []
+    "requiredInventionIds": []
   },
   {
     "id": "pgi.tradecenter",
-    "image_id": "pgi.tradecenter",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "pgi.tradecenter",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Handelszentrum",
       "EN": "Tradecenter",
@@ -30,11 +30,11 @@
       "IT": "Tradecenter",
       "PT": "Centro comercial"
     },
-    "seal_id": "PGI",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "GOVERNMENT",
+    "sealId": "PGI",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "GOVERNMENT",
     "restricted": true,
-    "required_inventions": []
+    "requiredInventionIds": []
   }
 ]

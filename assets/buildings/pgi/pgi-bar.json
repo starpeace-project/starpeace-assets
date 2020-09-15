@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.bar",
-    "image_id": "pgi.bar",
-    "construction_image_id": "generic.construction.1",
+    "imageId": "pgi.bar",
+    "constructionImageId": "generic.construction.1",
     "name": {
       "DE": "Bar",
       "EN": "Bar",
@@ -11,11 +11,11 @@
       "IT": "Bar",
       "PT": "Barra"
     },
-    "seal_id": "PGI",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "BAR",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "BAR",
+    "requiredInventionIds": [
       "Bars"
     ],
     "commerce": {}

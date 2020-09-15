@@ -1,9 +1,9 @@
 [
   {
     "id": "mko.mine.silicon",
-    "image_id": "mko.mine",
+    "imageId": "mko.mine",
     "sign_id": "silicon",
-    "construction_image_id": "generic.construction.5",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Siliziummine",
       "EN": "Silicon Mine",
@@ -12,19 +12,19 @@
       "IT": "Miniera di Silicio",
       "PT": "Mina De Silício"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "SILICON",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "SILICON",
+    "requiredInventionIds": [
       "SiliconLSMining"
     ]
   },
   {
     "id": "mko.mine.silicon.small",
-    "image_id": "mko.mine.small",
+    "imageId": "mko.mine.small",
     "sign_id": "silicon",
-    "construction_image_id": "generic.construction.5",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kleine Siliziummine",
       "EN": "Small Silicon Mine",
@@ -33,11 +33,11 @@
       "IT": "Piccola Miniera di Silicio",
       "PT": "Mina de Silício Pequena"
     },
-    "seal_id": "MKO",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "SILICON",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "SILICON",
+    "requiredInventionIds": [
       "SiliconMining"
     ]
   }

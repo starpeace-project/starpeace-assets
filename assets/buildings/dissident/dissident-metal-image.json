@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.metal.industry",
-    "image_path": "assets/buildings/dissident/images/dis.metal.industry.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.metal.industry.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":108,"y":2},{"x":94,"y":10},{"x":91,"y":44},{"x":104,"y":19}],
       [{"x":143,"y":5},{"x":149,"y":13},{"x":150,"y":2}],
       [{"x":233,"y":56},{"x":223,"y":59},{"x":215,"y":97},{"x":233,"y":72}],
@@ -35,10 +35,10 @@
   },
   {
     "id": "dis.metal.industry.small",
-    "image_path": "assets/buildings/dissident/images/dis.metal.industry.small.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.metal.industry.small.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":108,"y":2},{"x":94,"y":10},{"x":91,"y":44},{"x":104,"y":19}],
       [{"x":143,"y":5},{"x":149,"y":13},{"x":150,"y":2}],
       [{"x":233,"y":56},{"x":223,"y":59},{"x":215,"y":97},{"x":233,"y":72}],

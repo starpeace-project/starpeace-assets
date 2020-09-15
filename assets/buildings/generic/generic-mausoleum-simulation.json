@@ -2,40 +2,40 @@
   {
     "id": "generic.mausoleum.legend",
     "type": "MAUSOLEUM",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 10000000,
-        "max_velocity": 83333.33333
+        "maxVelocity": 83333.33333
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5
+        "resourceId": "WORKER",
+        "maxVelocity": 5
       }
     ]
   },
   {
     "id": "generic.mausoleum.paradigm",
     "type": "MAUSOLEUM",
-    "max_level": 1,
+    "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 10000000,
-        "max_velocity": 83333.33333
+        "maxVelocity": 83333.33333
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 5
+        "resourceId": "WORKER",
+        "maxVelocity": 5
       }
     ]
   }

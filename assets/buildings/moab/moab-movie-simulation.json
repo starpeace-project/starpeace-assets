@@ -2,81 +2,81 @@
   {
     "id": "moab.movie",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 13500,
-        "max_velocity": 675
+        "maxVelocity": 675
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 187.5,
-        "max_velocity": 9.375
+        "maxVelocity": 9.375
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 8,
-        "weight_efficiency": 20,
-        "weight_quality": 5
+        "resourceId": "WORKER",
+        "maxVelocity": 8,
+        "weightEfficiency": 20,
+        "weightQuality": 5
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 100,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 100,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       },
       {
-        "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.16,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 0.16,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       },
       {
-        "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.08,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 0.08,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "FILM",
-            "max_velocity": 0.04166666666666666666666666666667,
-            "weight_efficiency": 20,
-            "weight_quality": 100
+            "resourceId": "FILM",
+            "maxVelocity": 0.04166666666666666666666666666667,
+            "weightEfficiency": 20,
+            "weightQuality": 100
           },
           {
-            "resource": "PROCESSED_FOOD",
-            "max_velocity": 5,
-            "weight_efficiency": 20,
-            "weight_quality": 10
+            "resourceId": "PROCESSED_FOOD",
+            "maxVelocity": 5,
+            "weightEfficiency": 20,
+            "weightQuality": 10
           }
         ],
         "outputs": [
           {
-            "resource": "MOVIE",
-            "max_velocity": 40,
+            "resourceId": "MOVIE",
+            "maxVelocity": 40,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 3.75,
                 "probability": 0.5
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 6.25,
                 "probability": 0.5
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 10,
+                "resourceId": "WORKER",
+                "maxVelocity": 10,
                 "probability": 0.7
               }
             ]

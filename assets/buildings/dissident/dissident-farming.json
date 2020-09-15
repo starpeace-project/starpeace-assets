@@ -1,8 +1,8 @@
 [
   {
     "id": "dis.farm",
-    "image_id": "dis.farm",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "dis.farm",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Bauernhof",
       "EN": "Farm",
@@ -11,18 +11,18 @@
       "IT": "Azienda agricola",
       "PT": "Fazenda"
     },
-    "seal_id": "DIS",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "FARMING",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "FARMING",
+    "requiredInventionIds": [
       "LargeFarms"
     ]
   },
   {
     "id": "dis.farm.small",
-    "image_id": "dis.farm.small",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "dis.farm.small",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine Farm",
       "EN": "Small Farm",
@@ -31,11 +31,11 @@
       "IT": "Piccola fattoria",
       "PT": "Fazendinha"
     },
-    "seal_id": "DIS",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "FARMING",
-    "required_inventions": [
+    "sealId": "DIS",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "FARMING",
+    "requiredInventionIds": [
       "FarmLic"
     ]
   }

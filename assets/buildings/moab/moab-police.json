@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.correctional",
-    "image_id": "moab.correctional",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "moab.correctional",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Moab Correctional",
       "EN": "Moab Correctional",
@@ -11,11 +11,11 @@
       "IT": "Moab Correctional",
       "PT": "Moab Correcional"
     },
-    "seal_id": "MOAB",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "POLICE",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "POLICE",
+    "requiredInventionIds": [
       "CivicFac"
     ]
   }

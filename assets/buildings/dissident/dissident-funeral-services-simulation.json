@@ -2,87 +2,87 @@
   {
     "id": "dis.funeral",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 90000,
-        "max_velocity": 4500
+        "maxVelocity": 4500
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 1250,
-        "max_velocity": 62.5
+        "maxVelocity": 62.5
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 1,
-        "weight_efficiency": 20,
-        "weight_quality": 15
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 20,
+        "weightQuality": 15
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 10,
-        "weight_efficiency": 20,
-        "weight_quality": 17
+        "resourceId": "WORKER",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 17
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 100,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 100,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "PROCESSED_FOOD",
-            "max_velocity": 100,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "PROCESSED_FOOD",
+            "maxVelocity": 100,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           },
           {
-            "resource": "FABRIC",
-            "max_velocity": 20,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "FABRIC",
+            "maxVelocity": 20,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           },
           {
-            "resource": "TIMBER",
-            "max_velocity": 40,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "TIMBER",
+            "maxVelocity": 40,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           },
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 1,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 1,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "FUNERAL_SERVICE",
-            "max_velocity": 1,
+            "resourceId": "FUNERAL_SERVICE",
+            "maxVelocity": 1,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 3.75,
                 "probability": 0.8
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 6.25,
                 "probability": 0.8
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 10,
+                "resourceId": "WORKER",
+                "maxVelocity": 10,
                 "probability": 0.8
               }
             ]

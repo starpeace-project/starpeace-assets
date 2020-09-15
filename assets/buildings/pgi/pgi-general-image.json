@@ -1,10 +1,10 @@
 [
   {
     "id": "pgi.townhall",
-    "image_path": "assets/buildings/pgi/images/pgi.townhall.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/pgi/images/pgi.townhall.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":36,"y":63},{"x":28,"y":71},{"x":28,"y":101},{"x":44,"y":93},{"x":45,"y":70}],
       [{"x":218,"y":64},{"x":211,"y":72},{"x":211,"y":92},{"x":228,"y":100},{"x":228,"y":72}],
       [{"x":132,"y":19},{"x":122,"y":21},{"x":119,"y":30},{"x":137,"y":32}],
@@ -16,10 +16,10 @@
   },
   {
     "id": "pgi.tradecenter",
-    "image_path": "assets/buildings/pgi/images/pgi.tradecenter.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/pgi/images/pgi.tradecenter.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":7,"y":78},{"x":61,"y":106},{"x":123,"y":77},{"x":87,"y":46},{"x":41,"y":45}],
       [{"x":87,"y":46},{"x":82,"y":11},{"x":70,"y":2},{"x":57,"y":2},{"x":45,"y":10},{"x":41,"y":45}]
     ]

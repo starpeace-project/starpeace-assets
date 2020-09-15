@@ -2,69 +2,69 @@
   {
     "id": "dis.movie",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 22500,
-        "max_velocity": 1500
+        "maxVelocity": 1500
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 312.5,
-        "max_velocity": 20.833333333333333333333333333333
+        "maxVelocity": 20.833333333333333333333333333333
       }
     ],
     "labor": [
       {
-        "resource": "WORKER",
-        "max_velocity": 8,
-        "weight_efficiency": 20,
-        "weight_quality": 5
+        "resourceId": "WORKER",
+        "maxVelocity": 8,
+        "weightEfficiency": 20,
+        "weightQuality": 5
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 174,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 174,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "FILM",
-            "max_velocity": 0.04166666666666666666666666666667,
-            "weight_efficiency": 20,
-            "weight_quality": 100
+            "resourceId": "FILM",
+            "maxVelocity": 0.04166666666666666666666666666667,
+            "weightEfficiency": 20,
+            "weightQuality": 100
           },
           {
-            "resource": "PROCESSED_FOOD",
-            "max_velocity": 5,
-            "weight_efficiency": 20,
-            "weight_quality": 10
+            "resourceId": "PROCESSED_FOOD",
+            "maxVelocity": 5,
+            "weightEfficiency": 20,
+            "weightQuality": 10
           }
         ],
         "outputs": [
           {
-            "resource": "MOVIE",
-            "max_velocity": 40,
+            "resourceId": "MOVIE",
+            "maxVelocity": 40,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 1.3333333333333333333333333333333,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 1.3333333333333333333333333333333,
                 "probability": 0.5
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 35,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 35,
                 "probability": 0.5
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 65,
+                "resourceId": "WORKER",
+                "maxVelocity": 65,
                 "probability": 0.7
               }
             ]

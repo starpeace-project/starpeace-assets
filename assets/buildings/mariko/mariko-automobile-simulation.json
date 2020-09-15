@@ -2,101 +2,100 @@
   {
     "id": "mko.car.industry",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 201600,
-        "max_velocity": 3665.4545454545455
+        "maxVelocity": 3665.4545454545455
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 2835,
-        "max_velocity": 51.54545454545455
+        "maxVelocity": 51.54545454545455
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 9450,
-        "max_velocity": 171.8181818181818
+        "maxVelocity": 171.8181818181818
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "EXECUTIVE",
-            "max_velocity": 1,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 1,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 4,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 4,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 201,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 201,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "COMPUTER_SERVICE",
-            "max_velocity": 1.8,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "COMPUTER_SERVICE",
+            "maxVelocity": 1.8,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "LEGAL_SERVICE",
-            "max_velocity": 0.54,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "LEGAL_SERVICE",
+            "maxVelocity": 0.54,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [
           {
-            "resource": "METAL",
-            "max_velocity": 360,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "METAL",
+            "maxVelocity": 360,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "FABRIC",
-            "max_velocity": 32,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "FABRIC",
+            "maxVelocity": 32,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "ELECTRONIC_COMPONENT",
-            "max_velocity": 14,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ELECTRONIC_COMPONENT",
+            "maxVelocity": 14,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 18,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 18,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "PLASTIC",
-            "max_velocity": 18,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PLASTIC",
+            "maxVelocity": 18,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "outputs": [
           {
-            "resource": "AUTOMOBILE",
-            "max_velocity": 0.54,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "AUTOMOBILE",
+            "maxVelocity": 0.54,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }
@@ -105,81 +104,81 @@
   {
     "id": "mko.car.store",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 4500,
-        "max_velocity": 128.5714286
+        "maxVelocity": 128.5714286
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 62.5,
-        "max_velocity": 1.785714286
+        "maxVelocity": 1.785714286
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 2,
-        "weight_efficiency": 20,
-        "weight_quality": 15
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 2,
+        "weightEfficiency": 20,
+        "weightQuality": 15
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 10,
-        "weight_efficiency": 20,
-        "weight_quality": 10
+        "resourceId": "WORKER",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 10
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 150,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 150,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       },
       {
-        "resource": "COMPUTER_SERVICE",
-        "max_velocity": 0.32,
-        "weight_efficiency": 5,
-        "weight_quality": 5
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 0.32,
+        "weightEfficiency": 5,
+        "weightQuality": 5
       },
       {
-        "resource": "LEGAL_SERVICE",
-        "max_velocity": 0.16,
-        "weight_efficiency": 5,
-        "weight_quality": 5
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 0.16,
+        "weightEfficiency": 5,
+        "weightQuality": 5
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "AUTOMOBILE",
-            "max_velocity": 4,
-            "weight_efficiency": 30,
-            "weight_quality": 50
+            "resourceId": "AUTOMOBILE",
+            "maxVelocity": 4,
+            "weightEfficiency": 30,
+            "weightQuality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "AUTOMOBILE",
-            "max_velocity": 4,
+            "resourceId": "AUTOMOBILE",
+            "maxVelocity": 4,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 3.75,
                 "probability": 0.9
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 6.25,
                 "probability": 0.9
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 10,
+                "resourceId": "WORKER",
+                "maxVelocity": 10,
                 "probability": 0.9
               }
             ]

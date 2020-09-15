@@ -2,49 +2,49 @@
   {
     "id": "pgi.hospital",
     "type": "SERVICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "maintainance": 1000,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 90000,
-        "max_velocity": 4500
+        "maxVelocity": 4500
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 62.5,
-        "max_velocity": 3.125
+        "maxVelocity": 3.125
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 625,
-        "max_velocity": 31.25
+        "maxVelocity": 31.25
       }
     ],
     "labor": [
       {
-        "resource": "EXECUTIVE",
-        "max_velocity": 20,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 20,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 50,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 50,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 30,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 30,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ],
     "service": [
       {
-        "resource": "MEDICAL_SERVICE",
-        "max_velocity": 40000
+        "resourceId": "MEDICAL_SERVICE",
+        "maxVelocity": 40000
       }
     ]
   }

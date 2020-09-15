@@ -2,64 +2,63 @@
   {
     "id": "moab.farm",
     "type": "FACTORY",
-    "max_level": 100,
-    "construction_inputs": [
+    "maxLevel": 100,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 84000,
-        "max_velocity": 3360
+        "maxVelocity": 3360
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 196.875,
-        "max_velocity": 7.875
+        "maxVelocity": 7.875
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 656.25,
-        "max_velocity": 26.25
+        "maxVelocity": 26.25
       }
     ],
     "stages": [
       {
         "index": 1,
         "duration": 1,
-        "stage_inputs": [],
         "labor": [
           {
-            "resource": "PROFESSIONAL",
-            "max_velocity": 1,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 1,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "WORKER",
-            "max_velocity": 37,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "WORKER",
+            "maxVelocity": 37,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "operations": [
           {
-            "resource": "CHEMICAL",
-            "max_velocity": 0.45,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "CHEMICAL",
+            "maxVelocity": 0.45,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ],
         "inputs": [],
         "outputs": [
           {
-            "resource": "FRESH_FOOD",
-            "max_velocity": 45,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "FRESH_FOOD",
+            "maxVelocity": 45,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           },
           {
-            "resource": "ORGANIC_MATERIAL",
-            "max_velocity": 7.5,
-            "weight_efficiency": 0,
-            "weight_quality": 0
+            "resourceId": "ORGANIC_MATERIAL",
+            "maxVelocity": 7.5,
+            "weightEfficiency": 0,
+            "weightQuality": 0
           }
         ]
       }

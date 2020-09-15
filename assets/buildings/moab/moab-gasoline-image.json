@@ -1,10 +1,10 @@
 [
   {
     "id": "moab.gas.station",
-    "image_path": "assets/buildings/moab/images/moab.gas.station.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.gas.station.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":125,"y":37},{"x":88,"y":16},{"x":1,"y":36},{"x":65,"y":67}],
       [{"x":91,"y":10},{"x":82,"y":3},{"x":72,"y":6},{"x":1,"y":36},{"x":88,"y":16}],
       [{"x":12,"y":20},{"x":15,"y":30},{"x":67,"y":6},{"x":53,"y":0}],
@@ -13,10 +13,10 @@
   },
   {
     "id": "moab.refinery",
-    "image_path": "assets/buildings/moab/images/moab.refinery.gif",
-    "tile_width": 5,
-    "tile_height": 5,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.refinery.gif",
+    "tileWidth": 5,
+    "tileHeight": 5,
+    "hitArea": [
       [{"x":183,"y":45},{"x":171,"y":49},{"x":182,"y":54}],
       [{"x":143,"y":28},{"x":142,"y":47},{"x":156,"y":49},{"x":150,"y":35}],
       [{"x":17,"y":121},{"x":21,"y":133},{"x":91,"y":160},{"x":30,"y":111}],

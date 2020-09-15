@@ -1,10 +1,10 @@
 [
   {
     "id": "moab.movie",
-    "image_path": "assets/buildings/moab/images/moab.movie.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.movie.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":127,"y":37},{"x":70,"y":1},{"x":66,"y":1},{"x":2,"y":38},{"x":61,"y":68}]
     ]
   }

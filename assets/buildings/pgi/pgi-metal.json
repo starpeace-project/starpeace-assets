@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.metal.industry",
-    "image_id": "pgi.metal.industry",
-    "construction_image_id": "generic.construction.5",
+    "imageId": "pgi.metal.industry",
+    "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Große Metallfabrik",
       "EN": "Large Metal Factory",
@@ -11,18 +11,18 @@
       "IT": "Grande fabbrica di metalli",
       "PT": "Grande fábrica de metal"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "METAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "METAL",
+    "requiredInventionIds": [
       "LSMetal"
     ]
   },
   {
     "id": "pgi.metal.industry.small",
-    "image_id": "pgi.metal.industry.small",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "pgi.metal.industry.small",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Metallfabrik",
       "EN": "Metal Factory",
@@ -31,11 +31,11 @@
       "IT": "Fabbrica di metalli",
       "PT": "Fábrica de metal"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "METAL",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "METAL",
+    "requiredInventionIds": [
       "Metallic"
     ]
   }

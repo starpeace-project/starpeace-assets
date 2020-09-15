@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.farm",
-    "image_id": "moab.farm",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "moab.farm",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Nahrungskrater",
       "EN": "Food Crater",
@@ -11,11 +11,11 @@
       "IT": "Cratere alimentare",
       "PT": "Cratera Alimentar"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "FARMING",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "FARMING",
+    "requiredInventionIds": [
       "FarmLic"
     ]
   }

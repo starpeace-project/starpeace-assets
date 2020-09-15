@@ -18,21 +18,21 @@ exports = module.exports = class AuditBuilding
     try
       console.log " [OK] starting building audit...\n"
 
-      definitions = FileUtils.parse_files(root_dir, ['.json'], ['-simulation.json', '-image.json'], STARPEACE.building.BuildingDefinition.from_json)
+      definitions = FileUtils.parse_files(root_dir, ['.json'], ['-simulation.json', '-image.json'], STARPEACE.building.BuildingDefinition.fromJson)
       definitions_by_id = _.keyBy(definitions, 'id')
       AuditUtils.audit_is_valid('building definition', definitions)
       AuditUtils.audit_unique_count_by_id('building definition', definitions, definitions_by_id, AuditBuilding.EXPECTED_DEFINITION_COUNT)
 
       process.stdout.write '\n'
 
-      image_definitions = FileUtils.parse_files(root_dir, ['-image.json'], [], STARPEACE.building.BuildingImageDefinition.from_json)
+      image_definitions = FileUtils.parse_files(root_dir, ['-image.json'], [], STARPEACE.building.BuildingImageDefinition.fromJson)
       image_definitions_by_id = _.keyBy(image_definitions, 'id')
       AuditUtils.audit_is_valid('building image definition', image_definitions)
       AuditUtils.audit_unique_count_by_id('building image definition', image_definitions, image_definitions_by_id, AuditBuilding.EXPECTED_IMAGE_DEFINITION_COUNT)
 
       process.stdout.write '\n'
 
-      simulation_definitions = FileUtils.parse_files(root_dir, ['-simulation.json'], [], STARPEACE.building.simulation.BuildingSimulationDefinitionParser.from_json)
+      simulation_definitions = FileUtils.parse_files(root_dir, ['-simulation.json'], [], STARPEACE.building.simulation.BuildingSimulationDefinitionParser.fromJson)
       simulation_definitions_by_id = _.keyBy(simulation_definitions, 'id')
       AuditUtils.audit_is_valid('building simulation definition', simulation_definitions)
       AuditUtils.audit_unique_count_by_id('building simulation definition', simulation_definitions, simulation_definitions_by_id, AuditBuilding.EXPECTED_SIMULATION_DEFINITION_COUNT)
@@ -47,37 +47,37 @@ exports = module.exports = class AuditBuilding
 
       process.stdout.write '\n'
 
-      definitions_with_unknown_images = _.filter(definitions, (definition) -> !image_definitions_by_id[definition.image_id]? || !image_definitions_by_id[definition.construction_image_id]?)
+      definitions_with_unknown_images = _.filter(definitions, (definition) -> !image_definitions_by_id[definition.imageId]? || !image_definitions_by_id[definition.constructionImageId]?)
       if definitions_with_unknown_images.length
-        console.log " [ERROR] building definition #{definition.id} has unknown image references #{definition.image_id} or #{definition.construction_image_id}" for definition in definitions_with_unknown_images
-        throw "found #{definitions_with_unknown_images.length} building definitions with unknown image_id or construction_image_id references"
+        console.log " [ERROR] building definition #{definition.id} has unknown image references #{definition.imageId} or #{definition.constructionImageId}" for definition in definitions_with_unknown_images
+        throw "found #{definitions_with_unknown_images.length} building definitions with unknown imageId or constructionImageId references"
       else
-        console.log " [OK] all building definitions have valid image_id and construction_image_id references"
+        console.log " [OK] all building definitions have valid imageId and constructionImageId references"
 
-      definitions_with_unknown_zones = _.filter(definitions, (definition) -> !audit_data.industry.city_zones_by_id[definition.zone_id]?)
+      definitions_with_unknown_zones = _.filter(definitions, (definition) -> !audit_data.industry.city_zones_by_id[definition.zoneId]?)
       if definitions_with_unknown_zones.length
-        console.log " [ERROR] building definition #{definition.id} has unknown city zone references #{definition.zone_id}" for definition in definitions_with_unknown_zones
+        console.log " [ERROR] building definition #{definition.id} has unknown city zone references #{definition.zoneId}" for definition in definitions_with_unknown_zones
         throw "found #{definitions_with_unknown_zones.length} building definitions with unknown city zone references"
       else
         console.log " [OK] all building definitions have valid city zone references"
 
-      definitions_with_unknown_categories = _.filter(definitions, (definition) -> !audit_data.industry.industry_categories_by_id[definition.industry_category_id]?)
+      definitions_with_unknown_categories = _.filter(definitions, (definition) -> !audit_data.industry.industry_categories_by_id[definition.industryCategoryId]?)
       if definitions_with_unknown_categories.length
-        console.log " [ERROR] building definition #{definition.id} has unknown category references #{definition.industry_category_id}" for definition in definitions_with_unknown_categories
+        console.log " [ERROR] building definition #{definition.id} has unknown category references #{definition.industryCategoryId}" for definition in definitions_with_unknown_categories
         throw "found #{definitions_with_unknown_categories.length} building definitions with unknown industry category references"
       else
         console.log " [OK] all building definitions have valid industry category references"
 
-      definitions_with_unknown_types = _.filter(definitions, (definition) -> !audit_data.industry.industry_types_by_id[definition.industry_type_id]?)
+      definitions_with_unknown_types = _.filter(definitions, (definition) -> !audit_data.industry.industry_types_by_id[definition.industryTypeId]?)
       if definitions_with_unknown_types.length
-        console.log " [ERROR] building definition #{definition.id} has unknown industry type references #{definition.industry_type_id}" for definition in definitions_with_unknown_types
+        console.log " [ERROR] building definition #{definition.id} has unknown industry type references #{definition.industryTypeId}" for definition in definitions_with_unknown_types
         throw "found #{definitions_with_unknown_types.length} building definitions with unknown industry type references"
       else
         console.log " [OK] all building definitions have valid industry type references"
 
-      definitions_with_unknown_seals = _.filter(definitions, (definition) -> !audit_data.seal.company_seals_by_id[definition.seal_id]?)
+      definitions_with_unknown_seals = _.filter(definitions, (definition) -> !audit_data.seal.company_seals_by_id[definition.sealId]?)
       if definitions_with_unknown_seals.length
-        console.log " [ERROR] building definition #{definition.id} has unknown seal references #{definition.seal_id}" for definition in definitions_with_unknown_seals
+        console.log " [ERROR] building definition #{definition.id} has unknown seal references #{definition.sealId}" for definition in definitions_with_unknown_seals
         throw "found #{definitions_with_unknown_seals.length} building definitions with unknown seal references"
       else
         console.log " [OK] all building definitions have valid seal references"
@@ -91,7 +91,7 @@ exports = module.exports = class AuditBuilding
       else
         console.log " [OK] all building simulation definitions have valid definition references"
 
-      definitions_with_unknown_inventions = _.filter(definitions, (definition) -> definition.required_invention_ids.length && _.find(definition.required_invention_ids, (id) -> !audit_data.invention.definitions_by_id[id]?)?)
+      definitions_with_unknown_inventions = _.filter(definitions, (definition) -> definition.requiredInventionIds.length && _.find(definition.requiredInventionIds, (id) -> !audit_data.invention.definitions_by_id[id]?)?)
       if definitions_with_unknown_inventions.length
         console.log " [ERROR] building definition #{definition.id} has unknown required invention references" for definition in definitions_with_unknown_inventions
         throw "found #{definitions_with_unknown_inventions.length} building definitions with unknown required invention references"

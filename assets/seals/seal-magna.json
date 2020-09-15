@@ -3,6 +3,25 @@
     "id": "MAGNA",
     "nameShort": "Magna",
     "nameLong": "Magna Corp",
+    "descriptions": [
+      {
+        "DE": "Die IFEL, die über die Überbevölkerung in den Kolonien besorgt ist, gab der Magna Corp. von der Erde ein Spezialsiegel.",
+        "EN": "The IFEL, concerned about overpopulation in the colonies, granted a Special Seal to Magna Corp from Earth.",
+        "ES": "La IFEL, preocupada por la superpoblación de las colonias, concederé una Marca Especial a la Corporación Magna desde la Tierra.",
+        "FR": "La IFEL a accordé une licence spéciale à Magna Corp depuis la Terre, qui s'inquiétait de la surpopulation dans les colonies.",
+        "IT": "L'IFEL, preoccupata per la sovrappopolazione, ha garantito un Seal speciale alla corporazione terrestre Magna.",
+        "PT": "O IFEL, preocupado com a superpopulação nas colônias, concedeu um Selo Especial à Magna Corp da Terra."
+      },
+      {
+        "DE": "Magna hat sich auf sehr große Wohnstrukturen spezialisiert: Arkologien (massives Wohngebäude) und große Einkaufszentren.",
+        "EN": "Magna specialize in very large structures: Arcologies (massive residential buildings) and huge Commercial Centers. Movie Studios are the only Industry available. Seal can only be licensed to investors who achieved Paradigm level.",
+        "ES": "Magna se especializa en estructuras habitables muy grandes: Arcologías (enormes edificios residenciales) y grandes centros comerciales.",
+        "FR": "Magna est spécialise dans la construction de structures habitables d'envergure: Arcologies (bâtiments résidentiels massifs) et d'énormes centres commerciaux.",
+        "IT": "Magna è specializzata in strutture abitative estremamente grandi: Arcologie (edifici residenziali enormi) ed enormi centri commerciali.",
+        "PT": "Magna especializar-se em estruturas muito grandes: Arcologias (enormes edifícios residenciais) e grandes centros comerciais."
+      }
+    ],
+    "playable": true,
     "buildingIds": [
       "magna.cloud.city",
       "magna.construction",

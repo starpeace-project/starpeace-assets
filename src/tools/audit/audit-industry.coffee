@@ -21,51 +21,51 @@ exports = module.exports = class AuditIndustry
     try
       console.log " [OK] starting industry audit...\n"
 
-      city_zones = FileUtils.parse_files(root_dir, ['city-zones.json'], [], STARPEACE.industry.CityZone.from_json)
+      city_zones = FileUtils.parse_files(root_dir, ['city-zones.json'], [], STARPEACE.industry.CityZone.fromJson)
       city_zones_by_id = _.keyBy(city_zones, 'id')
       AuditUtils.audit_is_valid('city zone', city_zones)
       AuditUtils.audit_unique_count_by_id('city zone', city_zones, city_zones_by_id, AuditIndustry.EXPECTED_CITY_ZONE_COUNT)
 
       process.stdout.write '\n'
 
-      industry_categories = FileUtils.parse_files(root_dir, ['industry-categories.json'], [], STARPEACE.industry.IndustryCategory.from_json)
+      industry_categories = FileUtils.parse_files(root_dir, ['industry-categories.json'], [], STARPEACE.industry.IndustryCategory.fromJson)
       industry_categories_by_id = _.keyBy(industry_categories, 'id')
       AuditUtils.audit_is_valid('industry category', industry_categories)
       AuditUtils.audit_unique_count_by_id('industry category', industry_categories, industry_categories_by_id, AuditIndustry.EXPECTED_INDUSTRY_CATEGORY_COUNT)
 
       process.stdout.write '\n'
 
-      industry_types = FileUtils.parse_files(root_dir, ['industry-types.json'], [], STARPEACE.industry.IndustryType.from_json)
+      industry_types = FileUtils.parse_files(root_dir, ['industry-types.json'], [], STARPEACE.industry.IndustryType.fromJson)
       industry_types_by_id = _.keyBy(industry_types, 'id')
       AuditUtils.audit_is_valid('industry type', industry_types)
       AuditUtils.audit_unique_count_by_id('industry type', industry_types, industry_types_by_id, AuditIndustry.EXPECTED_INDUSTRY_TYPE_COUNT)
 
       process.stdout.write '\n'
 
-      levels = FileUtils.parse_files(root_dir, ['levels.json'], [], STARPEACE.industry.Level.from_json)
+      levels = FileUtils.parse_files(root_dir, ['levels.json'], [], STARPEACE.industry.Level.fromJson)
       levels_by_id = _.keyBy(levels, 'id')
       AuditUtils.audit_is_valid('level', levels)
       AuditUtils.audit_unique_count_by_id('level', levels, levels_by_id, AuditIndustry.EXPECTED_LEVEL_COUNT)
 
       process.stdout.write '\n'
 
-      resource_types = FileUtils.parse_files(root_dir, ['resource-types.json'], [], STARPEACE.industry.ResourceType.from_json)
+      resource_types = FileUtils.parse_files(root_dir, ['resource-types.json'], [], STARPEACE.industry.ResourceType.fromJson)
       resource_types_by_id = _.keyBy(resource_types, 'id')
       AuditUtils.audit_is_valid('resource type', resource_types)
       AuditUtils.audit_unique_count_by_id('resource type', resource_types, resource_types_by_id, AuditIndustry.EXPECTED_RESOURCE_TYPE_COUNT)
 
       process.stdout.write '\n'
 
-      resource_units = FileUtils.parse_files(root_dir, ['resource-units.json'], [], STARPEACE.industry.ResourceUnit.from_json)
+      resource_units = FileUtils.parse_files(root_dir, ['resource-units.json'], [], STARPEACE.industry.ResourceUnit.fromJson)
       resource_units_by_id = _.keyBy(resource_units, 'id')
       AuditUtils.audit_is_valid('resource unit', resource_units)
       AuditUtils.audit_unique_count_by_id('resource unit', resource_units, resource_units_by_id, AuditIndustry.EXPECTED_RESOURCE_UNIT_COUNT)
 
       process.stdout.write '\n'
 
-      resource_types_with_unknown_units = _.filter(resource_types, (type) -> !resource_units_by_id[type.unit_id]?)
+      resource_types_with_unknown_units = _.filter(resource_types, (type) -> !resource_units_by_id[type.unitId]?)
       if resource_types_with_unknown_units.length
-        console.log " [ERROR] resource type #{item.id} has unknown unit_id #{type.unit_id}" for type in resource_types_with_unknown_units
+        console.log " [ERROR] resource type #{type.id} has unknown unitId #{type.unitId}" for type in resource_types_with_unknown_units
         throw "found #{resource_types_with_unknown_units.length} resource types with unknown unit references"
       else
         console.log " [OK] all resource types have valid resource unit references"

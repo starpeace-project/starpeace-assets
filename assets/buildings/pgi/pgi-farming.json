@@ -1,8 +1,8 @@
 [
   {
     "id": "pgi.farm",
-    "image_id": "pgi.farm",
-    "construction_image_id": "generic.construction.4",
+    "imageId": "pgi.farm",
+    "constructionImageId": "generic.construction.4",
     "name": {
       "DE": "Große Farm",
       "EN": "Large Farm",
@@ -11,18 +11,18 @@
       "IT": "Grande fattoria",
       "PT": "Grande fazenda"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "FARMING",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "FARMING",
+    "requiredInventionIds": [
       "LargeFarms"
     ]
   },
   {
     "id": "pgi.farm.small",
-    "image_id": "pgi.farm.small",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "pgi.farm.small",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Bauernhof",
       "EN": "Farm",
@@ -31,11 +31,11 @@
       "IT": "Azienda agricola",
       "PT": "Fazenda"
     },
-    "seal_id": "PGI",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "FARMING",
-    "required_inventions": [
+    "sealId": "PGI",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "FARMING",
+    "requiredInventionIds": [
       "FarmLic"
     ]
   }

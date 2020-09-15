@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.liquor.industry",
-    "image_path": "assets/buildings/dissident/images/dis.liquor.industry.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.liquor.industry.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":172,"y":14},{"x":159,"y":24},{"x":77,"y":106},{"x":142,"y":123}],
       [{"x":243,"y":67},{"x":219,"y":56},{"x":213,"y":56},{"x":142,"y":123},{"x":232,"y":79}],
       [{"x":87,"y":11},{"x":79,"y":12},{"x":80,"y":34},{"x":96,"y":24}],

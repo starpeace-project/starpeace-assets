@@ -2,336 +2,336 @@
   {
     "id": "pgi.hi.res.a",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 100,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 100,
     "efficiency": 1.2,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 150000,
-        "max_velocity": 6000
+        "maxVelocity": 6000
       }
     ]
   },
   {
     "id": "pgi.hi.res.b",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 95,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 60,
     "efficiency": 1.0,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 500
+        "maxVelocity": 500
       }
     ]
   },
   {
     "id": "pgi.hi.res.c",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 95,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 40,
     "efficiency": 1.1,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 1000
+        "maxVelocity": 1000
       }
     ]
   },
   {
     "id": "pgi.hi.res.d",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 85,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 50,
     "efficiency": 0.9,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 25000,
-        "max_velocity": 833.3333333
+        "maxVelocity": 833.3333333
       }
     ]
   },
   {
     "id": "pgi.hi.res.e",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 85,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 23,
     "efficiency": 1.0,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 20000,
-        "max_velocity": 666.6666667
+        "maxVelocity": 666.6666667
       }
     ]
   },
   {
     "id": "pgi.hi.res.f",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 90,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 25,
     "efficiency": 1.0,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 20000,
-        "max_velocity": 666.6666667
+        "maxVelocity": 666.6666667
       }
     ]
   },
   {
     "id": "pgi.hi.res.g",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 95,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 40,
     "efficiency": 1.1,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 1000
+        "maxVelocity": 1000
       }
     ]
   },
   {
     "id": "pgi.hi.res.h",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 85,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 60,
     "efficiency": 0.8,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 20000,
-        "max_velocity": 666.6666667
+        "maxVelocity": 666.6666667
       }
     ]
   },
   {
     "id": "pgi.hi.res.i",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 85,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 55,
     "efficiency": 1.0,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 1000
+        "maxVelocity": 1000
       }
     ]
   },
   {
     "id": "pgi.hi.res.j",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 95,
-    "resident_type": "EXECUTIVE",
+    "residentType": "EXECUTIVE",
     "capacity": 60,
     "efficiency": 1.0,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 500
+        "maxVelocity": 500
       }
     ]
   },
   {
     "id": "pgi.lo.res.a",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 70,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 250,
     "efficiency": 0.8,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 20000,
-        "max_velocity": 666.6666667
+        "maxVelocity": 666.6666667
       }
     ]
   },
   {
     "id": "pgi.lo.res.b",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 75,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 300,
     "efficiency": 0.9,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 1000
+        "maxVelocity": 1000
       }
     ]
   },
   {
     "id": "pgi.lo.res.c",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 75,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 160,
     "efficiency": 0.9,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 25000,
-        "max_velocity": 833.3333333
+        "maxVelocity": 833.3333333
       }
     ]
   },
   {
     "id": "pgi.lo.res.d",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 70,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 250,
     "efficiency": 0.8,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 20000,
-        "max_velocity": 666.6666667
+        "maxVelocity": 666.6666667
       }
     ]
   },
   {
     "id": "pgi.lo.res.e",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 65,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 290,
     "efficiency": 0.95,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 1000
+        "maxVelocity": 1000
       }
     ]
   },
   {
     "id": "pgi.lo.res.f",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 70,
-    "resident_type": "WORKER",
+    "residentType": "WORKER",
     "capacity": 250,
     "efficiency": 0.9,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 20000,
-        "max_velocity": 666.6666667
+        "maxVelocity": 666.6666667
       }
     ]
   },
   {
     "id": "pgi.mi.res.a",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 100,
-    "resident_type": "PROFESSIONAL",
+    "residentType": "PROFESSIONAL",
     "capacity": 120,
     "efficiency": 1.0,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 1000
+        "maxVelocity": 1000
       }
     ]
   },
   {
     "id": "pgi.mi.res.b",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 100,
-    "resident_type": "PROFESSIONAL",
+    "residentType": "PROFESSIONAL",
     "capacity": 100,
     "efficiency": 1.0,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 27000,
-        "max_velocity": 900
+        "maxVelocity": 900
       }
     ]
   },
   {
     "id": "pgi.mi.res.c",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 100,
-    "resident_type": "PROFESSIONAL",
+    "residentType": "PROFESSIONAL",
     "capacity": 100,
     "efficiency": 1.1,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 1000
+        "maxVelocity": 1000
       }
     ]
   },
   {
     "id": "pgi.mi.res.d",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 100,
-    "resident_type": "PROFESSIONAL",
+    "residentType": "PROFESSIONAL",
     "capacity": 120,
     "efficiency": 1.0,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 30000,
-        "max_velocity": 1000
+        "maxVelocity": 1000
       }
     ]
   },
   {
     "id": "pgi.mi.res.e",
     "type": "RESIDENCE",
-    "max_level": 20,
+    "maxLevel": 20,
     "beauty": 100,
-    "resident_type": "PROFESSIONAL",
+    "residentType": "PROFESSIONAL",
     "capacity": 200,
     "efficiency": 1.0,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 100000,
-        "max_velocity": 3333.333333
+        "maxVelocity": 3333.333333
       }
     ]
   }

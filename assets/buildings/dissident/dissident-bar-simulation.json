@@ -2,75 +2,75 @@
   {
     "id": "dis.bar",
     "type": "STORE",
-    "max_level": 20,
-    "construction_inputs": [
+    "maxLevel": 20,
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 1350,
-        "max_velocity": 90
+        "maxVelocity": 90
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 18.75,
-        "max_velocity": 1.25
+        "maxVelocity": 1.25
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 2,
-        "weight_efficiency": 20,
-        "weight_quality": 15
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 2,
+        "weightEfficiency": 20,
+        "weightQuality": 15
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 5,
-        "weight_efficiency": 20,
-        "weight_quality": 17
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 17
       }
     ],
     "operations": [
       {
-        "resource": "ADVERTISEMENTS",
-        "max_velocity": 13.714285714285714285714285714286,
-        "weight_efficiency": 5,
-        "weight_quality": 0
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 13.714285714285714285714285714286,
+        "weightEfficiency": 5,
+        "weightQuality": 0
       }
     ],
     "products": [
       {
         "inputs": [
           {
-            "resource": "LIQUOR",
-            "max_velocity": 140,
-            "weight_efficiency": 20,
-            "weight_quality": 150
+            "resourceId": "LIQUOR",
+            "maxVelocity": 140,
+            "weightEfficiency": 20,
+            "weightQuality": 150
           },
           {
-            "resource": "PROCESSED_FOOD",
-            "max_velocity": 60,
-            "weight_efficiency": 20,
-            "weight_quality": 50
+            "resourceId": "PROCESSED_FOOD",
+            "maxVelocity": 60,
+            "weightEfficiency": 20,
+            "weightQuality": 50
           }
         ],
         "outputs": [
           {
-            "resource": "BAR_SERVICE",
-            "max_velocity": 200,
+            "resourceId": "BAR_SERVICE",
+            "maxVelocity": 200,
             "customers": [
               {
-                "resource": "EXECUTIVE",
-                "max_velocity": 3.75,
+                "resourceId": "EXECUTIVE",
+                "maxVelocity": 3.75,
                 "probability": 1
               },
               {
-                "resource": "PROFESSIONAL",
-                "max_velocity": 6.25,
+                "resourceId": "PROFESSIONAL",
+                "maxVelocity": 6.25,
                 "probability": 1
               },
               {
-                "resource": "WORKER",
-                "max_velocity": 10,
+                "resourceId": "WORKER",
+                "maxVelocity": 10,
                 "probability": 1
               }
             ]

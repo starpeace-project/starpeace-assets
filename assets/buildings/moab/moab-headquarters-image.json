@@ -1,10 +1,10 @@
 [
   {
     "id": "moab.cathedral",
-    "image_path": "assets/buildings/moab/images/moab.cathedral.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.cathedral.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":113,"y":23},{"x":99,"y":18},{"x":91,"y":22},{"x":91,"y":26},{"x":98,"y":34}],
       [{"x":73,"y":17},{"x":91,"y":22},{"x":99,"y":18},{"x":97,"y":13},{"x":92,"y":13}],
       [{"x":77,"y":47},{"x":84,"y":71},{"x":105,"y":72},{"x":98,"y":34},{"x":91,"y":26}],
@@ -21,10 +21,10 @@
   },
   {
     "id": "moab.correctional.tower",
-    "image_path": "assets/buildings/moab/images/moab.correctional.tower.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.correctional.tower.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":104,"y":82},{"x":77,"y":82},{"x":46,"y":111},{"x":69,"y":108}],
       [{"x":20,"y":98},{"x":46,"y":111},{"x":64,"y":74},{"x":44,"y":50}],
       [{"x":77,"y":82},{"x":64,"y":74},{"x":46,"y":111}],
@@ -33,10 +33,10 @@
   },
   {
     "id": "moab.hq.1",
-    "image_path": "assets/buildings/moab/images/moab.hq.1.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.hq.1.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":139,"y":10},{"x":119,"y":13},{"x":53,"y":28},{"x":39,"y":79},{"x":131,"y":23}],
       [{"x":23,"y":76},{"x":21,"y":91},{"x":39,"y":79}],
       [{"x":48,"y":13},{"x":56,"y":19},{"x":70,"y":13},{"x":54,"y":9}],
@@ -52,10 +52,10 @@
   },
   {
     "id": "moab.hq.2",
-    "image_path": "assets/buildings/moab/images/moab.hq.2.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.hq.2.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":144,"y":112},{"x":136,"y":108},{"x":136,"y":119}],
       [{"x":30,"y":272},{"x":40,"y":277},{"x":44,"y":267}],
       [{"x":43,"y":122},{"x":51,"y":125},{"x":136,"y":108},{"x":50,"y":113}],
@@ -77,10 +77,10 @@
   },
   {
     "id": "moab.hq.3",
-    "image_path": "assets/buildings/moab/images/moab.hq.3.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.hq.3.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":30,"y":423},{"x":38,"y":430},{"x":188,"y":503},{"x":165,"y":488},{"x":41,"y":418}],
       [{"x":145,"y":263},{"x":133,"y":247},{"x":56,"y":244},{"x":51,"y":276},{"x":135,"y":276}],
       [{"x":93,"y":550},{"x":188,"y":503},{"x":31,"y":463},{"x":0,"y":499},{"x":4,"y":505}],
@@ -97,10 +97,10 @@
   },
   {
     "id": "moab.hq.4",
-    "image_path": "assets/buildings/moab/images/moab.hq.4.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.hq.4.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":30,"y":548},{"x":36,"y":559},{"x":188,"y":631},{"x":165,"y":615},{"x":40,"y":544}],
       [{"x":93,"y":678},{"x":188,"y":631},{"x":30,"y":591},{"x":0,"y":627}],
       [{"x":147,"y":358},{"x":134,"y":349},{"x":146,"y":378}],
@@ -119,10 +119,10 @@
   },
   {
     "id": "moab.hq.5",
-    "image_path": "assets/buildings/moab/images/moab.hq.5.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.hq.5.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":30,"y":589},{"x":36,"y":600},{"x":188,"y":672},{"x":164,"y":652},{"x":40,"y":585}],
       [{"x":93,"y":719},{"x":188,"y":672},{"x":30,"y":632},{"x":0,"y":668}],
       [{"x":161,"y":321},{"x":155,"y":299},{"x":147,"y":298},{"x":154,"y":325}],
@@ -144,10 +144,10 @@
   },
   {
     "id": "moab.industry.tower",
-    "image_path": "assets/buildings/moab/images/moab.industry.tower.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.industry.tower.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":108,"y":84},{"x":82,"y":82},{"x":77,"y":104}],
       [{"x":82,"y":82},{"x":64,"y":70},{"x":32,"y":78},{"x":22,"y":89},{"x":25,"y":99},{"x":46,"y":109},{"x":77,"y":104}],
       [{"x":32,"y":78},{"x":64,"y":70},{"x":50,"y":21}],
@@ -156,10 +156,10 @@
   },
   {
     "id": "moab.market.tower",
-    "image_path": "assets/buildings/moab/images/moab.market.tower.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.market.tower.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":105,"y":83},{"x":67,"y":76},{"x":34,"y":75},{"x":21,"y":90},{"x":23,"y":101},{"x":44,"y":110},{"x":74,"y":106}],
       [{"x":34,"y":75},{"x":67,"y":76},{"x":50,"y":21}],
       [{"x":67,"y":76},{"x":50,"y":0},{"x":50,"y":21}]
@@ -167,10 +167,10 @@
   },
   {
     "id": "moab.residential.tower",
-    "image_path": "assets/buildings/moab/images/moab.residential.tower.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.residential.tower.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":50,"y":0},{"x":34,"y":78},{"x":47,"y":109},{"x":69,"y":109},{"x":70,"y":81}],
       [{"x":22,"y":88},{"x":23,"y":100},{"x":47,"y":109},{"x":34,"y":78}],
       [{"x":69,"y":109},{"x":89,"y":92},{"x":70,"y":81}],

@@ -1,10 +1,10 @@
 [
   {
     "id": "moab.tv.station",
-    "image_path": "assets/buildings/moab/images/moab.tv.station.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.tv.station.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":5,"y":91},{"x":95,"y":136},{"x":185,"y":93},{"x":160,"y":63},{"x":116,"y":49},{"x":83,"y":44},{"x":74,"y":44},{"x":55,"y":51}],
       [{"x":93,"y":14},{"x":82,"y":19},{"x":83,"y":44},{"x":96,"y":22}],
       [{"x":65,"y":18},{"x":55,"y":51},{"x":74,"y":44}],

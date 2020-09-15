@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.mine",
-    "image_path": "assets/buildings/dissident/images/dis.mine.gif",
-    "tile_width": 5,
-    "tile_height": 5,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.mine.gif",
+    "tileWidth": 5,
+    "tileHeight": 5,
+    "hitArea": [
       [{"x":257,"y":31},{"x":247,"y":29},{"x":240,"y":34},{"x":245,"y":39}],
       [{"x":211,"y":33},{"x":211,"y":64},{"x":250,"y":74},{"x":245,"y":39},{"x":240,"y":34}],
       [{"x":14,"y":116},{"x":33,"y":125},{"x":63,"y":91},{"x":45,"y":98}],
@@ -28,10 +28,10 @@
   },
   {
     "id": "dis.mine.small",
-    "image_path": "assets/buildings/dissident/images/dis.mine.small.gif",
-    "tile_width": 5,
-    "tile_height": 5,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.mine.small.gif",
+    "tileWidth": 5,
+    "tileHeight": 5,
+    "hitArea": [
       [{"x":27,"y":2},{"x":25,"y":22},{"x":36,"y":15}],
       [{"x":63,"y":62},{"x":119,"y":30},{"x":25,"y":22},{"x":4,"y":31}],
       [{"x":36,"y":7},{"x":36,"y":15},{"x":119,"y":30},{"x":98,"y":10},{"x":75,"y":2},{"x":52,"y":2}],

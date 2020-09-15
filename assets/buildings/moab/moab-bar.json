@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.bar",
-    "image_id": "moab.bar",
-    "construction_image_id": "generic.construction.1",
+    "imageId": "moab.bar",
+    "constructionImageId": "generic.construction.1",
     "name": {
       "DE": "Kuppel der Freude",
       "EN": "Dome of Joy",
@@ -11,11 +11,11 @@
       "IT": "Cupola della gioia",
       "PT": "Domo da Alegria"
     },
-    "seal_id": "MOAB",
-    "zone": "COMMERCIAL",
-    "category": "COMMERCE",
-    "industry_type": "BAR",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "COMMERCE",
+    "industryTypeId": "BAR",
+    "requiredInventionIds": [
       "Bars"
     ],
     "commerce": {}

@@ -1,8 +1,8 @@
 [
   {
     "id": "moab.hq",
-    "image_id": "moab.hq.1",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "moab.hq.1",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Hauptquartier",
       "EN": "Headquarters",
@@ -11,16 +11,16 @@
       "IT": "Quartier generale",
       "PT": "Quartel general"
     },
-    "seal_id": "MOAB",
-    "zone": "SERVICE",
-    "category": "SERVICE",
-    "industry_type": "HEADQUARTERS",
-    "required_inventions": []
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
   },
   {
     "id": "moab.cathedral",
-    "image_id": "moab.cathedral",
-    "construction_image_id": "generic.construction.3",
+    "imageId": "moab.cathedral",
+    "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Moab Kathedrale",
       "EN": "Moab Cathedral",
@@ -29,16 +29,16 @@
       "IT": "Cattedrale di Moab",
       "PT": "Catedral de Moab"
     },
-    "seal_id": "MOAB",
-    "zone": "SERVICE",
-    "category": "SERVICE",
-    "industry_type": "HEADQUARTERS",
-    "required_inventions": []
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
   },
   {
     "id": "moab.correctional.tower",
-    "image_id": "moab.correctional.tower",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "moab.correctional.tower",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Civic Affairs Tower",
       "EN": "Civic Affairs Tower",
@@ -47,16 +47,16 @@
       "IT": "Torre degli affari civici",
       "PT": "Torre dos Assuntos Cívicos"
     },
-    "seal_id": "MOAB",
-    "zone": "SERVICE",
-    "category": "SERVICE",
-    "industry_type": "HEADQUARTERS",
-    "required_inventions": []
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
   },
   {
     "id": "moab.industry.tower",
-    "image_id": "moab.industry.tower",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "moab.industry.tower",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Industries Tower",
       "EN": "Industries Tower",
@@ -65,16 +65,16 @@
       "IT": "Torre delle industrie",
       "PT": "Torre de indústrias"
     },
-    "seal_id": "MOAB",
-    "zone": "SERVICE",
-    "category": "SERVICE",
-    "industry_type": "HEADQUARTERS",
-    "required_inventions": []
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
   },
   {
     "id": "moab.market.tower",
-    "image_id": "moab.market.tower",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "moab.market.tower",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Commerce Tower",
       "EN": "Commerce Tower",
@@ -83,16 +83,16 @@
       "IT": "Torre del commercio",
       "PT": "Torre de comércio"
     },
-    "seal_id": "MOAB",
-    "zone": "SERVICE",
-    "category": "SERVICE",
-    "industry_type": "HEADQUARTERS",
-    "required_inventions": []
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
   },
   {
     "id": "moab.residential.tower",
-    "image_id": "moab.residential.tower",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "moab.residential.tower",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Immobilien-Turm",
       "EN": "Real Estate Tower",
@@ -101,10 +101,10 @@
       "IT": "Real Estate Tower",
       "PT": "Torre Imobiliária"
     },
-    "seal_id": "MOAB",
-    "zone": "SERVICE",
-    "category": "SERVICE",
-    "industry_type": "HEADQUARTERS",
-    "required_inventions": []
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
   }
 ]

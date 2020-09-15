@@ -1,10 +1,10 @@
 [
   {
     "id": "dis.bar",
-    "image_path": "assets/buildings/dissident/images/dis.bar.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/dissident/images/dis.bar.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":18,"y":37},{"x":25,"y":57},{"x":69,"y":66},{"x":110,"y":52},{"x":99,"y":26},{"x":59,"y":20},{"x":48,"y":20}],
       [{"x":110,"y":36},{"x":99,"y":26},{"x":110,"y":52}]
     ]

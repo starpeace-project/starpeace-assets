@@ -2,61 +2,61 @@
   {
     "id": "moab.correctional",
     "type": "SERVICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "maintainance": 1000,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 112500,
-        "max_velocity": 2250
+        "maxVelocity": 2250
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 78.125,
-        "max_velocity": 3.90625
+        "maxVelocity": 3.90625
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 781.25,
-        "max_velocity": 39.0625
+        "maxVelocity": 39.0625
       }
     ],
     "labor": [
       {
-        "resource": "EXECUTIVE",
-        "max_velocity": 2,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 2,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 30,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 80,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 80,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ],
     "service": [
       {
-        "resource": "POLICE_SERVICE",
-        "max_velocity": 1250
+        "resourceId": "POLICE_SERVICE",
+        "maxVelocity": 1250
       },
       {
-        "resource": "MEDICAL_SERVICE",
-        "max_velocity": 10000
+        "resourceId": "MEDICAL_SERVICE",
+        "maxVelocity": 10000
       },
       {
-        "resource": "FIRE_SERVICE",
-        "max_velocity": 2500
+        "resourceId": "FIRE_SERVICE",
+        "maxVelocity": 2500
       },
       {
-        "resource": "EDUCATION_PRIMARY",
-        "max_velocity": 5000
+        "resourceId": "EDUCATION_PRIMARY",
+        "maxVelocity": 5000
       }
     ]
   }

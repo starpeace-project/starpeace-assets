@@ -1,8 +1,8 @@
 [
   {
     "id": "mko.hospital",
-    "image_id": "mko.hospital",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "mko.hospital",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Krankenhaus",
       "EN": "Hospital",
@@ -11,11 +11,11 @@
       "IT": "Ospedale",
       "PT": "Hospital"
     },
-    "seal_id": "MKO",
-    "zone": "CIVICS",
-    "category": "CIVIC",
-    "industry_type": "HOSPITAL",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "CIVICS",
+    "industryCategoryId": "CIVIC",
+    "industryTypeId": "HOSPITAL",
+    "requiredInventionIds": [
       "CivicFac"
     ],
     "civic": {}

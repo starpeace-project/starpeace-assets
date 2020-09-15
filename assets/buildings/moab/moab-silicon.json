@@ -1,9 +1,9 @@
 [
   {
     "id": "moab.mine.silicon",
-    "image_id": "moab.mine",
+    "imageId": "moab.mine",
     "sign_id": "silicon",
-    "construction_image_id": "generic.construction.6",
+    "constructionImageId": "generic.construction.6",
     "name": {
       "DE": "Siliziummine",
       "EN": "Silicon Mine",
@@ -12,11 +12,11 @@
       "IT": "Miniera di Silicio",
       "PT": "Mina De Silício"
     },
-    "seal_id": "MOAB",
-    "zone": "INDUSTRIAL",
-    "category": "INDUSTRY",
-    "industry_type": "SILICON",
-    "required_inventions": [
+    "sealId": "MOAB",
+    "zoneId": "INDUSTRIAL",
+    "industryCategoryId": "INDUSTRY",
+    "industryTypeId": "SILICON",
+    "requiredInventionIds": [
       "SiliconMining"
     ]
   }

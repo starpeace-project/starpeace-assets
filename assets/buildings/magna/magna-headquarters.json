@@ -1,8 +1,8 @@
 [
   {
     "id": "magna.research.a",
-    "image_id": "magna.research.a",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.research.a",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Magna-Hauptquartier",
       "EN": "Magna Headquarters",
@@ -11,16 +11,16 @@
       "IT": "Sede Magna",
       "PT": "Sede da Magna"
     },
-    "seal_id": "MAGNA",
-    "zone": "COMMERCIAL",
-    "category": "SERVICE",
-    "industry_type": "HEADQUARTERS",
-    "required_inventions": []
+    "sealId": "MAGNA",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
   },
   {
     "id": "magna.research.b",
-    "image_id": "magna.research.b",
-    "construction_image_id": "magna.construction",
+    "imageId": "magna.research.b",
+    "constructionImageId": "magna.construction",
     "name": {
       "DE": "Magna-Forschungszentrum",
       "EN": "Magna Research Center",
@@ -29,10 +29,10 @@
       "IT": "Magna Research Center",
       "PT": "Centro de Pesquisas Magna"
     },
-    "seal_id": "MAGNA",
-    "zone": "COMMERCIAL",
-    "category": "SERVICE",
-    "industry_type": "HEADQUARTERS",
-    "required_inventions": []
+    "sealId": "MAGNA",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
   }
 ]

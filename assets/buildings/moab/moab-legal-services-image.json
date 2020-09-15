@@ -1,10 +1,10 @@
 [
   {
     "id": "moab.legal.services",
-    "image_path": "assets/buildings/moab/images/moab.legal.services.gif",
-    "tile_width": 2,
-    "tile_height": 2,
-    "hit_area": [
+    "imagePath": "assets/buildings/moab/images/moab.legal.services.gif",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "hitArea": [
       [{"x":122,"y":52},{"x":65,"y":9},{"x":61,"y":16},{"x":60,"y":77}],
       [{"x":11,"y":52},{"x":60,"y":77},{"x":61,"y":16},{"x":23,"y":34}],
       [{"x":65,"y":4},{"x":61,"y":16},{"x":65,"y":9}]

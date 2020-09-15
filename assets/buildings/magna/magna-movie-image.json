@@ -1,10 +1,10 @@
 [
   {
     "id": "magna.movie.studios.construction",
-    "image_path": "assets/buildings/magna/images/magna.movie.studios.construction.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/magna/images/magna.movie.studios.construction.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":198,"y":26},{"x":195,"y":43},{"x":210,"y":32}],
       [{"x":240,"y":3},{"x":244,"y":14},{"x":256,"y":14},{"x":247,"y":0}],
       [{"x":252,"y":256},{"x":490,"y":139},{"x":113,"y":93},{"x":27,"y":143}],
@@ -18,10 +18,10 @@
   },
   {
     "id": "magna.movie.studios",
-    "image_path": "assets/buildings/magna/images/magna.movie.studios.gif",
-    "tile_width": 8,
-    "tile_height": 8,
-    "hit_area": [
+    "imagePath": "assets/buildings/magna/images/magna.movie.studios.gif",
+    "tileWidth": 8,
+    "tileHeight": 8,
+    "hitArea": [
       [{"x":126,"y":60},{"x":123,"y":74},{"x":131,"y":70}],
       [{"x":144,"y":50},{"x":137,"y":68},{"x":147,"y":62}],
       [{"x":43,"y":97},{"x":41,"y":106},{"x":55,"y":98}],

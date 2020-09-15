@@ -1,8 +1,8 @@
 [
   {
     "id": "mko.tv.antenna",
-    "image_id": "generic.tv.antenna",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "generic.tv.antenna",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "TV-Antenne",
       "EN": "TV Antenna",
@@ -11,18 +11,18 @@
       "IT": "Antenna TV",
       "PT": "Antena de tv"
     },
-    "seal_id": "MKO",
-    "zone": "COMMERCIAL",
-    "category": "SERVICE",
-    "industry_type": "TELEVISION",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "TELEVISION",
+    "requiredInventionIds": [
       "BasicTelevision"
     ]
   },
   {
     "id": "mko.tv.station",
-    "image_id": "mko.tv.station",
-    "construction_image_id": "generic.construction.2",
+    "imageId": "mko.tv.station",
+    "constructionImageId": "generic.construction.2",
     "name": {
       "DE": "Fernsehstation",
       "EN": "TV Station",
@@ -31,11 +31,11 @@
       "IT": "Stazione TV",
       "PT": "Estação de TV"
     },
-    "seal_id": "MKO",
-    "zone": "COMMERCIAL",
-    "category": "SERVICE",
-    "industry_type": "TELEVISION",
-    "required_inventions": [
+    "sealId": "MKO",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "TELEVISION",
+    "requiredInventionIds": [
       "BasicTelevision"
     ],
     "television": {}

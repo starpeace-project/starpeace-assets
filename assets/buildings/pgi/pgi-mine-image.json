@@ -1,10 +1,10 @@
 [
   {
     "id": "pgi.mine",
-    "image_path": "assets/buildings/pgi/images/pgi.mine.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/pgi/images/pgi.mine.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":57,"y":21},{"x":47,"y":20},{"x":46,"y":44},{"x":58,"y":34}],
       [{"x":73,"y":11},{"x":64,"y":11},{"x":67,"y":35},{"x":76,"y":27}],
       [{"x":81,"y":4},{"x":82,"y":27},{"x":97,"y":24},{"x":91,"y":5}],
@@ -24,10 +24,10 @@
   },
   {
     "id": "pgi.mine.small",
-    "image_path": "assets/buildings/pgi/images/pgi.mine.small.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/pgi/images/pgi.mine.small.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":57,"y":21},{"x":47,"y":20},{"x":46,"y":44},{"x":58,"y":34}],
       [{"x":73,"y":11},{"x":64,"y":11},{"x":67,"y":35},{"x":76,"y":27}],
       [{"x":82,"y":4},{"x":82,"y":27},{"x":98,"y":24},{"x":92,"y":5}],

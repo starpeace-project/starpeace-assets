@@ -2,43 +2,43 @@
   {
     "id": "pgi.police",
     "type": "SERVICE",
-    "max_level": 1,
+    "maxLevel": 1,
     "maintainance": 500,
-    "construction_inputs": [
+    "constructionInputs": [
       {
-        "resource": "CONSTRUCTION",
+        "resourceId": "CONSTRUCTION",
         "quantity": 27000,
-        "max_velocity": 1350
+        "maxVelocity": 1350
       },
       {
-        "resource": "MACHINERY",
+        "resourceId": "MACHINERY",
         "quantity": 18.75,
-        "max_velocity": 0.9375
+        "maxVelocity": 0.9375
       },
       {
-        "resource": "COMPUTER",
+        "resourceId": "COMPUTER",
         "quantity": 187.5,
-        "max_velocity": 9.375
+        "maxVelocity": 9.375
       }
     ],
     "labor": [
       {
-        "resource": "PROFESSIONAL",
-        "max_velocity": 1,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       },
       {
-        "resource": "WORKER",
-        "max_velocity": 60,
-        "weight_efficiency": 20,
-        "weight_quality": 25
+        "resourceId": "WORKER",
+        "maxVelocity": 60,
+        "weightEfficiency": 20,
+        "weightQuality": 25
       }
     ],
     "service": [
       {
-        "resource": "POLICE_SERVICE",
-        "max_velocity": 5000
+        "resourceId": "POLICE_SERVICE",
+        "maxVelocity": 5000
       }
     ]
   }

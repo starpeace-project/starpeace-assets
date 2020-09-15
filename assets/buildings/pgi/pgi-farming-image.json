@@ -1,10 +1,10 @@
 [
   {
     "id": "pgi.farm",
-    "image_path": "assets/buildings/pgi/images/pgi.farm.gif",
-    "tile_width": 4,
-    "tile_height": 4,
-    "hit_area": [
+    "imagePath": "assets/buildings/pgi/images/pgi.farm.gif",
+    "tileWidth": 4,
+    "tileHeight": 4,
+    "hitArea": [
       [{"x":145,"y":193},{"x":264,"y":137},{"x":184,"y":63},{"x":51,"y":109},{"x":20,"y":129}],
       [{"x":217,"y":0},{"x":202,"y":4},{"x":184,"y":63},{"x":229,"y":78},{"x":232,"y":37},{"x":232,"y":14}],
       [{"x":305,"y":130},{"x":229,"y":78},{"x":184,"y":63},{"x":264,"y":137},{"x":275,"y":141}],
@@ -13,10 +13,10 @@
   },
   {
     "id": "pgi.farm.small",
-    "image_path": "assets/buildings/pgi/images/pgi.farm.small.gif",
-    "tile_width": 3,
-    "tile_height": 3,
-    "hit_area": [
+    "imagePath": "assets/buildings/pgi/images/pgi.farm.small.gif",
+    "tileWidth": 3,
+    "tileHeight": 3,
+    "hitArea": [
       [{"x":176,"y":1},{"x":163,"y":3},{"x":148,"y":51},{"x":183,"y":62},{"x":186,"y":25},{"x":186,"y":17}],
       [{"x":242,"y":105},{"x":183,"y":62},{"x":210,"y":110}],
       [{"x":210,"y":110},{"x":183,"y":62},{"x":148,"y":51},{"x":43,"y":86},{"x":15,"y":104},{"x":118,"y":154}],
