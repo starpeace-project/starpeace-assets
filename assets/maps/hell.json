@@ -1,0 +1,82 @@
+{
+  "towns": [
+    {
+      "name": "Community",
+      "sealId": "MOAB",
+      "mapX": 250,
+      "mapY": 250
+    },
+    {
+      "name": "Bubonic",
+      "sealId": "PGI",
+      "mapX": 50,
+      "mapY": 50
+    },
+    {
+      "name": "Meninqococcal",
+      "sealId": "DIS",
+      "mapX": 50,
+      "mapY": 1190
+    },
+    {
+      "name": "Influenza",
+      "sealId": "MKO",
+      "mapX": 320,
+      "mapY": 50
+    },
+    {
+      "name": "Leprosy",
+      "sealId": "MOAB",
+      "mapX": 440,
+      "mapY": 50
+    },
+    {
+      "name": "Anthrax",
+      "sealId": "PGI",
+      "mapX": 50,
+      "mapY": 180
+    },
+    {
+      "name": "Pertussis",
+      "sealId": "DIS",
+      "mapX": 450,
+      "mapY": 180
+    },
+    {
+      "name": "Tuberculosis",
+      "sealId": "MKO",
+      "mapX": 55,
+      "mapY": 315
+    },
+    {
+      "name": "Pneumonia",
+      "sealId": "MOAB",
+      "mapX": 445,
+      "mapY": 315
+    },
+    {
+      "name": "Streptococcus",
+      "sealId": "PGI",
+      "mapX": 60,
+      "mapY": 440
+    },
+    {
+      "name": "Nocardiosis",
+      "sealId": "DIS",
+      "mapX": 190,
+      "mapY": 440
+    },
+    {
+      "name": "Ebola",
+      "sealId": "MKO",
+      "mapX": 320,
+      "mapY": 430
+    },
+    {
+      "name": "Hepatitis",
+      "sealId": "MOAB",
+      "mapX": 440,
+      "mapY": 430
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "towns": [
+    {
+      "name": "DeBeers",
+      "sealId": "DIS",
+      "mapX": 85,
+      "mapY": 904
+    },
+    {
+      "name": "Eaton",
+      "sealId": "MOAB",
+      "mapX": 532,
+      "mapY": 332
+    },
+    {
+      "name": "Houston",
+      "sealId": "PGI",
+      "mapX": 496,
+      "mapY": 140
+    },
+    {
+      "name": "Alberta",
+      "sealId": "PGI",
+      "mapX": 948,
+      "mapY": 368
+    },
+    {
+      "name": "Joya Del Mar",
+      "sealId": "PGI",
+      "mapX": 899,
+      "mapY": 80
+    },
+    {
+      "name": "Grace",
+      "sealId": "MKO",
+      "mapX": 841,
+      "mapY": 970
+    },
+    {
+      "name": "Winston",
+      "sealId": "MKO",
+      "mapX": 724,
+      "mapY": 648
+    },
+    {
+      "name": "Lindon",
+      "sealId": "DIS",
+      "mapX": 412,
+      "mapY": 957
+    },
+    {
+      "name": "Montgomery",
+      "sealId": "MKO",
+      "mapX": 77,
+      "mapY": 345
+    },
+    {
+      "name": "Kirby",
+      "sealId": "MOAB",
+      "mapX": 379,
+      "mapY": 536
+    }
+  ]
+}
