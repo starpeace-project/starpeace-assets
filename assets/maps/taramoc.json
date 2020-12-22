@@ -4,169 +4,197 @@
       "name": "Hispaniola",
       "sealId": "DIS",
       "mapX": 1458,
-      "mapY": 1902
+      "mapY": 98,
+      "color": 3355443
     },
     {
       "name": "Iwazaki",
       "sealId": "MKO",
       "mapX": 895,
-      "mapY": 676
+      "mapY": 1324,
+      "color": 3355392
     },
     {
       "name": "New Malta",
       "sealId": "DIS",
       "mapX": 485,
-      "mapY": 1060
+      "mapY": 940,
+      "color": 6697728
     },
     {
       "name": "Asceth",
       "sealId": "MOAB",
       "mapX": 67,
-      "mapY": 1098
+      "mapY": 902,
+      "color": 6697779
     },
     {
       "name": "Venetia",
       "sealId": "PGI",
       "mapX": 1268,
-      "mapY": 207
+      "mapY": 1793,
+      "color": 26163
     },
     {
       "name": "Brindisium",
       "sealId": "PGI",
       "mapX": 736,
-      "mapY": 824
+      "mapY": 1176,
+      "color": 102
     },
     {
       "name": "New Sapporo",
       "sealId": "MKO",
       "mapX": 1683,
-      "mapY": 1257
+      "mapY": 743,
+      "color": 6684774
     },
     {
       "name": "Hydruntum",
       "sealId": "PGI",
       "mapX": 788,
-      "mapY": 214
+      "mapY": 1786,
+      "color": 3368550
     },
     {
       "name": "Morgoth",
       "sealId": "MOAB",
       "mapX": 802,
-      "mapY": 1608
+      "mapY": 392,
+      "color": 16711680
     },
     {
       "name": "Nagashima",
       "sealId": "MKO",
       "mapX": 1589,
-      "mapY": 906
+      "mapY": 1094,
+      "color": 13382400
     },
     {
       "name": "Misawa",
       "sealId": "MKO",
       "mapX": 1498,
-      "mapY": 943
+      "mapY": 1057,
+      "color": 10040166
     },
     {
       "name": "Fukuama",
       "sealId": "MKO",
       "mapX": 1549,
-      "mapY": 989
+      "mapY": 1011,
+      "color": 13382502
     },
     {
       "name": "Bononia",
       "sealId": "PGI",
       "mapX": 1147,
-      "mapY": 523
+      "mapY": 1477,
+      "color": 3381606
     },
     {
       "name": "Kyozawa",
       "sealId": "MKO",
       "mapX": 969,
-      "mapY": 858
+      "mapY": 1142,
+      "color": 13408563
     },
     {
       "name": "Japanium",
       "sealId": "MKO",
       "mapX": 1900,
-      "mapY": 780
+      "mapY": 1220,
+      "color": 16763904
     },
     {
       "name": "Discith",
       "sealId": "MOAB",
       "mapX": 107,
-      "mapY": 1910
+      "mapY": 90,
+      "color": 16776960
     },
     {
       "name": "New Rome",
       "sealId": "PGI",
       "mapX": 395,
-      "mapY": 645
+      "mapY": 1355,
+      "color": 3368601
     },
     {
       "name": "Sumatra",
       "sealId": "DIS",
       "mapX": 1622,
-      "mapY": 1781
+      "mapY": 219,
+      "color": 10027263
     },
     {
       "name": "Padua",
       "sealId": "PGI",
       "mapX": 353,
-      "mapY": 271
+      "mapY": 1729,
+      "color": 6723993
     },
     {
       "name": "Neferth",
       "sealId": "MOAB",
       "mapX": 519,
-      "mapY": 1297
+      "mapY": 703,
+      "color": 16737792
     },
     {
       "name": "Taurini",
       "sealId": "PGI",
       "mapX": 1507,
-      "mapY": 305
+      "mapY": 1695,
+      "color": 6750156
     },
     {
       "name": "Mompracem",
       "sealId": "DIS",
       "mapX": 1344,
-      "mapY": 1549
+      "mapY": 451,
+      "color": 16764057
     },
     {
       "name": "Descenthia",
       "sealId": "MOAB",
       "mapX": 464,
-      "mapY": 1503
+      "mapY": 497,
+      "color": 16751052
     },
     {
       "name": "Tortuga",
       "sealId": "DIS",
       "mapX": 998,
-      "mapY": 1234
+      "mapY": 766,
+      "color": 16751103
     },
     {
       "name": "Sasuoka",
       "sealId": "MKO",
       "mapX": 1395,
-      "mapY": 640
+      "mapY": 1360,
+      "color": 16764108
     },
     {
       "name": "Mediolanum",
       "sealId": "PGI",
       "mapX": 1700,
-      "mapY": 307
+      "mapY": 1693,
+      "color": 13434828
     },
     {
       "name": "Lathranth",
       "sealId": "MOAB",
       "mapX": 124,
-      "mapY": 1035
+      "mapY": 1040,
+      "color": 13421823
     },
     {
       "name": "Malacca",
       "sealId": "DIS",
       "mapX": 1842,
-      "mapY": 1626
+      "mapY": 374,
+      "color": 16777215
     }
   ]
 }

@@ -4,169 +4,197 @@
       "name": "Anaesth",
       "sealId": "MOAB",
       "mapX": 263,
-      "mapY": 234
+      "mapY": 234,
+      "color": 16777166
     },
     {
       "name": "Hagiyaka",
       "sealId": "DIS",
       "mapX": 599,
-      "mapY": 218
+      "mapY": 218,
+      "color": 16776960
     },
     {
       "name": "Lux",
       "sealId": "PGI",
       "mapX": 995,
-      "mapY": 302
+      "mapY": 302,
+      "color": 13565696
     },
     {
       "name": "Pila",
       "sealId": "MKO",
       "mapX": 787,
-      "mapY": 576
+      "mapY": 576,
+      "color": 16764416
     },
     {
       "name": "Olumoc",
       "sealId": "MOAB",
       "mapX": 557,
-      "mapY": 700
+      "mapY": 700,
+      "color": 11908533
     },
     {
       "name": "Soraika",
       "sealId": "DIS",
       "mapX": 515,
-      "mapY": 1044
+      "mapY": 1044,
+      "color": 65535
     },
     {
       "name": "Aether",
       "sealId": "PGI",
       "mapX": 389,
-      "mapY": 1274
+      "mapY": 1274,
+      "color": 65486
     },
     {
       "name": "Caridad",
       "sealId": "MKO",
       "mapX": 665,
-      "mapY": 1398
+      "mapY": 1398,
+      "color": 16751616
     },
     {
       "name": "Heresia",
       "sealId": "MOAB",
       "mapX": 191,
-      "mapY": 1488
+      "mapY": 1488,
+      "color": 65436
     },
     {
       "name": "Noshima",
       "sealId": "DIS",
       "mapX": 205,
-      "mapY": 1800
+      "mapY": 1800,
+      "color": 65379
     },
     {
       "name": "Nidus",
       "sealId": "PGI",
       "mapX": 495,
-      "mapY": 1790
+      "mapY": 1790,
+      "color": 10263708
     },
     {
       "name": "Milagro",
       "sealId": "MKO",
       "mapX": 711,
-      "mapY": 1794
+      "mapY": 1794,
+      "color": 65329
     },
     {
       "name": "Ladun",
       "sealId": "MOAB",
       "mapX": 1091,
-      "mapY": 1526
+      "mapY": 1526,
+      "color": 52991
     },
     {
       "name": "Mifunia",
       "sealId": "DIS",
       "mapX": 1369,
-      "mapY": 1880
+      "mapY": 1880,
+      "color": 16737024
     },
     {
       "name": "Beatitas",
       "sealId": "PGI",
       "mapX": 1773,
-      "mapY": 1772
+      "mapY": 1772,
+      "color": 8092539
     },
     {
       "name": "Alegria",
       "sealId": "MKO",
       "mapX": 1523,
-      "mapY": 1558
+      "mapY": 1558,
+      "color": 40191
     },
     {
       "name": "Erspeth",
       "sealId": "MOAB",
       "mapX": 1435,
-      "mapY": 1336
+      "mapY": 1336,
+      "color": 16724224
     },
     {
       "name": "Kuro",
       "sealId": "DIS",
       "mapX": 1703,
-      "mapY": 1132
+      "mapY": 1132,
+      "color": 16711935
     },
     {
       "name": "Vita Nova",
       "sealId": "PGI",
       "mapX": 1125,
-      "mapY": 1180
+      "mapY": 1180,
+      "color": 16711886
     },
     {
       "name": "Sol",
       "sealId": "MKO",
       "mapX": 1085,
-      "mapY": 956
+      "mapY": 956,
+      "color": 6513507
     },
     {
       "name": "Abissalia",
       "sealId": "MOAB",
       "mapX": 1813,
-      "mapY": 1344
+      "mapY": 1344,
+      "color": 16711836
     },
     {
       "name": "Sawa",
       "sealId": "DIS",
       "mapX": 1599,
-      "mapY": 716
+      "mapY": 716,
+      "color": 16711779
     },
     {
       "name": "Urbs Aurea",
       "sealId": "PGI",
       "mapX": 1337,
-      "mapY": 550
+      "mapY": 550,
+      "color": 25599
     },
     {
       "name": "Estrella",
       "sealId": "MKO",
       "mapX": 1857,
-      "mapY": 706
+      "mapY": 706,
+      "color": 16711729
     },
     {
       "name": "Alymon",
       "sealId": "MOAB",
       "mapX": 1509,
-      "mapY": 336
+      "mapY": 336,
+      "color": 16711680
     },
     {
       "name": "Kiraa",
       "sealId": "DIS",
       "mapX": 1651,
-      "mapY": 146
+      "mapY": 146,
+      "color": 4868682
     },
     {
       "name": "Focus",
       "sealId": "PGI",
       "mapX": 1795,
-      "mapY": 370
+      "mapY": 370,
+      "color": 12799
     },
     {
       "name": "Belleza",
       "sealId": "MKO",
       "mapX": 195,
-      "mapY": 618
+      "mapY": 618,
+      "color": 3223907
     }
   ]
 }

@@ -4,67 +4,78 @@
       "name": "Gundia",
       "sealId": "MKO",
       "mapX": 137,
-      "mapY": 82
+      "mapY": 82,
+      "color": 16777166
     },
     {
       "name": "Olympus",
       "sealId": "PGI",
       "mapX": 463,
-      "mapY": 392
+      "mapY": 392,
+      "color": 16776960
     },
     {
       "name": "Paraiso",
       "sealId": "DIS",
       "mapX": 667,
-      "mapY": 120
+      "mapY": 120,
+      "color": 13565696
     },
     {
       "name": "Atharsia",
       "sealId": "MOAB",
       "mapX": 885,
-      "mapY": 322
+      "mapY": 322,
+      "color": 16764416
     },
     {
       "name": "Toshimi",
       "sealId": "MKO",
       "mapX": 767,
-      "mapY": 504
+      "mapY": 504,
+      "color": 11908533
     },
     {
       "name": "Vulcania",
       "sealId": "PGI",
       "mapX": 805,
-      "mapY": 830
+      "mapY": 830,
+      "color": 65535
     },
     {
       "name": "Clementia",
       "sealId": "DIS",
       "mapX": 483,
-      "mapY": 688
+      "mapY": 688,
+      "color": 65486
     },
     {
       "name": "Cathar",
       "sealId": "MOAB",
       "mapX": 407,
-      "mapY": 928
+      "mapY": 928,
+      "color": 16751616
     },
     {
       "name": "Drakka",
       "sealId": "MKO",
       "mapX": 131,
-      "mapY": 302
+      "mapY": 302,
+      "color": 65436
     },
     {
       "name": "Eraclia",
       "sealId": "PGI",
       "mapX": 205,
-      "mapY": 508
+      "mapY": 508,
+      "color": 65379
     },
     {
       "name": "Silmaria",
       "sealId": "DIS",
       "mapX": 101,
-      "mapY": 680
+      "mapY": 680,
+      "color": 10263708
     }
   ]
 }

@@ -4,61 +4,71 @@
       "name": "DeBeers",
       "sealId": "DIS",
       "mapX": 85,
-      "mapY": 904
+      "mapY": 904,
+      "color": 16777166
     },
     {
       "name": "Eaton",
       "sealId": "MOAB",
       "mapX": 532,
-      "mapY": 332
+      "mapY": 332,
+      "color": 16776960
     },
     {
       "name": "Houston",
       "sealId": "PGI",
       "mapX": 496,
-      "mapY": 140
+      "mapY": 140,
+      "color": 13565696
     },
     {
       "name": "Alberta",
       "sealId": "PGI",
       "mapX": 948,
-      "mapY": 368
+      "mapY": 368,
+      "color": 16764416
     },
     {
       "name": "Joya Del Mar",
       "sealId": "PGI",
       "mapX": 899,
-      "mapY": 80
+      "mapY": 80,
+      "color": 11908533
     },
     {
       "name": "Grace",
       "sealId": "MKO",
       "mapX": 841,
-      "mapY": 970
+      "mapY": 970,
+      "color": 65535
     },
     {
       "name": "Winston",
       "sealId": "MKO",
       "mapX": 724,
-      "mapY": 648
+      "mapY": 648,
+      "color": 65486
     },
     {
       "name": "Lindon",
       "sealId": "DIS",
       "mapX": 412,
-      "mapY": 957
+      "mapY": 957,
+      "color": 16751616
     },
     {
       "name": "Montgomery",
       "sealId": "MKO",
       "mapX": 77,
-      "mapY": 345
+      "mapY": 345,
+      "color": 65436
     },
     {
       "name": "Kirby",
       "sealId": "MOAB",
       "mapX": 379,
-      "mapY": 536
+      "mapY": 536,
+      "color": 65379
     }
   ]
 }

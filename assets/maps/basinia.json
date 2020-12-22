@@ -4,61 +4,71 @@
       "name": "Danube",
       "sealId": "PGI",
       "mapX": 322,
-      "mapY": 180
+      "mapY": 180,
+      "color": 16777166
     },
     {
       "name": "Volga",
       "sealId": "MOAB",
       "mapX": 789,
-      "mapY": 117
+      "mapY": 117,
+      "color": 16776960
     },
     {
       "name": "Yangtze",
       "sealId": "MKO",
       "mapX": 238,
-      "mapY": 483
+      "mapY": 483,
+      "color": 13565696
     },
     {
       "name": "Mississipi",
       "sealId": "MOAB",
       "mapX": 519,
-      "mapY": 346
+      "mapY": 346,
+      "color": 16764416
     },
     {
       "name": "Amazon",
       "sealId": "DIS",
       "mapX": 629,
-      "mapY": 448
+      "mapY": 448,
+      "color": 11908533
     },
     {
       "name": "Nile",
       "sealId": "PGI",
       "mapX": 877,
-      "mapY": 299
+      "mapY": 299,
+      "color": 65535
     },
     {
       "name": "Yenisey",
       "sealId": "MKO",
       "mapX": 181,
-      "mapY": 704
+      "mapY": 704,
+      "color": 65486
     },
     {
       "name": "Parana",
       "sealId": "DIS",
       "mapX": 630,
-      "mapY": 706
+      "mapY": 706,
+      "color": 16751616
     },
     {
       "name": "Huang Ho",
       "sealId": "MKO",
       "mapX": 877,
-      "mapY": 728
+      "mapY": 728,
+      "color": 65436
     },
     {
       "name": "Congo",
       "sealId": "DIS",
       "mapX": 556,
-      "mapY": 950
+      "mapY": 950,
+      "color": 65379
     }
   ]
 }

@@ -4,55 +4,64 @@
       "name": "Sonmy",
       "sealId": "DIS",
       "mapX": 739,
-      "mapY": 679
+      "mapY": 679,
+      "color": 16777166
     },
     {
       "name": "Lily",
       "sealId": "MKO",
       "mapX": 739,
-      "mapY": 162
+      "mapY": 162,
+      "color": 13565696
     },
     {
       "name": "Lora",
       "sealId": "PGI",
       "mapX": 460,
-      "mapY": 254
+      "mapY": 254,
+      "color": 16764416
     },
     {
       "name": "Amanda",
       "sealId": "MOAB",
       "mapX": 272,
-      "mapY": 78
+      "mapY": 78,
+      "color": 11908533
     },
     {
       "name": "Yamila",
       "sealId": "PGI",
       "mapX": 649,
-      "mapY": 859
+      "mapY": 859,
+      "color": 65486
     },
     {
       "name": "Sandra",
       "sealId": "DIS",
       "mapX": 923,
-      "mapY": 326
+      "mapY": 326,
+      "color": 16751616
     },
     {
       "name": "Ana",
       "sealId": "MKO",
       "mapX": 318,
-      "mapY": 945
+      "mapY": 945,
+      "color": 65436
     },
     {
       "name": "Mairet",
       "sealId": "MOAB",
       "mapX": 162,
-      "mapY": 670
+      "mapY": 670,
+      "color": 65379
     },
     {
       "name": "Miriella",
       "sealId": "DIS",
       "mapX": 157,
-      "mapY": 434
+      "mapY": 434,
+      "color": 10263708
     }
   ]
 }

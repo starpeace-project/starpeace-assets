@@ -4,151 +4,176 @@
       "name": "Punta Morena",
       "sealId": "DIS",
       "mapX": 411,
-      "mapY": 213
+      "mapY": 213,
+      "color": 16777166
     },
     {
       "name": "West Bank",
       "sealId": "MKO",
       "mapX": 173,
-      "mapY": 643
+      "mapY": 643,
+      "color": 16776960
     },
     {
       "name": "Kidney Lake",
       "sealId": "MOAB",
       "mapX": 319,
-      "mapY": 684
+      "mapY": 684,
+      "color": 13565696
     },
     {
       "name": "Manica",
       "sealId": "PGI",
       "mapX": 289,
-      "mapY": 1038
+      "mapY": 1038,
+      "color": 16764416
     },
     {
       "name": "New Suez",
       "sealId": "MKO",
       "mapX": 596,
-      "mapY": 534
+      "mapY": 534,
+      "color": 11908533
     },
     {
       "name": "Marsica",
       "sealId": "DIS",
       "mapX": 560,
-      "mapY": 959
+      "mapY": 959,
+      "color": 65535
     },
     {
       "name": "Podan",
       "sealId": "MOAB",
       "mapX": 753,
-      "mapY": 721
+      "mapY": 721,
+      "color": 65486
     },
     {
       "name": "Norvenia",
       "sealId": "PGI",
       "mapX": 895,
-      "mapY": 340
+      "mapY": 340,
+      "color": 16751616
     },
     {
       "name": "Plano",
       "sealId": "DIS",
       "mapX": 511,
-      "mapY": 1233
+      "mapY": 1233,
+      "color": 65436
     },
     {
       "name": "Skandral",
       "sealId": "MOAB",
       "mapX": 184,
-      "mapY": 1371
+      "mapY": 1371,
+      "color": 65379
     },
     {
       "name": "Trespunta",
       "sealId": "PGI",
       "mapX": 291,
-      "mapY": 1645
+      "mapY": 1645,
+      "color": 10263708
     },
     {
       "name": "Loi Lan",
       "sealId": "MKO",
       "mapX": 548,
-      "mapY": 1520
+      "mapY": 1520,
+      "color": 65329
     },
     {
       "name": "Gulfia",
       "sealId": "PGI",
       "mapX": 911,
-      "mapY": 1743
+      "mapY": 1743,
+      "color": 52991
     },
     {
       "name": "Marinaria",
       "sealId": "DIS",
       "mapX": 1249,
-      "mapY": 1806
+      "mapY": 1806,
+      "color": 16737024
     },
     {
       "name": "Spryng",
       "sealId": "MOAB",
       "mapX": 1121,
-      "mapY": 1475
+      "mapY": 1475,
+      "color": 8092539
     },
     {
       "name": "Flamingo",
       "sealId": "MKO",
       "mapX": 1240,
-      "mapY": 1216
+      "mapY": 1216,
+      "color": 40191
     },
     {
       "name": "Lago Ojo",
       "sealId": "DIS",
       "mapX": 818,
-      "mapY": 1323
+      "mapY": 1323,
+      "color": 16724224
     },
     {
       "name": "Shitab",
       "sealId": "MKO",
       "mapX": 1719,
-      "mapY": 1185
+      "mapY": 1185,
+      "color": 16711935
     },
     {
       "name": "Ettoria",
       "sealId": "PGI",
       "mapX": 1463,
-      "mapY": 986
+      "mapY": 986,
+      "color": 16711886
     },
     {
       "name": "Helartia",
       "sealId": "MOAB",
       "mapX": 933,
-      "mapY": 1000
+      "mapY": 1000,
+      "color": 6513507
     },
     {
       "name": "Fortenac",
       "sealId": "PGI",
       "mapX": 1196,
-      "mapY": 778
+      "mapY": 778,
+      "color": 16711836
     },
     {
       "name": "Hookya",
       "sealId": "MKO",
       "mapX": 1133,
-      "mapY": 389
+      "mapY": 389,
+      "color": 16711779
     },
     {
       "name": "Blakh",
       "sealId": "MOAB",
       "mapX": 1616,
-      "mapY": 613
+      "mapY": 613,
+      "color": 25599
     },
     {
       "name": "Flumenia",
       "sealId": "PGI",
       "mapX": 1501,
-      "mapY": 246
+      "mapY": 246,
+      "color": 16711729
     },
     {
       "name": "Lungo Rio",
       "sealId": "DIS",
       "mapX": 1373,
-      "mapY": 588
+      "mapY": 588,
+      "color": 16711680
     }
   ]
 }

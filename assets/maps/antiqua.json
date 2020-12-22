@@ -4,103 +4,120 @@
       "name": "Sparta",
       "sealId": "PGI",
       "mapX": 994,
-      "mapY": 493
+      "mapY": 493,
+      "color": 6697779
     },
     {
       "name": "Asterion",
       "sealId": "PGI",
       "mapX": 466,
-      "mapY": 1804
+      "mapY": 1804,
+      "color": 26163
     },
     {
       "name": "Caribdis",
       "sealId": "PGI",
       "mapX": 257,
-      "mapY": 1543
+      "mapY": 1543,
+      "color": 3407973
     },
     {
       "name": "Artemis",
       "sealId": "PGI",
       "mapX": 1149,
-      "mapY": 1904
+      "mapY": 1904,
+      "color": 3368550
     },
     {
       "name": "Ilion",
       "sealId": "PGI",
       "mapX": 367,
-      "mapY": 624
+      "mapY": 624,
+      "color": 10027008
     },
     {
       "name": "Cyprus",
       "sealId": "PGI",
       "mapX": 420,
-      "mapY": 244
+      "mapY": 244,
+      "color": 16711680
     },
     {
       "name": "Escilla",
       "sealId": "PGI",
       "mapX": 1692,
-      "mapY": 1131
+      "mapY": 1131,
+      "color": 16737813
     },
     {
       "name": "Heron",
       "sealId": "PGI",
       "mapX": 678,
-      "mapY": 1364
+      "mapY": 1364,
+      "color": 3119413
     },
     {
       "name": "The Republic",
       "sealId": "PGI",
       "mapX": 1540,
-      "mapY": 151
+      "mapY": 151,
+      "color": 65280
     },
     {
       "name": "Africa",
       "sealId": "PGI",
       "mapX": 418,
-      "mapY": 902
+      "mapY": 902,
+      "color": 16763904
     },
     {
       "name": "Alexandria",
       "sealId": "PGI",
       "mapX": 1523,
-      "mapY": 583
+      "mapY": 583,
+      "color": 16776960
     },
     {
       "name": "Ofir",
       "sealId": "PGI",
       "mapX": 1186,
-      "mapY": 1320
+      "mapY": 1320,
+      "color": 13209
     },
     {
       "name": "Piton Island",
       "sealId": "PGI",
       "mapX": 894,
-      "mapY": 119
+      "mapY": 119,
+      "color": 255
     },
     {
       "name": "Chimera",
       "sealId": "PGI",
       "mapX": 1330,
-      "mapY": 396
+      "mapY": 396,
+      "color": 6711039
     },
     {
       "name": "Delphi",
       "sealId": "PGI",
       "mapX": 974,
-      "mapY": 908
+      "mapY": 908,
+      "color": 10027161
     },
     {
       "name": "Aleph",
       "sealId": "PGI",
       "mapX": 878,
-      "mapY": 1715
+      "mapY": 1715,
+      "color": 52479
     },
     {
       "name": "Dragon Lair",
       "sealId": "PGI",
       "mapX": 1549,
-      "mapY": 1665
+      "mapY": 1665,
+      "color": 16751052
     }
   ]
 }

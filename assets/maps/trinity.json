@@ -4,67 +4,78 @@
       "name": "Laucida",
       "sealId": "PGI",
       "mapX": 127,
-      "mapY": 181
+      "mapY": 181,
+      "color": 16777166
     },
     {
       "name": "Ismelas",
       "sealId": "DIS",
       "mapX": 590,
-      "mapY": 125
+      "mapY": 125,
+      "color": 16776960
     },
     {
       "name": "Isival",
       "sealId": "MOAB",
       "mapX": 853,
-      "mapY": 177
+      "mapY": 177,
+      "color": 13565696
     },
     {
       "name": "Antizia",
       "sealId": "PGI",
       "mapX": 727,
-      "mapY": 456
+      "mapY": 456,
+      "color": 16764416
     },
     {
       "name": "Relnoza",
       "sealId": "DIS",
       "mapX": 563,
-      "mapY": 300
+      "mapY": 300,
+      "color": 11908533
     },
     {
       "name": "Amnosi",
       "sealId": "MOAB",
       "mapX": 438,
-      "mapY": 493
+      "mapY": 493,
+      "color": 65535
     },
     {
       "name": "Tyteb",
       "sealId": "MKO",
       "mapX": 269,
-      "mapY": 405
+      "mapY": 405,
+      "color": 65486
     },
     {
       "name": "Ledea",
       "sealId": "MKO",
       "mapX": 144,
-      "mapY": 776
+      "mapY": 776,
+      "color": 16751616
     },
     {
       "name": "Roal",
       "sealId": "MOAB",
       "mapX": 522,
-      "mapY": 920
+      "mapY": 920,
+      "color": 65436
     },
     {
       "name": "Barreot",
       "sealId": "DIS",
       "mapX": 778,
-      "mapY": 817
+      "mapY": 817,
+      "color": 65379
     },
     {
       "name": "Banafia",
       "sealId": "PGI",
       "mapX": 682,
-      "mapY": 662
+      "mapY": 662,
+      "color": 10263708
     }
   ]
 }

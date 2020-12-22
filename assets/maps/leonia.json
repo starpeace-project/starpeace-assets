@@ -4,55 +4,64 @@
       "name": "Panthera",
       "sealId": "MKO",
       "mapX": 230,
-      "mapY": 204
+      "mapY": 204,
+      "color": 16777166
     },
     {
       "name": "Tigris",
       "sealId": "PGI",
       "mapX": 534,
-      "mapY": 123
+      "mapY": 123,
+      "color": 16776960
     },
     {
       "name": "Uncia",
       "sealId": "MOAB",
       "mapX": 710,
-      "mapY": 244
+      "mapY": 244,
+      "color": 13565696
     },
     {
       "name": "Lynx",
       "sealId": "MOAB",
       "mapX": 512,
-      "mapY": 399
+      "mapY": 399,
+      "color": 16764416
     },
     {
       "name": "Cheetah",
       "sealId": "DIS",
       "mapX": 850,
-      "mapY": 362
+      "mapY": 362,
+      "color": 11908533
     },
     {
       "name": "Oncifelia",
       "sealId": "MKO",
       "mapX": 140,
-      "mapY": 560
+      "mapY": 560,
+      "color": 65535
     },
     {
       "name": "Puma",
       "sealId": "DIS",
       "mapX": 589,
-      "mapY": 752
+      "mapY": 752,
+      "color": 65486
     },
     {
       "name": "Leopardus",
       "sealId": "PGI",
       "mapX": 857,
-      "mapY": 560
+      "mapY": 560,
+      "color": 16751616
     },
     {
       "name": "Caracal",
       "sealId": "DIS",
       "mapX": 304,
-      "mapY": 856
+      "mapY": 856,
+      "color": 65436
     }
   ]
 }

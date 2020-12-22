@@ -4,61 +4,71 @@
       "name": "Heijo",
       "sealId": "MKO",
       "mapX": 205,
-      "mapY": 176
+      "mapY": 176,
+      "color": 16777166
     },
     {
       "name": "Heian Kyo",
       "sealId": "MKO",
       "mapX": 600,
-      "mapY": 246
+      "mapY": 246,
+      "color": 16776960
     },
     {
       "name": "Kamakura",
       "sealId": "MKO",
       "mapX": 234,
-      "mapY": 385
+      "mapY": 385,
+      "color": 13565696
     },
     {
       "name": "Edo",
       "sealId": "MKO",
       "mapX": 598,
-      "mapY": 443
+      "mapY": 443,
+      "color": 16764416
     },
     {
       "name": "Kyushu",
       "sealId": "MKO",
       "mapX": 844,
-      "mapY": 351
+      "mapY": 351,
+      "color": 11908533
     },
     {
       "name": "Daifuzu",
       "sealId": "MKO",
       "mapX": 888,
-      "mapY": 540
+      "mapY": 540,
+      "color": 65535
     },
     {
       "name": "Kiso",
       "sealId": "MKO",
       "mapX": 142,
-      "mapY": 682
+      "mapY": 682,
+      "color": 65486
     },
     {
       "name": "Hyogo",
       "sealId": "MKO",
       "mapX": 372,
-      "mapY": 700
+      "mapY": 700,
+      "color": 16751616
     },
     {
       "name": "Hamamatsu",
       "sealId": "MKO",
       "mapX": 640,
-      "mapY": 787
+      "mapY": 787,
+      "color": 65436
     },
     {
       "name": "Koriyama",
       "sealId": "MKO",
       "mapX": 488,
-      "mapY": 878
+      "mapY": 878,
+      "color": 65379
     }
   ]
 }

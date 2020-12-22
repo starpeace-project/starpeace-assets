@@ -4,79 +4,92 @@
       "name": "Community",
       "sealId": "MOAB",
       "mapX": 250,
-      "mapY": 250
+      "mapY": 250,
+      "color": 13565696
     },
     {
       "name": "Bubonic",
       "sealId": "PGI",
       "mapX": 50,
-      "mapY": 50
+      "mapY": 50,
+      "color": 16764416
     },
     {
       "name": "Meninqococcal",
       "sealId": "DIS",
-      "mapX": 50,
-      "mapY": 1190
+      "mapX": 180,
+      "mapY": 50,
+      "color": 16776960
     },
     {
       "name": "Influenza",
       "sealId": "MKO",
       "mapX": 320,
-      "mapY": 50
+      "mapY": 50,
+      "color": 11908533
     },
     {
       "name": "Leprosy",
       "sealId": "MOAB",
       "mapX": 440,
-      "mapY": 50
+      "mapY": 50,
+      "color": 16751616
     },
     {
       "name": "Anthrax",
       "sealId": "PGI",
       "mapX": 50,
-      "mapY": 180
+      "mapY": 180,
+      "color": 65436
     },
     {
       "name": "Pertussis",
       "sealId": "DIS",
       "mapX": 450,
-      "mapY": 180
+      "mapY": 180,
+      "color": 65379
     },
     {
       "name": "Tuberculosis",
       "sealId": "MKO",
       "mapX": 55,
-      "mapY": 315
+      "mapY": 315,
+      "color": 16777166
     },
     {
       "name": "Pneumonia",
       "sealId": "MOAB",
       "mapX": 445,
-      "mapY": 315
+      "mapY": 315,
+      "color": 65486
     },
     {
       "name": "Streptococcus",
       "sealId": "PGI",
       "mapX": 60,
-      "mapY": 440
+      "mapY": 440,
+      "color": 16753920
     },
     {
       "name": "Nocardiosis",
       "sealId": "DIS",
       "mapX": 190,
-      "mapY": 440
+      "mapY": 440,
+      "color": 10263708
     },
     {
       "name": "Ebola",
       "sealId": "MKO",
       "mapX": 320,
-      "mapY": 430
+      "mapY": 430,
+      "color": 16762880
     },
     {
       "name": "Hepatitis",
       "sealId": "MOAB",
       "mapX": 440,
-      "mapY": 430
+      "mapY": 430,
+      "color": 65445
     }
   ]
 }

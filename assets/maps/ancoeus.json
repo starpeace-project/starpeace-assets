@@ -4,67 +4,78 @@
       "name": "Eppe",
       "sealId": "PGI",
       "mapX": 409,
-      "mapY": 458
+      "mapY": 458,
+      "color": 16777166
     },
     {
       "name": "Croma",
       "sealId": "MKO",
       "mapX": 152,
-      "mapY": 183
+      "mapY": 183,
+      "color": 16776960
     },
     {
       "name": "Perceo",
       "sealId": "PGI",
       "mapX": 528,
-      "mapY": 729
+      "mapY": 729,
+      "color": 13565696
     },
     {
       "name": "Treloba",
       "sealId": "DIS",
       "mapX": 908,
-      "mapY": 665
+      "mapY": 665,
+      "color": 16764416
     },
     {
       "name": "El Rio",
       "sealId": "DIS",
       "mapX": 467,
-      "mapY": 153
+      "mapY": 153,
+      "color": 11908533
     },
     {
       "name": "Ilase",
       "sealId": "PGI",
       "mapX": 721,
-      "mapY": 471
+      "mapY": 471,
+      "color": 65535
     },
     {
       "name": "Loi Mei",
       "sealId": "MKO",
       "mapX": 290,
-      "mapY": 595
+      "mapY": 595,
+      "color": 65486
     },
     {
       "name": "Wo Ka",
       "sealId": "MKO",
       "mapX": 574,
-      "mapY": 877
+      "mapY": 877,
+      "color": 16751616
     },
     {
       "name": "Dromeda",
       "sealId": "MOAB",
       "mapX": 802,
-      "mapY": 902
+      "mapY": 902,
+      "color": 65436
     },
     {
       "name": "Zelti",
       "sealId": "MOAB",
       "mapX": 865,
-      "mapY": 215
+      "mapY": 215,
+      "color": 65379
     },
     {
       "name": "Oloc",
       "sealId": "MOAB",
       "mapX": 106,
-      "mapY": 410
+      "mapY": 410,
+      "color": 10263708
     }
   ]
 }

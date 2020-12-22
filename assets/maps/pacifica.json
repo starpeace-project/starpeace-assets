@@ -4,61 +4,71 @@
       "name": "Pinar",
       "sealId": "DIS",
       "mapX": 479,
-      "mapY": 89
+      "mapY": 89,
+      "color": 16777166
     },
     {
       "name": "Meridian",
       "sealId": "DIS",
       "mapX": 893,
-      "mapY": 211
+      "mapY": 211,
+      "color": 16776960
     },
     {
       "name": "Santa Carmen",
       "sealId": "DIS",
       "mapX": 910,
-      "mapY": 653
+      "mapY": 653,
+      "color": 13565696
     },
     {
       "name": "Montego",
       "sealId": "DIS",
       "mapX": 656,
-      "mapY": 863
+      "mapY": 863,
+      "color": 16764416
     },
     {
       "name": "Puntarana",
       "sealId": "DIS",
       "mapX": 750,
-      "mapY": 613
+      "mapY": 613,
+      "color": 11908533
     },
     {
       "name": "Puerto Flores",
       "sealId": "DIS",
       "mapX": 565,
-      "mapY": 321
+      "mapY": 321,
+      "color": 65535
     },
     {
       "name": "New Santiago",
       "sealId": "DIS",
       "mapX": 223,
-      "mapY": 859
+      "mapY": 859,
+      "color": 65486
     },
     {
       "name": "Margarita",
       "sealId": "DIS",
       "mapX": 456,
-      "mapY": 748
+      "mapY": 748,
+      "color": 16751616
     },
     {
       "name": "Cruz",
       "sealId": "DIS",
       "mapX": 426,
-      "mapY": 551
+      "mapY": 551,
+      "color": 65436
     },
     {
       "name": "Inagua",
       "sealId": "DIS",
       "mapX": 119,
-      "mapY": 329
+      "mapY": 329,
+      "color": 65379
     }
   ]
 }

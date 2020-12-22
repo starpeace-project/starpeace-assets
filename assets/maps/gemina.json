@@ -4,61 +4,71 @@
       "name": "Romulus",
       "sealId": "PGI",
       "mapX": 195,
-      "mapY": 216
+      "mapY": 216,
+      "color": 16777166
     },
     {
       "name": "Castor",
       "sealId": "PGI",
       "mapX": 223,
-      "mapY": 444
+      "mapY": 444,
+      "color": 16776960
     },
     {
       "name": "Ahura",
       "sealId": "MKO",
       "mapX": 149,
-      "mapY": 679
+      "mapY": 679,
+      "color": 13565696
     },
     {
       "name": "Flint",
       "sealId": "DIS",
       "mapX": 409,
-      "mapY": 706
+      "mapY": 706,
+      "color": 16764416
     },
     {
       "name": "Balder",
       "sealId": "MOAB",
       "mapX": 440,
-      "mapY": 929
+      "mapY": 929,
+      "color": 11908533
     },
     {
       "name": "Remus",
       "sealId": "PGI",
       "mapX": 791,
-      "mapY": 786
+      "mapY": 786,
+      "color": 65535
     },
     {
       "name": "Pollux",
       "sealId": "PGI",
       "mapX": 774,
-      "mapY": 558
+      "mapY": 558,
+      "color": 65486
     },
     {
       "name": "Ahriman",
       "sealId": "MKO",
       "mapX": 837,
-      "mapY": 325
+      "mapY": 325,
+      "color": 16751616
     },
     {
       "name": "Sapling",
       "sealId": "DIS",
       "mapX": 585,
-      "mapY": 319
+      "mapY": 319,
+      "color": 65436
     },
     {
       "name": "Hother",
       "sealId": "MOAB",
       "mapX": 550,
-      "mapY": 82
+      "mapY": 82,
+      "color": 65379
     }
   ]
 }

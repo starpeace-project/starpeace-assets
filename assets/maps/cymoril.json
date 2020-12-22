@@ -4,61 +4,71 @@
       "name": "Ramil",
       "sealId": "PGI",
       "mapX": 177,
-      "mapY": 214
+      "mapY": 214,
+      "color": 16777166
     },
     {
       "name": "Jadram",
       "sealId": "DIS",
       "mapX": 485,
-      "mapY": 190
+      "mapY": 190,
+      "color": 16776960
     },
     {
       "name": "Shakod",
       "sealId": "MOAB",
       "mapX": 829,
-      "mapY": 234
+      "mapY": 234,
+      "color": 13565696
     },
     {
       "name": "Inime",
       "sealId": "PGI",
       "mapX": 825,
-      "mapY": 514
+      "mapY": 514,
+      "color": 16764416
     },
     {
       "name": "Talfinia",
       "sealId": "DIS",
       "mapX": 557,
-      "mapY": 570
+      "mapY": 570,
+      "color": 11908533
     },
     {
       "name": "Cardandias",
       "sealId": "MKO",
       "mapX": 765,
-      "mapY": 866
+      "mapY": 866,
+      "color": 65535
     },
     {
       "name": "Shilarc",
       "sealId": "MKO",
       "mapX": 281,
-      "mapY": 874
+      "mapY": 874,
+      "color": 65486
     },
     {
       "name": "Zamaras",
       "sealId": "MOAB",
       "mapX": 89,
-      "mapY": 622
+      "mapY": 622,
+      "color": 16751616
     },
     {
       "name": "Khoz Dam",
       "sealId": "DIS",
       "mapX": 213,
-      "mapY": 446
+      "mapY": 446,
+      "color": 65436
     },
     {
       "name": "Gramawhal",
       "sealId": "PGI",
       "mapX": 363,
-      "mapY": 708
+      "mapY": 708,
+      "color": 65379
     }
   ]
 }

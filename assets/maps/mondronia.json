@@ -4,61 +4,71 @@
       "name": "Blue",
       "sealId": "MOAB",
       "mapX": 170,
-      "mapY": 215
+      "mapY": 215,
+      "color": 16777166
     },
     {
       "name": "Line",
       "sealId": "MKO",
       "mapX": 401,
-      "mapY": 283
+      "mapY": 283,
+      "color": 16776960
     },
     {
       "name": "Red",
       "sealId": "DIS",
       "mapX": 768,
-      "mapY": 178
+      "mapY": 178,
+      "color": 13565696
     },
     {
       "name": "Grid",
       "sealId": "MKO",
       "mapX": 595,
-      "mapY": 399
+      "mapY": 399,
+      "color": 16764416
     },
     {
       "name": "Brown",
       "sealId": "PGI",
       "mapX": 796,
-      "mapY": 505
+      "mapY": 505,
+      "color": 11908533
     },
     {
       "name": "Lozenge",
       "sealId": "MKO",
       "mapX": 511,
-      "mapY": 595
+      "mapY": 595,
+      "color": 65535
     },
     {
       "name": "Yellow",
       "sealId": "MOAB",
       "mapX": 632,
-      "mapY": 711
+      "mapY": 711,
+      "color": 65486
     },
     {
       "name": "Oval",
       "sealId": "PGI",
       "mapX": 380,
-      "mapY": 669
+      "mapY": 669,
+      "color": 16751616
     },
     {
       "name": "Grey",
       "sealId": "DIS",
       "mapX": 287,
-      "mapY": 803
+      "mapY": 803,
+      "color": 65436
     },
     {
       "name": "Plate",
       "sealId": "PGI",
       "mapX": 204,
-      "mapY": 558
+      "mapY": 558,
+      "color": 65379
     }
   ]
 }

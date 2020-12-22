@@ -4,67 +4,78 @@
       "name": "Monarch",
       "sealId": "MOAB",
       "mapX": 180,
-      "mapY": 195
+      "mapY": 195,
+      "color": 16777166
     },
     {
       "name": "Viceroy",
       "sealId": "DIS",
       "mapX": 399,
-      "mapY": 257
+      "mapY": 257,
+      "color": 16776960
     },
     {
       "name": "Swallowtail",
       "sealId": "PGI",
       "mapX": 716,
-      "mapY": 156
+      "mapY": 156,
+      "color": 13565696
     },
     {
       "name": "Cardinal",
       "sealId": "PGI",
       "mapX": 306,
-      "mapY": 485
+      "mapY": 485,
+      "color": 16764416
     },
     {
       "name": "Fritillary",
       "sealId": "MKO",
       "mapX": 613,
-      "mapY": 443
+      "mapY": 443,
+      "color": 11908533
     },
     {
       "name": "Buckeye",
       "sealId": "DIS",
       "mapX": 773,
-      "mapY": 424
+      "mapY": 424,
+      "color": 65535
     },
     {
       "name": "Vanessa",
       "sealId": "DIS",
       "mapX": 96,
-      "mapY": 582
+      "mapY": 582,
+      "color": 65486
     },
     {
       "name": "Sachem",
       "sealId": "MOAB",
       "mapX": 524,
-      "mapY": 627
+      "mapY": 627,
+      "color": 16751616
     },
     {
       "name": "Satyr",
       "sealId": "MKO",
       "mapX": 205,
-      "mapY": 825
+      "mapY": 825,
+      "color": 65436
     },
     {
       "name": "Elfin",
       "sealId": "MKO",
       "mapX": 626,
-      "mapY": 814
+      "mapY": 814,
+      "color": 65379
     },
     {
       "name": "Argus",
       "sealId": "PGI",
       "mapX": 848,
-      "mapY": 790
+      "mapY": 790,
+      "color": 10263708
     }
   ]
 }

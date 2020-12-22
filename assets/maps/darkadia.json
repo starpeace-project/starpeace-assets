@@ -4,61 +4,71 @@
       "name": "Moreej",
       "sealId": "MOAB",
       "mapX": 373,
-      "mapY": 122
+      "mapY": 122,
+      "color": 16777166
     },
     {
       "name": "Seind",
       "sealId": "MOAB",
       "mapX": 622,
-      "mapY": 203
+      "mapY": 203,
+      "color": 16776960
     },
     {
       "name": "Xlea",
       "sealId": "MOAB",
       "mapX": 830,
-      "mapY": 283
+      "mapY": 283,
+      "color": 13565696
     },
     {
       "name": "Ilo",
       "sealId": "MOAB",
       "mapX": 93,
-      "mapY": 386
+      "mapY": 386,
+      "color": 16764416
     },
     {
       "name": "Nuaj",
       "sealId": "MOAB",
       "mapX": 399,
-      "mapY": 336
+      "mapY": 336,
+      "color": 11908533
     },
     {
       "name": "Samej",
       "sealId": "MOAB",
       "mapX": 510,
-      "mapY": 442
+      "mapY": 442,
+      "color": 65535
     },
     {
       "name": "Aynn",
       "sealId": "MOAB",
       "mapX": 220,
-      "mapY": 577
+      "mapY": 577,
+      "color": 65486
     },
     {
       "name": "Risquam",
       "sealId": "MOAB",
       "mapX": 837,
-      "mapY": 546
+      "mapY": 546,
+      "color": 16751616
     },
     {
       "name": "Pteodet",
       "sealId": "MOAB",
       "mapX": 216,
-      "mapY": 842
+      "mapY": 842,
+      "color": 65436
     },
     {
       "name": "Necromotis",
       "sealId": "MOAB",
       "mapX": 639,
-      "mapY": 885
+      "mapY": 885,
+      "color": 65379
     }
   ]
 }

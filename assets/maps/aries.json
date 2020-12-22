@@ -4,67 +4,78 @@
       "name": "Libra",
       "sealId": "PGI",
       "mapX": 178,
-      "mapY": 220
+      "mapY": 220,
+      "color": 16777166
     },
     {
       "name": "Taurus",
       "sealId": "MOAB",
       "mapX": 510,
-      "mapY": 207
+      "mapY": 207,
+      "color": 16776960
     },
     {
       "name": "Gemini",
       "sealId": "MKO",
       "mapX": 851,
-      "mapY": 354
+      "mapY": 354,
+      "color": 13565696
     },
     {
       "name": "Scorpius",
       "sealId": "MOAB",
       "mapX": 710,
-      "mapY": 345
+      "mapY": 345,
+      "color": 16764416
     },
     {
       "name": "Pisces",
       "sealId": "DIS",
       "mapX": 420,
-      "mapY": 385
+      "mapY": 385,
+      "color": 11908533
     },
     {
       "name": "Leo",
       "sealId": "PGI",
       "mapX": 110,
-      "mapY": 482
+      "mapY": 482,
+      "color": 65535
     },
     {
       "name": "Cancer",
       "sealId": "MKO",
       "mapX": 547,
-      "mapY": 508
+      "mapY": 508,
+      "color": 65486
     },
     {
       "name": "Virgo",
       "sealId": "DIS",
       "mapX": 836,
-      "mapY": 792
+      "mapY": 792,
+      "color": 16751616
     },
     {
       "name": "Sagittarius",
       "sealId": "MKO",
       "mapX": 436,
-      "mapY": 683
+      "mapY": 683,
+      "color": 65436
     },
     {
       "name": "Capricorn",
       "sealId": "PGI",
       "mapX": 131,
-      "mapY": 766
+      "mapY": 766,
+      "color": 65379
     },
     {
       "name": "Aquarius",
       "sealId": "DIS",
       "mapX": 548,
-      "mapY": 865
+      "mapY": 865,
+      "color": 10263708
     }
   ]
 }

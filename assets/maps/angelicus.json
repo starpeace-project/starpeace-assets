@@ -4,67 +4,78 @@
       "name": "Michael Den",
       "sealId": "PGI",
       "mapX": 225,
-      "mapY": 155
+      "mapY": 155,
+      "color": 16777166
     },
     {
       "name": "Cassieltown",
       "sealId": "MKO",
       "mapX": 864,
-      "mapY": 767
+      "mapY": 767,
+      "color": 16776960
     },
     {
       "name": "Raphael City",
       "sealId": "PGI",
       "mapX": 804,
-      "mapY": 71
+      "mapY": 71,
+      "color": 13565696
     },
     {
       "name": "Zadkielburg",
       "sealId": "MOAB",
       "mapX": 677,
-      "mapY": 242
+      "mapY": 242,
+      "color": 16764416
     },
     {
       "name": "Jophielville",
       "sealId": "DIS",
       "mapX": 406,
-      "mapY": 313
+      "mapY": 313,
+      "color": 11908533
     },
     {
       "name": "Azrael Haven",
       "sealId": "MKO",
       "mapX": 288,
-      "mapY": 523
+      "mapY": 523,
+      "color": 65535
     },
     {
       "name": "Israfel Cove",
       "sealId": "MOAB",
       "mapX": 547,
-      "mapY": 544
+      "mapY": 544,
+      "color": 65486
     },
     {
       "name": "Gabrielia",
       "sealId": "DIS",
       "mapX": 713,
-      "mapY": 501
+      "mapY": 501,
+      "color": 16751616
     },
     {
       "name": "Raziel",
       "sealId": "PGI",
       "mapX": 182,
-      "mapY": 788
+      "mapY": 788,
+      "color": 65436
     },
     {
       "name": "Urieland",
       "sealId": "MOAB",
       "mapX": 414,
-      "mapY": 886
+      "mapY": 886,
+      "color": 65379
     },
     {
       "name": "Camaelonia",
       "sealId": "DIS",
       "mapX": 583,
-      "mapY": 762
+      "mapY": 762,
+      "color": 10263708
     }
   ]
 }

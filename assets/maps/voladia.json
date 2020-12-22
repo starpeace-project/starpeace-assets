@@ -4,73 +4,85 @@
       "name": "Shang Mei",
       "sealId": "MKO",
       "mapX": 149,
-      "mapY": 238
+      "mapY": 238,
+      "color": 16777166
     },
     {
       "name": "Hellasia",
       "sealId": "PGI",
       "mapX": 410,
-      "mapY": 198
+      "mapY": 198,
+      "color": 16776960
     },
     {
       "name": "Corral",
       "sealId": "DIS",
       "mapX": 618,
-      "mapY": 177
+      "mapY": 177,
+      "color": 13565696
     },
     {
       "name": "Krylac",
       "sealId": "MOAB",
       "mapX": 768,
-      "mapY": 310
+      "mapY": 310,
+      "color": 16764416
     },
     {
       "name": "Bejhai",
       "sealId": "MKO",
       "mapX": 904,
-      "mapY": 138
+      "mapY": 138,
+      "color": 11908533
     },
     {
       "name": "Etruria",
       "sealId": "PGI",
       "mapX": 556,
-      "mapY": 425
+      "mapY": 425,
+      "color": 65535
     },
     {
       "name": "Cueba Grande",
       "sealId": "DIS",
       "mapX": 725,
-      "mapY": 653
+      "mapY": 653,
+      "color": 65486
     },
     {
       "name": "Ismash",
       "sealId": "MOAB",
       "mapX": 626,
-      "mapY": 889
+      "mapY": 889,
+      "color": 16751616
     },
     {
       "name": "Sailang",
       "sealId": "MKO",
       "mapX": 437,
-      "mapY": 743
+      "mapY": 743,
+      "color": 65436
     },
     {
       "name": "Latinia",
       "sealId": "PGI",
       "mapX": 214,
-      "mapY": 876
+      "mapY": 876,
+      "color": 65379
     },
     {
       "name": "Saledo",
       "sealId": "DIS",
       "mapX": 175,
-      "mapY": 666
+      "mapY": 666,
+      "color": 10263708
     },
     {
       "name": "Tashkan",
       "sealId": "MOAB",
       "mapX": 301,
-      "mapY": 481
+      "mapY": 481,
+      "color": 65329
     }
   ]
 }
