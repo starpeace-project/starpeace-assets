@@ -7,16 +7,58 @@
       "mapY": 195
     },
     {
-      "name": "Swallowtail",
+      "name": "Viceroy",
       "sealId": "DIS",
+      "mapX": 399,
+      "mapY": 257
+    },
+    {
+      "name": "Swallowtail",
+      "sealId": "PGI",
       "mapX": 716,
       "mapY": 156
+    },
+    {
+      "name": "Cardinal",
+      "sealId": "PGI",
+      "mapX": 306,
+      "mapY": 485
+    },
+    {
+      "name": "Fritillary",
+      "sealId": "MKO",
+      "mapX": 613,
+      "mapY": 443
+    },
+    {
+      "name": "Buckeye",
+      "sealId": "DIS",
+      "mapX": 773,
+      "mapY": 424
+    },
+    {
+      "name": "Vanessa",
+      "sealId": "DIS",
+      "mapX": 96,
+      "mapY": 582
+    },
+    {
+      "name": "Sachem",
+      "sealId": "MOAB",
+      "mapX": 524,
+      "mapY": 627
     },
     {
       "name": "Satyr",
       "sealId": "MKO",
       "mapX": 205,
       "mapY": 825
+    },
+    {
+      "name": "Elfin",
+      "sealId": "MKO",
+      "mapX": 626,
+      "mapY": 814
     },
     {
       "name": "Argus",
