@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemical",
+    "image": "chemsign.gif",
+    "width": 31,
+    "height": 32,
+  },
+  {
+    "id": "coal",
+    "image": "coalsign.gif",
+    "width": 46,
+    "height": 34,
+  },
+  {
+    "id": "iron",
+    "image": "ironsign.gif",
+    "width": 33,
+    "height": 36,
+  },
+  {
+    "id": "silicon",
+    "image": "siliconsign.gif",
+    "width": 31,
+    "height": 33,
+  },
+  {
+    "id": "stone",
+    "image": "stonesign.gif",
+    "width": 33,
+    "height": 34,
+  }
+]
