@@ -2,7 +2,7 @@
   {
     "id": "pgi.mine.silicon",
     "imageId": "pgi.mine",
-    "sign_id": "silicon",
+    "signId": "silicon",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Siliziummine",
@@ -23,7 +23,7 @@
   {
     "id": "pgi.mine.silicon.small",
     "imageId": "pgi.mine.small",
-    "sign_id": "silicon",
+    "signId": "silicon",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine Siliziummine",

@@ -2,7 +2,7 @@
   {
     "id": "pgi.mine.ore",
     "imageId": "pgi.mine",
-    "sign_id": "iron",
+    "signId": "iron",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Erzmine",
@@ -23,7 +23,7 @@
   {
     "id": "pgi.mine.ore.small",
     "imageId": "pgi.mine.small",
-    "sign_id": "iron",
+    "signId": "iron",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine Erzmine",

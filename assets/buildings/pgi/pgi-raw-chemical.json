@@ -2,7 +2,7 @@
   {
     "id": "pgi.mine.chemical",
     "imageId": "pgi.mine",
-    "sign_id": "chemical",
+    "signId": "chemical",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Chemische Mine",
@@ -23,7 +23,7 @@
   {
     "id": "pgi.mine.chemical.small",
     "imageId": "pgi.mine.small",
-    "sign_id": "chemical",
+    "signId": "chemical",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine Chemische Mine",

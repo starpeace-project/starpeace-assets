@@ -2,7 +2,7 @@
   {
     "id": "pgi.mine.coal",
     "imageId": "pgi.mine",
-    "sign_id": "coal",
+    "signId": "coal",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kohlenmine",
@@ -23,7 +23,7 @@
   {
     "id": "pgi.mine.coal.small",
     "imageId": "pgi.mine.small",
-    "sign_id": "coal",
+    "signId": "coal",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine Kohlenmine",

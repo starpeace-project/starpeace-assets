@@ -2,7 +2,7 @@
   {
     "id": "pgi.mine.stone",
     "imageId": "pgi.mine",
-    "sign_id": "stone",
+    "signId": "stone",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Steinbergwerk",
@@ -23,7 +23,7 @@
   {
     "id": "pgi.mine.stone.small",
     "imageId": "pgi.mine.small",
-    "sign_id": "stone",
+    "signId": "stone",
     "constructionImageId": "generic.construction.3",
     "name": {
       "DE": "Kleine Steinmine",
