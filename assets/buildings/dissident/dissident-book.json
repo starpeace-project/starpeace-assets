@@ -16,7 +16,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "BOOK",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicBook"
     ],
     "commerce": {}
   }

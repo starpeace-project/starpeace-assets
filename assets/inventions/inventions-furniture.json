@@ -31,6 +31,34 @@
     ]
   },
   {
+    "id": "BasicFurniture",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen des Möbelhauses",
+      "EN": "Furniture Store Basics",
+      "ES": "Conceptos básicos de la tienda de muebles",
+      "FR": "Principes de base du magasin de meubles",
+      "IT": "Nozioni di base del negozio di mobili",
+      "PT": "Noções básicas de loja de móveis"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Möbelgeschäften.",
+      "EN": "Paperwork for managing furniture stores.",
+      "ES": "Trámites para la gestión de tiendas de muebles.",
+      "FR": "Documents pour la gestion des magasins de meubles.",
+      "IT": "Documenti per la gestione dei negozi di mobili.",
+      "PT": "Papelada para gerenciamento de lojas de móveis."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
+  },
+  {
     "id": "FlexibleFurniture",
     "industryCategoryId": "INDUSTRY",
     "name": {
@@ -86,7 +114,10 @@
       "efficiency": 1,
       "desirability": 2
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "FurnBringithome",
@@ -113,7 +144,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "FurnDinnerTest",
@@ -141,7 +175,10 @@
       "efficiency": -1,
       "desirability": 3
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "FurnFullHouseSpecial",
@@ -168,7 +205,10 @@
       "efficiency": 5,
       "desirability": -1
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "FurnHammockTraning",
@@ -195,7 +235,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "FurnLic",
@@ -222,7 +265,7 @@
     },
     "industryTypeId": "FURNITURE",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {
@@ -251,7 +294,10 @@
       "efficiency": -1,
       "desirability": 4
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "FurnRepairmentDepartment",
@@ -278,7 +324,10 @@
       "efficiency": -3,
       "desirability": 4
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "FurnSleepover",
@@ -305,7 +354,10 @@
       "efficiency": -2,
       "desirability": 3
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "FurnSPAsCustomer",
@@ -332,7 +384,10 @@
       "efficiency": 2,
       "desirability": -1
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "FurnUnexpTechnicians",
@@ -389,7 +444,10 @@
       "efficiency": 4,
       "desirability": -1
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "GrowingFurniture",
@@ -784,7 +842,10 @@
       "efficiency": 3,
       "desirability": 1
     },
-    "industryTypeId": "FURNITURE"
+    "industryTypeId": "FURNITURE",
+    "dependsOnIds": [
+      "BasicFurniture"
+    ]
   },
   {
     "id": "WaterproofPieces",

@@ -1,5 +1,33 @@
 [
   {
+    "id": "BasicFood",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen des Lebensmittelgeschäfts",
+      "EN": "Food Store Basics",
+      "ES": "Conceptos básicos de la tienda de alimentos",
+      "FR": "Principes de base des magasins d'alimentation",
+      "IT": "Nozioni di base del negozio di alimentari",
+      "PT": "Noções básicas de loja de alimentos"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Lebensmittelgeschäften.",
+      "EN": "Paperwork for managing food stores.",
+      "ES": "Trámites para la gestión de las tiendas de alimentación.",
+      "FR": "Documents pour la gestion des magasins d'alimentation.",
+      "IT": "Documenti per la gestione dei negozi di alimentari.",
+      "PT": "Papelada para gerenciar lojas de alimentos."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
+  },
+  {
     "id": "DailyFarmDeliveries",
     "industryCategoryId": "COMMERCE",
     "name": {
@@ -24,7 +52,10 @@
       "efficiency": -1,
       "desirability": 3
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "DeliCounter",
@@ -51,7 +82,10 @@
       "efficiency": -2,
       "desirability": 3
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "ExpiringDatesAlteration",
@@ -78,7 +112,10 @@
       "efficiency": 4,
       "desirability": -2
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "ExtraterrestrialVegetables",
@@ -106,7 +143,10 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "Flowers",
@@ -162,7 +202,10 @@
       "efficiency": -1,
       "desirability": 3
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "HygieneChecks",
@@ -189,7 +232,10 @@
       "efficiency": -3,
       "desirability": 2
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "MonthlyPaymentOption",
@@ -216,7 +262,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "NoBrandFood",
@@ -243,7 +292,10 @@
       "efficiency": 3,
       "desirability": -1
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "Oven",
@@ -270,7 +322,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "PartyOrders",
@@ -297,7 +352,10 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "SelfServeVegetablesPicking",
@@ -324,7 +382,10 @@
       "efficiency": 2,
       "desirability": -1
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "SeniorCitizenFreeHomeDelivery",
@@ -352,7 +413,10 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "SpecializedStores",
@@ -379,7 +443,10 @@
       "efficiency": 2,
       "desirability": 1
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   },
   {
     "id": "WorkersLunch",
@@ -406,6 +473,9 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "FOOD"
+    "industryTypeId": "FOOD",
+    "dependsOnIds": [
+      "BasicFood"
+    ]
   }
 ]

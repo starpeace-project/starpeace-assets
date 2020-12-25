@@ -24,7 +24,10 @@
       "levelId": "APPRENTICE",
       "efficiency": -3
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "AutoInd",
@@ -51,7 +54,7 @@
     },
     "industryTypeId": "AUTOMOBILE",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {
@@ -86,6 +89,34 @@
     ]
   },
   {
+    "id": "BasicAutomobile",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen des Automobilgeschäfts",
+      "EN": "Dealership Basics",
+      "ES": "Conceptos básicos de la tienda de automóviles",
+      "FR": "Bases du magasin automobile",
+      "IT": "Nozioni di base del negozio di automobili",
+      "PT": "Noções básicas de loja de automóveis"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Autohäusern.",
+      "EN": "Paperwork for managing automobile dealerships.",
+      "ES": "Trámites para la gestión de tiendas de automóviles.",
+      "FR": "Documents pour la gestion des magasins d'automobiles.",
+      "IT": "Documenti per la gestione di negozi di automobili.",
+      "PT": "Papelada para gerenciamento de lojas de automóveis."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
+  },
+  {
     "id": "BetweenWorldsTransfer",
     "industryCategoryId": "COMMERCE",
     "name": {
@@ -110,7 +141,10 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "BlindSpotSensors",
@@ -260,7 +294,10 @@
       "efficiency": 10,
       "desirability": -2
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "DesignOutsourcing",
@@ -411,7 +448,10 @@
       "efficiency": -5,
       "desirability": 3
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "FamilyMarketingStrategy",
@@ -438,7 +478,10 @@
       "efficiency": 7,
       "desirability": -2
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "FreeGas",
@@ -465,7 +508,10 @@
       "efficiency": -3,
       "desirability": 2
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "GlueOnTires",
@@ -555,7 +601,10 @@
       "efficiency": -5,
       "desirability": 5
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "LeasingAndFinancing",
@@ -582,7 +631,10 @@
       "efficiency": -3,
       "desirability": 3
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "LimitedModelsSelection",
@@ -610,7 +662,10 @@
       "efficiency": 20,
       "desirability": -5
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "LowQualityCoating",
@@ -668,7 +723,10 @@
       "efficiency": -3,
       "desirability": 2
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "MassiveFeaturesStandardization",
@@ -785,7 +843,10 @@
       "levelId": "APPRENTICE",
       "efficiency": 3
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "UltimateAirBag",
@@ -844,7 +905,10 @@
       "efficiency": -5,
       "desirability": 8
     },
-    "industryTypeId": "AUTOMOBILE"
+    "industryTypeId": "AUTOMOBILE",
+    "dependsOnIds": [
+      "BasicAutomobile"
+    ]
   },
   {
     "id": "WarrantyPolicy",

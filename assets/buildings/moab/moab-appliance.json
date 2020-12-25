@@ -36,7 +36,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "APPLIANCE",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicHHA"
     ],
     "commerce": {}
   }

@@ -36,7 +36,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "COMPACT_DISC",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicCompactDisc"
     ],
     "commerce": []
   }

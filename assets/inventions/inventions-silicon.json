@@ -323,7 +323,7 @@
     },
     "industryTypeId": "SILICON",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

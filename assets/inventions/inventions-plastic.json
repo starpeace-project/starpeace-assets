@@ -298,7 +298,7 @@
     },
     "industryTypeId": "PLASTIC",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

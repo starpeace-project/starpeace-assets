@@ -36,7 +36,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "FURNITURE",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicFurniture"
     ],
     "commerce": {}
   }

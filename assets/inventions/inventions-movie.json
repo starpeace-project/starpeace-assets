@@ -659,7 +659,10 @@
       "levelId": "MASTER",
       "nobility": 200
     },
-    "industryTypeId": "MOVIE"
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
+      "Industries"
+    ]
   },
   {
     "id": "MovieTheater",
@@ -684,7 +687,10 @@
       "price": 10000000,
       "levelId": "APPRENTICE"
     },
-    "industryTypeId": "MOVIE"
+    "industryTypeId": "MOVIE",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
   },
   {
     "id": "Odorama",

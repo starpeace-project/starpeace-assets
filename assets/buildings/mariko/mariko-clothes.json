@@ -56,7 +56,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "CLOTHES",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicClothes"
     ],
     "commerce": {}
   }

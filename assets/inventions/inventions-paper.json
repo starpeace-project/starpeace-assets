@@ -356,7 +356,7 @@
     },
     "industryTypeId": "PAPER",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

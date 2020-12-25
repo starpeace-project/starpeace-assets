@@ -238,7 +238,7 @@
     },
     "industryTypeId": "FARMING",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

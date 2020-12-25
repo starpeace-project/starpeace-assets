@@ -36,7 +36,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "COMPUTER",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicComputer"
     ],
     "commerce": {}
   }

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "moab.cathedral",
+    "imageId": "moab.cathedral",
+    "constructionImageId": "generic.construction.3",
+    "name": {
+      "DE": "Moab Kathedrale",
+      "EN": "Moab Cathedral",
+      "ES": "Catedral de moab",
+      "FR": "Cathédrale de Moab",
+      "IT": "Cattedrale di Moab",
+      "PT": "Catedral de Moab"
+    },
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
+  },
+  {
+    "id": "moab.correctional.tower",
+    "imageId": "moab.correctional.tower",
+    "constructionImageId": "generic.construction.2",
+    "name": {
+      "DE": "Civic Affairs Tower",
+      "EN": "Civic Affairs Tower",
+      "ES": "Torre de asuntos cívicos",
+      "FR": "Tour des affaires civiques",
+      "IT": "Torre degli affari civici",
+      "PT": "Torre dos Assuntos Cívicos"
+    },
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
+  },
+  {
+    "id": "moab.industry.tower",
+    "imageId": "moab.industry.tower",
+    "constructionImageId": "generic.construction.2",
+    "name": {
+      "DE": "Industries Tower",
+      "EN": "Industries Tower",
+      "ES": "Torre de industrias",
+      "FR": "Tour des industries",
+      "IT": "Torre delle industrie",
+      "PT": "Torre de indústrias"
+    },
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
+  },
+  {
+    "id": "moab.market.tower",
+    "imageId": "moab.market.tower",
+    "constructionImageId": "generic.construction.2",
+    "name": {
+      "DE": "Commerce Tower",
+      "EN": "Commerce Tower",
+      "ES": "Torre de comercio",
+      "FR": "Tour de commerce",
+      "IT": "Torre del commercio",
+      "PT": "Torre de comércio"
+    },
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
+  },
+  {
+    "id": "moab.residential.tower",
+    "imageId": "moab.residential.tower",
+    "constructionImageId": "generic.construction.2",
+    "name": {
+      "DE": "Immobilien-Turm",
+      "EN": "Real Estate Tower",
+      "ES": "Torre inmobiliaria",
+      "FR": "Tour immobilier",
+      "IT": "Real Estate Tower",
+      "PT": "Torre Imobiliária"
+    },
+    "sealId": "MOAB",
+    "zoneId": "SERVICE",
+    "industryCategoryId": "SERVICE",
+    "industryTypeId": "HEADQUARTERS",
+    "requiredInventionIds": []
+  }
+]

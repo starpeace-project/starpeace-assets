@@ -323,7 +323,7 @@
     },
     "industryTypeId": "STONE",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

@@ -389,7 +389,7 @@
     },
     "industryTypeId": "LIQUOR",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

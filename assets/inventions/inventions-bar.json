@@ -53,7 +53,10 @@
       "price": 10000000,
       "levelId": "APPRENTICE"
     },
-    "industryTypeId": "BAR"
+    "industryTypeId": "BAR",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
   },
   {
     "id": "Bouncers",

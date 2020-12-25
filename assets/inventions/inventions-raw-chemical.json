@@ -323,7 +323,7 @@
     },
     "industryTypeId": "RAW_CHEMICAL",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

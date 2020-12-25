@@ -323,7 +323,7 @@
     },
     "industryTypeId": "COAL",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

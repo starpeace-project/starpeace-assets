@@ -1229,7 +1229,10 @@
       "price": 500000,
       "levelId": "APPRENTICE"
     },
-    "industryTypeId": "RESIDENTIAL"
+    "industryTypeId": "RESIDENTIAL",
+    "dependsOnIds": [
+      "DistributedDirection"
+    ]
   },
   {
     "id": "ScentDiffusers",

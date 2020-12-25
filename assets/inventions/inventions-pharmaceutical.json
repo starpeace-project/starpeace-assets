@@ -25,7 +25,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "AntiAllergyCompulsoryTesting",
@@ -55,6 +58,34 @@
     "industryTypeId": "PHARMACEUTICAL",
     "dependsOnIds": [
       "PharmaIndustry"
+    ]
+  },
+  {
+    "id": "BasicPharmacy",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen der Pharmazie",
+      "EN": "Pharmacy Basics",
+      "ES": "Conceptos básicos de farmacia",
+      "FR": "Bases de la pharmacie",
+      "IT": "Nozioni di base sulla farmacia",
+      "PT": "Noções básicas de farmácia"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Apotheken.",
+      "EN": "Paperwork for managing pharmacies.",
+      "ES": "Trámites para la gestión de farmacias.",
+      "FR": "Documents pour la gestion des pharmacies.",
+      "IT": "Documenti per la gestione delle farmacie.",
+      "PT": "Papelada para gerenciamento de farmácias."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicCommerce"
     ]
   },
   {
@@ -113,7 +144,10 @@
       "levelId": "APPRENTICE",
       "desirability": -2
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "CommonDrugsSpecialOffers",
@@ -140,7 +174,10 @@
       "efficiency": 1,
       "desirability": 3
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "CourtesyChairs",
@@ -167,7 +204,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "DoctorsWritingDecryptors",
@@ -194,7 +234,10 @@
       "efficiency": 2,
       "desirability": 3
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "DoItYourselfKit",
@@ -313,7 +356,10 @@
       "efficiency": 2,
       "desirability": 2
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "FilmDevelopingCenter",
@@ -340,7 +386,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "FluorescentCapsules",
@@ -428,7 +477,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "MagazinesAndBooks",
@@ -455,7 +507,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "MaleBirthControlAndViagraPill",
@@ -543,7 +598,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "OldDrugRecycling",
@@ -632,7 +690,10 @@
       "efficiency": -2,
       "desirability": 3
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "PharmaIndustry",
@@ -659,7 +720,7 @@
     },
     "industryTypeId": "PHARMACEUTICAL",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {
@@ -688,7 +749,10 @@
       "efficiency": -2,
       "desirability": -1
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "PressureMeasurementMachines",
@@ -716,7 +780,10 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   },
   {
     "id": "SafeSexCampaign",
@@ -896,6 +963,9 @@
       "efficiency": 5,
       "desirability": -4
     },
-    "industryTypeId": "PHARMACEUTICAL"
+    "industryTypeId": "PHARMACEUTICAL",
+    "dependsOnIds": [
+      "BasicPharmacy"
+    ]
   }
 ]

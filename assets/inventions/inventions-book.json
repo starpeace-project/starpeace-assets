@@ -29,6 +29,34 @@
     ]
   },
   {
+    "id": "BasicBook",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen des Buchladens",
+      "EN": "Book Store Basics",
+      "ES": "Conceptos básicos de la librería",
+      "FR": "Les bases de la librairie",
+      "IT": "Nozioni di base sulla libreria",
+      "PT": "Noções básicas da livraria"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Buchhandlungen.",
+      "EN": "Paperwork for managing book stores.",
+      "ES": "Trámites para la gestión de librerías.",
+      "FR": "Documents pour la gestion des librairies.",
+      "IT": "Scartoffie per la gestione delle librerie.",
+      "PT": "Papelada para gerenciar livrarias."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
+  },
+  {
     "id": "BigLetters",
     "industryCategoryId": "INDUSTRY",
     "name": {
@@ -84,7 +112,10 @@
       "efficiency": -3,
       "desirability": 2
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookBestOnly",
@@ -111,7 +142,10 @@
       "efficiency": 4,
       "desirability": -2
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookBookLaunch",
@@ -139,7 +173,10 @@
       "efficiency": -1,
       "desirability": 6
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookBookWhore",
@@ -166,7 +203,10 @@
       "efficiency": -2,
       "desirability": 6
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookDigitalCatalog",
@@ -193,7 +233,10 @@
       "efficiency": 1,
       "desirability": 2
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookFinding",
@@ -220,7 +263,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookHolobooks",
@@ -247,7 +293,10 @@
       "efficiency": 7,
       "desirability": -2
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookKids",
@@ -274,7 +323,10 @@
       "efficiency": -2,
       "desirability": 3
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookLiveWriting",
@@ -302,7 +354,10 @@
       "efficiency": -2,
       "desirability": 8
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookMisinformation",
@@ -328,7 +383,10 @@
       "levelId": "APPRENTICE",
       "desirability": 2
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookPoetClub",
@@ -355,7 +413,10 @@
       "efficiency": 5,
       "desirability": -2
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookPoliticallyCorrect",
@@ -383,7 +444,10 @@
       "efficiency": -5,
       "desirability": -30
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "booksBraile",
@@ -411,7 +475,10 @@
       "efficiency": -4,
       "desirability": 2
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookTrailers",
@@ -438,7 +505,10 @@
       "efficiency": -7,
       "desirability": 8
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "bookUsedBooks",
@@ -466,7 +536,10 @@
       "efficiency": 5,
       "desirability": -3
     },
-    "industryTypeId": "BOOK"
+    "industryTypeId": "BOOK",
+    "dependsOnIds": [
+      "BasicBook"
+    ]
   },
   {
     "id": "BrailleBooks",
@@ -821,7 +894,7 @@
     },
     "industryTypeId": "BOOK",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

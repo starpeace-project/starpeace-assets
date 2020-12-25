@@ -24,7 +24,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "AccessoryShop",
@@ -51,7 +54,10 @@
       "efficiency": -3,
       "desirability": 3
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "AntiElectricCarCampaign",
@@ -139,7 +145,10 @@
       "levelId": "APPRENTICE",
       "efficiency": 5
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "AutomaticPlatePayment",
@@ -166,7 +175,38 @@
       "efficiency": 2,
       "desirability": 1
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
+  },
+  {
+    "id": "BasicGasoline",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen des Benzingeschäfts",
+      "EN": "Gas Station Basics",
+      "ES": "Conceptos básicos de la tienda de gasolina",
+      "FR": "Principes de base du magasin d'essence",
+      "IT": "Nozioni di base sul negozio di benzina",
+      "PT": "Noções básicas de armazenamento de gasolina"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Benzinvorräten.",
+      "EN": "Paperwork for managing gas stations.",
+      "ES": "Trámites para la gestión de depósitos de gasolina.",
+      "FR": "Documents pour la gestion des magasins d'essence.",
+      "IT": "Documenti per la gestione dei negozi di benzina.",
+      "PT": "Papelada para gerenciar lojas de gasolina."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
   },
   {
     "id": "BacteriaPurification",
@@ -254,7 +294,10 @@
       "efficiency": -2,
       "desirability": 3
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "ColoredSmokeEmission",
@@ -401,7 +444,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "FlammableItemsBan",
@@ -457,7 +503,10 @@
       "levelId": "APPRENTICE",
       "desirability": 2
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "GasFireplaces",
@@ -516,7 +565,10 @@
       "efficiency": 5,
       "desirability": -2
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "MultiOctaneSelection",
@@ -633,7 +685,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "PlateMarketingStrategy",
@@ -690,7 +745,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "Refinery",
@@ -717,7 +775,7 @@
     },
     "industryTypeId": "GASOLINE",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {
@@ -745,7 +803,10 @@
       "efficiency": -4,
       "desirability": 3
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "RocketAirplaneFuelProduction",
@@ -803,7 +864,10 @@
       "efficiency": 10,
       "desirability": -2
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   },
   {
     "id": "SOSService",
@@ -892,6 +956,9 @@
       "efficiency": -5,
       "desirability": 4
     },
-    "industryTypeId": "GASOLINE"
+    "industryTypeId": "GASOLINE",
+    "dependsOnIds": [
+      "BasicGasoline"
+    ]
   }
 ]

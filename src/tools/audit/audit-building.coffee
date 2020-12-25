@@ -10,9 +10,9 @@ STARPEACE = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditBuilding
-  @EXPECTED_DEFINITION_COUNT: 326
-  @EXPECTED_IMAGE_DEFINITION_COUNT: 417
-  @EXPECTED_SIMULATION_DEFINITION_COUNT: 326
+  @EXPECTED_DEFINITION_COUNT: 321
+  @EXPECTED_IMAGE_DEFINITION_COUNT: 412
+  @EXPECTED_SIMULATION_DEFINITION_COUNT: 321
 
   @audit: (root_dir) -> (audit_data) -> new Promise (resolve, reject) ->
     try

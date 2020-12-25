@@ -176,7 +176,7 @@
     },
     "industryTypeId": "MACHINERY",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

@@ -25,7 +25,10 @@
       "efficiency": -1,
       "desirability": 3
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "AlienAlarm",
@@ -85,6 +88,34 @@
     "industryTypeId": "APPLIANCE",
     "dependsOnIds": [
       "HHALic"
+    ]
+  },
+  {
+    "id": "BasicHHA",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen des Appliance Store",
+      "EN": "Appliance Store Basics",
+      "ES": "Conceptos básicos de la tienda de electrodomésticos",
+      "FR": "Principes de base du magasin d'électroménagers",
+      "IT": "Nozioni di base sul negozio di elettrodomestici",
+      "PT": "Noções básicas de loja de eletrodomésticos"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Appliance Stores.",
+      "EN": "Paperwork for managing appliance stores.",
+      "ES": "Trámites para la gestión de tiendas de electrodomésticos.",
+      "FR": "Documents pour la gestion des magasins d'appareils.",
+      "IT": "Documenti per la gestione dei negozi di elettrodomestici.",
+      "PT": "Papelada para gerenciar lojas de eletrodomésticos."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicCommerce"
     ]
   },
   {
@@ -204,7 +235,10 @@
       "efficiency": 1,
       "desirability": 2
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "FullHouseSpecial",
@@ -289,7 +323,7 @@
     },
     "industryTypeId": "APPLIANCE",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {
@@ -317,7 +351,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "HiFiDirectionalSpeakers",
@@ -375,7 +412,10 @@
       "efficiency": -2,
       "desirability": 3
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "HolographicTV",
@@ -433,7 +473,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "LifeWarranties",
@@ -461,7 +504,10 @@
       "efficiency": -1,
       "desirability": 3
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "LSAppProd",
@@ -516,7 +562,10 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "MorphingPet",
@@ -574,7 +623,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "RepairmentDepartment",
@@ -601,7 +653,10 @@
       "efficiency": -3,
       "desirability": 4
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "SalesPeopleAsCustomer",
@@ -628,7 +683,10 @@
       "efficiency": 2,
       "desirability": -1
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "UltrasoundsWashingMachines",
@@ -716,7 +774,10 @@
       "efficiency": 5,
       "desirability": -2
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "UniversalMachine",
@@ -804,7 +865,10 @@
       "efficiency": 3,
       "desirability": 1
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "UsedUnitsRetirement",
@@ -861,7 +925,10 @@
       "efficiency": 4,
       "desirability": -1
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "VoiceActivator",

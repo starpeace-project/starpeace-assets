@@ -51,7 +51,10 @@
       "prestige": 5,
       "levelId": "APPRENTICE"
     },
-    "industryTypeId": "GENERAL"
+    "industryTypeId": "GENERAL",
+    "dependsOnIds": [
+      "DistributedDirection"
+    ]
   },
   {
     "id": "DistributedDirection",
@@ -101,32 +104,10 @@
       "price": 500000,
       "levelId": "APPRENTICE"
     },
-    "industryTypeId": "GENERAL"
-  },
-  {
-    "id": "MinistryAdministration",
-    "industryCategoryId": "CIVIC",
-    "name": {
-      "DE": "Ministry Administration",
-      "EN": "Ministry Administration",
-      "ES": "Administracion de ministerios",
-      "FR": "Administration du Ministère",
-      "IT": "Ministry Administration",
-      "PT": "Administração do Ministério"
-    },
-    "description": {
-      "DE": "Ministry Administration",
-      "EN": "Ministry Administration",
-      "ES": "Administracion de ministerios",
-      "FR": "Administration du Ministère",
-      "IT": "Ministry Administration",
-      "PT": "Administração do Ministério"
-    },
-    "properties": {
-      "price": 20000000,
-      "levelId": "APPRENTICE"
-    },
-    "industryTypeId": "GENERAL"
+    "industryTypeId": "GENERAL",
+    "dependsOnIds": [
+      "DistributedDirection"
+    ]
   },
   {
     "id": "Monuments",
@@ -152,7 +133,10 @@
       "prestige": 50,
       "levelId": "ENTREPRENEUR"
     },
-    "industryTypeId": "GENERAL"
+    "industryTypeId": "GENERAL",
+    "dependsOnIds": [
+      "DistributedDirection"
+    ]
   },
   {
     "id": "WaterQuest",
@@ -180,7 +164,6 @@
     },
     "industryTypeId": "GENERAL",
     "dependsOnIds": [
-      "DistributedDirection",
       "CivicFac",
       "Industries",
       "BasicCommerce"

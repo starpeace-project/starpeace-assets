@@ -16,7 +16,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "PHARMACEUTICAL",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicPharmacy"
     ],
     "commerce": {}
   },

@@ -148,7 +148,7 @@
     },
     "industryTypeId": "PROCESSED_FOOD",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

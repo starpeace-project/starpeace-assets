@@ -442,7 +442,10 @@
       "price": 20000000,
       "levelId": "ENTREPRENEUR"
     },
-    "industryTypeId": "MARKET"
+    "industryTypeId": "MARKET",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
   },
   {
     "id": "TimeSafe",

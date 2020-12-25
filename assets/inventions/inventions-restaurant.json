@@ -264,7 +264,10 @@
       "price": 25000000,
       "levelId": "APPRENTICE"
     },
-    "industryTypeId": "RESTAURANT"
+    "industryTypeId": "RESTAURANT",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
   },
   {
     "id": "RomanticLounge",

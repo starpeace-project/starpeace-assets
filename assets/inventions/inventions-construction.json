@@ -145,7 +145,7 @@
     },
     "industryTypeId": "CONSTRUCTION",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

@@ -24,7 +24,38 @@
       "efficiency": -4,
       "desirability": 6
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
+  },
+  {
+    "id": "BasicComputer",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen des Computergeschäfts",
+      "EN": "Computer Store Basics",
+      "ES": "Conceptos básicos de la tienda de informática",
+      "FR": "Bases de l'informatique",
+      "IT": "Nozioni di base del negozio di computer",
+      "PT": "Noções básicas de loja de informática"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Computergeschäften.",
+      "EN": "Paperwork for managing computer stores.",
+      "ES": "Trámites para la gestión de tiendas de informática.",
+      "FR": "Documents pour la gestion des magasins informatiques.",
+      "IT": "Documenti per la gestione dei negozi di computer.",
+      "PT": "Papelada para gerenciar lojas de informática."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
   },
   {
     "id": "BMInd",
@@ -51,7 +82,7 @@
     },
     "industryTypeId": "COMPUTER",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {
@@ -80,7 +111,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "ByeClones",
@@ -107,7 +141,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "Comp5War",
@@ -135,7 +172,10 @@
       "efficiency": -1,
       "desirability": 4
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "CompRepDep",
@@ -162,7 +202,10 @@
       "efficiency": -3,
       "desirability": 4
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "CrdLessMouse",
@@ -189,7 +232,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "DockStations",
@@ -216,7 +262,10 @@
       "efficiency": -2,
       "desirability": 4
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "ExecutiveSuites",
@@ -397,7 +446,10 @@
       "efficiency": 1,
       "desirability": 2
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "GBundle",
@@ -424,7 +476,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "GeneralBackupSystem",
@@ -481,7 +536,10 @@
       "efficiency": -1,
       "desirability": 3
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "LANSetupService",
@@ -508,7 +566,10 @@
       "efficiency": -2,
       "desirability": 4
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "ModularFurnitures",
@@ -659,7 +720,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "PrintersRepairingPlan",
@@ -716,7 +780,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "COMPUTER"
+    "industryTypeId": "COMPUTER",
+    "dependsOnIds": [
+      "BasicComputer"
+    ]
   },
   {
     "id": "RoboticDeliverySystem",

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "moab.cathedral",
+    "type": "HEADQUARTERS",
+    "maxLevel": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satelliteCategory": "SERVICE",
+    "constructionInputs": [
+      {
+        "resourceId": "CONSTRUCTION",
+        "quantity": 6000,
+        "maxVelocity": 600
+      },
+      {
+        "resourceId": "COMPUTER",
+        "quantity": 500,
+        "maxVelocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.correctional.tower",
+    "type": "HEADQUARTERS",
+    "maxLevel": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satelliteCategory": "CIVIC",
+    "constructionInputs": [
+      {
+        "resourceId": "CONSTRUCTION",
+        "quantity": 6000,
+        "maxVelocity": 600
+      },
+      {
+        "resourceId": "COMPUTER",
+        "quantity": 500,
+        "maxVelocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.industry.tower",
+    "type": "HEADQUARTERS",
+    "maxLevel": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satelliteCategory": "INDUSTRY",
+    "constructionInputs": [
+      {
+        "resourceId": "CONSTRUCTION",
+        "quantity": 6000,
+        "maxVelocity": 600
+      },
+      {
+        "resourceId": "COMPUTER",
+        "quantity": 500,
+        "maxVelocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.market.tower",
+    "type": "HEADQUARTERS",
+    "maxLevel": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satelliteCategory": "COMMERCE",
+    "constructionInputs": [
+      {
+        "resourceId": "CONSTRUCTION",
+        "quantity": 6000,
+        "maxVelocity": 600
+      },
+      {
+        "resourceId": "COMPUTER",
+        "quantity": 500,
+        "maxVelocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      }
+    ]
+  },
+  {
+    "id": "moab.residential.tower",
+    "type": "HEADQUARTERS",
+    "maxLevel": 1,
+    "beauty": 25,
+    "satellite": true,
+    "satelliteCategory": "REAL_ESTATE",
+    "constructionInputs": [
+      {
+        "resourceId": "CONSTRUCTION",
+        "quantity": 6000,
+        "maxVelocity": 600
+      },
+      {
+        "resourceId": "COMPUTER",
+        "quantity": 500,
+        "maxVelocity": 50
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 5,
+        "weightEfficiency": 20,
+        "weightQuality": 25
+      }
+    ]
+  }
+]

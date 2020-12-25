@@ -16,7 +16,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "GASOLINE",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicGasoline"
     ],
     "commerce": {}
   },

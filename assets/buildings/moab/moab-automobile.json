@@ -36,7 +36,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "AUTOMOBILE",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicAutomobile"
     ],
     "commerce": {}
   }

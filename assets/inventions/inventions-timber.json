@@ -205,7 +205,7 @@
     },
     "industryTypeId": "TIMBER",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

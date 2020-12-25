@@ -323,7 +323,7 @@
     },
     "industryTypeId": "ORE",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

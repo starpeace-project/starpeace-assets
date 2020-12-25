@@ -414,7 +414,7 @@
     },
     "industryTypeId": "METAL",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

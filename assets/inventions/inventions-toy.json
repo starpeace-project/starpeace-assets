@@ -85,7 +85,10 @@
       "efficiency": 7,
       "desirability": -2
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "Animators",
@@ -112,7 +115,10 @@
       "efficiency": -2,
       "desirability": 3
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "AntiAliensSurveillance",
@@ -140,7 +146,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "AntiChockingToys",
@@ -198,7 +207,38 @@
       "efficiency": -1,
       "desirability": 3
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
+  },
+  {
+    "id": "BasicToy",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen des Spielwarengeschäfts",
+      "EN": "Toy Store Basics",
+      "ES": "Conceptos básicos de la juguetería",
+      "FR": "Principes de base du magasin de jouets",
+      "IT": "Nozioni di base del negozio di giocattoli",
+      "PT": "Noções básicas de loja de brinquedos"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Spielwarengeschäften.",
+      "EN": "Paperwork for managing toy stores.",
+      "ES": "Trámites para la gestión de jugueterías.",
+      "FR": "Documents pour la gestion des magasins de jouets.",
+      "IT": "Documenti per la gestione dei negozi di giocattoli.",
+      "PT": "Papelada para gerenciar lojas de brinquedos."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
   },
   {
     "id": "CharityDonations",
@@ -286,7 +326,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "CoolToysOnly",
@@ -313,7 +356,10 @@
       "efficiency": 3,
       "desirability": -1
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "EducationalToys",
@@ -401,7 +447,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "HalloweenCostumes",
@@ -489,7 +538,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "NoBrandReproductions",
@@ -516,7 +568,10 @@
       "efficiency": 8,
       "desirability": -3
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "NonTraditionalGenderRelatedToys",
@@ -727,7 +782,10 @@
       "efficiency": 5,
       "desirability": 1
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "SpecialAdvisors",
@@ -754,7 +812,10 @@
       "efficiency": 1,
       "desirability": 3
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "SterilizationDevice",
@@ -811,7 +872,7 @@
     },
     "industryTypeId": "TOY",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {
@@ -839,7 +900,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "TradeInUsedToys",
@@ -866,7 +930,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "TOY"
+    "industryTypeId": "TOY",
+    "dependsOnIds": [
+      "BasicToy"
+    ]
   },
   {
     "id": "VideogameConsole",

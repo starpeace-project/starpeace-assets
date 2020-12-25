@@ -10,7 +10,7 @@ STARPEACE = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditInvention
-  @EXPECTED_INVENTION_COUNT: 872
+  @EXPECTED_INVENTION_COUNT: 882
 
   @audit: (root_dir) -> (audit_data) -> new Promise (resolve, reject) ->
     try

@@ -16,7 +16,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "FOOD",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "BasicFood"
     ],
     "commerce": {}
   }

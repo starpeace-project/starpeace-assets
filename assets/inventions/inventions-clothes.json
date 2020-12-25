@@ -24,7 +24,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "Antialine",
@@ -119,6 +122,34 @@
     ]
   },
   {
+    "id": "BasicClothes",
+    "industryCategoryId": "COMMERCE",
+    "name": {
+      "DE": "Grundlagen des Bekleidungsgeschäfts",
+      "EN": "Clothes Store Basics",
+      "ES": "Conceptos básicos de la tienda de ropa",
+      "FR": "Bases du magasin de vêtements",
+      "IT": "Nozioni di base del negozio di vestiti",
+      "PT": "Noções básicas de loja de roupas"
+    },
+    "description": {
+      "DE": "Papierkram für die Verwaltung von Bekleidungsgeschäften.",
+      "EN": "Paperwork for managing clothes stores.",
+      "ES": "Trámites para la gestión de tiendas de ropa.",
+      "FR": "Documents pour la gestion des magasins de vêtements.",
+      "IT": "Documenti per la gestione dei negozi di abbigliamento.",
+      "PT": "Papelada para gerenciamento de lojas de roupas."
+    },
+    "properties": {
+      "price": 1000000,
+      "levelId": "APPRENTICE"
+    },
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicCommerce"
+    ]
+  },
+  {
     "id": "BigSizes",
     "industryCategoryId": "COMMERCE",
     "name": {
@@ -143,7 +174,10 @@
       "efficiency": 1,
       "desirability": 1
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "CasualComplimentsDeliverer",
@@ -169,7 +203,10 @@
       "levelId": "APPRENTICE",
       "desirability": 2
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "ClientsTasteAndMeasuresDatabase",
@@ -196,7 +233,10 @@
       "efficiency": 7,
       "desirability": -1
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "ClothesLic",
@@ -223,7 +263,7 @@
     },
     "industryTypeId": "CLOTHES",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {
@@ -282,7 +322,10 @@
       "efficiency": -4,
       "desirability": 5
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "CoutureDresses",
@@ -310,7 +353,10 @@
       "efficiency": -2,
       "desirability": 1
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "DryCleaningService",
@@ -337,7 +383,10 @@
       "efficiency": -1,
       "desirability": 2
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "FashionConsultants",
@@ -364,7 +413,10 @@
       "efficiency": -2,
       "desirability": 2
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "GayOutfits",
@@ -541,7 +593,10 @@
       "efficiency": 4,
       "desirability": -2
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "LingerieSelection",
@@ -568,7 +623,10 @@
       "efficiency": -2,
       "desirability": 4
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "LSCManuf",
@@ -624,7 +682,10 @@
       "efficiency": -1,
       "desirability": 1
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "OneUseClothes",
@@ -682,7 +743,10 @@
       "efficiency": 3,
       "desirability": -1
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "RealTimeTailoring",
@@ -709,7 +773,10 @@
       "efficiency": 1,
       "desirability": 2
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "SmallChangeCabins",
@@ -736,7 +803,10 @@
       "efficiency": 5,
       "desirability": -2
     },
-    "industryTypeId": "CLOTHES"
+    "industryTypeId": "CLOTHES",
+    "dependsOnIds": [
+      "BasicClothes"
+    ]
   },
   {
     "id": "SponsoredShirts",

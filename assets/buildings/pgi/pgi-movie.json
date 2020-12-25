@@ -16,7 +16,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "MOVIE",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "MovieTheater"
     ],
     "commerce": {}
   },
@@ -37,7 +37,7 @@
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "MOVIE",
     "requiredInventionIds": [
-      "BasicCommerce"
+      "MovieTheater"
     ],
     "commerce": {}
   }

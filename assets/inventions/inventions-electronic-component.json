@@ -114,7 +114,7 @@
     },
     "industryTypeId": "ELECTRONIC_COMPONENT",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {

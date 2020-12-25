@@ -325,7 +325,7 @@
     },
     "industryTypeId": "CRUDE_OIL",
     "dependsOnIds": [
-      "DistributedDirection"
+      "Industries"
     ]
   },
   {
