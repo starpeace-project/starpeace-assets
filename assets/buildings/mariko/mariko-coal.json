@@ -2,7 +2,7 @@
   {
     "id": "mko.mine.coal",
     "imageId": "mko.mine",
-    "sign_id": "coal",
+    "signId": "coal",
     "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kohlenmine",
@@ -23,7 +23,7 @@
   {
     "id": "mko.mine.coal.small",
     "imageId": "mko.mine.small",
-    "sign_id": "coal",
+    "signId": "coal",
     "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kleine Kohlenmine",

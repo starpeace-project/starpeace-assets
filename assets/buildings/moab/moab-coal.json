@@ -2,7 +2,7 @@
   {
     "id": "moab.mine.coal",
     "imageId": "moab.mine",
-    "sign_id": "coal",
+    "signId": "coal",
     "constructionImageId": "generic.construction.6",
     "name": {
       "DE": "Kohlenmine",

@@ -2,7 +2,7 @@
   {
     "id": "moab.mine.chemical",
     "imageId": "moab.mine",
-    "sign_id": "chemical",
+    "signId": "chemical",
     "constructionImageId": "generic.construction.6",
     "name": {
       "DE": "Chemische Mine",

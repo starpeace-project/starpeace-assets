@@ -2,7 +2,7 @@
   {
     "id": "mko.mine.chemical",
     "imageId": "mko.mine",
-    "sign_id": "chemical",
+    "signId": "chemical",
     "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Chemische Mine",
@@ -23,7 +23,7 @@
   {
     "id": "mko.mine.chemical.small",
     "imageId": "mko.mine.small",
-    "sign_id": "chemical",
+    "signId": "chemical",
     "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kleine Chemische Mine",

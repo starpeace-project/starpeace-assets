@@ -2,7 +2,7 @@
   {
     "id": "mko.mine.ore",
     "imageId": "mko.mine",
-    "sign_id": "iron",
+    "signId": "iron",
     "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Erzmine",
@@ -23,6 +23,7 @@
   {
     "id": "mko.mine.ore.small",
     "imageId": "mko.mine.small",
+    "signId": "iron",
     "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kleine Erzmine",

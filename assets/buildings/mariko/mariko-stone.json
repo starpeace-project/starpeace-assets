@@ -2,7 +2,7 @@
   {
     "id": "mko.mine.stone",
     "imageId": "mko.mine",
-    "sign_id": "stone",
+    "signId": "stone",
     "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Steinbergwerk",
@@ -23,7 +23,7 @@
   {
     "id": "mko.mine.stone.small",
     "imageId": "mko.mine.small",
-    "sign_id": "stone",
+    "signId": "stone",
     "constructionImageId": "generic.construction.5",
     "name": {
       "DE": "Kleine Steinmine",
