@@ -34,7 +34,7 @@
     "industryCategoryId": "SERVICE",
     "industryTypeId": "HEADQUARTERS",
     "requiredInventionIds": [],
-    "allowsInventionIds": [
+    "allowedInventionIds": [
       "BasicCommerce",
       "CivicFac",
       "DistributedDirection",
