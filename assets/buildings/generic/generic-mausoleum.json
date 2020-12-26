@@ -15,7 +15,9 @@
     "zoneId": "MAUSOLEUM",
     "industryCategoryId": "SERVICE",
     "industryTypeId": "MAUSOLEUM",
-    "requiredInventionIds": [],
+    "requiredInventionIds": [
+      "Monuments"
+    ],
     "mausoleum": {}
   },
   {
@@ -34,7 +36,9 @@
     "zoneId": "MAUSOLEUM",
     "industryCategoryId": "SERVICE",
     "industryTypeId": "MAUSOLEUM",
-    "requiredInventionIds": [],
+    "requiredInventionIds": [
+      "Monuments"
+    ],
     "mausoleum": {}
   }
 ]
