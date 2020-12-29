@@ -2,8 +2,8 @@
   {
     "id": "moab.townhall",
     "imagePath": "assets/buildings/moab/images/moab.townhall.gif",
-    "tileWidth": 3,
-    "tileHeight": 3,
+    "tileWidth": 7,
+    "tileHeight": 7,
     "hitArea": [
       [{"x":6,"y":141},{"x":218,"y":249},{"x":434,"y":141},{"x":335,"y":91},{"x":144,"y":73}],
       [{"x":281,"y":2},{"x":264,"y":51},{"x":298,"y":42},{"x":298,"y":29}],
@@ -17,8 +17,8 @@
   {
     "id": "moab.tradecenter",
     "imagePath": "assets/buildings/moab/images/moab.tradecenter.gif",
-    "tileWidth": 3,
-    "tileHeight": 3,
+    "tileWidth": 2,
+    "tileHeight": 2,
     "hitArea": [
       [{"x":61,"y":3},{"x":48,"y":19},{"x":51,"y":72},{"x":59,"y":151},{"x":69,"y":149},{"x":76,"y":75},{"x":76,"y":18}],
       [{"x":0,"y":119},{"x":59,"y":151},{"x":30,"y":105}],

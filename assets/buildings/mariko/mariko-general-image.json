@@ -2,8 +2,8 @@
   {
     "id": "mko.townhall",
     "imagePath": "assets/buildings/mariko/images/mko.townhall.gif",
-    "tileWidth": 3,
-    "tileHeight": 3,
+    "tileWidth": 6,
+    "tileHeight": 6,
     "hitArea": [
       [{"x":124,"y":17},{"x":142,"y":24},{"x":152,"y":19},{"x":155,"y":7},{"x":137,"y":6}],
       [{"x":58,"y":59},{"x":74,"y":57},{"x":82,"y":53},{"x":80,"y":38},{"x":64,"y":41}],
