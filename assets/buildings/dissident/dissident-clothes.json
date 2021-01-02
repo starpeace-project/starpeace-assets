@@ -55,6 +55,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "CLOTHES",
+    "foundation": true,
     "requiredInventionIds": [
       "BasicClothes"
     ],

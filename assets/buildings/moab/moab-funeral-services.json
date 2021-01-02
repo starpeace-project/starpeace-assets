@@ -15,6 +15,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "FUNERAL_SERVICES",
+    "foundation": true,
     "requiredInventionIds": [
       "Funerals"
     ],

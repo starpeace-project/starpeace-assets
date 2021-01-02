@@ -35,6 +35,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "COMPUTER",
+    "foundation": true,
     "requiredInventionIds": [
       "BasicComputer"
     ],

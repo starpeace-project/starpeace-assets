@@ -15,6 +15,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "FIRE",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ]

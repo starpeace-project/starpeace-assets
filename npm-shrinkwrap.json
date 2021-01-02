@@ -5,8 +5,8 @@
   "requires": true,
   "dependencies": {
     "@starpeace/starpeace-assets-types": {
-      "version": "git://github.com/starpeace-project/starpeace-assets-types.git#0b0235c1e0ae7d939f07e3ccfff3d9f9e044c478",
-      "from": "git://github.com/starpeace-project/starpeace-assets-types.git#v0.2.23",
+      "version": "git://github.com/starpeace-project/starpeace-assets-types.git#c364ef7737699360fbdaa21d43534d227c9a9164",
+      "from": "git://github.com/starpeace-project/starpeace-assets-types.git#v0.2.24",
       "dev": true,
       "dependencies": {
         "@babel/parser": {

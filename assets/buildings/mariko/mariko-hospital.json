@@ -15,6 +15,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "HOSPITAL",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],

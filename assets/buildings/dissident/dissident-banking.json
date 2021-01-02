@@ -15,6 +15,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "SERVICE",
     "industryTypeId": "BANKING",
+    "foundation": true,
     "requiredInventionIds": [
       "Banking"
     ]

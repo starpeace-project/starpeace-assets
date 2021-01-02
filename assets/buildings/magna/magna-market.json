@@ -15,6 +15,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "MARKET",
+    "foundation": true,
     "requiredInventionIds": [
       "Supermarkets"
     ],
@@ -36,6 +37,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "MARKET",
+    "foundation": true,
     "requiredInventionIds": [
       "Supermarkets"
     ],

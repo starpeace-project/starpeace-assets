@@ -15,6 +15,7 @@
     "zoneId": "SERVICE",
     "industryCategoryId": "SERVICE",
     "industryTypeId": "HEADQUARTERS",
+    "foundation": true,
     "requiredInventionIds": [],
     "allowedInventionIds": [
       "AntiAlienPaperCheck",

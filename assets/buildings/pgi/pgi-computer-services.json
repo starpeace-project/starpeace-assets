@@ -15,6 +15,7 @@
     "zoneId": "SERVICE",
     "industryCategoryId": "SERVICE",
     "industryTypeId": "COMPUTER_SERVICES",
+    "foundation": true,
     "requiredInventionIds": [
       "SoftwareFirms"
     ]

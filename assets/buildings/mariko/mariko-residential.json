@@ -15,6 +15,7 @@
     "zoneId": "HC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "HC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -35,6 +36,7 @@
     "zoneId": "HC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "HC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -55,6 +57,7 @@
     "zoneId": "HC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "HC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -75,6 +78,7 @@
     "zoneId": "LC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "LC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -95,6 +99,7 @@
     "zoneId": "LC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "LC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -115,6 +120,7 @@
     "zoneId": "LC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "LC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -135,6 +141,7 @@
     "zoneId": "LC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "LC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -155,6 +162,7 @@
     "zoneId": "LC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "LC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -175,6 +183,7 @@
     "zoneId": "MC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "MC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -195,6 +204,7 @@
     "zoneId": "MC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "MC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -215,6 +225,7 @@
     "zoneId": "MC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "MC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -235,6 +246,7 @@
     "zoneId": "MC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "MC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -255,6 +267,7 @@
     "zoneId": "MC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "MC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -275,6 +288,7 @@
     "zoneId": "MC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "MC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]
@@ -295,6 +309,7 @@
     "zoneId": "MC_RESIDENTIAL",
     "industryCategoryId": "REAL_ESTATE",
     "industryTypeId": "MC_RESIDENTIAL",
+    "foundation": true,
     "requiredInventionIds": [
       "RealEstate"
     ]

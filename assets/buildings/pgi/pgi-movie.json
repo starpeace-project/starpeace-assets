@@ -15,6 +15,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "MOVIE",
+    "foundation": true,
     "requiredInventionIds": [
       "MovieTheater"
     ],
@@ -36,6 +37,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "MOVIE",
+    "foundation": true,
     "requiredInventionIds": [
       "MovieTheater"
     ],

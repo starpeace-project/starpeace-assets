@@ -35,6 +35,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "TOY",
+    "foundation": true,
     "requiredInventionIds": [
       "BasicToy"
     ],

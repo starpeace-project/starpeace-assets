@@ -15,6 +15,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "FOOD",
+    "foundation": true,
     "requiredInventionIds": [
       "BasicFood"
     ],

@@ -15,6 +15,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "RESTAURANT",
+    "foundation": true,
     "requiredInventionIds": [
       "Restaurants"
     ],
@@ -36,6 +37,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "RESTAURANT",
+    "foundation": true,
     "requiredInventionIds": [
       "Restaurants"
     ],

@@ -35,6 +35,7 @@
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "COMMERCE",
     "industryTypeId": "COMPACT_DISC",
+    "foundation": true,
     "requiredInventionIds": [
       "BasicCompactDisc"
     ],

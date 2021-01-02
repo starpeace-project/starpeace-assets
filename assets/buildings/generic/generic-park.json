@@ -15,6 +15,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],
@@ -36,6 +37,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],
@@ -57,6 +59,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],
@@ -78,6 +81,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],
@@ -99,6 +103,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],
@@ -120,6 +125,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],
@@ -141,6 +147,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],
@@ -162,6 +169,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],
@@ -183,6 +191,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],
@@ -204,6 +213,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "PARK",
+    "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
     ],

@@ -15,6 +15,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "GOVERNMENT",
+    "foundation": true,
     "restricted": true,
     "requiredInventionIds": []
   },
@@ -34,6 +35,7 @@
     "zoneId": "CIVICS",
     "industryCategoryId": "CIVIC",
     "industryTypeId": "GOVERNMENT",
+    "foundation": true,
     "restricted": true,
     "requiredInventionIds": []
   }

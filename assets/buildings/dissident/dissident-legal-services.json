@@ -15,6 +15,7 @@
     "zoneId": "SERVICE",
     "industryCategoryId": "SERVICE",
     "industryTypeId": "LEGAL_SERVICES",
+    "foundation": true,
     "requiredInventionIds": [
       "LawyerFirms"
     ]
