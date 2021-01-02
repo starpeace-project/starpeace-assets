@@ -40,6 +40,218 @@
         "weightEfficiency": 20,
         "weightQuality": 25
       }
+    ],
+    "products": [
+      {
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "APPLIANCE",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "AUTOMOBILE",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "BOOK",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "CHEMICAL",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "CLOTHES",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "COAL",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "COMPACT_DISC",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "COMPUTER",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "CONSTRUCTION",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "CRUDE_OIL",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "ELECTRONIC_COMPONENT",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "FABRIC",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "FILM",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "FRESH_FOOD",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "FURNITURE",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "GASOLINE",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "LIQUOR",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "MACHINERY",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "METAL",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "MOVIE",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "ORE",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "ORGANIC_MATERIAL",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PAPER",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PHARMACEUTICAL",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PLASTIC",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PRINTED_MATERIAL",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROCESSED_FOOD",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "RAW_CHEMICAL",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "SILICON",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "STONE",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "TIMBER",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "TOY",
+        "maxVelocity": 100000000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
     ]
   }
 ]
