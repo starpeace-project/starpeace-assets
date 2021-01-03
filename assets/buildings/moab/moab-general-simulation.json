@@ -175,12 +175,6 @@
         "weightQuality": 0
       },
       {
-        "resourceId": "MOVIE",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
-      },
-      {
         "resourceId": "ORE",
         "maxVelocity": 100000000,
         "weightEfficiency": 0,
