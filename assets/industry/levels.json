@@ -9,7 +9,24 @@
       "IT": "Novizio",
       "PT": "Aprendiz"
     },
-    "level": 1
+    "description": {
+      "DE": "Die Wirtschaft lernen.",
+      "EN": "Learning the economy.",
+      "ES": "Aprender la economía.",
+      "FR": "Apprendre l'économie.",
+      "IT": "Imparare l'economia.",
+      "PT": "Aprendendo a economia."
+    },
+    "level": 1,
+    "facilityLimit": 50,
+    "supplierPriority": true,
+    "supplierIfel": true,
+    "rewardPrestige": 25,
+    "refundResearch": 0.5,
+    "refundDemolition": 1,
+    "requiredFee": 0,
+    "requiredHourlyProfit": 0,
+    "requiredPrestige": 0
   },
   {
     "id": "ENTREPRENEUR",
@@ -21,7 +38,24 @@
       "IT": "Imprenditore",
       "PT": "Empreendedor"
     },
-    "level": 2
+    "description": {
+      "DE": "Entwicklung einer Strategie.",
+      "EN": "Developing a strategy.",
+      "ES": "Desarrollar una estrategia.",
+      "FR": "Développer une stratégie.",
+      "IT": "Sviluppare una strategia.",
+      "PT": "Desenvolvendo uma estratégia."
+    },
+    "level": 2,
+    "facilityLimit": 150,
+    "supplierPriority": true,
+    "supplierIfel": true,
+    "rewardPrestige": 50,
+    "refundResearch": 0.33,
+    "refundDemolition": 0.66,
+    "requiredFee": 100000000,
+    "requiredHourlyProfit": 1000,
+    "requiredPrestige": 0
   },
   {
     "id": "TYCOON",
@@ -33,7 +67,24 @@
       "IT": "Magnate",
       "PT": "Magnata"
     },
-    "level": 3
+    "description": {
+      "DE": "Zugang zu Tier 2 -Technologien haben.",
+      "EN": "Have access to Tier 2 technologies.",
+      "ES": "Tener acceso a tecnologías de nivel 2.",
+      "FR": "Avoir accès aux technologies de niveau 2.",
+      "IT": "Avere accesso alle tecnologie di livello 2.",
+      "PT": "Tenha acesso às tecnologias de Nível 2."
+    },
+    "level": 3,
+    "facilityLimit": 400,
+    "supplierPriority": false,
+    "supplierIfel": false,
+    "rewardPrestige": 100,
+    "refundResearch": 0,
+    "refundDemolition": 0,
+    "requiredFee": 500000000,
+    "requiredHourlyProfit": 5000,
+    "requiredPrestige": 0
   },
   {
     "id": "MASTER",
@@ -45,7 +96,24 @@
       "IT": "Master",
       "PT": "Mestre"
     },
-    "level": 4
+    "description": {
+      "DE": "Zugang zu Tier 3 -Technologien haben.",
+      "EN": "Have access to Tier 3 technologies.",
+      "ES": "Tener acceso a tecnologías de nivel 3.",
+      "FR": "Avoir accès aux technologies de niveau 3.",
+      "IT": "Avere accesso alle tecnologie di livello 3.",
+      "PT": "Tenha acesso às tecnologias de Nível 3."
+    },
+    "level": 4,
+    "facilityLimit": 800,
+    "supplierPriority": false,
+    "supplierIfel": false,
+    "rewardPrestige": 200,
+    "refundResearch": 0,
+    "refundDemolition": 0,
+    "requiredFee": 2000000000,
+    "requiredHourlyProfit": 50000,
+    "requiredPrestige": 2500
   },
   {
     "id": "PARADIGM",
@@ -57,7 +125,24 @@
       "IT": "Paradigma",
       "PT": "Paradigma"
     },
-    "level": 5
+    "description": {
+      "DE": "Zugang zu Tier 4 -Technologien haben.",
+      "EN": "Have access to Tier 4 technologies.",
+      "ES": "Tener acceso a tecnologías de nivel 4.",
+      "FR": "Avoir accès aux technologies de niveau 4.",
+      "IT": "Avere accesso alle tecnologie di livello 4.",
+      "PT": "Tenha acesso às tecnologias de Nível 4."
+    },
+    "level": 5,
+    "facilityLimit": 1000,
+    "supplierPriority": false,
+    "supplierIfel": false,
+    "rewardPrestige": 400,
+    "refundResearch": 0,
+    "refundDemolition": 0,
+    "requiredFee": 20000000000,
+    "requiredHourlyProfit": 100000,
+    "requiredPrestige": 5000
   },
   {
     "id": "LEGEND",
@@ -69,6 +154,23 @@
       "IT": "Leggenda",
       "PT": "Lenda"
     },
-    "level": 6
+    "description": {
+      "DE": "Zugang zu Tier 5 -Technologien haben.",
+      "EN": "Have access to Tier 5 technologies.",
+      "ES": "Tener acceso a tecnologías de nivel 5.",
+      "FR": "Avoir accès aux technologies de niveau 5.",
+      "IT": "Avere accesso alle tecnologie di livello 5.",
+      "PT": "Tenha acesso às tecnologias de Nível 5."
+    },
+    "level": 6,
+    "facilityLimit": 1500,
+    "supplierPriority": false,
+    "supplierIfel": false,
+    "rewardPrestige": 800,
+    "refundResearch": 0,
+    "refundDemolition": 0,
+    "requiredFee": 40000000000,
+    "requiredHourlyProfit": 500000,
+    "requiredPrestige": 15000
   }
 ]

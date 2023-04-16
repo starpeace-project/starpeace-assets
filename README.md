@@ -2,7 +2,6 @@
 # starpeace-assets
 
 [![GitHub release](https://img.shields.io/github/release/starpeace-project/starpeace-assets.svg)](https://github.com/starpeace-project/starpeace-assets/releases/)
-[![Build Status](https://travis-ci.org/starpeace-project/starpeace-assets.svg)](https://travis-ci.org/starpeace-project/starpeace-assets)
 [![License: Commercial](https://img.shields.io/badge/license-Commercial-yellowgreen.svg)](./LICENSE)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

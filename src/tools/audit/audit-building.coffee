@@ -6,7 +6,7 @@ _ = require('lodash')
 AuditUtils = require('../utils/audit-utils')
 FileUtils = require('../utils/file-utils')
 
-STARPEACE = require('@starpeace/starpeace-assets-types')
+{ BuildingDefinition, BuildingImageDefinition, SimulationDefinitionParser } = require('@starpeace/starpeace-assets-types')
 
 
 exports = module.exports = class AuditBuilding
@@ -18,22 +18,23 @@ exports = module.exports = class AuditBuilding
     try
       console.log " [OK] starting building audit...\n"
 
-      definitions = FileUtils.parse_files(root_dir, ['.json'], ['-simulation.json', '-image.json'], STARPEACE.building.BuildingDefinition.fromJson)
+      definitions = FileUtils.parse_files(root_dir, ['.json'], ['-simulation.json', '-image.json'], BuildingDefinition.fromJson)
       definitions_by_id = _.keyBy(definitions, 'id')
       AuditUtils.audit_is_valid('building definition', definitions)
       AuditUtils.audit_unique_count_by_id('building definition', definitions, definitions_by_id, AuditBuilding.EXPECTED_DEFINITION_COUNT)
 
       process.stdout.write '\n'
 
-      image_definitions = FileUtils.parse_files(root_dir, ['-image.json'], [], STARPEACE.building.BuildingImageDefinition.fromJson)
+      image_definitions = FileUtils.parse_files(root_dir, ['-image.json'], [], BuildingImageDefinition.fromJson)
       image_definitions_by_id = _.keyBy(image_definitions, 'id')
       AuditUtils.audit_is_valid('building image definition', image_definitions)
       AuditUtils.audit_unique_count_by_id('building image definition', image_definitions, image_definitions_by_id, AuditBuilding.EXPECTED_IMAGE_DEFINITION_COUNT)
 
       process.stdout.write '\n'
 
-      simulation_definitions = FileUtils.parse_files(root_dir, ['-simulation.json'], [], STARPEACE.building.simulation.BuildingSimulationDefinitionParser.fromJson)
+      simulation_definitions = FileUtils.parse_files(root_dir, ['-simulation.json'], [], SimulationDefinitionParser.fromJson)
       simulation_definitions_by_id = _.keyBy(simulation_definitions, 'id')
+
       AuditUtils.audit_is_valid('building simulation definition', simulation_definitions)
       AuditUtils.audit_unique_count_by_id('building simulation definition', simulation_definitions, simulation_definitions_by_id, AuditBuilding.EXPECTED_SIMULATION_DEFINITION_COUNT)
 
