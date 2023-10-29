@@ -1,6 +1,7 @@
 [
   {
     "id": "APPRENTICE",
+    "imagePath": "assets/industry/images/level.1.apprentice.png",
     "label": {
       "DE": "Lehrling",
       "EN": "Apprentice",
@@ -30,6 +31,7 @@
   },
   {
     "id": "ENTREPRENEUR",
+    "imagePath": "assets/industry/images/level.2.entrepreneur.png",
     "label": {
       "DE": "Unternehmer",
       "EN": "Entrepreneur",
@@ -59,6 +61,7 @@
   },
   {
     "id": "TYCOON",
+    "imagePath": "assets/industry/images/level.3.tycoon.png",
     "label": {
       "DE": "Magnat",
       "EN": "Tycoon",
@@ -88,6 +91,7 @@
   },
   {
     "id": "MASTER",
+    "imagePath": "assets/industry/images/level.4.master.png",
     "label": {
       "DE": "Meister",
       "EN": "Master",
@@ -117,6 +121,7 @@
   },
   {
     "id": "PARADIGM",
+    "imagePath": "assets/industry/images/level.5.paradigm.png",
     "label": {
       "DE": "Vorbild",
       "EN": "Paradigm",
@@ -146,6 +151,7 @@
   },
   {
     "id": "LEGEND",
+    "imagePath": "assets/industry/images/level.6.legend.png",
     "label": {
       "DE": "Legende",
       "EN": "Legend",
