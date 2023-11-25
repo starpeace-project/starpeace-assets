@@ -65,9 +65,7 @@
     "outputs": [
       {
         "resourceId": "GASOLINE",
-        "maxVelocity": 3000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 3000
       }
     ]
   },
@@ -122,24 +120,24 @@
         "outputs": [
           {
             "resourceId": "GASOLINE",
-            "maxVelocity": 140,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 140
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       }

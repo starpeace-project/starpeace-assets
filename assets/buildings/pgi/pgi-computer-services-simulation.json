@@ -54,9 +54,7 @@
     "outputs": [
       {
         "resourceId": "COMPUTER_SERVICE",
-        "maxVelocity": 12.5,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 12.5
       }
     ]
   }

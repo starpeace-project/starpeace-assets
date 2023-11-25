@@ -57,7 +57,7 @@
         "weightQuality": 25
       }
     ],
-    "service": [
+    "outputs": [
       {
         "resourceId": "EDUCATION_COLLEGE",
         "maxVelocity": 200000
@@ -94,7 +94,7 @@
         "weightQuality": 25
       }
     ],
-    "service": [
+    "outputs": [
       {
         "resourceId": "GARBAGE_SERVICE",
         "maxVelocity": 50000
@@ -137,7 +137,7 @@
         "weightQuality": 25
       }
     ],
-    "service": [
+    "outputs": [
       {
         "resourceId": "PRISON_SERVICE",
         "maxVelocity": 50000
@@ -185,7 +185,7 @@
         "weightQuality": 25
       }
     ],
-    "service": [
+    "outputs": [
       {
         "resourceId": "MUSEUM_SERVICE",
         "maxVelocity": 50000

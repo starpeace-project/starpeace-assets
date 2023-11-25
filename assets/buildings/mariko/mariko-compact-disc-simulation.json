@@ -71,9 +71,7 @@
     "outputs": [
       {
         "resourceId": "COMPACT_DISC",
-        "maxVelocity": 100,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100
       }
     ]
   },
@@ -128,24 +126,24 @@
         "outputs": [
           {
             "resourceId": "COMPACT_DISC",
-            "maxVelocity": 15,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 0.95
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 0.95
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 0.7
-              }
-            ]
+            "maxVelocity": 15
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 0.95
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 0.95
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 0.7
           }
         ]
       }

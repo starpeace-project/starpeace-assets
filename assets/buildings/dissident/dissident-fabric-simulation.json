@@ -65,9 +65,7 @@
     "outputs": [
       {
         "resourceId": "FABRIC",
-        "maxVelocity": 60,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 60
       }
     ]
   },
@@ -124,9 +122,7 @@
     "outputs": [
       {
         "resourceId": "FABRIC",
-        "maxVelocity": 20,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 20
       }
     ]
   }

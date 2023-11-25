@@ -53,15 +53,11 @@
         "outputs": [
           {
             "resourceId": "FRESH_FOOD",
-            "maxVelocity": 45,
-            "weightEfficiency": 0,
-            "weightQuality": 0
+            "maxVelocity": 45
           },
           {
             "resourceId": "ORGANIC_MATERIAL",
-            "maxVelocity": 7.5,
-            "weightEfficiency": 0,
-            "weightQuality": 0
+            "maxVelocity": 7.5
           }
         ]
       }

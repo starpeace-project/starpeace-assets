@@ -71,9 +71,7 @@
     "outputs": [
       {
         "resourceId": "ELECTRONIC_COMPONENT",
-        "maxVelocity": 46.8,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 46.8
       }
     ]
   },
@@ -149,9 +147,7 @@
     "outputs": [
       {
         "resourceId": "ELECTRONIC_COMPONENT",
-        "maxVelocity": 15.6,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 15.6
       }
     ]
   }

@@ -54,9 +54,7 @@
     "outputs": [
       {
         "resourceId": "TIMBER",
-        "maxVelocity": 1000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 1000
       }
     ]
   }

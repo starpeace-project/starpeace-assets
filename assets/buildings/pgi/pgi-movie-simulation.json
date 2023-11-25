@@ -62,24 +62,24 @@
         "outputs": [
           {
             "resourceId": "MOVIE",
-            "maxVelocity": 40,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 0.9
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 0.9
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 0.9
-              }
-            ]
+            "maxVelocity": 40
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 0.9
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 0.9
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 0.9
           }
         ]
       }
@@ -148,24 +148,24 @@
         "outputs": [
           {
             "resourceId": "MOVIE",
-            "maxVelocity": 45,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 45
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       }

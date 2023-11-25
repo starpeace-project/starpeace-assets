@@ -53,15 +53,11 @@
         "outputs": [
           {
             "resourceId": "FRESH_FOOD",
-            "maxVelocity": 54,
-            "weightEfficiency": 0,
-            "weightQuality": 0
+            "maxVelocity": 54
           },
           {
             "resourceId": "ORGANIC_MATERIAL",
-            "maxVelocity": 9,
-            "weightEfficiency": 0,
-            "weightQuality": 0
+            "maxVelocity": 9
           }
         ]
       }
@@ -116,15 +112,11 @@
         "outputs": [
           {
             "resourceId": "FRESH_FOOD",
-            "maxVelocity": 18,
-            "weightEfficiency": 0,
-            "weightQuality": 0
+            "maxVelocity": 18
           },
           {
             "resourceId": "ORGANIC_MATERIAL",
-            "maxVelocity": 3,
-            "weightEfficiency": 0,
-            "weightQuality": 0
+            "maxVelocity": 3
           }
         ]
       }

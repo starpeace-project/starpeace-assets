@@ -78,9 +78,7 @@
     "outputs": [
       {
         "resourceId": "FURNITURE",
-        "maxVelocity": 10,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 10
       }
     ]
   },
@@ -135,24 +133,24 @@
         "outputs": [
           {
             "resourceId": "FURNITURE",
-            "maxVelocity": 3,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 0.9
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 0.7
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 0.5
-              }
-            ]
+            "maxVelocity": 3
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 0.9
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 0.7
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 0.5
           }
         ]
       }

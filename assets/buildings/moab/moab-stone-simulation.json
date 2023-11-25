@@ -59,9 +59,7 @@
     "outputs": [
       {
         "resourceId": "STONE",
-        "maxVelocity": 600,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 600
       }
     ]
   }

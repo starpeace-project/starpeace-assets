@@ -35,7 +35,7 @@
         "weightQuality": 25
       }
     ],
-    "service": [
+    "outputs": [
       {
         "resourceId": "FIRE_SERVICE",
         "maxVelocity": 10000

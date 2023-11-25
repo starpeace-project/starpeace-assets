@@ -41,210 +41,142 @@
         "weightQuality": 25
       }
     ],
-    "products": [
+    "outputs": [
       {
         "resourceId": "ADVERTISEMENTS",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "APPLIANCE",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "AUTOMOBILE",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "BOOK",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "CHEMICAL",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "CLOTHES",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "COAL",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "COMPACT_DISC",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "COMPUTER",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "COMPUTER_SERVICE",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "CONSTRUCTION",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "CRUDE_OIL",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "ELECTRONIC_COMPONENT",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "FABRIC",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "FILM",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "FRESH_FOOD",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "FURNITURE",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "GASOLINE",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "LEGAL_SERVICE",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "LIQUOR",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "MACHINERY",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "METAL",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "ORE",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "ORGANIC_MATERIAL",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "PAPER",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "PHARMACEUTICAL",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "PLASTIC",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "PRINTED_MATERIAL",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "PROCESSED_FOOD",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "RAW_CHEMICAL",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "SILICON",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "STONE",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "TIMBER",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       },
       {
         "resourceId": "TOY",
-        "maxVelocity": 100000000,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100000000
       }
     ]
   }

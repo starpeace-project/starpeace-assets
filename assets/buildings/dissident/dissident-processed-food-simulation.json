@@ -65,9 +65,7 @@
     "outputs": [
       {
         "resourceId": "PROCESSED_FOOD",
-        "maxVelocity": 48,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 48
       }
     ]
   },
@@ -137,9 +135,7 @@
     "outputs": [
       {
         "resourceId": "PROCESSED_FOOD",
-        "maxVelocity": 16,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 16
       }
     ]
   }

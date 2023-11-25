@@ -59,9 +59,7 @@
     "outputs": [
       {
         "resourceId": "RAW_CHEMICAL",
-        "maxVelocity": 720,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 720
       }
     ]
   },
@@ -125,9 +123,7 @@
     "outputs": [
       {
         "resourceId": "RAW_CHEMICAL",
-        "maxVelocity": 240,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 240
       }
     ]
   }

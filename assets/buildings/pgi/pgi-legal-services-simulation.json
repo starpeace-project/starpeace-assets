@@ -47,9 +47,7 @@
     "outputs": [
       {
         "resourceId": "LEGAL_SERVICE",
-        "maxVelocity": 7.5,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 7.5
       }
     ]
   }

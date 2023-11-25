@@ -50,24 +50,24 @@
         "outputs": [
           {
             "resourceId": "MOVIE",
-            "maxVelocity": 40,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 1.3333333333333333333333333333333,
-                "probability": 0.5
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 35,
-                "probability": 0.5
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 65,
-                "probability": 0.7
-              }
-            ]
+            "maxVelocity": 40
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 1.3333333333333333333333333333333,
+            "probability": 0.5
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 35,
+            "probability": 0.5
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 65,
+            "probability": 0.7
           }
         ]
       }

@@ -31,6 +31,14 @@ export default class FileUtils {
     };
 
     const fileNames = FileUtils.readAllFilesSync(rootDir, fileMatcher);
-    return fileNames.map((path) => JSON.parse(fs.readFileSync(path).toString())).flat().map(parser);
+    return fileNames.map((path) => {
+      try {
+        return JSON.parse(fs.readFileSync(path).toString());
+      }
+      catch (err) {
+        console.error('Failed to parse', path, err);
+        throw err;
+      }
+    }).flat().map(parser);
   }
 }

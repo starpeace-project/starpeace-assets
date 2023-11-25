@@ -41,7 +41,7 @@
         "weightQuality": 25
       }
     ],
-    "service": [
+    "outputs": [
       {
         "resourceId": "EDUCATION_PRIMARY",
         "maxVelocity": 20000

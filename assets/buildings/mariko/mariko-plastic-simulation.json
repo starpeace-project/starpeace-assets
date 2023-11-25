@@ -65,9 +65,7 @@
     "outputs": [
       {
         "resourceId": "PLASTIC",
-        "maxVelocity": 216,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 216
       }
     ]
   }

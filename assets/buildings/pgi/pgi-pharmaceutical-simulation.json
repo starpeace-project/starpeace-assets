@@ -71,9 +71,7 @@
     "outputs": [
       {
         "resourceId": "PHARMACEUTICAL",
-        "maxVelocity": 100,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100
       }
     ]
   },
@@ -128,24 +126,24 @@
         "outputs": [
           {
             "resourceId": "PHARMACEUTICAL",
+            "maxVelocity": 10
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 0.8
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 0.9
+          },
+          {
+            "resourceId": "WORKER",
             "maxVelocity": 10,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 0.8
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 0.9
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "probability": 1
           }
         ]
       }

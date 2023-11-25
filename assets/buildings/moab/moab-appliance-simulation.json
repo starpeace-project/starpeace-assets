@@ -83,9 +83,7 @@
     "outputs": [
       {
         "resourceId": "APPLIANCE",
-        "maxVelocity": 18,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 18
       }
     ]
   },
@@ -140,24 +138,24 @@
         "outputs": [
           {
             "resourceId": "APPLIANCE",
-            "maxVelocity": 9,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 0.8
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 0.8
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 0.9
-              }
-            ]
+            "maxVelocity": 9
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 0.8
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 0.8
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 0.9
           }
         ]
       }

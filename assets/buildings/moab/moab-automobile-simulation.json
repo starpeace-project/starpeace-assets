@@ -89,9 +89,7 @@
     "outputs": [
       {
         "resourceId": "AUTOMOBILE",
-        "maxVelocity": 0.45,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 0.45
       }
     ]
   },
@@ -158,24 +156,24 @@
         "outputs": [
           {
             "resourceId": "AUTOMOBILE",
-            "maxVelocity": 4,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 0.8
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 0.8
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 0.8
-              }
-            ]
+            "maxVelocity": 4
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 0.8
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 0.8
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 0.8
           }
         ]
       }

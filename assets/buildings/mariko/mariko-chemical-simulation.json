@@ -65,9 +65,7 @@
     "outputs": [
       {
         "resourceId": "CHEMICAL",
-        "maxVelocity": 90,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 90
       }
     ]
   },
@@ -137,9 +135,7 @@
     "outputs": [
       {
         "resourceId": "CHEMICAL",
-        "maxVelocity": 30,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 30
       }
     ]
   }

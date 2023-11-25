@@ -71,9 +71,7 @@
     "outputs": [
       {
         "resourceId": "CLOTHES",
-        "maxVelocity": 36,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 36
       }
     ]
   },
@@ -136,9 +134,7 @@
     "outputs": [
       {
         "resourceId": "CLOTHES",
-        "maxVelocity": 12,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 12
       }
     ]
   },
@@ -187,24 +183,24 @@
         "outputs": [
           {
             "resourceId": "CLOTHES",
-            "maxVelocity": 20,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 0.6
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 0.6
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 0.7
-              }
-            ]
+            "maxVelocity": 20
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 0.6
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 0.6
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 0.7
           }
         ]
       }

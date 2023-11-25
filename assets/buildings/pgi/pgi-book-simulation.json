@@ -77,15 +77,11 @@
     "outputs": [
       {
         "resourceId": "BOOK",
-        "maxVelocity": 100,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 100
       },
       {
         "resourceId": "PRINTED_MATERIAL",
-        "maxVelocity": 50,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 50
       }
     ]
   }

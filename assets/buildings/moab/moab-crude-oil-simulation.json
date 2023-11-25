@@ -59,9 +59,7 @@
     "outputs": [
       {
         "resourceId": "CRUDE_OIL",
-        "maxVelocity": 1500,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 1500
       }
     ]
   }

@@ -77,9 +77,7 @@
     "outputs": [
       {
         "resourceId": "MACHINERY",
-        "maxVelocity": 2.5,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 2.5
       }
     ]
   }

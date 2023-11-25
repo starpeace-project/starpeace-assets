@@ -74,24 +74,24 @@
         "outputs": [
           {
             "resourceId": "RESTAURANT_SERVICE",
-            "maxVelocity": 20,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 20.833333333333333333333333333333,
-                "probability": 0.9
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 41.666666666666666666666666666667,
-                "probability": 0.8
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 125,
-                "probability": 0.7
-              }
-            ]
+            "maxVelocity": 20
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 20.833333333333333333333333333333,
+            "probability": 0.9
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 41.666666666666666666666666666667,
+            "probability": 0.8
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 125,
+            "probability": 0.7
           }
         ]
       }

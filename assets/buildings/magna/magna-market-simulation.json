@@ -65,7 +65,7 @@
         "inputs": [
           {
             "resourceId": "FRESH_FOOD",
-            "min_velocity": 333.2,
+            "minVelocity": 333.2,
             "maxVelocity": 833,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -74,24 +74,24 @@
         "outputs": [
           {
             "resourceId": "FRESH_FOOD",
-            "maxVelocity": 833,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 833
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -99,7 +99,7 @@
         "inputs": [
           {
             "resourceId": "PROCESSED_FOOD",
-            "min_velocity": 333.2,
+            "minVelocity": 333.2,
             "maxVelocity": 833,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -108,24 +108,24 @@
         "outputs": [
           {
             "resourceId": "PROCESSED_FOOD",
-            "maxVelocity": 833,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 833
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -133,7 +133,7 @@
         "inputs": [
           {
             "resourceId": "CLOTHES",
-            "min_velocity": 166.8,
+            "minVelocity": 166.8,
             "maxVelocity": 417,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -142,24 +142,24 @@
         "outputs": [
           {
             "resourceId": "CLOTHES",
-            "maxVelocity": 417,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 417
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -167,7 +167,7 @@
         "inputs": [
           {
             "resourceId": "TOY",
-            "min_velocity": 124.8,
+            "minVelocity": 124.8,
             "maxVelocity": 312,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -176,24 +176,24 @@
         "outputs": [
           {
             "resourceId": "TOY",
-            "maxVelocity": 312,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 312
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -201,7 +201,7 @@
         "inputs": [
           {
             "resourceId": "PHARMACEUTICAL",
-            "min_velocity": 41.6,
+            "minVelocity": 41.6,
             "maxVelocity": 104,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -210,24 +210,24 @@
         "outputs": [
           {
             "resourceId": "PHARMACEUTICAL",
-            "maxVelocity": 104,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 104
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -235,7 +235,7 @@
         "inputs": [
           {
             "resourceId": "APPLIANCE",
-            "min_velocity": 75.2,
+            "minVelocity": 75.2,
             "maxVelocity": 188,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -244,24 +244,24 @@
         "outputs": [
           {
             "resourceId": "APPLIANCE",
-            "maxVelocity": 188,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 188
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       }
@@ -333,7 +333,7 @@
         "inputs": [
           {
             "resourceId": "FRESH_FOOD",
-            "min_velocity": 333.2,
+            "minVelocity": 333.2,
             "maxVelocity": 833,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -342,24 +342,24 @@
         "outputs": [
           {
             "resourceId": "FRESH_FOOD",
-            "maxVelocity": 833,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 833
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -367,7 +367,7 @@
         "inputs": [
           {
             "resourceId": "PROCESSED_FOOD",
-            "min_velocity": 333.2,
+            "minVelocity": 333.2,
             "maxVelocity": 833,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -376,24 +376,24 @@
         "outputs": [
           {
             "resourceId": "PROCESSED_FOOD",
-            "maxVelocity": 833,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 833
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -401,7 +401,7 @@
         "inputs": [
           {
             "resourceId": "CLOTHES",
-            "min_velocity": 166.8,
+            "minVelocity": 166.8,
             "maxVelocity": 417,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -410,24 +410,24 @@
         "outputs": [
           {
             "resourceId": "CLOTHES",
-            "maxVelocity": 417,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 417
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -435,7 +435,7 @@
         "inputs": [
           {
             "resourceId": "TOY",
-            "min_velocity": 124.8,
+            "minVelocity": 124.8,
             "maxVelocity": 312,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -444,24 +444,24 @@
         "outputs": [
           {
             "resourceId": "TOY",
-            "maxVelocity": 312,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 312
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -469,7 +469,7 @@
         "inputs": [
           {
             "resourceId": "PHARMACEUTICAL",
-            "min_velocity": 41.6,
+            "minVelocity": 41.6,
             "maxVelocity": 104,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -478,24 +478,24 @@
         "outputs": [
           {
             "resourceId": "PHARMACEUTICAL",
-            "maxVelocity": 104,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 104
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       },
@@ -503,7 +503,7 @@
         "inputs": [
           {
             "resourceId": "APPLIANCE",
-            "min_velocity": 75.2,
+            "minVelocity": 75.2,
             "maxVelocity": 188,
             "weightEfficiency": 30,
             "weightQuality": 50
@@ -512,24 +512,24 @@
         "outputs": [
           {
             "resourceId": "APPLIANCE",
-            "maxVelocity": 188,
-            "customers": [
-              {
-                "resourceId": "EXECUTIVE",
-                "maxVelocity": 3.75,
-                "probability": 1
-              },
-              {
-                "resourceId": "PROFESSIONAL",
-                "maxVelocity": 6.25,
-                "probability": 1
-              },
-              {
-                "resourceId": "WORKER",
-                "maxVelocity": 10,
-                "probability": 1
-              }
-            ]
+            "maxVelocity": 188
+          }
+        ],
+        "customers": [
+          {
+            "resourceId": "EXECUTIVE",
+            "maxVelocity": 3.75,
+            "probability": 1
+          },
+          {
+            "resourceId": "PROFESSIONAL",
+            "maxVelocity": 6.25,
+            "probability": 1
+          },
+          {
+            "resourceId": "WORKER",
+            "maxVelocity": 10,
+            "probability": 1
           }
         ]
       }

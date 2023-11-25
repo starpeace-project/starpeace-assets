@@ -1,7 +1,7 @@
 [
   {
     "id": "magna.movie.studios",
-    "type": "MOVIE_STUDIO",
+    "type": "MOVIESTUDIO",
     "maxLevel": 4,
     "constructionInputs": [
       {
@@ -177,9 +177,7 @@
         "outputs": [
           {
             "resourceId": "FILM",
-            "maxVelocity": 16800,
-            "weightEfficiency": 0,
-            "weightQuality": 0
+            "maxVelocity": 16800
           }
         ]
       }

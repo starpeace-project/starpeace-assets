@@ -41,7 +41,7 @@
         "weightQuality": 25
       }
     ],
-    "service": [
+    "outputs": [
       {
         "resourceId": "MEDICAL_SERVICE",
         "maxVelocity": 40000

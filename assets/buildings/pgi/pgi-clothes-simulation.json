@@ -71,9 +71,7 @@
     "outputs": [
       {
         "resourceId": "CLOTHES",
-        "maxVelocity": 75,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 75
       }
     ]
   },
@@ -149,9 +147,7 @@
     "outputs": [
       {
         "resourceId": "CLOTHES",
-        "maxVelocity": 24,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 24
       }
     ]
   }

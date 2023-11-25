@@ -65,9 +65,7 @@
     "outputs": [
       {
         "resourceId": "METAL",
-        "maxVelocity": 180,
-        "weightEfficiency": 0,
-        "weightQuality": 0
+        "maxVelocity": 180
       }
     ]
   }
