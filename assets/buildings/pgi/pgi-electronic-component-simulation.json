@@ -20,66 +20,60 @@
         "maxVelocity": 450
       }
     ],
-    "stages": [
+    "labor": [
       {
-        "index": 1,
-        "duration": 1,
-        "labor": [
-          {
-            "resourceId": "EXECUTIVE",
-            "maxVelocity": 2,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "PROFESSIONAL",
-            "maxVelocity": 9,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "WORKER",
-            "maxVelocity": 126,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "operations": [
-          {
-            "resourceId": "COMPUTER_SERVICE",
-            "maxVelocity": 0.625,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "LEGAL_SERVICE",
-            "maxVelocity": 0.75,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "inputs": [
-          {
-            "resourceId": "CHEMICAL",
-            "maxVelocity": 30,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "METAL",
-            "maxVelocity": 50,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "outputs": [
-          {
-            "resourceId": "ELECTRONIC_COMPONENT",
-            "maxVelocity": 65,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ]
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 2,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 9,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 126,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "operations": [
+      {
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 0.625,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 0.75,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "inputs": [
+      {
+        "resourceId": "CHEMICAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "METAL",
+        "maxVelocity": 50,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "outputs": [
+      {
+        "resourceId": "ELECTRONIC_COMPONENT",
+        "maxVelocity": 65,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   },
@@ -104,66 +98,60 @@
         "maxVelocity": 102.85714285714286
       }
     ],
-    "stages": [
+    "labor": [
       {
-        "index": 1,
-        "duration": 1,
-        "labor": [
-          {
-            "resourceId": "EXECUTIVE",
-            "maxVelocity": 1,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "PROFESSIONAL",
-            "maxVelocity": 5,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "WORKER",
-            "maxVelocity": 72,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "operations": [
-          {
-            "resourceId": "COMPUTER_SERVICE",
-            "maxVelocity": 0.2,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "LEGAL_SERVICE",
-            "maxVelocity": 0.24,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "inputs": [
-          {
-            "resourceId": "CHEMICAL",
-            "maxVelocity": 10,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "METAL",
-            "maxVelocity": 16,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "outputs": [
-          {
-            "resourceId": "ELECTRONIC_COMPONENT",
-            "maxVelocity": 20.8,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ]
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 1,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 5,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 72,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "operations": [
+      {
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 0.2,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 0.24,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "inputs": [
+      {
+        "resourceId": "CHEMICAL",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "METAL",
+        "maxVelocity": 16,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "outputs": [
+      {
+        "resourceId": "ELECTRONIC_COMPONENT",
+        "maxVelocity": 20.8,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   }

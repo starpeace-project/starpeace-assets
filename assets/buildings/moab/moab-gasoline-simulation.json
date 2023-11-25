@@ -20,60 +20,54 @@
         "maxVelocity": 97.22222222222223
       }
     ],
-    "stages": [
+    "labor": [
       {
-        "index": 1,
-        "duration": 1,
-        "labor": [
-          {
-            "resourceId": "PROFESSIONAL",
-            "maxVelocity": 2,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "WORKER",
-            "maxVelocity": 100,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "operations": [
-          {
-            "resourceId": "COMPUTER_SERVICE",
-            "maxVelocity": 0.3,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "LEGAL_SERVICE",
-            "maxVelocity": 0.15,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "inputs": [
-          {
-            "resourceId": "CHEMICAL",
-            "maxVelocity": 10,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "CRUDE_OIL",
-            "maxVelocity": 3000,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "outputs": [
-          {
-            "resourceId": "GASOLINE",
-            "maxVelocity": 3000,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ]
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 2,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "operations": [
+      {
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 0.3,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 0.15,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "inputs": [
+      {
+        "resourceId": "CHEMICAL",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "CRUDE_OIL",
+        "maxVelocity": 3000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "outputs": [
+      {
+        "resourceId": "GASOLINE",
+        "maxVelocity": 3000,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   },

@@ -20,60 +20,54 @@
         "maxVelocity": 236.25
       }
     ],
-    "stages": [
+    "labor": [
       {
-        "index": 1,
-        "duration": 1,
-        "labor": [
-          {
-            "resourceId": "PROFESSIONAL",
-            "maxVelocity": 1,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "WORKER",
-            "maxVelocity": 80,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "operations": [
-          {
-            "resourceId": "COMPUTER_SERVICE",
-            "maxVelocity": 0.36,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "LEGAL_SERVICE",
-            "maxVelocity": 0.18,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "inputs": [
-          {
-            "resourceId": "FRESH_FOOD",
-            "maxVelocity": 72,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "CHEMICAL",
-            "maxVelocity": 14,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "outputs": [
-          {
-            "resourceId": "PROCESSED_FOOD",
-            "maxVelocity": 72,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ]
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 80,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "operations": [
+      {
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 0.36,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 0.18,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "inputs": [
+      {
+        "resourceId": "FRESH_FOOD",
+        "maxVelocity": 72,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "CHEMICAL",
+        "maxVelocity": 14,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "outputs": [
+      {
+        "resourceId": "PROCESSED_FOOD",
+        "maxVelocity": 72,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   },
@@ -98,60 +92,54 @@
         "maxVelocity": 56.25
       }
     ],
-    "stages": [
+    "labor": [
       {
-        "index": 1,
-        "duration": 1,
-        "labor": [
-          {
-            "resourceId": "PROFESSIONAL",
-            "maxVelocity": 1,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "WORKER",
-            "maxVelocity": 46,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "operations": [
-          {
-            "resourceId": "COMPUTER_SERVICE",
-            "maxVelocity": 0.12,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "LEGAL_SERVICE",
-            "maxVelocity": 0.06,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "inputs": [
-          {
-            "resourceId": "FRESH_FOOD",
-            "maxVelocity": 24,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "CHEMICAL",
-            "maxVelocity": 5,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "outputs": [
-          {
-            "resourceId": "PROCESSED_FOOD",
-            "maxVelocity": 24,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ]
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 46,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "operations": [
+      {
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 0.12,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 0.06,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "inputs": [
+      {
+        "resourceId": "FRESH_FOOD",
+        "maxVelocity": 24,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "CHEMICAL",
+        "maxVelocity": 5,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "outputs": [
+      {
+        "resourceId": "PROCESSED_FOOD",
+        "maxVelocity": 24,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   }

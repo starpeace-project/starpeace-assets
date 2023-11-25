@@ -20,66 +20,60 @@
         "maxVelocity": 67.2
       }
     ],
-    "stages": [
+    "labor": [
       {
-        "index": 1,
-        "duration": 1,
-        "labor": [
-          {
-            "resourceId": "PROFESSIONAL",
-            "maxVelocity": 1,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "WORKER",
-            "maxVelocity": 88,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "operations": [
-          {
-            "resourceId": "COMPUTER_SERVICE",
-            "maxVelocity": 0.48,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "LEGAL_SERVICE",
-            "maxVelocity": 0.24,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "inputs": [
-          {
-            "resourceId": "FABRIC",
-            "maxVelocity": 40,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "ORGANIC_MATERIAL",
-            "maxVelocity": 10,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "CHEMICAL",
-            "maxVelocity": 6,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "outputs": [
-          {
-            "resourceId": "CLOTHES",
-            "maxVelocity": 36,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ]
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 88,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "operations": [
+      {
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 0.48,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 0.24,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "inputs": [
+      {
+        "resourceId": "FABRIC",
+        "maxVelocity": 40,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "ORGANIC_MATERIAL",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "CHEMICAL",
+        "maxVelocity": 6,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "outputs": [
+      {
+        "resourceId": "CLOTHES",
+        "maxVelocity": 36,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   },
@@ -104,53 +98,47 @@
         "maxVelocity": 16
       }
     ],
-    "stages": [
+    "labor": [
       {
-        "index": 1,
-        "duration": 1,
-        "labor": [
-          {
-            "resourceId": "PROFESSIONAL",
-            "maxVelocity": 1,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "WORKER",
-            "maxVelocity": 51,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "operations": [],
-        "inputs": [
-          {
-            "resourceId": "FABRIC",
-            "maxVelocity": 13,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "ORGANIC_MATERIAL",
-            "maxVelocity": 3,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          },
-          {
-            "resourceId": "CHEMICAL",
-            "maxVelocity": 2,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ],
-        "outputs": [
-          {
-            "resourceId": "CLOTHES",
-            "maxVelocity": 12,
-            "weightEfficiency": 0,
-            "weightQuality": 0
-          }
-        ]
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 1,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 51,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "operations": [],
+    "inputs": [
+      {
+        "resourceId": "FABRIC",
+        "maxVelocity": 13,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "ORGANIC_MATERIAL",
+        "maxVelocity": 3,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "CHEMICAL",
+        "maxVelocity": 2,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
+    ],
+    "outputs": [
+      {
+        "resourceId": "CLOTHES",
+        "maxVelocity": 12,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   },

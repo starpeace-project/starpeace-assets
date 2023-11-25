@@ -1,7 +1,7 @@
 [
   {
     "id": "pgi.farm",
-    "type": "FACTORY",
+    "type": "FARM",
     "maxLevel": 100,
     "constructionInputs": [
       {
@@ -23,7 +23,10 @@
     "stages": [
       {
         "index": 1,
-        "duration": 1,
+        "duration": {
+          "unit": "DAY",
+          "value": 28
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",
@@ -66,7 +69,7 @@
   },
   {
     "id": "pgi.farm.small",
-    "type": "FACTORY",
+    "type": "FARM",
     "maxLevel": 100,
     "constructionInputs": [
       {
@@ -83,7 +86,10 @@
     "stages": [
       {
         "index": 1,
-        "duration": 1,
+        "duration": {
+          "unit": "DAY",
+          "value": 28
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",

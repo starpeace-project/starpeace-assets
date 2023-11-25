@@ -1,7 +1,7 @@
 [
   {
     "id": "dis.farm",
-    "type": "FACTORY",
+    "type": "FARM",
     "maxLevel": 100,
     "constructionInputs": [
       {
@@ -23,7 +23,10 @@
     "stages": [
       {
         "index": 1,
-        "duration": 336,
+        "duration": {
+          "unit": "DAY",
+          "value": 14
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",
@@ -51,7 +54,10 @@
       },
       {
         "index": 2,
-        "duration": 336,
+        "duration": {
+          "unit": "DAY",
+          "value": 14
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",
@@ -86,7 +92,10 @@
       },
       {
         "index": 3,
-        "duration": 672,
+        "duration": {
+          "unit": "DAY",
+          "value": 28
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",
@@ -127,7 +136,10 @@
       },
       {
         "index": 4,
-        "duration": 672,
+        "duration": {
+          "unit": "DAY",
+          "value": 28
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",
@@ -163,7 +175,7 @@
   },
   {
     "id": "dis.farm.small",
-    "type": "FACTORY",
+    "type": "FARM",
     "maxLevel": 100,
     "constructionInputs": [
       {
@@ -180,7 +192,10 @@
     "stages": [
       {
         "index": 1,
-        "duration": 336,
+        "duration": {
+          "unit": "DAY",
+          "value": 14
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",
@@ -208,7 +223,10 @@
       },
       {
         "index": 2,
-        "duration": 336,
+        "duration": {
+          "unit": "DAY",
+          "value": 14
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",
@@ -243,7 +261,10 @@
       },
       {
         "index": 3,
-        "duration": 672,
+        "duration": {
+          "unit": "DAY",
+          "value": 28
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",
@@ -284,7 +305,10 @@
       },
       {
         "index": 4,
-        "duration": 672,
+        "duration": {
+          "unit": "DAY",
+          "value": 28
+        },
         "labor": [
           {
             "resourceId": "PROFESSIONAL",

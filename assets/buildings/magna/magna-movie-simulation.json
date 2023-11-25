@@ -1,7 +1,7 @@
 [
   {
     "id": "magna.movie.studios",
-    "type": "FACTORY",
+    "type": "MOVIE_STUDIO",
     "maxLevel": 4,
     "constructionInputs": [
       {
@@ -23,7 +23,10 @@
     "stages": [
       {
         "index": 1,
-        "duration": 2016,
+        "duration": {
+          "unit": "DAY",
+          "value": 84
+        },
         "labor": [
           {
             "resourceId": "EXECUTIVE",
@@ -76,7 +79,10 @@
       },
       {
         "index": 2,
-        "duration": 504,
+        "duration": {
+          "unit": "DAY",
+          "value": 42
+        },
         "labor": [
           {
             "resourceId": "EXECUTIVE",
@@ -129,7 +135,10 @@
       },
       {
         "index": 3,
-        "duration": 24,
+        "duration": {
+          "unit": "DAY",
+          "value": 1
+        },
         "labor": [
           {
             "resourceId": "EXECUTIVE",
