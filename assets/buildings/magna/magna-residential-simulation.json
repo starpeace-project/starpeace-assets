@@ -69,6 +69,26 @@
         "quantity": 1.25,
         "maxVelocity": 0.0125
       }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
     ]
   },
   {
@@ -92,6 +112,26 @@
         "resourceId": "MACHINERY",
         "quantity": 1.25,
         "maxVelocity": 0.0125
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   },
@@ -117,6 +157,26 @@
         "quantity": 1.25,
         "maxVelocity": 0.0125
       }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
     ]
   },
   {
@@ -140,6 +200,26 @@
         "resourceId": "MACHINERY",
         "quantity": 1.25,
         "maxVelocity": 0.0125
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   },
@@ -165,6 +245,26 @@
         "quantity": 1.25,
         "maxVelocity": 0.0125
       }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
     ]
   },
   {
@@ -188,6 +288,26 @@
         "resourceId": "MACHINERY",
         "quantity": 1.25,
         "maxVelocity": 0.0125
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   },
@@ -213,6 +333,26 @@
         "quantity": 1.25,
         "maxVelocity": 0.0125
       }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
     ]
   },
   {
@@ -237,6 +377,26 @@
         "quantity": 1.25,
         "maxVelocity": 0.0125
       }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      }
     ]
   },
   {
@@ -260,6 +420,26 @@
         "resourceId": "MACHINERY",
         "quantity": 1.25,
         "maxVelocity": 0.0125
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 30,
+        "weightEfficiency": 0,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 100,
+        "weightEfficiency": 0,
+        "weightQuality": 0
       }
     ]
   }

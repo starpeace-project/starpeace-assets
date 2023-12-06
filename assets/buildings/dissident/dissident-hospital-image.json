@@ -2,8 +2,8 @@
   {
     "id": "dis.hospital",
     "imagePath": "assets/buildings/dissident/images/dis.hospital.gif",
-    "tileWidth": 3,
-    "tileHeight": 3,
+    "tileWidth": 2,
+    "tileHeight": 2,
     "hitArea": [
       [{"x":162,"y":52},{"x":146,"y":30},{"x":123,"y":21},{"x":64,"y":26},{"x":46,"y":30},{"x":46,"y":74},{"x":98,"y":85},{"x":147,"y":72}],
       [{"x":32,"y":53},{"x":46,"y":74},{"x":46,"y":30}],
