@@ -5,7 +5,7 @@
     "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
-    "maintainance": 200,
+    "maintenance": 200,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",
@@ -28,7 +28,7 @@
     "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
-    "maintainance": 200,
+    "maintenance": 200,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",
@@ -51,7 +51,7 @@
     "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
-    "maintainance": 200,
+    "maintenance": 200,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",
@@ -74,7 +74,7 @@
     "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
-    "maintainance": 200,
+    "maintenance": 200,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",
@@ -97,7 +97,7 @@
     "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
-    "maintainance": 200,
+    "maintenance": 200,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",
@@ -120,7 +120,7 @@
     "maxLevel": 1,
     "beauty": 400,
     "pollution": -400,
-    "maintainance": 250,
+    "maintenance": 250,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",
@@ -143,7 +143,7 @@
     "maxLevel": 1,
     "beauty": 500,
     "pollution": -500,
-    "maintainance": 600,
+    "maintenance": 600,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",
@@ -165,7 +165,7 @@
     "type": "PARK",
     "maxLevel": 20,
     "sport": 7000,
-    "maintainance": 100,
+    "maintenance": 100,
     "prestige": 5,
     "constructionInputs": [
       {
@@ -198,7 +198,7 @@
     "type": "PARK",
     "maxLevel": 1,
     "beauty": 500,
-    "maintainance": 2000,
+    "maintenance": 2000,
     "prestige": 1000,
     "constructionInputs": [
       {
@@ -221,7 +221,7 @@
     "type": "PARK",
     "maxLevel": 1,
     "beauty": 500,
-    "maintainance": 2000,
+    "maintenance": 2000,
     "prestige": 1000,
     "constructionInputs": [
       {

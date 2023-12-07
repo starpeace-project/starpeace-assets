@@ -3,7 +3,7 @@
     "id": "mko.police",
     "type": "SERVICE",
     "maxLevel": 1,
-    "maintainance": 500,
+    "maintenance": 500,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",

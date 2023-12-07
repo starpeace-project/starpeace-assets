@@ -3,7 +3,7 @@
     "id": "moab.correctional",
     "type": "SERVICE",
     "maxLevel": 1,
-    "maintainance": 1000,
+    "maintenance": 1000,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",

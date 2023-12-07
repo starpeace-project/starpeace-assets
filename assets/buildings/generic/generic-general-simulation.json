@@ -68,7 +68,7 @@
     "id": "generic.dump",
     "type": "SERVICE",
     "maxLevel": 1,
-    "maintainance": 5000,
+    "maintenance": 5000,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",
@@ -105,7 +105,7 @@
     "id": "generic.jail",
     "type": "SERVICE",
     "maxLevel": 1,
-    "maintainance": 5000,
+    "maintenance": 5000,
     "constructionInputs": [
       {
         "resourceId": "CONSTRUCTION",
@@ -198,7 +198,7 @@
     "maxLevel": 1,
     "beauty": 300,
     "pollution": -300,
-    "maintainance": 100,
+    "maintenance": 100,
     "constructionInputs": [],
     "labor": [
       {
