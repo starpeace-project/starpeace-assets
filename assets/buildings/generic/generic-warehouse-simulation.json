@@ -30,15 +30,18 @@
     "storage": [
       {
         "resourceId": "CHEMICAL",
-        "max": 100000
+        "maxCapacity": 100000,
+        "maxVelocity": 100000
       },
       {
         "resourceId": "CRUDE_OIL",
-        "max": 100000
+        "maxCapacity": 100000,
+        "maxVelocity": 100000
       },
       {
         "resourceId": "GASOLINE",
-        "max": 100000
+        "maxCapacity": 100000,
+        "maxVelocity": 100000
       }
     ]
   },
@@ -73,15 +76,18 @@
     "storage": [
       {
         "resourceId": "FRESH_FOOD",
-        "max": 1000000
+        "maxCapacity": 1000000,
+        "maxVelocity": 1000000
       },
       {
         "resourceId": "PROCESSED_FOOD",
-        "max": 250000
+        "maxCapacity": 250000,
+        "maxVelocity": 250000
       },
       {
         "resourceId": "LIQUOR",
-        "max": 250000
+        "maxCapacity": 250000,
+        "maxVelocity": 250000
       }
     ]
   },
@@ -116,15 +122,18 @@
     "storage": [
       {
         "resourceId": "FRESH_FOOD",
-        "max": 20000000
+        "maxCapacity": 20000000,
+        "maxVelocity": 25000000
       },
       {
         "resourceId": "PROCESSED_FOOD",
-        "max": 2500000
+        "maxCapacity": 2500000,
+        "maxVelocity": 2500000
       },
       {
         "resourceId": "LIQUOR",
-        "max": 2500000
+        "maxCapacity": 2500000,
+        "maxVelocity": 2500000
       }
     ]
   },
@@ -159,23 +168,28 @@
     "storage": [
       {
         "resourceId": "ORGANIC_MATERIAL",
-        "max": 20000000
+        "maxCapacity": 20000000,
+        "maxVelocity": 20000000
       },
       {
         "resourceId": "FABRIC",
-        "max": 250000
+        "maxCapacity": 250000,
+        "maxVelocity": 250000
       },
       {
         "resourceId": "CLOTHES",
-        "max": 100000
+        "maxCapacity": 100000,
+        "maxVelocity": 100000
       },
       {
         "resourceId": "PAPER",
-        "max": 250000
+        "maxCapacity": 250000,
+        "maxVelocity": 250000
       },
       {
         "resourceId": "PRINTED_MATERIAL",
-        "max": 250000
+        "maxCapacity": 250000,
+        "maxVelocity": 250000
       }
     ]
   },
@@ -210,19 +224,23 @@
     "storage": [
       {
         "resourceId": "ORE",
-        "max": 200000
+        "maxCapacity": 200000,
+        "maxVelocity": 200000
       },
       {
         "resourceId": "METAL",
-        "max": 50000
+        "maxCapacity": 50000,
+        "maxVelocity": 50000
       },
       {
         "resourceId": "CONSTRUCTION",
-        "max": 500000
+        "maxCapacity": 500000,
+        "maxVelocity": 500000
       },
       {
         "resourceId": "TIMBER",
-        "max": 500000
+        "maxCapacity": 500000,
+        "maxVelocity": 500000
       }
     ]
   },
@@ -261,63 +279,78 @@
     "storage": [
       {
         "resourceId": "ORGANIC_MATERIAL",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "FABRIC",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "CLOTHES",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "ELECTRONIC_COMPONENT",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "APPLIANCE",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "COMPUTER",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "METAL",
-        "max": 25000
+        "maxCapacity": 25000,
+        "maxVelocity": 25000
       },
       {
         "resourceId": "AUTOMOBILE",
-        "max": 160
+        "maxCapacity": 160,
+        "maxVelocity": 160
       },
       {
         "resourceId": "TOY",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "PHARMACEUTICAL",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "PLASTIC",
-        "max": 20000
+        "maxCapacity": 20000,
+        "maxVelocity": 20000
       },
       {
         "resourceId": "MACHINERY",
-        "max": 1000
+        "maxCapacity": 1000,
+        "maxVelocity": 1000
       },
       {
         "resourceId": "FURNITURE",
-        "max": 15000
+        "maxCapacity": 15000,
+        "maxVelocity": 15000
       },
       {
         "resourceId": "BOOK",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "COMPACT_DISC",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       }
     ]
   },
@@ -356,63 +389,78 @@
     "storage": [
       {
         "resourceId": "ORGANIC_MATERIAL",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "FABRIC",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "CLOTHES",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "ELECTRONIC_COMPONENT",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "APPLIANCE",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "COMPUTER",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "METAL",
-        "max": 25000
+        "maxCapacity": 25000,
+        "maxVelocity": 25000
       },
       {
         "resourceId": "AUTOMOBILE",
-        "max": 160
+        "maxCapacity": 160,
+        "maxVelocity": 160
       },
       {
         "resourceId": "TOY",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "PHARMACEUTICAL",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "PLASTIC",
-        "max": 20000
+        "maxCapacity": 20000,
+        "maxVelocity": 20000
       },
       {
         "resourceId": "MACHINERY",
-        "max": 1000
+        "maxCapacity": 1000,
+        "maxVelocity": 1000
       },
       {
         "resourceId": "FURNITURE",
-        "max": 15000
+        "maxCapacity": 15000,
+        "maxVelocity": 15000
       },
       {
         "resourceId": "BOOK",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "COMPACT_DISC",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       }
     ]
   },
@@ -451,63 +499,78 @@
     "storage": [
       {
         "resourceId": "ORGANIC_MATERIAL",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "FABRIC",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "CLOTHES",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "ELECTRONIC_COMPONENT",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "APPLIANCE",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "COMPUTER",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "METAL",
-        "max": 25000
+        "maxCapacity": 25000,
+        "maxVelocity": 25000
       },
       {
         "resourceId": "AUTOMOBILE",
-        "max": 160
+        "maxCapacity": 160,
+        "maxVelocity": 160
       },
       {
         "resourceId": "TOY",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "PHARMACEUTICAL",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "PLASTIC",
-        "max": 20000
+        "maxCapacity": 20000,
+        "maxVelocity": 20000
       },
       {
         "resourceId": "MACHINERY",
-        "max": 1000
+        "maxCapacity": 1000,
+        "maxVelocity": 1000
       },
       {
         "resourceId": "FURNITURE",
-        "max": 15000
+        "maxCapacity": 15000,
+        "maxVelocity": 15000
       },
       {
         "resourceId": "BOOK",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       },
       {
         "resourceId": "COMPACT_DISC",
-        "max": 10000
+        "maxCapacity": 10000,
+        "maxVelocity": 10000
       }
     ]
   }

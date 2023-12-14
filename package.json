@@ -1,6 +1,6 @@
 {
   "name": "@starpeace/starpeace-assets",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "STARPEACE assets, gameplay resources, and baseline simulation configurations",
   "keywords": [],
   "author": "starpeace-project",
@@ -20,7 +20,7 @@
     "test": "npm run audit"
   },
   "devDependencies": {
-    "@starpeace/starpeace-assets-types": "github:starpeace-project/starpeace-assets-types.git#v0.4.4",
+    "@starpeace/starpeace-assets-types": "github:starpeace-project/starpeace-assets-types.git#v0.4.6",
     "@tsconfig/node16": "^16.1.1",
     "@types/lodash": "^4.14.202",
     "fs-extra": "^11.2.0",
