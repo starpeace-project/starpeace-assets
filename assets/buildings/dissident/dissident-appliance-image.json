@@ -2,8 +2,8 @@
   {
     "id": "dis.hha.industry",
     "imagePath": "assets/buildings/dissident/images/dis.hha.industry.gif",
-    "tileWidth": 4,
-    "tileHeight": 4,
+    "tileWidth": 5,
+    "tileHeight": 5,
     "hitArea": [
       [{"x":211,"y":24},{"x":205,"y":31},{"x":215,"y":35}],
       [{"x":91,"y":30},{"x":91,"y":42},{"x":99,"y":42}],
@@ -22,8 +22,8 @@
   {
     "id": "dis.hha.industry.small",
     "imagePath": "assets/buildings/dissident/images/dis.hha.industry.small.gif",
-    "tileWidth": 4,
-    "tileHeight": 4,
+    "tileWidth": 5,
+    "tileHeight": 5,
     "hitArea": [
       [{"x":211,"y":24},{"x":205,"y":31},{"x":215,"y":35}],
       [{"x":91,"y":30},{"x":91,"y":42},{"x":99,"y":42}],

@@ -22,8 +22,8 @@
   {
     "id": "dis.elect.comp.industry.small",
     "imagePath": "assets/buildings/dissident/images/dis.elect.comp.industry.small.gif",
-    "tileWidth": 4,
-    "tileHeight": 4,
+    "tileWidth": 5,
+    "tileHeight": 5,
     "hitArea": [
       [{"x":80,"y":25},{"x":71,"y":53},{"x":99,"y":33}],
       [{"x":249,"y":127},{"x":259,"y":109},{"x":272,"y":62},{"x":238,"y":124}],

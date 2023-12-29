@@ -254,8 +254,8 @@
   {
     "id": "moab.mi.res.d",
     "imagePath": "assets/buildings/moab/images/moab.mi.res.d.gif",
-    "tileWidth": 2,
-    "tileHeight": 2,
+    "tileWidth": 3,
+    "tileHeight": 3,
     "hitArea": [
       [{"x":2,"y":41},{"x":0,"y":65},{"x":2,"y":75},{"x":13,"y":45}],
       [{"x":82,"y":115},{"x":172,"y":74},{"x":172,"y":43},{"x":94,"y":9},{"x":13,"y":45},{"x":2,"y":75}],

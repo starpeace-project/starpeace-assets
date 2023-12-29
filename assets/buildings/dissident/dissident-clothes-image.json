@@ -2,8 +2,8 @@
   {
     "id": "dis.clothes.industry",
     "imagePath": "assets/buildings/dissident/images/dis.clothes.industry.gif",
-    "tileWidth": 4,
-    "tileHeight": 4,
+    "tileWidth": 3,
+    "tileHeight": 3,
     "hitArea": [
       [{"x":8,"y":121},{"x":29,"y":120},{"x":44,"y":95},{"x":8,"y":111}],
       [{"x":119,"y":1},{"x":100,"y":10},{"x":103,"y":37},{"x":107,"y":50},{"x":153,"y":87},{"x":153,"y":55},{"x":145,"y":25}],
@@ -19,8 +19,8 @@
   {
     "id": "dis.clothes.industry.small",
     "imagePath": "assets/buildings/dissident/images/dis.clothes.industry.small.gif",
-    "tileWidth": 4,
-    "tileHeight": 4,
+    "tileWidth": 3,
+    "tileHeight": 3,
     "hitArea": [
       [{"x":171,"y":62},{"x":156,"y":57},{"x":139,"y":98},{"x":168,"y":75}],
       [{"x":151,"y":30},{"x":133,"y":27},{"x":106,"y":109},{"x":139,"y":98},{"x":156,"y":57}],

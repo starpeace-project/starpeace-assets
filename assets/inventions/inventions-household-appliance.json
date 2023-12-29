@@ -265,7 +265,10 @@
       "efficiency": 5,
       "desirability": -1
     },
-    "industryTypeId": "APPLIANCE"
+    "industryTypeId": "APPLIANCE",
+    "dependsOnIds": [
+      "BasicHHA"
+    ]
   },
   {
     "id": "GeneralRemote",
