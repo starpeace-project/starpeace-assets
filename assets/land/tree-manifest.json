@@ -1,112 +1,112 @@
 [
   {
-    "id": 0,
     "zone": "dryground",
+    "variant": 1,
     "key": "tree.dryground.01.bmp"
   },
   {
-    "id": 1,
     "zone": "dryground",
+    "variant": 2,
     "key": "tree.dryground.02.bmp"
   },
   {
-    "id": 2,
     "zone": "dryground",
+    "variant": 3,
     "key": "tree.dryground.03.bmp"
   },
   {
-    "id": 3,
     "zone": "dryground",
+    "variant": 4,
     "key": "tree.dryground.04.bmp"
   },
   {
-    "id": 4,
     "zone": "dryground",
+    "variant": 5,
     "key": "tree.dryground.05.bmp"
   },
   {
-    "id": 5,
     "zone": "dryground",
+    "variant": 6,
     "key": "tree.dryground.06.bmp"
   },
   {
-    "id": 10,
     "zone": "grass",
+    "variant": 1,
     "key": "tree.grass.01.bmp"
   },
   {
-    "id": 11,
     "zone": "grass",
+    "variant": 2,
     "key": "tree.grass.02.bmp"
   },
   {
-    "id": 12,
     "zone": "grass",
+    "variant": 3,
     "key": "tree.grass.03.bmp"
   },
   {
-    "id": 13,
     "zone": "grass",
+    "variant": 4,
     "key": "tree.grass.04.bmp"
   },
   {
-    "id": 14,
     "zone": "grass",
+    "variant": 5,
     "key": "tree.grass.05.bmp"
   },
   {
-    "id": 15,
     "zone": "grass",
+    "variant": 6,
     "key": "tree.grass.06.bmp"
   },
   {
-    "id": 16,
     "zone": "grass",
+    "variant": 7,
     "key": "tree.grass.07.bmp"
   },
   {
-    "id": 17,
     "zone": "grass",
+    "variant": 8,
     "key": "tree.grass.08.bmp"
   },
   {
-    "id": 18,
     "zone": "grass",
+    "variant": 9,
     "key": "tree.grass.09.bmp"
   },
   {
-    "id": 19,
     "zone": "grass",
+    "variant": 11,
     "key": "tree.grass.11.bmp"
   },
   {
-    "id": 20,
     "zone": "grass",
+    "variant": 13,
     "key": "tree.grass.13.bmp"
   },
   {
-    "id": 30,
     "zone": "midgrass",
+    "variant": 1,
     "key": "tree.midgrass.01.bmp"
   },
   {
-    "id": 31,
     "zone": "midgrass",
+    "variant": 2,
     "key": "tree.midgrass.02.bmp"
   },
   {
-    "id": 32,
     "zone": "midgrass",
+    "variant": 3,
     "key": "tree.midgrass.03.bmp"
   },
   {
-    "id": 33,
     "zone": "midgrass",
+    "variant": 4,
     "key": "tree.midgrass.04.bmp"
   },
   {
-    "id": 34,
     "zone": "midgrass",
+    "variant": 5,
     "key": "tree.midgrass.05.bmp"
   }
 ]
