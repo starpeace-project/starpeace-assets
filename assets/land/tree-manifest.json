@@ -76,13 +76,13 @@
   },
   {
     "zone": "grass",
-    "variant": 11,
-    "key": "tree.grass.11.bmp"
+    "variant": 10,
+    "key": "tree.grass.10.bmp"
   },
   {
     "zone": "grass",
-    "variant": 13,
-    "key": "tree.grass.13.bmp"
+    "variant": 11,
+    "key": "tree.grass.11.bmp"
   },
   {
     "zone": "midgrass",
