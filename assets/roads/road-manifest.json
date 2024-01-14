@@ -1,27 +1,27 @@
 [
   {
-    "id": "bridge.ew",
-    "image": "bridge.ew.png"
+    "id": "road.bridge.ew",
+    "image": "road.bridge.ew.png"
   },
   {
-    "id": "bridge.ns",
-    "image": "bridge.ns.png"
+    "id": "road.bridge.ns",
+    "image": "road.bridge.ns.png"
   },
   {
-    "id": "bridge.ramp.e",
-    "image": "bridge.ramp.e.png"
+    "id": "road.bridge.ramp.e",
+    "image": "road.bridge.ramp.e.png"
   },
   {
-    "id": "bridge.ramp.n",
-    "image": "bridge.ramp.n.png"
+    "id": "road.bridge.ramp.n",
+    "image": "road.bridge.ramp.n.png"
   },
   {
-    "id": "bridge.ramp.s",
-    "image": "bridge.ramp.s.png"
+    "id": "road.bridge.ramp.s",
+    "image": "road.bridge.ramp.s.png"
   },
   {
-    "id": "bridge.ramp.w",
-    "image": "bridge.ramp.w.png"
+    "id": "road.bridge.ramp.w",
+    "image": "road.bridge.ramp.w.png"
   },
   {
     "id": "road.city.corner.ne",
@@ -194,5 +194,105 @@
   {
     "id": "road.country.t.ns.w",
     "image": "road.country.t.ns.w.png"
+  },
+  {
+    "id": "track.bridge.ew",
+    "image": "track.bridge.ew.png"
+  },
+  {
+    "id": "track.bridge.ns",
+    "image": "track.bridge.ns.png"
+  },
+  {
+    "id": "track.bridge.ramp.e",
+    "image": "track.bridge.ramp.e.png"
+  },
+  {
+    "id": "track.bridge.ramp.n",
+    "image": "track.bridge.ramp.n.png"
+  },
+  {
+    "id": "track.bridge.ramp.s",
+    "image": "track.bridge.ramp.s.png"
+  },
+  {
+    "id": "track.bridge.ramp.w",
+    "image": "track.bridge.ramp.w.png"
+  },
+  {
+    "id": "track.corner.ne",
+    "image": "track.corner.ne.png"
+  },
+  {
+    "id": "track.corner.nw",
+    "image": "track.corner.nw.png"
+  },
+  {
+    "id": "track.corner.se",
+    "image": "track.corner.se.png"
+  },
+  {
+    "id": "track.corner.sw",
+    "image": "track.corner.sw.png"
+  },
+  {
+    "id": "track.cross",
+    "image": "track.cross.png"
+  },
+  {
+    "id": "track.ew",
+    "image": "track.ew.png"
+  },
+  {
+    "id": "track.ew.e",
+    "image": "track.ew.e.png"
+  },
+  {
+    "id": "track.ew.w",
+    "image": "track.ew.w.png"
+  },
+  {
+    "id": "track.nesw.nw",
+    "image": "track.nesw.nw.png"
+  },
+  {
+    "id": "track.nesw.se",
+    "image": "track.nesw.se.png"
+  },
+  {
+    "id": "track.ns",
+    "image": "track.ns.png"
+  },
+  {
+    "id": "track.ns.n",
+    "image": "track.ns.n.png"
+  },
+  {
+    "id": "track.ns.s",
+    "image": "track.ns.s.png"
+  },
+  {
+    "id": "track.nwse.ne",
+    "image": "track.nwse.ne.png"
+  },
+  {
+    "id": "track.nwse.sw",
+    "image": "track.nwse.sw.png"
+  },
+  {
+    "id": "track.t.ew.n",
+    "image": "track.t.ew.n.png"
+  },
+  {
+    "id": "track.t.ew.s",
+    "image": "track.t.ew.s.png"
+  },
+  {
+    "id": "track.t.ns.e",
+    "image": "track.t.ns.e.png"
+  },
+  {
+    "id": "track.t.ns.w",
+    "image": "track.t.ns.w.png"
   }
 ]
