@@ -234,6 +234,19 @@
     "price": 50
   },
   {
+    "id": "ENTERTAINMENT",
+    "labelPlural": {
+      "DE": "Unterhaltung",
+      "EN": "Entertainment",
+      "ES": "Entretenimiento",
+      "FR": "Divertissement",
+      "IT": "Divertimento",
+      "PT": "Entretenimento"
+    },
+    "unitId": "HOUR",
+    "price": 0
+  },
+  {
     "id": "EXECUTIVE",
     "labelPlural": {
       "DE": "exekutive arbeit",
@@ -598,17 +611,17 @@
     "price": 1
   },
   {
-    "id": "RECREATION_SERVICE",
+    "id": "RECREATION",
     "labelPlural": {
-      "DE": "erholungsdienstleistungen",
-      "EN": "recreation services",
-      "ES": "servicios de recreación",
-      "FR": "services de loisirs",
-      "IT": "servizi ricreativi",
-      "PT": "serviços de recreação"
+      "DE": "Erholung",
+      "EN": "Recreation",
+      "ES": "Recreación",
+      "FR": "Des Loisirs",
+      "IT": "Ricreazione",
+      "PT": "Diversão"
     },
     "unitId": "HOUR",
-    "price": 200
+    "price": 5
   },
   {
     "id": "RESTAURANT_SERVICE",
@@ -635,6 +648,19 @@
     },
     "unitId": "KILOGRAM",
     "price": 1
+  },
+  {
+    "id": "SPORT",
+    "labelPlural": {
+      "DE": "Sport",
+      "EN": "Sports",
+      "ES": "Deportes",
+      "FR": "Des Sports",
+      "IT": "Gli Sport",
+      "PT": "Esportes"
+    },
+    "unitId": "HOUR",
+    "price": 5
   },
   {
     "id": "STONE",

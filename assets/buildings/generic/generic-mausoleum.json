@@ -18,8 +18,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "Monuments"
-    ],
-    "mausoleum": {}
+    ]
   },
   {
     "id": "generic.mausoleum.paradigm",
@@ -40,7 +39,6 @@
     "foundation": true,
     "requiredInventionIds": [
       "Monuments"
-    ],
-    "mausoleum": {}
+    ]
   }
 ]

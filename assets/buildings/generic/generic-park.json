@@ -18,8 +18,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   },
   {
     "id": "generic.park.alien.b",
@@ -40,8 +39,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   },
   {
     "id": "generic.park.alien.c",
@@ -62,8 +60,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   },
   {
     "id": "generic.park.alien.d",
@@ -84,8 +81,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   },
   {
     "id": "generic.park.central",
@@ -106,8 +102,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   },
   {
     "id": "generic.park.medium",
@@ -128,8 +123,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   },
   {
     "id": "generic.park.small",
@@ -150,8 +144,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   },
   {
     "id": "generic.statue",
@@ -172,8 +165,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   },
   {
     "id": "generic.tennis",
@@ -194,8 +186,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   },
   {
     "id": "generic.tower",
@@ -216,7 +207,6 @@
     "foundation": true,
     "requiredInventionIds": [
       "CivicFac"
-    ],
-    "civic": {}
+    ]
   }
 ]
