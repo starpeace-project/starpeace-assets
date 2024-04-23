@@ -1,5 +1,16 @@
 [
   {
+    "id": "AIR_TRANSPORT",
+    "label": {
+      "DE": "Lufttransport",
+      "EN": "Air Transport",
+      "ES": "Transporte Aéreo",
+      "FR": "Transport Aérien",
+      "IT": "Trasporto Aereo",
+      "PT": "Transporte Aéreo"
+    }
+  },
+  {
     "id": "APPLIANCE",
     "label": {
       "DE": "Haushaltsgeräte",
@@ -283,6 +294,17 @@
       "FR": "Gouvernement",
       "IT": "Governo",
       "PT": "Governo"
+    }
+  },
+  {
+    "id": "GROUND_TRANSPORT",
+    "label": {
+      "DE": "Bodentransport",
+      "EN": "Ground Transport",
+      "ES": "Transporte Terrestre",
+      "FR": "Transport Terrestre",
+      "IT": "Trasporto via Terra",
+      "PT": "Transporte Terrestre"
     }
   },
   {
@@ -635,6 +657,17 @@
       "FR": "Entrepôt",
       "IT": "Magazzino",
       "PT": "Armazém"
+    }
+  },
+  {
+    "id": "WATER_TRANSPORT",
+    "label": {
+      "DE": "Wassertransport",
+      "EN": "Water Transport",
+      "ES": "Transporte de Agua",
+      "FR": "Le transport de l'eau",
+      "IT": "Trasporto Acquatico",
+      "PT": "Transporte de Água"
     }
   }
 ]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "magna.air.terminal.a",
+    "type": "TERMINAL",
+    "maxLevel": 20,
+    "constructionInputs": [
+      {
+        "resourceId": "CONSTRUCTION",
+        "quantity": 150000,
+        "maxVelocity": 5000
+      },
+      {
+        "resourceId": "MACHINERY",
+        "quantity": 625,
+        "maxVelocity": 20.833333333333333333333333333333
+      },
+      {
+        "resourceId": "COMPUTER",
+        "quantity": 6250,
+        "maxVelocity": 208.33333333333333333333333333333
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 10
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 100,
+        "weightEfficiency": 20,
+        "weightQuality": 10
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 500,
+        "weightEfficiency": 20,
+        "weightQuality": 15
+      }
+    ],
+    "operations": [
+      {
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 200,
+        "weightEfficiency": 5,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 1,
+        "weightEfficiency": 5,
+        "weightQuality": 5
+      },
+      {
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 0.5,
+        "weightEfficiency": 5,
+        "weightQuality": 5
+      }
+    ],
+    "products": [
+    ]
+  },
+  {
+    "id": "magna.train.terminal.a",
+    "type": "TERMINAL",
+    "maxLevel": 20,
+    "constructionInputs": [
+      {
+        "resourceId": "CONSTRUCTION",
+        "quantity": 150000,
+        "maxVelocity": 5000
+      },
+      {
+        "resourceId": "MACHINERY",
+        "quantity": 625,
+        "maxVelocity": 20.833333333333333333333333333333
+      },
+      {
+        "resourceId": "COMPUTER",
+        "quantity": 6250,
+        "maxVelocity": 208.33333333333333333333333333333
+      }
+    ],
+    "labor": [
+      {
+        "resourceId": "EXECUTIVE",
+        "maxVelocity": 10,
+        "weightEfficiency": 20,
+        "weightQuality": 10
+      },
+      {
+        "resourceId": "PROFESSIONAL",
+        "maxVelocity": 100,
+        "weightEfficiency": 20,
+        "weightQuality": 10
+      },
+      {
+        "resourceId": "WORKER",
+        "maxVelocity": 500,
+        "weightEfficiency": 20,
+        "weightQuality": 15
+      }
+    ],
+    "operations": [
+      {
+        "resourceId": "ADVERTISEMENTS",
+        "maxVelocity": 200,
+        "weightEfficiency": 5,
+        "weightQuality": 0
+      },
+      {
+        "resourceId": "COMPUTER_SERVICE",
+        "maxVelocity": 10,
+        "weightEfficiency": 5,
+        "weightQuality": 5
+      },
+      {
+        "resourceId": "LEGAL_SERVICE",
+        "maxVelocity": 5,
+        "weightEfficiency": 5,
+        "weightQuality": 5
+      }
+    ],
+    "products": [
+    ]
+  }
+]

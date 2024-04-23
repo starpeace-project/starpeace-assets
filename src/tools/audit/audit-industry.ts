@@ -9,9 +9,9 @@ import AuditUtils from '../utils/audit-utils.js';
 export default class AuditIndustry {
   static EXPECTED_CITY_ZONE_COUNT = 12;
   static EXPECTED_INDUSTRY_CATEGORY_COUNT = 7;
-  static EXPECTED_INDUSTRY_TYPE_COUNT = 58;
+  static EXPECTED_INDUSTRY_TYPE_COUNT = 61;
   static EXPECTED_LEVEL_COUNT = 6;
-  static EXPECTED_RESOURCE_TYPE_COUNT = 53;
+  static EXPECTED_RESOURCE_TYPE_COUNT = 55;
   static EXPECTED_RESOURCE_UNIT_COUNT = 10;
 
   static audit (rootDir: string): any {

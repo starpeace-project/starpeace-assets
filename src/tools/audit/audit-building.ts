@@ -7,9 +7,9 @@ import AuditUtils from '../utils/audit-utils.js';
 
 
 export default class AuditBuilding {
-  static EXPECTED_DEFINITION_COUNT = 321;
-  static EXPECTED_IMAGE_DEFINITION_COUNT = 412;
-  static EXPECTED_SIMULATION_DEFINITION_COUNT = 321;
+  static EXPECTED_DEFINITION_COUNT = 323;
+  static EXPECTED_IMAGE_DEFINITION_COUNT = 414;
+  static EXPECTED_SIMULATION_DEFINITION_COUNT = 323;
 
   static audit (rootDir: string, auditData: any): any {
     console.log(" [OK] starting building audit...\n");

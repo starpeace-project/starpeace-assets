@@ -18,8 +18,7 @@
     "foundation": true,
     "requiredInventionIds": [
       "Supermarkets"
-    ],
-    "commerce": {}
+    ]
   },
   {
     "id": "magna.supermarket.b",
@@ -40,7 +39,6 @@
     "foundation": true,
     "requiredInventionIds": [
       "Supermarkets"
-    ],
-    "commerce": {}
+    ]
   }
 ]

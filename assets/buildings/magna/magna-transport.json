@@ -1,0 +1,42 @@
+[
+  {
+    "id": "magna.air.terminal.a",
+    "imageId": "magna.air.terminal.a",
+    "constructionImageId": "generic.construction.6",
+    "name": {
+      "DE": "Flugterminal",
+      "EN": "Air Terminal",
+      "ES": "Terminal Aérea",
+      "FR": "Terminal",
+      "IT": "Terminale Aereo",
+      "PT": "Terminal Aéreo"
+    },
+    "sealId": "MAGNA",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "AIR_TRANSPORT",
+    "foundation": true,
+    "requiredInventionIds": [
+    ]
+  },
+  {
+    "id": "magna.train.terminal.a",
+    "imageId": "magna.train.terminal.a",
+    "constructionImageId": "generic.construction.6",
+    "name": {
+      "DE": "Zugterminal",
+      "EN": "Train Terminal",
+      "ES": "Terminal de Trenes",
+      "FR": "Gare Ferroviaire",
+      "IT": "Terminale del Treno",
+      "PT": "Terminal Ferroviário"
+    },
+    "sealId": "MAGNA",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "GROUND_TRANSPORT",
+    "foundation": true,
+    "requiredInventionIds": [
+    ]
+  }
+]

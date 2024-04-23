@@ -75,5 +75,16 @@
       "IT": "Servizio",
       "PT": "Serviço"
     }
+  },
+  {
+    "id": "TRANSPORT",
+    "label": {
+      "DE": "Transport",
+      "EN": "Transportation",
+      "ES": "Transporte",
+      "FR": "Transport",
+      "IT": "Trasporti",
+      "PT": "Transporte"
+    }
   }
 ]
