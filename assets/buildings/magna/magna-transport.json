@@ -20,6 +20,26 @@
     ]
   },
   {
+    "id": "magna.bus.terminal.a",
+    "imageId": "magna.bus.terminal.a",
+    "constructionImageId": "generic.construction.6",
+    "name": {
+      "DE": "Bushaltestelle",
+      "EN": "Bus Terminal",
+      "ES": "Terminal de Autobus",
+      "FR": "Terminal de Bus",
+      "IT": "Capolinea Autobus",
+      "PT": "Terminal de Ônibus"
+    },
+    "sealId": "MAGNA",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "ROAD_TRANSPORT",
+    "foundation": true,
+    "requiredInventionIds": [
+    ]
+  },
+  {
     "id": "magna.train.terminal.a",
     "imageId": "magna.train.terminal.a",
     "constructionImageId": "generic.construction.6",
@@ -34,7 +54,87 @@
     "sealId": "MAGNA",
     "zoneId": "COMMERCIAL",
     "industryCategoryId": "TRANSPORT",
-    "industryTypeId": "GROUND_TRANSPORT",
+    "industryTypeId": "RAIL_TRANSPORT",
+    "foundation": true,
+    "requiredInventionIds": [
+    ]
+  },
+  {
+    "id": "magna.train.station.a",
+    "imageId": "magna.train.station.a",
+    "constructionImageId": "generic.construction.4",
+    "name": {
+      "DE": "Bahnhof",
+      "EN": "Train Station",
+      "ES": "Estación de tren",
+      "FR": "Gare",
+      "IT": "Stazione Ferroviaria",
+      "PT": "Estação de Trem"
+    },
+    "sealId": "MAGNA",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "RAIL_TRANSPORT",
+    "foundation": true,
+    "requiredInventionIds": [
+    ]
+  },
+  {
+    "id": "magna.train.station.b",
+    "imageId": "magna.train.station.b",
+    "constructionImageId": "generic.construction.4",
+    "name": {
+      "DE": "Bahnhof",
+      "EN": "Train Station",
+      "ES": "Estación de tren",
+      "FR": "Gare",
+      "IT": "Stazione Ferroviaria",
+      "PT": "Estação de Trem"
+    },
+    "sealId": "MAGNA",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "RAIL_TRANSPORT",
+    "foundation": true,
+    "requiredInventionIds": [
+    ]
+  },
+  {
+    "id": "magna.truck.terminal.a",
+    "imageId": "magna.truck.terminal.a",
+    "constructionImageId": "generic.construction.5",
+    "name": {
+      "DE": "Lieferverteilungszentrum",
+      "EN": "Delivery Distribution Center",
+      "ES": "Centro de Distribución de Entrega",
+      "FR": "Centre de Distribution de Livraison",
+      "IT": "Centro di Distribuzione delle Consegne",
+      "PT": "Centro de Distribuição de Entrega"
+    },
+    "sealId": "MAGNA",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "ROAD_TRANSPORT",
+    "foundation": true,
+    "requiredInventionIds": [
+    ]
+  },
+  {
+    "id": "magna.truck.station.a",
+    "imageId": "magna.truck.station.a",
+    "constructionImageId": "generic.construction.4",
+    "name": {
+      "DE": "Lieferstation",
+      "EN": "Delivery Station",
+      "ES": "Estación de Entrega",
+      "FR": "Poste de Livraison",
+      "IT": "Stazione di Consegna",
+      "PT": "Estação de Entrega"
+    },
+    "sealId": "MAGNA",
+    "zoneId": "COMMERCIAL",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "ROAD_TRANSPORT",
     "foundation": true,
     "requiredInventionIds": [
     ]

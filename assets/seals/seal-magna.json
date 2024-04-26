@@ -42,7 +42,12 @@
       "magna.tulip",
       "magna.whirlpool",
       "magna.air.terminal.a",
-      "magna.train.terminal.a"
+      "magna.bus.terminal.a",
+      "magna.train.terminal.a",
+      "magna.train.station.a",
+      "magna.train.station.b",
+      "magna.truck.terminal.a",
+      "magna.truck.station.a"
     ]
   }
 ]

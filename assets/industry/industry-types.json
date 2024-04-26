@@ -297,17 +297,6 @@
     }
   },
   {
-    "id": "GROUND_TRANSPORT",
-    "label": {
-      "DE": "Bodentransport",
-      "EN": "Ground Transport",
-      "ES": "Transporte Terrestre",
-      "FR": "Transport Terrestre",
-      "IT": "Trasporto via Terra",
-      "PT": "Transporte Terrestre"
-    }
-  },
-  {
     "id": "HC_RESIDENTIAL",
     "label": {
       "DE": "Hochwertige Immobilien",
@@ -550,6 +539,17 @@
     }
   },
   {
+    "id": "RAIL_TRANSPORT",
+    "label": {
+      "DE": "Schienenverkehr",
+      "EN": "Rail Transport",
+      "ES": "Transporte Ferroviario",
+      "FR": "Transport Ferroviaire",
+      "IT": "Trasporto Ferroviario",
+      "PT": "Transporte Ferroviário"
+    }
+  },
+  {
     "id": "RAW_CHEMICAL",
     "label": {
       "DE": "Rohchemikalien",
@@ -580,6 +580,17 @@
       "FR": "Restaurant",
       "IT": "Ristorante",
       "PT": "Restaurante"
+    }
+  },
+  {
+    "id": "ROAD_TRANSPORT",
+    "label": {
+      "DE": "Straßentransport",
+      "EN": "Road Transport",
+      "ES": "Transporte por Carretera",
+      "FR": "Transport Routier",
+      "IT": "Trasporto Stradale",
+      "PT": "Transporte Rodoviário"
     }
   },
   {

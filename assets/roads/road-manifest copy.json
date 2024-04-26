@@ -1,0 +1,116 @@
+[
+  {
+    "id": "TWO_LANE_ROAD",
+    "type": "ROAD",
+    "tileWidth": 1,
+    "name": {
+      "DE": "Zweispurige Straße",
+      "EN": "Two-lane Road",
+      "ES": "Carretera de dos carriles",
+      "FR": "Route à deux voies",
+      "IT": "Strada a due corsie",
+      "PT": "Estrada de duas pistas"
+    },
+    "bridge": {
+      "ew": "road.bridge.ew.png",
+      "ns": "road.bridge.ns.png",
+      "ramp.e": "road.bridge.ramp.e.png",
+      "ramp.n": "road.bridge.ramp.n.png",
+      "ramp.s": "road.bridge.ramp.s.png",
+      "ramp.w": "road.bridge.ramp.w.png"
+    },
+    "lights": {
+      "ew": "road.city.lights.png"
+    },
+    "urban": {
+      "corner.ne": "road.city.corner.ne.png",
+      "corner.nw": "road.city.corner.nw.png",
+      "corner.se": "road.city.corner.se.png",
+      "corner.sw": "road.city.corner.sw.png",
+      "cross": "road.city.cross.png",
+      "ew": "road.city.ew.png",
+      "deadend.ew.e": "road.city.ew.e.png",
+      "deadend.ew.w": "road.city.ew.w.png",
+      "nesw.nw": "road.city.nesw.nw.png",
+      "nesw.se": "road.city.nesw.se.png",
+      "ns": "road.city.ns.png",
+      "deadend.ns.n": "road.city.ns.n.png",
+      "deadend.ns.s": "road.city.ns.s.png",
+      "nwse.ne": "road.city.nwse.ne.png",
+      "nwse.sw": "road.city.nwse.sw.png",
+      "t.ew.n": "road.city.t.ew.n.png",
+      "t.ew.s": "road.city.t.ew.s.png",
+      "t.ns.e": "road.city.t.ns.e.png",
+      "t.ns.w": "road.city.t.ns.w.png"
+    },
+    "transition": {
+      "urban.n.rural.s": "road.city.n.country.s.png",
+      "urban.s.rural.n": "road.city.s.country.n.png",
+      "urban.e.rural.w": "road.city.e.country.w.png",
+      "urban.w.rural.e": "road.city.w.country.e.png"
+    },
+    "rural": {
+      "corner.ne": "road.country.corner.ne.png",
+      "corner.nw": "road.country.corner.nw.png",
+      "corner.se": "road.country.corner.se.png",
+      "corner.sw": "road.country.corner.sw.png",
+      "cross": "road.country.cross.png",
+      "ew": "road.country.ew.png",
+      "deadend.ew.e": "road.country.ew.e.png",
+      "deadend.ew.w": "road.country.ew.w.png",
+      "nesw.nw": "road.country.nesw.nw.png",
+      "nesw.se": "road.country.nesw.se.png",
+      "ns": "road.country.ns.png",
+      "deadend.ns.n": "road.country.ns.n.png",
+      "deadend.ns.s": "road.country.ns.s.png",
+      "nwse.ne": "road.country.nwse.ne.png",
+      "nwse.sw": "road.country.nwse.sw.png",
+      "t.ew.n": "road.country.t.ew.n.png",
+      "t.ew.s": "road.country.t.ew.s.png",
+      "t.ns.e": "road.country.t.ns.e.png",
+      "t.ns.w": "road.country.t.ns.w.png"
+    }
+  },
+  {
+    "id": "TWO_LANE_TRACK",
+    "type": "TRACK",
+    "tileWidth": 1,
+    "name": {
+      "DE": "Zweispurige Schiene",
+      "EN": "Two-lane Rail",
+      "ES": "Ferrocarril de dos carriles",
+      "FR": "Rail à deux voies",
+      "IT": "Ferrovia a due corsie",
+      "PT": "Trilho de duas pistas"
+    },
+    "bridge": {
+      "ew": "track.bridge.ew.png",
+      "ns": "track.bridge.ns.png",
+      "ramp.e": "track.bridge.ramp.e.png",
+      "ramp.n": "track.bridge.ramp.n.png",
+      "ramp.s": "track.bridge.ramp.s.png",
+      "ramp.w": "track.bridge.ramp.w.png"
+    },
+    "any": {
+      "corner.ne": "track.corner.ne.png",
+      "corner.nw": "track.corner.nw.png",
+      "corner.se": "track.corner.se.png",
+      "corner.sw": "track.corner.sw.png",
+      "cross": "track.cross.png",
+      "ew": "track.ew.png",
+      "deadend.ew.e": "track.ew.e.png",
+      "deadend.ew.w": "track.ew.w.png",
+      "nesw.nw": "track.nesw.nw.png",
+      "nesw.se": "track.nesw.se.png",
+      "ns": "track.ns.png",
+      "deadend.ns.n": "track.ns.n.png",
+      "deadend.ns.s": "track.ns.s.png",
+      "nwse.ne": "track.nwse.ne.png",
+      "nwse.sw": "track.nwse.sw.png",
+      "t.ew.n": "track.t.ew.n.png",
+      "t.ew.s": "track.t.ew.s.png",
+      "t.ns.e": "track.t.ns.e.png",
+      "t.ns.w": "track.t.ns.w.png"
+    }
+  }
+]
