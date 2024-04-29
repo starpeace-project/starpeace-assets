@@ -2,8 +2,6 @@
   {
     "id": "TWO_LANE_ROAD",
     "type": "ROAD",
-    "tileWidth": 1,
-    "tileHeight": 1,
     "name": {
       "DE": "Zweispurige Straße",
       "EN": "Two-lane Road",
@@ -12,6 +10,9 @@
       "IT": "Strada a due corsie",
       "PT": "Estrada de duas pistas"
     },
+    "tileWidth": 1,
+    "tileHeight": 1,
+    "laneCount": 2,
     "imageCatalog": {
       "bridge": {
         "ew": "road.bridge.ew",
@@ -79,6 +80,7 @@
     "type": "TRACK",
     "tileWidth": 1,
     "tileHeight": 1,
+    "laneCount": 2,
     "name": {
       "DE": "Zweispurige Schiene",
       "EN": "Two-lane Rail",
