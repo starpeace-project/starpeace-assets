@@ -2,6 +2,8 @@
   {
     "id": "TWO_LANE_ROAD",
     "type": "ROAD",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "ROAD_TRANSPORT",
     "name": {
       "DE": "Zweispurige Straße",
       "EN": "Two-lane Road",
@@ -78,16 +80,18 @@
   {
     "id": "TWO_LANE_TRACK",
     "type": "TRACK",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "RAIL_TRANSPORT",
     "tileWidth": 1,
     "tileHeight": 1,
     "laneCount": 2,
     "name": {
-      "DE": "Zweispurige Schiene",
-      "EN": "Two-lane Rail",
-      "ES": "Ferrocarril de dos carriles",
-      "FR": "Rail à deux voies",
-      "IT": "Ferrovia a due corsie",
-      "PT": "Trilho de duas pistas"
+      "DE": "Zweispurige Strecke",
+      "EN": "Two-lane Track",
+      "ES": "Pista de dos carriles",
+      "FR": "Piste à deux voies",
+      "IT": "Binario a due corsie",
+      "PT": "Pista de duas pistas"
     },
     "imageCatalog": {
       "bridge": {
