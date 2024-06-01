@@ -12,6 +12,7 @@
       "IT": "Strada a due corsie",
       "PT": "Estrada de duas pistas"
     },
+    "cost": 2000000,
     "tileWidth": 1,
     "tileHeight": 1,
     "laneCount": 2,
@@ -82,6 +83,7 @@
     "type": "TRACK",
     "industryCategoryId": "TRANSPORT",
     "industryTypeId": "RAIL_TRANSPORT",
+    "cost": 1000000,
     "tileWidth": 1,
     "tileHeight": 1,
     "laneCount": 2,
