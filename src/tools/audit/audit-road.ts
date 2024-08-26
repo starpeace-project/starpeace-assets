@@ -1,4 +1,5 @@
 import _ from 'lodash';
+import fs from 'fs';
 import { RoadDefinition, RoadImageDefinition } from '@starpeace/starpeace-assets-types';
 
 import FileUtils from '../utils/file-utils.js';
@@ -7,22 +8,33 @@ import AuditUtils from '../utils/audit-utils.js';
 
 export default class AuditRoad {
   static EXPECTED_DEFINITION_COUNT = 2;
-  static EXPECTED_IMAGE_DEFINITION_COUNT = 74;
+  static EXPECTED_IMAGE_DEFINITION_COUNT = 86;
 
-  static audit (rootDir: string, auditData: any): any {
+  static audit (rootRoadDir: string, rootTrackDir: string, auditData: any): any {
     console.log(" [OK] starting road audit...\n");
 
-    const definitions: RoadDefinition[] = FileUtils.parseFiles(rootDir, ['.json'], ['-image.json'], RoadDefinition.fromJson);
+    const roadDefinitions: RoadDefinition[] = FileUtils.parseFiles(rootRoadDir, ['.json'], ['-image.json'], RoadDefinition.fromJson);
+    const trackDefinitions: RoadDefinition[] = FileUtils.parseFiles(rootTrackDir, ['.json'], ['-image.json'], RoadDefinition.fromJson);
+    const definitions = [...roadDefinitions, ...trackDefinitions];
     const definitionsById: Record<string, RoadDefinition> = _.keyBy(definitions, 'id');
     AuditUtils.auditIsValid('road definition', definitions);
     AuditUtils.auditUniqueCountById('road definition', definitions, definitionsById, AuditRoad.EXPECTED_DEFINITION_COUNT);
 
     process.stdout.write('\n');
 
-    const imageDefinitions = FileUtils.parseFiles(rootDir, ['-image.json'], [], RoadImageDefinition.fromJson);
+    const roadImageDefinitions = FileUtils.parseFiles(rootRoadDir, ['-image.json'], [], RoadImageDefinition.fromJson);
+    const trackImageDefinitions = FileUtils.parseFiles(rootTrackDir, ['-image.json'], [], RoadImageDefinition.fromJson);
+    const imageDefinitions = [...roadImageDefinitions, ...trackImageDefinitions];
     const imageDefinitionsById = _.keyBy(imageDefinitions, 'id');
     AuditUtils.auditIsValid('road image definition', imageDefinitions);
     AuditUtils.auditUniqueCountById('road image definition', imageDefinitions, imageDefinitionsById, AuditRoad.EXPECTED_IMAGE_DEFINITION_COUNT);
+
+    for (const definition of imageDefinitions) {
+      if (!fs.existsSync(definition.imagePath)) {
+        throw `Unable to find road image ${definition.imagePath}`;
+      }
+    }
+
 
     process.stdout.write('\n');
 

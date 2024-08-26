@@ -1,0 +1,63 @@
+[
+  {
+    "id": "ONE_LANE_TRACK",
+    "type": "TRACK",
+    "industryCategoryId": "TRANSPORT",
+    "industryTypeId": "RAIL_TRANSPORT",
+    "cost": 1000000,
+    "tileWidth": 1,
+    "tileHeight": 1,
+    "laneCount": 1,
+    "name": {
+      "DE": "Einspurige Strecke",
+      "EN": "One-lane Track",
+      "ES": "Pista de un carril",
+      "FR": "Piste à une voie",
+      "IT": "Pista a una corsia",
+      "PT": "Pista de pista única"
+    },
+    "imageCatalog": {
+      "bridge": {
+        "ew": "track.bridge.ew",
+        "ns": "track.bridge.ns",
+        "ramp.e": "track.bridge.ramp.e",
+        "ramp.n": "track.bridge.ramp.n",
+        "ramp.s": "track.bridge.ramp.s",
+        "ramp.w": "track.bridge.ramp.w"
+      },
+      "any": {
+        "curve.e.nw": "lane.1.curve.e.nw",
+        "curve.e.sw": "lane.1.curve.e.sw",
+        "curve.n.se": "lane.1.curve.n.se",
+        "curve.n.sw": "lane.1.curve.n.sw",
+        "curve.s.ne": "lane.1.curve.s.ne",
+        "curve.s.nw": "lane.1.curve.s.nw",
+        "curve.w.ne": "lane.1.curve.w.ne",
+        "curve.w.se": "lane.1.curve.w.se",
+        "cross": "lane.1.cross",
+        "ew": "lane.1.straight.ew",
+        "ns": "lane.1.straight.ns",
+        "deadend.ew.e": "lane.1.deadend.ew.e",
+        "deadend.ew.w": "lane.1.deadend.ew.w",
+        "deadend.ns.n": "lane.1.deadend.ns.n",
+        "deadend.ns.s": "lane.1.deadend.ns.s",
+        "h.ew.ne": "lane.1.h.ew.ne",
+        "h.ew.nw": "lane.1.h.ew.nw",
+        "h.ew.se": "lane.1.h.ew.se",
+        "h.ew.sw": "lane.1.h.ew.sw",
+        "h.ns.ne": "lane.1.h.ns.ne",
+        "h.ns.nw": "lane.1.h.ns.nw",
+        "h.ns.se": "lane.1.h.ns.se",
+        "h.ns.sw": "lane.1.h.ns.sw",
+        "y.n.s": "lane.1.y.n.s",
+        "y.s.n": "lane.1.y.s.n",
+        "y.e.w": "lane.1.y.e.w",
+        "y.w.e": "lane.1.y.w.e",
+        "w.n.s": "lane.1.w.n.s",
+        "w.s.n": "lane.1.w.s.n",
+        "w.e.w": "lane.1.w.e.w",
+        "w.w.e": "lane.1.w.w.e"
+      }
+    }
+  }
+]

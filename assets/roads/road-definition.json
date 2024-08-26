@@ -77,54 +77,5 @@
         "t.ns.w": "road.country.t.ns.w"
       }
     }
-  },
-  {
-    "id": "TWO_LANE_TRACK",
-    "type": "TRACK",
-    "industryCategoryId": "TRANSPORT",
-    "industryTypeId": "RAIL_TRANSPORT",
-    "cost": 1000000,
-    "tileWidth": 1,
-    "tileHeight": 1,
-    "laneCount": 2,
-    "name": {
-      "DE": "Zweispurige Strecke",
-      "EN": "Two-lane Track",
-      "ES": "Pista de dos carriles",
-      "FR": "Piste à deux voies",
-      "IT": "Binario a due corsie",
-      "PT": "Pista de duas pistas"
-    },
-    "imageCatalog": {
-      "bridge": {
-        "ew": "track.bridge.ew",
-        "ns": "track.bridge.ns",
-        "ramp.e": "track.bridge.ramp.e",
-        "ramp.n": "track.bridge.ramp.n",
-        "ramp.s": "track.bridge.ramp.s",
-        "ramp.w": "track.bridge.ramp.w"
-      },
-      "any": {
-        "corner.ne": "track.corner.ne",
-        "corner.nw": "track.corner.nw",
-        "corner.se": "track.corner.se",
-        "corner.sw": "track.corner.sw",
-        "cross": "track.cross",
-        "ew": "track.ew",
-        "deadend.ew.e": "track.ew.e",
-        "deadend.ew.w": "track.ew.w",
-        "nesw.nw": "track.nesw.nw",
-        "nesw.se": "track.nesw.se",
-        "ns": "track.ns",
-        "deadend.ns.n": "track.ns.n",
-        "deadend.ns.s": "track.ns.s",
-        "nwse.ne": "track.nwse.ne",
-        "nwse.sw": "track.nwse.sw",
-        "t.ew.n": "track.t.ew.n",
-        "t.ew.s": "track.t.ew.s",
-        "t.ns.e": "track.t.ns.e",
-        "t.ns.w": "track.t.ns.w"
-      }
-    }
   }
 ]

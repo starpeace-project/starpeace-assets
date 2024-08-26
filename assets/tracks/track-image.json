@@ -1,0 +1,150 @@
+[
+  {
+    "id": "track.bridge.ew",
+    "imagePath": "assets/tracks/images/track.bridge.ew.png"
+  },
+  {
+    "id": "track.bridge.ns",
+    "imagePath": "assets/tracks/images/track.bridge.ns.png"
+  },
+  {
+    "id": "track.bridge.ramp.e",
+    "imagePath": "assets/tracks/images/track.bridge.ramp.e.png"
+  },
+  {
+    "id": "track.bridge.ramp.n",
+    "imagePath": "assets/tracks/images/track.bridge.ramp.n.png"
+  },
+  {
+    "id": "track.bridge.ramp.s",
+    "imagePath": "assets/tracks/images/track.bridge.ramp.s.png"
+  },
+  {
+    "id": "track.bridge.ramp.w",
+    "imagePath": "assets/tracks/images/track.bridge.ramp.w.png"
+  },
+  {
+    "id": "lane.1.curve.e.nw",
+    "imagePath": "assets/tracks/images/lane.1.curve.e.nw.png"
+  },
+  {
+    "id": "lane.1.curve.e.sw",
+    "imagePath": "assets/tracks/images/lane.1.curve.e.sw.png"
+  },
+  {
+    "id": "lane.1.curve.n.se",
+    "imagePath": "assets/tracks/images/lane.1.curve.n.se.png"
+  },
+  {
+    "id": "lane.1.curve.n.sw",
+    "imagePath": "assets/tracks/images/lane.1.curve.n.sw.png"
+  },
+  {
+    "id": "lane.1.curve.s.ne",
+    "imagePath": "assets/tracks/images/lane.1.curve.s.ne.png"
+  },
+  {
+    "id": "lane.1.curve.s.nw",
+    "imagePath": "assets/tracks/images/lane.1.curve.s.nw.png"
+  },
+  {
+    "id": "lane.1.curve.w.ne",
+    "imagePath": "assets/tracks/images/lane.1.curve.w.ne.png"
+  },
+  {
+    "id": "lane.1.curve.w.se",
+    "imagePath": "assets/tracks/images/lane.1.curve.w.se.png"
+  },
+  {
+    "id": "lane.1.cross",
+    "imagePath": "assets/tracks/images/lane.1.cross.png"
+  },
+  {
+    "id": "lane.1.straight.ew",
+    "imagePath": "assets/tracks/images/lane.1.straight.ew.png"
+  },
+  {
+    "id": "lane.1.straight.ns",
+    "imagePath": "assets/tracks/images/lane.1.straight.ns.png"
+  },
+  {
+    "id": "lane.1.deadend.ew.e",
+    "imagePath": "assets/tracks/images/lane.1.deadend.ew.e.png"
+  },
+  {
+    "id": "lane.1.deadend.ew.w",
+    "imagePath": "assets/tracks/images/lane.1.deadend.ew.w.png"
+  },
+  {
+    "id": "lane.1.deadend.ns.n",
+    "imagePath": "assets/tracks/images/lane.1.deadend.ns.n.png"
+  },
+  {
+    "id": "lane.1.deadend.ns.s",
+    "imagePath": "assets/tracks/images/lane.1.deadend.ns.s.png"
+  },
+  {
+    "id": "lane.1.h.ew.ne",
+    "imagePath": "assets/tracks/images/lane.1.h.ew.ne.png"
+  },
+  {
+    "id": "lane.1.h.ew.nw",
+    "imagePath": "assets/tracks/images/lane.1.h.ew.nw.png"
+  },
+  {
+    "id": "lane.1.h.ew.se",
+    "imagePath": "assets/tracks/images/lane.1.h.ew.se.png"
+  },
+  {
+    "id": "lane.1.h.ew.sw",
+    "imagePath": "assets/tracks/images/lane.1.h.ew.sw.png"
+  },
+  {
+    "id": "lane.1.h.ns.ne",
+    "imagePath": "assets/tracks/images/lane.1.h.ns.ne.png"
+  },
+  {
+    "id": "lane.1.h.ns.nw",
+    "imagePath": "assets/tracks/images/lane.1.h.ns.nw.png"
+  },
+  {
+    "id": "lane.1.h.ns.se",
+    "imagePath": "assets/tracks/images/lane.1.h.ns.se.png"
+  },
+  {
+    "id": "lane.1.h.ns.sw",
+    "imagePath": "assets/tracks/images/lane.1.h.ns.sw.png"
+  },
+  {
+    "id": "lane.1.y.n.s",
+    "imagePath": "assets/tracks/images/lane.1.y.n.s.png"
+  },
+  {
+    "id": "lane.1.y.s.n",
+    "imagePath": "assets/tracks/images/lane.1.y.s.n.png"
+  },
+  {
+    "id": "lane.1.y.e.w",
+    "imagePath": "assets/tracks/images/lane.1.y.e.w.png"
+  },
+  {
+    "id": "lane.1.y.w.e",
+    "imagePath": "assets/tracks/images/lane.1.y.w.e.png"
+  },
+  {
+    "id": "lane.1.w.n.s",
+    "imagePath": "assets/tracks/images/lane.1.w.n.s.png"
+  },
+  {
+    "id": "lane.1.w.s.n",
+    "imagePath": "assets/tracks/images/lane.1.w.s.n.png"
+  },
+  {
+    "id": "lane.1.w.e.w",
+    "imagePath": "assets/tracks/images/lane.1.w.e.w.png"
+  },
+  {
+    "id": "lane.1.w.w.e",
+    "imagePath": "assets/tracks/images/lane.1.w.w.e.png"
+  }
+]

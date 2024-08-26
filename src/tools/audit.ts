@@ -28,7 +28,7 @@ class Audit {
       auditData = AuditInvention.audit(path.join(this.source_dir, 'inventions'), auditData);
       auditData = AuditSeal.audit(path.join(this.source_dir, 'seals'), auditData);
       auditData = AuditBuilding.audit(path.join(this.source_dir, 'buildings'), auditData);
-      auditData = AuditRoad.audit(path.join(this.source_dir, 'roads'), auditData);
+      auditData = AuditRoad.audit(path.join(this.source_dir, 'roads'), path.join(this.source_dir, 'tracks'), auditData);
 
       console.log(" [DONE] finished STARPEACE audit successfully!");
     }
