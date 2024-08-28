@@ -8,7 +8,7 @@ import AuditUtils from '../utils/audit-utils.js';
 
 export default class AuditRoad {
   static EXPECTED_DEFINITION_COUNT = 2;
-  static EXPECTED_IMAGE_DEFINITION_COUNT = 86;
+  static EXPECTED_IMAGE_DEFINITION_COUNT = 73;
 
   static audit (rootRoadDir: string, rootTrackDir: string, auditData: any): any {
     console.log(" [OK] starting road audit...\n");
