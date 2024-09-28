@@ -2,9 +2,18 @@ import _ from 'lodash';
 
 export default class AuditUtils {
 
-  static auditUniqueCountById (typeName: string, items: Array<any>, itemsById: Record<string, any>, expectedCount: number): void {
-    if (items.length !== _.size(itemsById)) {
-      for (const [id, duplicateItems] of Object.entries(_.groupBy(items, 'id') as Record<string, Array<any>>)) {
+  static auditUniqueCountById (typeName: string, items: Array<any>, itemsById: Record<string, any> | Map<string, any>, expectedCount: number): void {
+    let uniqueSize = 0;
+    if (itemsById instanceof Map) {
+      uniqueSize = itemsById.size;
+    }
+    else {
+      uniqueSize = _.size(itemsById);
+    }
+
+    if (items.length !== uniqueSize) {
+      const groupedItems = _.groupBy(items, 'id');
+      for (const [id, duplicateItems] of Object.entries(groupedItems)) {
         if (duplicateItems.length > 1) {
           console.log(` [ERROR] non-unique ${typeName} id: ${id}`);
         }

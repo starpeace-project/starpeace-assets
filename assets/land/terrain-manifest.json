@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "map_color": 8290882,
+    "color": 8290882,
     "zone": "grass",
     "textures": {
       "0deg": {
@@ -24,7 +24,7 @@
   },
   {
     "id": 1,
-    "map_color": 4293245,
+    "color": 4293245,
     "zone": "grass",
     "textures": {
       "0deg": {
@@ -47,7 +47,7 @@
   },
   {
     "id": 2,
-    "map_color": 4490882,
+    "color": 4490882,
     "zone": "grass",
     "textures": {
       "0deg": {
@@ -70,7 +70,7 @@
   },
   {
     "id": 3,
-    "map_color": 4293246,
+    "color": 4293246,
     "zone": "grass",
     "textures": {
       "0deg": {
@@ -93,7 +93,7 @@
   },
   {
     "id": 64,
-    "map_color": 5147281,
+    "color": 5147281,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -116,7 +116,7 @@
   },
   {
     "id": 65,
-    "map_color": 5213073,
+    "color": 5213073,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -139,7 +139,7 @@
   },
   {
     "id": 66,
-    "map_color": 5081488,
+    "color": 5081488,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -162,7 +162,7 @@
   },
   {
     "id": 67,
-    "map_color": 5081230,
+    "color": 5081230,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -185,7 +185,7 @@
   },
   {
     "id": 68,
-    "map_color": 4884618,
+    "color": 4884618,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -208,7 +208,7 @@
   },
   {
     "id": 69,
-    "map_color": 4753288,
+    "color": 4753288,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -231,7 +231,7 @@
   },
   {
     "id": 70,
-    "map_color": 4818567,
+    "color": 4818567,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -254,7 +254,7 @@
   },
   {
     "id": 71,
-    "map_color": 4621444,
+    "color": 4621444,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -277,7 +277,7 @@
   },
   {
     "id": 72,
-    "map_color": 4753288,
+    "color": 4753288,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -300,7 +300,7 @@
   },
   {
     "id": 73,
-    "map_color": 4687238,
+    "color": 4687238,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -323,7 +323,7 @@
   },
   {
     "id": 74,
-    "map_color": 4818824,
+    "color": 4818824,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -346,7 +346,7 @@
   },
   {
     "id": 75,
-    "map_color": 4753031,
+    "color": 4753031,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -369,7 +369,7 @@
   },
   {
     "id": 76,
-    "map_color": 4818824,
+    "color": 4818824,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -392,7 +392,7 @@
   },
   {
     "id": 77,
-    "map_color": 4555652,
+    "color": 4555652,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -415,7 +415,7 @@
   },
   {
     "id": 78,
-    "map_color": 4818825,
+    "color": 4818825,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -438,7 +438,7 @@
   },
   {
     "id": 79,
-    "map_color": 4819080,
+    "color": 4819080,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -461,7 +461,7 @@
   },
   {
     "id": 80,
-    "map_color": 4687237,
+    "color": 4687237,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -484,7 +484,7 @@
   },
   {
     "id": 81,
-    "map_color": 4687238,
+    "color": 4687238,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -507,7 +507,7 @@
   },
   {
     "id": 82,
-    "map_color": 4819080,
+    "color": 4819080,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -530,7 +530,7 @@
   },
   {
     "id": 83,
-    "map_color": 4753287,
+    "color": 4753287,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -553,7 +553,7 @@
   },
   {
     "id": 84,
-    "map_color": 4424833,
+    "color": 4424833,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -576,7 +576,7 @@
   },
   {
     "id": 85,
-    "map_color": 4490113,
+    "color": 4490113,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -599,7 +599,7 @@
   },
   {
     "id": 86,
-    "map_color": 4359039,
+    "color": 4359039,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -622,7 +622,7 @@
   },
   {
     "id": 87,
-    "map_color": 4490625,
+    "color": 4490625,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -645,7 +645,7 @@
   },
   {
     "id": 88,
-    "map_color": 4621956,
+    "color": 4621956,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -668,7 +668,7 @@
   },
   {
     "id": 89,
-    "map_color": 4358526,
+    "color": 4358526,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -691,7 +691,7 @@
   },
   {
     "id": 90,
-    "map_color": 4424575,
+    "color": 4424575,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -714,7 +714,7 @@
   },
   {
     "id": 91,
-    "map_color": 4490113,
+    "color": 4490113,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -737,7 +737,7 @@
   },
   {
     "id": 92,
-    "map_color": 4424320,
+    "color": 4424320,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -760,7 +760,7 @@
   },
   {
     "id": 93,
-    "map_color": 4424576,
+    "color": 4424576,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -783,7 +783,7 @@
   },
   {
     "id": 94,
-    "map_color": 4424576,
+    "color": 4424576,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -806,7 +806,7 @@
   },
   {
     "id": 95,
-    "map_color": 4424575,
+    "color": 4424575,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -829,7 +829,7 @@
   },
   {
     "id": 96,
-    "map_color": 4424576,
+    "color": 4424576,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -852,7 +852,7 @@
   },
   {
     "id": 97,
-    "map_color": 4490369,
+    "color": 4490369,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -875,7 +875,7 @@
   },
   {
     "id": 98,
-    "map_color": 4424577,
+    "color": 4424577,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -898,7 +898,7 @@
   },
   {
     "id": 99,
-    "map_color": 4359040,
+    "color": 4359040,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -921,7 +921,7 @@
   },
   {
     "id": 100,
-    "map_color": 5147537,
+    "color": 5147537,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -944,7 +944,7 @@
   },
   {
     "id": 101,
-    "map_color": 5015437,
+    "color": 5015437,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -967,7 +967,7 @@
   },
   {
     "id": 102,
-    "map_color": 5015436,
+    "color": 5015436,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -990,7 +990,7 @@
   },
   {
     "id": 103,
-    "map_color": 5279122,
+    "color": 5279122,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1013,7 +1013,7 @@
   },
   {
     "id": 104,
-    "map_color": 5147280,
+    "color": 5147280,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1036,7 +1036,7 @@
   },
   {
     "id": 105,
-    "map_color": 4884106,
+    "color": 4884106,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1059,7 +1059,7 @@
   },
   {
     "id": 106,
-    "map_color": 4949899,
+    "color": 4949899,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1082,7 +1082,7 @@
   },
   {
     "id": 107,
-    "map_color": 5147279,
+    "color": 5147279,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1105,7 +1105,7 @@
   },
   {
     "id": 108,
-    "map_color": 5015436,
+    "color": 5015436,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1128,7 +1128,7 @@
   },
   {
     "id": 109,
-    "map_color": 5081743,
+    "color": 5081743,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1151,7 +1151,7 @@
   },
   {
     "id": 110,
-    "map_color": 4949899,
+    "color": 4949899,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1174,7 +1174,7 @@
   },
   {
     "id": 111,
-    "map_color": 5279122,
+    "color": 5279122,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1197,7 +1197,7 @@
   },
   {
     "id": 112,
-    "map_color": 5015950,
+    "color": 5015950,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1220,7 +1220,7 @@
   },
   {
     "id": 113,
-    "map_color": 5081487,
+    "color": 5081487,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1243,7 +1243,7 @@
   },
   {
     "id": 114,
-    "map_color": 4949643,
+    "color": 4949643,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1266,7 +1266,7 @@
   },
   {
     "id": 115,
-    "map_color": 5213329,
+    "color": 5213329,
     "zone": "midgrass",
     "textures": {
       "0deg": {
@@ -1289,7 +1289,7 @@
   },
   {
     "id": 128,
-    "map_color": 6066852,
+    "color": 6066852,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1312,7 +1312,7 @@
   },
   {
     "id": 129,
-    "map_color": 5869472,
+    "color": 5869472,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1335,7 +1335,7 @@
   },
   {
     "id": 130,
-    "map_color": 6001058,
+    "color": 6001058,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1358,7 +1358,7 @@
   },
   {
     "id": 131,
-    "map_color": 5869729,
+    "color": 5869729,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1381,7 +1381,7 @@
   },
   {
     "id": 132,
-    "map_color": 5607066,
+    "color": 5607066,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1404,7 +1404,7 @@
   },
   {
     "id": 133,
-    "map_color": 5673115,
+    "color": 5673115,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1427,7 +1427,7 @@
   },
   {
     "id": 134,
-    "map_color": 5607066,
+    "color": 5607066,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1450,7 +1450,7 @@
   },
   {
     "id": 135,
-    "map_color": 5541273,
+    "color": 5541273,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1473,7 +1473,7 @@
   },
   {
     "id": 136,
-    "map_color": 5475480,
+    "color": 5475480,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1496,7 +1496,7 @@
   },
   {
     "id": 137,
-    "map_color": 5475479,
+    "color": 5475479,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1519,7 +1519,7 @@
   },
   {
     "id": 138,
-    "map_color": 5672859,
+    "color": 5672859,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1542,7 +1542,7 @@
   },
   {
     "id": 139,
-    "map_color": 5409943,
+    "color": 5409943,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1565,7 +1565,7 @@
   },
   {
     "id": 140,
-    "map_color": 5475736,
+    "color": 5475736,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1588,7 +1588,7 @@
   },
   {
     "id": 141,
-    "map_color": 5409686,
+    "color": 5409686,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1611,7 +1611,7 @@
   },
   {
     "id": 142,
-    "map_color": 5541017,
+    "color": 5541017,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1634,7 +1634,7 @@
   },
   {
     "id": 143,
-    "map_color": 5673115,
+    "color": 5673115,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1657,7 +1657,7 @@
   },
   {
     "id": 144,
-    "map_color": 5607066,
+    "color": 5607066,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1680,7 +1680,7 @@
   },
   {
     "id": 145,
-    "map_color": 5409686,
+    "color": 5409686,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1703,7 +1703,7 @@
   },
   {
     "id": 146,
-    "map_color": 5673116,
+    "color": 5673116,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1726,7 +1726,7 @@
   },
   {
     "id": 147,
-    "map_color": 5672860,
+    "color": 5672860,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1749,7 +1749,7 @@
   },
   {
     "id": 148,
-    "map_color": 5278098,
+    "color": 5278098,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1772,7 +1772,7 @@
   },
   {
     "id": 149,
-    "map_color": 5475990,
+    "color": 5475990,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1795,7 +1795,7 @@
   },
   {
     "id": 150,
-    "map_color": 5344148,
+    "color": 5344148,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1818,7 +1818,7 @@
   },
   {
     "id": 151,
-    "map_color": 5344403,
+    "color": 5344403,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1841,7 +1841,7 @@
   },
   {
     "id": 152,
-    "map_color": 5344403,
+    "color": 5344403,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1864,7 +1864,7 @@
   },
   {
     "id": 153,
-    "map_color": 5344148,
+    "color": 5344148,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1887,7 +1887,7 @@
   },
   {
     "id": 154,
-    "map_color": 5278355,
+    "color": 5278355,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1910,7 +1910,7 @@
   },
   {
     "id": 155,
-    "map_color": 5278611,
+    "color": 5278611,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1933,7 +1933,7 @@
   },
   {
     "id": 156,
-    "map_color": 5147024,
+    "color": 5147024,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1956,7 +1956,7 @@
   },
   {
     "id": 157,
-    "map_color": 5278611,
+    "color": 5278611,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -1979,7 +1979,7 @@
   },
   {
     "id": 158,
-    "map_color": 5344660,
+    "color": 5344660,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2002,7 +2002,7 @@
   },
   {
     "id": 159,
-    "map_color": 5212305,
+    "color": 5212305,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2025,7 +2025,7 @@
   },
   {
     "id": 160,
-    "map_color": 5081231,
+    "color": 5081231,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2048,7 +2048,7 @@
   },
   {
     "id": 161,
-    "map_color": 5212818,
+    "color": 5212818,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2071,7 +2071,7 @@
   },
   {
     "id": 162,
-    "map_color": 5212818,
+    "color": 5212818,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2094,7 +2094,7 @@
   },
   {
     "id": 163,
-    "map_color": 5212561,
+    "color": 5212561,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2117,7 +2117,7 @@
   },
   {
     "id": 164,
-    "map_color": 5869985,
+    "color": 5869985,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2140,7 +2140,7 @@
   },
   {
     "id": 165,
-    "map_color": 6067108,
+    "color": 6067108,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2163,7 +2163,7 @@
   },
   {
     "id": 166,
-    "map_color": 6001315,
+    "color": 6001315,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2186,7 +2186,7 @@
   },
   {
     "id": 167,
-    "map_color": 5803935,
+    "color": 5803935,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2209,7 +2209,7 @@
   },
   {
     "id": 168,
-    "map_color": 5737885,
+    "color": 5737885,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2232,7 +2232,7 @@
   },
   {
     "id": 169,
-    "map_color": 5804191,
+    "color": 5804191,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2255,7 +2255,7 @@
   },
   {
     "id": 170,
-    "map_color": 5935522,
+    "color": 5935522,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2278,7 +2278,7 @@
   },
   {
     "id": 171,
-    "map_color": 5803678,
+    "color": 5803678,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2301,7 +2301,7 @@
   },
   {
     "id": 172,
-    "map_color": 6067107,
+    "color": 6067107,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2324,7 +2324,7 @@
   },
   {
     "id": 173,
-    "map_color": 5869728,
+    "color": 5869728,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2347,7 +2347,7 @@
   },
   {
     "id": 174,
-    "map_color": 6265257,
+    "color": 6265257,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2370,7 +2370,7 @@
   },
   {
     "id": 175,
-    "map_color": 5935777,
+    "color": 5935777,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2393,7 +2393,7 @@
   },
   {
     "id": 176,
-    "map_color": 5869728,
+    "color": 5869728,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2416,7 +2416,7 @@
   },
   {
     "id": 177,
-    "map_color": 6067365,
+    "color": 6067365,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2439,7 +2439,7 @@
   },
   {
     "id": 178,
-    "map_color": 5803421,
+    "color": 5803421,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2462,7 +2462,7 @@
   },
   {
     "id": 179,
-    "map_color": 5935521,
+    "color": 5935521,
     "zone": "dryground",
     "textures": {
       "0deg": {
@@ -2485,7 +2485,7 @@
   },
   {
     "id": 192,
-    "map_color": 6575407,
+    "color": 6575407,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2508,7 +2508,7 @@
   },
   {
     "id": 193,
-    "map_color": 6575148,
+    "color": 6575148,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2531,7 +2531,7 @@
   },
   {
     "id": 194,
-    "map_color": 6509611,
+    "color": 6509611,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2554,7 +2554,7 @@
   },
   {
     "id": 195,
-    "map_color": 6640940,
+    "color": 6640940,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2577,7 +2577,7 @@
   },
   {
     "id": 196,
-    "map_color": 6451554,
+    "color": 6451554,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2600,7 +2600,7 @@
   },
   {
     "id": 197,
-    "map_color": 6254174,
+    "color": 6254174,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2623,7 +2623,7 @@
   },
   {
     "id": 198,
-    "map_color": 6191220,
+    "color": 6191220,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2646,7 +2646,7 @@
   },
   {
     "id": 199,
-    "map_color": 6385761,
+    "color": 6385761,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2669,7 +2669,7 @@
   },
   {
     "id": 200,
-    "map_color": 6257268,
+    "color": 6257268,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2692,7 +2692,7 @@
   },
   {
     "id": 201,
-    "map_color": 6125683,
+    "color": 6125683,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2715,7 +2715,7 @@
   },
   {
     "id": 202,
-    "map_color": 6255980,
+    "color": 6255980,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2738,7 +2738,7 @@
   },
   {
     "id": 203,
-    "map_color": 6319969,
+    "color": 6319969,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2761,7 +2761,7 @@
   },
   {
     "id": 204,
-    "map_color": 6322031,
+    "color": 6322031,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2784,7 +2784,7 @@
   },
   {
     "id": 205,
-    "map_color": 6256495,
+    "color": 6256495,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2807,7 +2807,7 @@
   },
   {
     "id": 206,
-    "map_color": 6256238,
+    "color": 6256238,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2830,7 +2830,7 @@
   },
   {
     "id": 207,
-    "map_color": 6256238,
+    "color": 6256238,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2853,7 +2853,7 @@
   },
   {
     "id": 208,
-    "map_color": 6322288,
+    "color": 6322288,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2876,7 +2876,7 @@
   },
   {
     "id": 209,
-    "map_color": 6320226,
+    "color": 6320226,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2899,7 +2899,7 @@
   },
   {
     "id": 210,
-    "map_color": 6191734,
+    "color": 6191734,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2922,7 +2922,7 @@
   },
   {
     "id": 211,
-    "map_color": 6257527,
+    "color": 6257527,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2945,7 +2945,7 @@
   },
   {
     "id": 212,
-    "map_color": 5998737,
+    "color": 5998737,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2968,7 +2968,7 @@
   },
   {
     "id": 213,
-    "map_color": 5932946,
+    "color": 5932946,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -2991,7 +2991,7 @@
   },
   {
     "id": 214,
-    "map_color": 5998738,
+    "color": 5998738,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3014,7 +3014,7 @@
   },
   {
     "id": 215,
-    "map_color": 6260622,
+    "color": 6260622,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3037,7 +3037,7 @@
   },
   {
     "id": 216,
-    "map_color": 6065047,
+    "color": 6065047,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3060,7 +3060,7 @@
   },
   {
     "id": 217,
-    "map_color": 5933202,
+    "color": 5933202,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3083,7 +3083,7 @@
   },
   {
     "id": 218,
-    "map_color": 6194828,
+    "color": 6194828,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3106,7 +3106,7 @@
   },
   {
     "id": 219,
-    "map_color": 5997449,
+    "color": 5997449,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3129,7 +3129,7 @@
   },
   {
     "id": 220,
-    "map_color": 5867924,
+    "color": 5867924,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3152,7 +3152,7 @@
   },
   {
     "id": 221,
-    "map_color": 5999253,
+    "color": 5999253,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3175,7 +3175,7 @@
   },
   {
     "id": 222,
-    "map_color": 5933203,
+    "color": 5933203,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3198,7 +3198,7 @@
   },
   {
     "id": 223,
-    "map_color": 5998738,
+    "color": 5998738,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3221,7 +3221,7 @@
   },
   {
     "id": 224,
-    "map_color": 6195342,
+    "color": 6195342,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3244,7 +3244,7 @@
   },
   {
     "id": 225,
-    "map_color": 6063500,
+    "color": 6063500,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3267,7 +3267,7 @@
   },
   {
     "id": 226,
-    "map_color": 6065304,
+    "color": 6065304,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3290,7 +3290,7 @@
   },
   {
     "id": 227,
-    "map_color": 6063242,
+    "color": 6063242,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3313,7 +3313,7 @@
   },
   {
     "id": 228,
-    "map_color": 6447170,
+    "color": 6447170,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3336,7 +3336,7 @@
   },
   {
     "id": 229,
-    "map_color": 6445624,
+    "color": 6445624,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3359,7 +3359,7 @@
   },
   {
     "id": 230,
-    "map_color": 6577210,
+    "color": 6577210,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3382,7 +3382,7 @@
   },
   {
     "id": 231,
-    "map_color": 6511159,
+    "color": 6511159,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3405,7 +3405,7 @@
   },
   {
     "id": 232,
-    "map_color": 6644551,
+    "color": 6644551,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3428,7 +3428,7 @@
   },
   {
     "id": 233,
-    "map_color": 6446914,
+    "color": 6446914,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3451,7 +3451,7 @@
   },
   {
     "id": 234,
-    "map_color": 6511416,
+    "color": 6511416,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3474,7 +3474,7 @@
   },
   {
     "id": 235,
-    "map_color": 6511417,
+    "color": 6511417,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3497,7 +3497,7 @@
   },
   {
     "id": 236,
-    "map_color": 6447429,
+    "color": 6447429,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3520,7 +3520,7 @@
   },
   {
     "id": 237,
-    "map_color": 6447428,
+    "color": 6447428,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3543,7 +3543,7 @@
   },
   {
     "id": 238,
-    "map_color": 6643519,
+    "color": 6643519,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3566,7 +3566,7 @@
   },
   {
     "id": 239,
-    "map_color": 6447428,
+    "color": 6447428,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3589,7 +3589,7 @@
   },
   {
     "id": 240,
-    "map_color": 6447171,
+    "color": 6447171,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3612,7 +3612,7 @@
   },
   {
     "id": 241,
-    "map_color": 6445623,
+    "color": 6445623,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3635,7 +3635,7 @@
   },
   {
     "id": 242,
-    "map_color": 6511415,
+    "color": 6511415,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3658,7 +3658,7 @@
   },
   {
     "id": 243,
-    "map_color": 6577210,
+    "color": 6577210,
     "zone": "water",
     "textures": {
       "0deg": {
@@ -3681,7 +3681,7 @@
   },
   {
     "id": 255,
-    "map_color": 0,
+    "color": 0,
     "zone": "border",
     "textures": {
       "0deg": {

@@ -5,6 +5,7 @@ import AuditIndustry from './audit/audit-industry.js';
 import AuditInvention from './audit/audit-invention.js';
 import AuditRoad from './audit/audit-road.js';
 import AuditSeal from './audit/audit-seal.js';
+import AuditTerrain from './audit/audit-terrain.js';
 
 class Audit {
   root: string;
@@ -29,6 +30,7 @@ class Audit {
       auditData = AuditSeal.audit(path.join(this.source_dir, 'seals'), auditData);
       auditData = AuditBuilding.audit(path.join(this.source_dir, 'buildings'), auditData);
       auditData = AuditRoad.audit(path.join(this.source_dir, 'roads'), path.join(this.source_dir, 'tracks'), auditData);
+      auditData = AuditTerrain.audit(path.join(this.source_dir, 'land'), auditData);
 
       console.log(" [DONE] finished STARPEACE audit successfully!");
     }
